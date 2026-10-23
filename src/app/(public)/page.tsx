@@ -1,14 +1,9 @@
 import {
   ArrowRight,
   BadgeCheck,
-  BadgePercent,
   Car,
-  ChevronDown,
-  CircleCheck,
   FileSearch,
   Handshake,
-  ListChecks,
-  Scale,
   ShieldCheck,
   Users,
 } from "lucide-react";
@@ -20,8 +15,8 @@ import { BrandShowcase } from "@/components/home/brand-showcase";
 import { CarCard } from "@/components/cars/car-card";
 import { FaqList } from "@/components/faq/faq-list";
 import { JsonLd } from "@/components/faq/json-ld";
-import { HeroTabs } from "@/components/home/hero-tabs";
-import { CarArt } from "@/components/shared/car-art";
+import { GroupVsSolo } from "@/components/home/group-vs-solo";
+import { HeroCarousel, type HeroSlide } from "@/components/home/hero-carousel";
 import { SetupNotice } from "@/components/shared/setup-notice";
 import { Button } from "@/components/ui/button";
 import { siteConfig } from "@/config/site";
@@ -29,13 +24,15 @@ import { getFaqs, getPlatformStats, getPublicSetting, listPublicBatches } from "
 import { getCars, getSavedVehicleIds } from "@/lib/data/cars";
 import { getViewer } from "@/lib/auth/session";
 import { isSupabaseConfigured } from "@/lib/env";
+import { formatNumber } from "@/lib/format";
 import { faqJsonLd, toFaqItems } from "@/lib/faq";
 
-const HERO_DEFAULT = {
-  eyebrow: `Group buying for new cars in ${siteConfig.launchCity.name}`,
-  headline: "Buy Your New Car as a Group",
+const HERO_DEFAULT: { eyebrow: string; headline: string; highlight?: string; subheadline: string } = {
+  eyebrow: `Now live in ${siteConfig.launchCity.name}`,
+  headline: "Better car deals happen in numbers",
+  highlight: "in numbers",
   subheadline:
-    "Join other buyers who want the same car in your city. We take the group to authorised dealers and bring back their best offer.",
+    "Team up with buyers who want the same model. Dealers compete for the whole group, and you decide whether to buy — free, no strings attached.",
 };
 
 const STEPS = [
@@ -53,24 +50,6 @@ const STEPS = [
     icon: FileSearch,
     title: "Review dealer quotations",
     body: "When the group reaches 20 verified buyers or its deadline, we request itemised quotations from authorised dealers and review them before publishing.",
-  },
-];
-
-const BENEFITS = [
-  {
-    icon: Users,
-    title: "Collective buyer interest",
-    body: "Dealers see a group of verified, local buyers interested in the same variant — a clearer signal than one-off enquiries.",
-  },
-  {
-    icon: ListChecks,
-    title: "Transparent, itemised quotations",
-    body: "Ex-showroom, registration, insurance, accessories and other charges are listed separately, with what is included and excluded.",
-  },
-  {
-    icon: Scale,
-    title: "Informed, unhurried decisions",
-    body: "Compare reviewed quotations side by side, then talk to the dealership directly. You are never obliged to buy.",
   },
 ];
 
@@ -96,82 +75,85 @@ export default async function HomePage() {
       ])
     : [HERO_DEFAULT, null, [], null, [], []];
 
-  const carBrands = [...new Map(cars.map((c) => [c.manufacturer.slug, c.manufacturer.name])).entries()]
-    .sort((a, b) => a[1].localeCompare(b[1]))
-    .map(([value, label]) => ({ value, label }));
   const viewer = configured ? await getViewer() : null;
   const saved = await (configured ? getSavedVehicleIds(viewer?.id) : Promise.resolve(new Set<string>()));
   const featuredFaqs = faqs.filter((f) => f.featured);
   const faqItems = toFaqItems((featuredFaqs.length ? featuredFaqs : faqs).slice(0, 8));
   const popularCars = [...cars].sort((a, b) => b.popularity - a.popularity).slice(0, 6);
-  const carOptions = [...cars]
-    .sort((a, b) => `${a.manufacturer.name} ${a.model_name}`.localeCompare(`${b.manufacturer.name} ${b.model_name}`))
-    .map((c) => ({ value: c.slug, label: `${c.manufacturer.name} ${c.model_name}` }));
 
   const sortedFeatured = [...featured].sort(
     (a, b) => b.verified_participant_count / b.target_participants - a.verified_participant_count / a.target_participants,
   );
 
+  const photo = heroImage?.url ? { url: heroImage.url, alt: heroImage.alt ?? "" } : null;
+  const slides: HeroSlide[] = [
+    {
+      eyebrow: hero.eyebrow,
+      title: hero.headline,
+      highlight: hero.highlight,
+      text: hero.subheadline,
+      cta: { label: "Explore group deals", href: "/groups" },
+      secondary: { label: "How it works", href: "/how-it-works" },
+      image: photo,
+      car: { body: "suv", colour: "#b3121b" },
+      glow: "#4a0f17",
+      chip: stats?.openGroups ? `● ${formatNumber(stats.openGroups)} groups open now · ${formatNumber(stats.verifiedParticipants)} buyers already in` : undefined,
+    },
+    {
+      eyebrow: "Group power",
+      title: "20 buyers. One car. Sharper quotes.",
+      highlight: "Sharper quotes.",
+      text: "When a group fills up, authorised dealers send itemised quotations — checked by our team before they reach you.",
+      cta: { label: "See open groups", href: "/groups" },
+      secondary: { label: "Read the FAQ", href: "/faq" },
+      car: { body: "sedan", colour: "#1f4fa3" },
+      glow: "#0f2547",
+    },
+    {
+      eyebrow: "New cars",
+      title: "Know the real price before the showroom",
+      highlight: "real price",
+      text: `${cars.length || "30"}+ popular cars with variant-wise prices, specs, mileage and on-road estimates for ${siteConfig.launchCity.name}.`,
+      cta: { label: "Browse new cars", href: "/cars" },
+      secondary: { label: "Compare cars", href: "/compare" },
+      car: { body: "hatchback", colour: "#e0661f" },
+      glow: "#4a2410",
+    },
+    {
+      eyebrow: "Plan smart",
+      title: "Find an EMI that fits your month",
+      highlight: "fits your month",
+      text: "Slide the down payment, interest rate and tenure — see your monthly EMI and total cost instantly.",
+      cta: { label: "Open EMI calculator", href: "/emi-calculator" },
+      car: { body: "muv", colour: "#1f6b7a" },
+      glow: "#0d3438",
+    },
+  ];
+
   return (
     <>
-      {/* Hero */}
-      <section className="relative isolate flex min-h-[calc(100svh-4rem)] items-center overflow-hidden bg-[#0b0d10] text-white">
-        {heroImage?.url ? (
-          <Image src={heroImage.url} alt={heroImage.alt ?? ""} fill priority sizes="100vw" className="-z-20 object-cover" unoptimized />
-        ) : (
-          <div className="absolute inset-0 -z-20" aria-hidden="true">
-            <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_70%_40%,#3a1016_0%,#0b0d10_60%)]" />
-            <div className="absolute inset-x-0 bottom-0 h-1/3 bg-gradient-to-t from-black/80 to-transparent" />
-            <div className="absolute right-[-12%] bottom-[6%] w-[95%] max-w-[1100px] opacity-40 blur-[1px] sm:right-[-6%] lg:w-[70%]">
-              <CarArt body="sedan" color="#2a2f38" />
-            </div>
-            <div className="absolute bottom-[10%] left-0 h-px w-full bg-gradient-to-r from-transparent via-white/25 to-transparent" />
-          </div>
-        )}
-        <div className="absolute inset-0 -z-10 bg-black/55" aria-hidden="true" />
+      <HeroCarousel slides={slides} />
 
-        <div className="container-page flex flex-col items-center py-16 text-center sm:py-20">
-          <span className="inline-flex items-center gap-2 rounded-full border border-white/20 bg-white/10 px-4 py-1.5 text-sm font-semibold backdrop-blur">
-            <span className="relative flex size-2">
-              <span className="absolute inline-flex size-full animate-ping rounded-full bg-emerald-400 opacity-75" />
-              <span className="relative inline-flex size-2 rounded-full bg-emerald-400" />
-            </span>
-            {hero.eyebrow}
-          </span>
-          <h1 className="mt-6 max-w-5xl text-balance text-4xl leading-[1.05] font-extrabold text-white drop-shadow-lg sm:text-6xl lg:text-7xl">
-            {hero.headline}
-          </h1>
-          {siteConfig.savings.badge ? (
-            <p className="mt-7 inline-flex items-center gap-2.5 rounded-full border border-emerald-400/40 bg-emerald-500/15 px-5 py-2.5 text-lg font-extrabold text-white shadow-[0_0_40px_-8px] shadow-emerald-400/60 sm:text-2xl">
-              <BadgePercent className="size-6 text-emerald-300" aria-hidden="true" />
-              {siteConfig.savings.badge}
-            </p>
-          ) : null}
-          <span className="mt-7 h-1 w-24 rounded-full bg-primary" aria-hidden="true" />
-          <p className="mt-6 max-w-2xl text-lg leading-8 text-white/85 sm:text-xl">{hero.subheadline}</p>
-
-          <div className="mt-9 w-full">
-            <HeroTabs
-              brands={carBrands}
-              cars={carOptions}
-              openGroups={stats?.openGroups ?? 0}
-            />
-          </div>
-
-          <ul className="mt-7 flex flex-wrap justify-center gap-x-6 gap-y-2 text-[15px] font-medium text-white/90">
-            {["Free to join", "You decide whether to buy", "Buy direct from the dealer"].map((t) => (
-              <li key={t} className="flex items-center gap-2">
-                <CircleCheck className="size-5 text-emerald-400" aria-hidden="true" /> {t}
-              </li>
-            ))}
-          </ul>
-          {siteConfig.savings.badge ? (
-            <p className="mt-4 max-w-2xl text-xs leading-5 text-white/60">{siteConfig.savings.footnote}</p>
-          ) : null}
-          <a href="#brands-heading" className="mt-6 animate-bounce text-white/70 transition-colors hover:text-white" aria-label="Scroll down">
-            <ChevronDown className="size-7" aria-hidden="true" />
-          </a>
-        </div>
+      {/* Trust strip */}
+      <section className="border-b bg-white" aria-label="Why buyers trust us">
+        <ul className="container-page grid grid-cols-2 gap-4 py-5 text-sm sm:py-6 lg:grid-cols-4">
+          {[
+            { icon: BadgeCheck, title: "₹0 to join", text: "No registration or joining fee" },
+            { icon: Users, title: "Verified buyers only", text: "Real, local buyers fill each group" },
+            { icon: ShieldCheck, title: "Quotes we check", text: "Itemised and reviewed before you see them" },
+            { icon: Handshake, title: "Your call, always", text: "Buy direct from the dealer — or don't" },
+          ].map((t) => (
+            <li key={t.title} className="group flex items-center gap-3">
+              <span className="flex size-11 shrink-0 items-center justify-center rounded-xl bg-accent text-primary transition-transform group-hover:scale-110">
+                <t.icon className="size-5" aria-hidden="true" />
+              </span>
+              <span>
+                <span className="block font-bold text-ink">{t.title}</span>
+                <span className="text-muted-foreground">{t.text}</span>
+              </span>
+            </li>
+          ))}
+        </ul>
       </section>
 
       {/* Brand strip */}
@@ -324,30 +306,7 @@ export default async function HomePage() {
         </div>
       </section>
 
-      {/* Benefits */}
-      <section className="relative isolate overflow-hidden bg-ink py-20 text-white" aria-labelledby="benefits-heading">
-        <div className="absolute top-0 left-1/2 -z-10 size-[600px] -translate-x-1/2 -translate-y-1/2 rounded-full bg-primary/20 blur-[120px]" aria-hidden="true" />
-        <div className="container-page">
-          <p className="text-sm font-bold tracking-widest text-emerald-300 uppercase">The group advantage</p>
-          <h2 id="benefits-heading" className="mt-2 text-3xl font-extrabold text-white sm:text-4xl">
-            Why buy as a group?
-          </h2>
-          <div className="mt-8 grid gap-6 md:grid-cols-3">
-            {BENEFITS.map((b) => (
-              <div
-                key={b.title}
-                className="group rounded-3xl border border-white/10 bg-white/5 p-7 transition-all duration-300 hover:-translate-y-1 hover:border-emerald-400/40 hover:bg-white/10"
-              >
-                <span className="flex size-12 items-center justify-center rounded-xl bg-emerald-400/15 transition-colors group-hover:bg-emerald-400/25">
-                  <b.icon className="size-6 text-emerald-300" aria-hidden="true" />
-                </span>
-                <h3 className="mt-4 text-lg font-bold text-white">{b.title}</h3>
-                <p className="mt-2 leading-7 text-white/75">{b.body}</p>
-              </div>
-            ))}
-          </div>
-        </div>
-      </section>
+      <GroupVsSolo />
 
       {/* Trust */}
       <section className="container-page grid gap-10 py-16 lg:grid-cols-2" aria-labelledby="trust-heading">
