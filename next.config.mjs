@@ -1,5 +1,3 @@
-import type { NextConfig } from "next";
-
 const supabaseHost = (() => {
   try {
     return process.env.NEXT_PUBLIC_SUPABASE_URL ? new URL(process.env.NEXT_PUBLIC_SUPABASE_URL).hostname : null;
@@ -16,7 +14,10 @@ const securityHeaders = [
   { key: "Strict-Transport-Security", value: "max-age=63072000; includeSubDomains; preload" },
 ];
 
-const nextConfig: NextConfig = {
+// Plain JS (not next.config.ts) so the config loads without native SWC bindings,
+// which some hosts (e.g. Hostinger shared Node.js, older glibc) cannot load.
+/** @type {import("next").NextConfig} */
+const nextConfig = {
   // Every authenticated page reads the session cookie, so this app renders on
   // request and keeps the previous (non-Cache-Components) caching model.
   cacheComponents: false,
@@ -30,14 +31,6 @@ const nextConfig: NextConfig = {
     serverActions: {
       // Quotation documents and sale evidence are uploaded through Server Actions.
       bodySizeLimit: "12mb",
-    },
-  },
-  turbopack: {
-    rules: {
-      "*.css": {
-        loaders: ["@tailwindcss/turbopack"],
-        as: "*.css",
-      },
     },
   },
   async headers() {

@@ -267,7 +267,7 @@ Covered events: joining, closing soon, target reached, closure/expiry, cancellat
 - **Abuse protection:** Postgres-backed rate limits on sign-up, login (per IP and per email), password reset, joining, enquiries, sale claims and the contact form (plus a honeypot). Supabase Auth's own limits apply as well.
 - **Secrets:** only `NEXT_PUBLIC_SUPABASE_URL` and the anon key reach the browser. `SUPABASE_SERVICE_ROLE_KEY` is read only in `src/lib/supabase/admin.ts`, which is `server-only`.
 - **Audit log:** append-only (`public.audit_logs`, no write grants) covering status changes, approvals, publications, verifications, commission changes, adjustments, overrides, role and suspension changes, settings and exports.
-- Security headers (HSTS, frame denial, nosniff, referrer and permissions policies) are set in `next.config.ts`; open redirects after login are blocked.
+- Security headers (HSTS, frame denial, nosniff, referrer and permissions policies) are set in `next.config.mjs`; open redirects after login are blocked.
 
 ---
 
