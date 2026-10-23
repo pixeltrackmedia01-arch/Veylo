@@ -106,7 +106,7 @@ export default async function AdminOverview({ searchParams }: { searchParams: Pr
           <StatCard label="Confirmed purchase intent" value={formatNumber(metrics.intent_confirmed)} icon={Handshake} />
           <StatCard label="Dealer enquiries" value={formatNumber(metrics.dealer_enquiries)} icon={Inbox} />
           <StatCard label="Bookings" value={formatNumber(metrics.bookings)} icon={FileText} />
-          <StatCard label="Verified completed sales" value={formatNumber(metrics.verified_sales)} icon={CircleCheck} hint={`${formatNumber(metrics.pending_sale_claims)} claims awaiting verification`} />
+          <StatCard label="Verified completed sales" value={formatNumber(metrics.verified_sales)} icon={CircleCheck} hint={`${formatNumber(metrics.pending_sale_claims)} ${metrics.pending_sale_claims === 1 ? "claim" : "claims"} awaiting verification`} />
         </div>
       </section>
 

@@ -180,23 +180,29 @@ create or replace function public.enqueue_notification(
   p_dedupe_key text default null,
   p_payload jsonb default '{}'::jsonb
 )
-returns void
+-- Returns true only when a new notification was queued (false for duplicates).
+returns boolean
 language plpgsql
 security definer
 set search_path = ''
 as $$
 declare
   v_profile public.profiles;
+  v_inserted integer;
 begin
   select * into v_profile from public.profiles where id = p_user_id;
   if not found then
-    return;
+    return false;
   end if;
 
   insert into public.notifications (user_id, channel, type, subject, body, link_path, payload, dedupe_key, status)
   values (p_user_id, 'in_app', p_type, p_subject, p_body, p_link_path, coalesce(p_payload, '{}'::jsonb),
           case when p_dedupe_key is null then null else p_dedupe_key || ':in_app' end, 'sent')
   on conflict (dedupe_key) do nothing;
+  get diagnostics v_inserted = row_count;
+  if v_inserted = 0 then
+    return false;
+  end if;
 
   if v_profile.notify_email and v_profile.email is not null
      and (v_profile.notify_batch_updates or p_type not like 'batch_%') then
@@ -205,6 +211,7 @@ begin
             case when p_dedupe_key is null then null else p_dedupe_key || ':email' end)
     on conflict (dedupe_key) do nothing;
   end if;
+  return true;
 end;
 $$;
 
@@ -253,9 +260,10 @@ begin
     where m.batch_id = p_batch_id and m.status = 'active'
       and (not p_verified_only or m.eligibility = 'verified')
   loop
-    perform public.enqueue_notification(r.user_id, p_type, p_subject, p_body,
-      '/dashboard/groups/' || p_batch_id::text, p_dedupe_prefix || ':' || r.user_id::text);
-    v_count := v_count + 1;
+    if public.enqueue_notification(r.user_id, p_type, p_subject, p_body,
+         '/dashboard/groups/' || p_batch_id::text, p_dedupe_prefix || ':' || r.user_id::text) then
+      v_count := v_count + 1;
+    end if;
   end loop;
   return v_count;
 end;

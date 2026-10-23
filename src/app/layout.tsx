@@ -9,6 +9,10 @@ import "./globals.css";
 const body = Inter({ variable: "--font-body", subsets: ["latin"], display: "swap" });
 const display = Plus_Jakarta_Sans({ variable: "--font-display", subsets: ["latin"], weight: ["500", "600", "700", "800"], display: "swap" });
 
+// Every page reads the visitor's session (header, dashboards), so render on
+// request regardless of whether Supabase env vars exist at build time.
+export const dynamic = "force-dynamic";
+
 export const metadata: Metadata = {
   metadataBase: new URL(getSiteUrl()),
   title: { default: `${siteConfig.name} — ${siteConfig.tagline} in Surat`, template: `%s | ${siteConfig.name}` },

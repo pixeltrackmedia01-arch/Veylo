@@ -133,7 +133,7 @@ export default async function GroupPage({ params }: Props) {
               </p>
               <Progress className="mt-4" value={batch.verified_participant_count} max={batch.target_participants} label="Group progress" />
               <div className="mt-3 flex justify-between text-sm text-muted-foreground">
-                <span>{batch.status === "open" ? `${spotsLeft(batch)} spots left` : "Closed for joining"}</span>
+                <span>{batch.status === "open" ? `${spotsLeft(batch)} ${spotsLeft(batch) === 1 ? "spot" : "spots"} left` : "Closed for joining"}</span>
                 <span className="flex items-center gap-1">
                   <CalendarClock className="size-4" aria-hidden="true" />
                   {batch.status === "open" ? timeRemaining(batch.deadline) : "Closed"}

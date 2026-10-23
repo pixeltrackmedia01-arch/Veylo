@@ -39,7 +39,7 @@ export function BatchCard({ batch }: { batch: BatchWithVehicle }) {
               <Users className="size-4 text-primary" aria-hidden="true" />
               {batch.verified_participant_count} of {batch.target_participants} verified
             </span>
-            {open ? <span className="text-muted-foreground">{spotsLeft(batch)} spots left</span> : null}
+            {open ? <span className="text-muted-foreground">{spotsLeft(batch)} {spotsLeft(batch) === 1 ? "spot" : "spots"} left</span> : null}
           </div>
           <Progress
             value={batch.verified_participant_count}

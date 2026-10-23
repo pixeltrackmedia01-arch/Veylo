@@ -202,7 +202,7 @@ export default async function MyGroupPage({ params }: { params: Promise<{ batchI
                       <div className="flex flex-wrap items-center gap-2">
                         <p className="font-semibold text-ink">Your enquiry</p>
                         <StatusBadge status={enquiry.status} />
-                        {booking ? <StatusBadge status={booking.status} label={`Booking ${booking.status}`} /> : null}
+                        {booking ? <StatusBadge status={booking.status} label={`Booking: ${booking.status}`} /> : null}
                       </div>
                       {q.dealer ? (
                         <ul className="grid gap-1.5 text-sm sm:grid-cols-2">

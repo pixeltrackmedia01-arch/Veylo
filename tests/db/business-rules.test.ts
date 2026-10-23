@@ -1,6 +1,5 @@
 import { afterAll, beforeAll, describe, expect, it } from "vitest";
 import {
-  asOwner,
   asUser,
   batchRow,
   createBatch,
@@ -11,7 +10,6 @@ import {
   expectDbError,
   fillBatch,
   joinAs,
-  linkDealerUser,
   makeAdmin,
   type Catalogue,
   type TestDb,
