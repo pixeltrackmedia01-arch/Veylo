@@ -113,7 +113,7 @@ export const bookingSchema = z.object({
 export const manufacturerSchema = z.object({
   name: z.string().trim().min(2).max(120),
   slug,
-  categories: z.array(vehicleCategory).min(1, "Select at least one category"),
+  categories: z.array(vehicleCategory).min(1, "Select at least one category").max(10),
   websiteUrl: z.url().optional().or(z.literal("").transform(() => undefined)),
 });
 
@@ -198,7 +198,7 @@ export const dealerSchema = z.object({
   contactPerson: z.string().trim().max(120).optional(),
   businessEmail: z.email().optional().or(z.literal("").transform(() => undefined)),
   businessPhone: z.string().trim().max(20).optional(),
-  manufacturerIds: z.array(uuid),
+  manufacturerIds: z.array(uuid).max(200),
   isActive: z.boolean(),
   isDemo: z.boolean(),
   internalNotes: z.string().max(4000).optional(),
