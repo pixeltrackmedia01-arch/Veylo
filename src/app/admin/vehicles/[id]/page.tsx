@@ -76,6 +76,10 @@ export default async function AdminVehiclePage({ params }: { params: Promise<{ i
               bodyType: vehicle.body_type ?? "",
               description: vehicle.description ?? "",
               highlights: vehicle.highlights.join("\n"),
+              summary: vehicle.summary ?? "",
+              colours: (vehicle.colours ?? []).map((c) => `${c.name} ${c.hex}`).join("\n"),
+              warranty: vehicle.warranty ?? "",
+              popularity: vehicle.popularity ?? 0,
               isDemo: vehicle.is_demo,
             }}
           />
@@ -101,6 +105,7 @@ export default async function AdminVehiclePage({ params }: { params: Promise<{ i
                     transmission: (v.transmission as never) ?? null,
                     engineCc: v.engine_cc,
                     specifications: Object.entries(v.specifications ?? {}).map(([k, val]) => `${k}: ${val}`).join("\n"),
+                    features: Object.entries(v.features ?? {}).map(([k, items]) => `${k}: ${items.join("; ")}`).join("\n"),
                     specsSource: v.specs_source ?? "",
                     specsVerifiedAt: v.specs_verified_at ?? "",
                     sortOrder: v.sort_order,
@@ -113,7 +118,7 @@ export default async function AdminVehiclePage({ params }: { params: Promise<{ i
           <details className="rounded-xl border border-dashed p-4" open={vehicle.variants.length === 0}>
             <summary className="cursor-pointer font-semibold text-primary">Add a variant</summary>
             <div className="mt-4">
-              <VariantForm id={null} defaults={{ vehicleId: vehicle.id, name: "", slug: "", fuelType: null, transmission: null, engineCc: null, specifications: "", specsSource: "", specsVerifiedAt: "", sortOrder: vehicle.variants.length, status: "draft" }} />
+              <VariantForm id={null} defaults={{ vehicleId: vehicle.id, name: "", slug: "", fuelType: null, transmission: null, engineCc: null, specifications: "", features: "", specsSource: "", specsVerifiedAt: "", sortOrder: vehicle.variants.length, status: "draft" }} />
             </div>
           </details>
         </CardContent>

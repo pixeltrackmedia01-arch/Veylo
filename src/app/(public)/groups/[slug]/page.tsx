@@ -10,7 +10,10 @@ import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { Progress } from "@/components/ui/progress";
 import { getViewer } from "@/lib/auth/session";
-import { getBatchBySlug } from "@/lib/data/catalogue";
+import { getBatchBySlug, getFaqs } from "@/lib/data/catalogue";
+import { faqJsonLd, toFaqItems } from "@/lib/faq";
+import { FaqList } from "@/components/faq/faq-list";
+import { JsonLd } from "@/components/faq/json-ld";
 import { coordinationSummary, isJoinable, spotsLeft } from "@/lib/domain/batch-lifecycle";
 import { isSupabaseConfigured } from "@/lib/env";
 import { formatDateTime, formatINR, timeRemaining } from "@/lib/format";
@@ -79,6 +82,8 @@ export default async function GroupPage({ params }: Props) {
   const vehicle = batch.variant.vehicle;
   const joinable = isJoinable(batch);
   const step = timelineIndex(batch.status);
+
+  const faqItems = toFaqItems((await getFaqs("joining")).slice(0, 6));
 
   return (
     <div className="pb-16">
@@ -301,6 +306,23 @@ export default async function GroupPage({ params }: Props) {
           financing, insurance, registration and delivery are confirmed by the dealership.
         </Alert>
       </div>
+
+      {faqItems.length ? (
+        <section className="container-page mt-10" aria-labelledby="group-faq">
+          <JsonLd data={faqJsonLd(faqItems)} />
+          <div className="rounded-2xl border bg-white px-5 pt-5 pb-1 shadow-[var(--shadow-card)] sm:px-6">
+            <div className="flex flex-wrap items-center justify-between gap-2">
+              <h2 id="group-faq" className="text-xl font-bold">
+                How this group works
+              </h2>
+              <Link href="/faq" className="text-sm font-semibold text-primary hover:underline">
+                All FAQs →
+              </Link>
+            </div>
+            <FaqList items={faqItems} />
+          </div>
+        </section>
+      ) : null}
     </div>
   );
 }

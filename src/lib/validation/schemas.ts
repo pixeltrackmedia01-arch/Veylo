@@ -125,6 +125,10 @@ export const vehicleSchema = z.object({
   bodyType: z.string().trim().max(40).optional(),
   description: z.string().trim().max(2000).optional(),
   highlights: z.string().max(1000).optional(),
+  summary: z.string().trim().max(600).optional(),
+  colours: z.string().max(2000).optional(),
+  warranty: z.string().trim().max(200).optional(),
+  popularity: z.coerce.number().int().min(0).max(1000).default(0),
   isDemo: z.boolean(),
 });
 export type VehicleInput = z.input<typeof vehicleSchema>;
@@ -137,6 +141,7 @@ export const variantSchema = z.object({
   transmission: z.enum(["manual", "automatic", "amt", "cvt", "dct", "not_applicable"]).nullable(),
   engineCc: z.coerce.number().int().positive().max(10000).nullable().optional(),
   specifications: z.string().max(4000).optional(),
+  features: z.string().max(6000).optional(),
   specsSource: z.string().trim().max(300).optional(),
   specsVerifiedAt: isoDate.optional().or(z.literal("").transform(() => undefined)),
   sortOrder: z.coerce.number().int().min(0).max(999).default(0),
@@ -270,6 +275,14 @@ export const faqSchema = z.object({
   category: z.string().trim().min(2).max(40),
   sortOrder: z.coerce.number().int().min(0).max(9999),
   isPublished: z.boolean(),
+  featured: z.boolean().default(false),
+  vehicleId: z.union([uuid, z.literal("")]).optional(),
+  slug: z
+    .string()
+    .trim()
+    .regex(/^[a-z0-9-]*$/, "Lowercase letters, numbers and hyphens only")
+    .max(80)
+    .optional(),
 });
 
 export function fieldErrors(error: z.ZodError) {

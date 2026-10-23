@@ -16,7 +16,7 @@ export default async function NewVehiclePage() {
           <VehicleForm
             id={null}
             manufacturers={manufacturers ?? []}
-            defaults={{ manufacturerId: "", modelName: "", slug: "", category: "car", bodyType: "", description: "", highlights: "", isDemo: false }}
+            defaults={{ manufacturerId: "", modelName: "", slug: "", category: "car", bodyType: "", description: "", highlights: "", summary: "", colours: "", warranty: "", popularity: 0, isDemo: false }}
           />
         </CardContent>
       </Card>

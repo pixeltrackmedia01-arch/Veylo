@@ -17,15 +17,19 @@ import Link from "next/link";
 import { BatchCard } from "@/components/catalogue/batch-card";
 import { BrandMarquee } from "@/components/home/brand-marquee";
 import { BrandShowcase } from "@/components/home/brand-showcase";
+import { CarCard } from "@/components/cars/car-card";
+import { FaqList } from "@/components/faq/faq-list";
+import { JsonLd } from "@/components/faq/json-ld";
 import { HeroTabs } from "@/components/home/hero-tabs";
 import { CarArt } from "@/components/shared/car-art";
 import { SetupNotice } from "@/components/shared/setup-notice";
-import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion";
 import { Button } from "@/components/ui/button";
 import { siteConfig } from "@/config/site";
 import { getFaqs, getPlatformStats, getPublicSetting, listPublicBatches } from "@/lib/data/catalogue";
-import { getCars } from "@/lib/data/cars";
+import { getCars, getSavedVehicleIds } from "@/lib/data/cars";
+import { getViewer } from "@/lib/auth/session";
 import { isSupabaseConfigured } from "@/lib/env";
+import { faqJsonLd, toFaqItems } from "@/lib/faq";
 
 const HERO_DEFAULT = {
   eyebrow: `Group buying for new cars in ${siteConfig.launchCity.name}`,
@@ -95,6 +99,11 @@ export default async function HomePage() {
   const carBrands = [...new Map(cars.map((c) => [c.manufacturer.slug, c.manufacturer.name])).entries()]
     .sort((a, b) => a[1].localeCompare(b[1]))
     .map(([value, label]) => ({ value, label }));
+  const viewer = configured ? await getViewer() : null;
+  const saved = await (configured ? getSavedVehicleIds(viewer?.id) : Promise.resolve(new Set<string>()));
+  const featuredFaqs = faqs.filter((f) => f.featured);
+  const faqItems = toFaqItems((featuredFaqs.length ? featuredFaqs : faqs).slice(0, 8));
+  const popularCars = [...cars].sort((a, b) => b.popularity - a.popularity).slice(0, 6);
   const carOptions = [...cars]
     .sort((a, b) => `${a.manufacturer.name} ${a.model_name}`.localeCompare(`${b.manufacturer.name} ${b.model_name}`))
     .map((c) => ({ value: c.slug, label: `${c.manufacturer.name} ${c.model_name}` }));
@@ -226,8 +235,35 @@ export default async function HomePage() {
         </div>
       </section>
 
+      {/* Popular cars */}
+      {popularCars.length ? (
+        <section className="bg-surface py-16" aria-labelledby="popular-heading">
+          <div className="container-page">
+            <div className="flex flex-col justify-between gap-4 sm:flex-row sm:items-end">
+              <div>
+                <p className="text-sm font-bold tracking-widest text-primary uppercase">New cars</p>
+                <h2 id="popular-heading" className="mt-2 text-3xl font-extrabold sm:text-4xl">
+                  Popular new cars
+                </h2>
+                <p className="mt-2 text-muted-foreground">Indicative {siteConfig.launchCity.name} prices, specs and EMI estimates.</p>
+              </div>
+              <Button asChild variant="outline">
+                <Link href="/cars">
+                  View all cars <ArrowRight aria-hidden="true" />
+                </Link>
+              </Button>
+            </div>
+            <div className="mt-8 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+              {popularCars.map((c) => (
+                <CarCard key={c.id} car={c} saved={saved.has(c.id)} signedIn={Boolean(viewer)} />
+              ))}
+            </div>
+          </div>
+        </section>
+      ) : null}
+
       {/* Featured groups */}
-      <section className="bg-surface py-16" aria-labelledby="featured-heading">
+      <section className="py-16" aria-labelledby="featured-heading">
         <div className="container-page">
           <div className="flex flex-col justify-between gap-4 sm:flex-row sm:items-end">
             <div>
@@ -275,7 +311,7 @@ export default async function HomePage() {
               key={s.title}
               className="group relative rounded-3xl border bg-white p-7 text-center shadow-[var(--shadow-card)] transition-all duration-300 hover:-translate-y-1 hover:border-primary/30 hover:shadow-[var(--shadow-lift)]"
             >
-              <span className="relative mx-auto flex size-16 items-center justify-center rounded-2xl bg-gradient-to-br from-primary to-emerald-500 text-white shadow-lg shadow-primary/30 transition-transform duration-300 group-hover:scale-110 group-hover:rotate-3">
+              <span className="relative mx-auto flex size-16 items-center justify-center rounded-2xl bg-gradient-to-br from-primary to-rose-500 text-white shadow-lg shadow-primary/30 transition-transform duration-300 group-hover:scale-110 group-hover:rotate-3">
                 <s.icon className="size-8" aria-hidden="true" />
                 <span className="absolute -top-2 -right-2 flex size-7 items-center justify-center rounded-full bg-ink text-xs font-bold text-white ring-4 ring-white">
                   {i + 1}
@@ -347,32 +383,32 @@ export default async function HomePage() {
       </section>
 
       {/* FAQ */}
-      {faqs.length ? (
+      {faqItems.length ? (
         <section className="bg-surface py-16" aria-labelledby="faq-heading">
+          <JsonLd data={faqJsonLd(faqItems)} />
           <div className="container-page grid gap-10 lg:grid-cols-[1fr_1.6fr]">
             <div>
-              <h2 id="faq-heading" className="text-2xl font-bold sm:text-3xl">
+              <p className="text-sm font-bold tracking-widest text-primary uppercase">FAQ</p>
+              <h2 id="faq-heading" className="mt-2 text-3xl font-extrabold sm:text-4xl">
                 Frequently asked questions
               </h2>
-              <p className="mt-3 text-muted-foreground">
-                More answers on our <Link href="/faq" className="font-semibold text-primary underline-offset-4 hover:underline">FAQ page</Link>.
-              </p>
+              <p className="mt-3 text-muted-foreground">Quick answers to what buyers ask most.</p>
+              <Button asChild variant="outline" className="mt-6">
+                <Link href="/faq">
+                  View all FAQs <ArrowRight aria-hidden="true" />
+                </Link>
+              </Button>
             </div>
-            <Accordion type="single" collapsible className="rounded-2xl border bg-white px-6">
-              {faqs.slice(0, 6).map((f) => (
-                <AccordionItem key={f.id} value={f.id}>
-                  <AccordionTrigger>{f.question}</AccordionTrigger>
-                  <AccordionContent>{f.answer}</AccordionContent>
-                </AccordionItem>
-              ))}
-            </Accordion>
+            <div className="rounded-2xl border bg-white px-6 shadow-[var(--shadow-card)]">
+              <FaqList items={faqItems} />
+            </div>
           </div>
         </section>
       ) : null}
 
       {/* CTA */}
       <section className="container-page py-16">
-        <div className="relative isolate flex flex-col items-start justify-between gap-6 overflow-hidden rounded-3xl bg-gradient-to-br from-primary via-emerald-600 to-teal-700 p-8 text-white shadow-xl shadow-primary/20 sm:p-12 lg:flex-row lg:items-center">
+        <div className="relative isolate flex flex-col items-start justify-between gap-6 overflow-hidden rounded-3xl bg-gradient-to-br from-primary via-rose-700 to-[#5c0b14] p-8 text-white shadow-xl shadow-primary/20 sm:p-12 lg:flex-row lg:items-center">
           <div>
             <h2 className="text-2xl font-bold text-white sm:text-3xl">Planning a purchase in the next few months?</h2>
             <p className="mt-2 max-w-xl text-white/85">Find a group for your exact variant. It is free, and you can leave while the group is open.</p>

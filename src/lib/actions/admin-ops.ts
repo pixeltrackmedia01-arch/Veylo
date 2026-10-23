@@ -312,7 +312,16 @@ export async function saveFaqAction(id: string | null, input: unknown): Promise<
   const parsed = faqSchema.safeParse(input);
   if (!parsed.success) return { ok: false, error: "Please fix the highlighted fields.", fieldErrors: fieldErrors(parsed.error) };
   const f = parsed.data;
-  const row = { question: f.question, answer: f.answer, category: f.category, sort_order: f.sortOrder, is_published: f.isPublished };
+  const row = {
+    question: f.question,
+    answer: f.answer,
+    category: f.category,
+    sort_order: f.sortOrder,
+    is_published: f.isPublished,
+    featured: f.featured,
+    vehicle_id: f.vehicleId || null,
+    slug: f.slug || null,
+  };
   const supabase = await createClient();
   const { data, error } = id
     ? await supabase.from("faqs").update(row).eq("id", id).select("id").single()

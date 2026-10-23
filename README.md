@@ -171,6 +171,22 @@ Everything is flagged `is_demo` and shown with a **Demo data** badge. Placeholde
 
 ---
 
+## Car catalogue, leads and FAQs
+
+- **Pages:** `/cars` (filters, sorting, compare and save), `/cars/[slug]` (gallery, colours, variant prices,
+  specs, features, on-road estimate, EMI, Q&A, group deal and lead buttons), `/compare`, `/emi-calculator`,
+  `/faq` (search, categories, deep links, helpful votes) and `/dashboard/saved`.
+- **Catalogue data** lives in `supabase/catalogue/cars.mjs`. Run `node scripts/build-catalogue-sql.mjs` to
+  regenerate `supabase/catalogue.sql`, then run that file in the Supabase SQL editor. It upserts models,
+  variants and Surat price references and is safe to re-run. Prices are **indicative**; confirm them with
+  dealers and update them in Admin → Vehicles, which also edits colours, summary, warranty and features.
+- **Photos:** cars show a recolourable illustration until a licensed photo is uploaded in Admin → Vehicles.
+  Never upload images copied from other websites. The home hero photo is set in Admin → Content
+  (`home.hero_image`).
+- **Leads** from car pages are stored via the rate-limited `submit_lead()` function and listed in
+  Admin → Leads. **FAQs** (category, car, home-page flag, anchor) are edited in Admin → Content.
+- EMI defaults and the hero savings badge/footnote are in `src/config/site.ts`.
+
 ## Testing
 
 ### Unit tests

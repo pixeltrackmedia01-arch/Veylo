@@ -1,5 +1,6 @@
 import { CalendarClock, MapPin, Users } from "lucide-react";
 import Link from "next/link";
+import { CarVisual } from "@/components/cars/car-visual";
 import { BatchStatusBadge, DemoBadge } from "@/components/shared/status-badge";
 import { VehicleImage } from "@/components/shared/vehicle-image";
 import { Progress } from "@/components/ui/progress";
@@ -15,13 +16,17 @@ export function BatchCard({ batch }: { batch: BatchWithVehicle }) {
       href={`/groups/${batch.slug}`}
       className="group flex flex-col overflow-hidden rounded-2xl border bg-white shadow-[var(--shadow-card)] transition-all hover:-translate-y-0.5 hover:shadow-[var(--shadow-lift)]"
     >
-      <VehicleImage
-        image={vehicle.images?.[0]}
-        category={vehicle.category}
-        bodyType={vehicle.body_type}
-        alt={`${vehicle.manufacturer.name} ${vehicle.model_name}`}
-        className="aspect-[16/9]"
-      />
+      {vehicle.category === "car" ? (
+        <CarVisual car={vehicle} className="aspect-[16/9]" imageClassName="transition-transform duration-500 group-hover:scale-105" />
+      ) : (
+        <VehicleImage
+          image={vehicle.images?.[0]}
+          category={vehicle.category}
+          bodyType={vehicle.body_type}
+          alt={`${vehicle.manufacturer.name} ${vehicle.model_name}`}
+          className="aspect-[16/9]"
+        />
+      )}
       <div className="flex flex-1 flex-col gap-4 p-5">
         <div className="flex flex-wrap items-center gap-2">
           <BatchStatusBadge status={batch.status} />

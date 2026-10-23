@@ -125,6 +125,22 @@ export function VehicleForm({ id, defaults, manufacturers }: { id: string | null
       <FormField id="highlights" label="Highlights" hint="One per line. Only verified facts.">
         {(p) => <Textarea {...p} rows={3} {...form.register("highlights")} />}
       </FormField>
+      <FormField id="summary" label="One-line summary" hint="Shown at the top of the car page.">
+        {(p) => <Textarea {...p} rows={2} {...form.register("summary")} />}
+      </FormField>
+      <div className="grid gap-4 sm:grid-cols-2">
+        <FormField id="colours" label="Colours" hint="One per line as “Name #hex”, e.g. “Stealth Black #121212”.">
+          {(p) => <Textarea {...p} rows={4} {...form.register("colours")} />}
+        </FormField>
+        <div className="grid gap-4">
+          <FormField id="warranty" label="Warranty" hint="e.g. 3 years / 1,00,000 km standard warranty">
+            {(p) => <Input {...p} {...form.register("warranty")} />}
+          </FormField>
+          <FormField id="popularity" label="Popularity (0–1000)" hint="Higher shows first in “Popularity” sort.">
+            {(p) => <Input {...p} type="number" {...form.register("popularity")} />}
+          </FormField>
+        </div>
+      </div>
       <Button type="submit" disabled={isSubmitting} className="justify-self-start">
         {isSubmitting ? <LoaderCircle className="animate-spin" aria-hidden="true" /> : null} {id ? "Save vehicle" : "Create vehicle"}
       </Button>
@@ -195,6 +211,9 @@ export function VariantForm({ id, defaults }: { id: string | null; defaults: Var
       </div>
       <FormField id={`v-specs-${id}`} label="Verified specifications" hint="One per line as “Name: value”, e.g. “Seating: 5”.">
         {(p) => <Textarea {...p} rows={3} {...form.register("specifications")} />}
+      </FormField>
+      <FormField id={`v-features-${id}`} label="Features" hint="One group per line as “Group: item; item”, e.g. “Safety: 6 airbags; ABS with EBD”.">
+        {(p) => <Textarea {...p} rows={4} {...form.register("features")} />}
       </FormField>
       <Button type="submit" size="sm" disabled={isSubmitting} className="justify-self-start">
         {id ? "Save variant" : "Add variant"}

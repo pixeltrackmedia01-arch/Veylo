@@ -67,6 +67,10 @@ function vehicleRow(v: ReturnType<typeof vehicleSchema.parse>) {
       .map((h) => h.trim())
       .filter(Boolean)
       .slice(0, 8),
+    summary: v.summary || null,
+    colours: parseColours(v.colours),
+    warranty: v.warranty || null,
+    popularity: v.popularity ?? 0,
     is_demo: v.isDemo,
   };
 }
@@ -120,6 +124,33 @@ export async function setVehicleStatusAction(id: string, status: "published" | "
 
 // --- Variants ----------------------------------------------------------------
 
+/** "Stealth Black #121212" per line → [{ name, hex }]. */
+function parseColours(text: string | undefined) {
+  const colours: { name: string; hex: string }[] = [];
+  for (const line of (text ?? "").split("\n")) {
+    const m = line.trim().match(/^(.+?)\s+(#[0-9a-fA-F]{6})$/);
+    if (m) colours.push({ name: m[1].trim().slice(0, 60), hex: m[2].toLowerCase() });
+  }
+  return colours.slice(0, 16);
+}
+
+/** "Safety: 6 airbags; ABS with EBD" per line → { Safety: ["6 airbags", "ABS with EBD"] }. */
+function parseFeatures(text: string | undefined) {
+  const features: Record<string, string[]> = {};
+  for (const line of (text ?? "").split("\n")) {
+    const idx = line.indexOf(":");
+    if (idx <= 0) continue;
+    const group = line.slice(0, idx).trim().slice(0, 40);
+    const items = line
+      .slice(idx + 1)
+      .split(";")
+      .map((x) => x.trim().slice(0, 120))
+      .filter(Boolean);
+    if (group && items.length) features[group] = items.slice(0, 40);
+  }
+  return features;
+}
+
 function parseSpecs(text: string | undefined) {
   const specs: Record<string, string> = {};
   for (const line of (text ?? "").split("\n")) {
@@ -146,6 +177,7 @@ export async function saveVariantAction(id: string | null, input: VariantInput):
     transmission: v.transmission,
     engine_cc: v.engineCc ?? null,
     specifications: parseSpecs(v.specifications),
+    features: parseFeatures(v.features),
     specs_source: v.specsSource || null,
     specs_verified_at: v.specsVerifiedAt || null,
     sort_order: v.sortOrder,

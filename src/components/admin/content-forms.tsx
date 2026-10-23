@@ -5,7 +5,8 @@ import { useState, useTransition } from "react";
 import { toast } from "sonner";
 import { Button } from "@/components/ui/button";
 import { FormField } from "@/components/ui/form-field";
-import { Checkbox, Input, Textarea } from "@/components/ui/input";
+import { FAQ_CATEGORIES } from "@/components/faq/faq-categories";
+import { Checkbox, Input, NativeSelect, Textarea } from "@/components/ui/input";
 import { saveContentPageAction, saveFaqAction, saveSettingAction } from "@/lib/actions/admin-ops";
 import type { ActionResult } from "@/lib/errors";
 
@@ -24,17 +25,47 @@ function useSubmit() {
   return { pending, run };
 }
 
-export function FaqForm({ id, initial }: { id: string | null; initial: { question: string; answer: string; category: string; sortOrder: number; isPublished: boolean } }) {
+export type FaqFormValues = {
+  question: string;
+  answer: string;
+  category: string;
+  sortOrder: number;
+  isPublished: boolean;
+  featured: boolean;
+  vehicleId: string;
+  slug: string;
+};
+
+export function FaqForm({ id, initial, vehicles }: { id: string | null; initial: FaqFormValues; vehicles: { id: string; name: string }[] }) {
   const [v, setV] = useState(initial);
   const { pending, run } = useSubmit();
+  const categories = FAQ_CATEGORIES.some((c) => c.key === v.category) ? FAQ_CATEGORIES : [...FAQ_CATEGORIES, { key: v.category, label: v.category }];
   return (
     <form className="grid gap-3" onSubmit={(e) => { e.preventDefault(); run(() => saveFaqAction(id, v), () => !id && setV(initial)); }}>
       <FormField id={`faq-q-${id}`} label="Question">{(p) => <Input {...p} value={v.question} onChange={(e) => setV({ ...v, question: e.target.value })} />}</FormField>
-      <FormField id={`faq-a-${id}`} label="Answer">{(p) => <Textarea {...p} rows={3} value={v.answer} onChange={(e) => setV({ ...v, answer: e.target.value })} />}</FormField>
-      <div className="grid gap-3 sm:grid-cols-3">
-        <FormField id={`faq-c-${id}`} label="Category">{(p) => <Input {...p} value={v.category} onChange={(e) => setV({ ...v, category: e.target.value })} />}</FormField>
+      <FormField id={`faq-a-${id}`} label="Answer" hint="Supports **bold**, lists and [links](/page).">{(p) => <Textarea {...p} rows={4} value={v.answer} onChange={(e) => setV({ ...v, answer: e.target.value })} />}</FormField>
+      <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
+        <FormField id={`faq-c-${id}`} label="Category">
+          {(p) => (
+            <NativeSelect {...p} value={v.category} onChange={(e) => setV({ ...v, category: e.target.value })}>
+              {categories.map((c) => <option key={c.key} value={c.key}>{c.label}</option>)}
+            </NativeSelect>
+          )}
+        </FormField>
+        <FormField id={`faq-v-${id}`} label="Car (optional)" hint="Shows on that car's page only">
+          {(p) => (
+            <NativeSelect {...p} value={v.vehicleId} onChange={(e) => setV({ ...v, vehicleId: e.target.value })}>
+              <option value="">General question</option>
+              {vehicles.map((x) => <option key={x.id} value={x.id}>{x.name}</option>)}
+            </NativeSelect>
+          )}
+        </FormField>
+        <FormField id={`faq-slug-${id}`} label="Link anchor" hint="e.g. how-do-groups-close">{(p) => <Input {...p} value={v.slug} onChange={(e) => setV({ ...v, slug: e.target.value })} />}</FormField>
         <FormField id={`faq-s-${id}`} label="Sort order">{(p) => <Input {...p} type="number" value={v.sortOrder} onChange={(e) => setV({ ...v, sortOrder: Number(e.target.value) })} />}</FormField>
-        <label className="flex items-center gap-2 self-end pb-3 text-sm"><Checkbox checked={v.isPublished} onChange={(e) => setV({ ...v, isPublished: e.target.checked })} /> Published</label>
+      </div>
+      <div className="flex flex-wrap gap-5">
+        <label className="flex items-center gap-2 text-sm"><Checkbox checked={v.isPublished} onChange={(e) => setV({ ...v, isPublished: e.target.checked })} /> Published</label>
+        <label className="flex items-center gap-2 text-sm"><Checkbox checked={v.featured} onChange={(e) => setV({ ...v, featured: e.target.checked })} /> Show on home page</label>
       </div>
       <Button type="submit" size="sm" disabled={pending} className="justify-self-start">{id ? "Save" : "Add FAQ"}</Button>
     </form>

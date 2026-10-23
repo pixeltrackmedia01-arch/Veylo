@@ -1,6 +1,7 @@
-# Redesign requirements (collecting — do not execute yet)
+# Redesign requirements
 
-The user is listing requirements one by one and will say when to start.
+Status: requirements 1–5 built (see README → "Car catalogue, leads and FAQs"). Open points below that were not
+answered were implemented with the defaults noted in the README and `src/config/site.ts`.
 Reference site: drivebloc.com (screenshots supplied by the user). Match its
 look and flow; do not copy its name, logo or wording.
 
