@@ -121,5 +121,31 @@ Clicking any car card opens its own page (e.g. `/cars/mahindra-bolero-neo`).
 - **Questions section:** fixed FAQs written by admin, or user-submitted Q&A with moderation?
 - **Page URL scheme:** `/cars/<brand>-<model>` alongside the existing `/vehicles/<slug>`. The plan is to merge them into one.
 
-## 4. …
+## 4. EMI calculator (on the car detail page and in the header menu)
+
+- **On the car detail page:** a full EMI calculator section (linked from the "EMI" tab in the sticky tab bar).
+  - **Pre-filled** with the selected variant's on-road price for the chosen city. Switching the variant updates it.
+  - **Inputs (slider + number box for each):**
+    - down payment (₹ or %);
+    - loan amount (auto = price − down payment);
+    - interest rate (% p.a.);
+    - tenure (12–84 months, or 1–7 years).
+  - **Outputs:** monthly EMI (large), total interest, total amount payable, and a principal vs interest donut/bar chart.
+  - **Optional:** a year-by-year amortisation table (expandable).
+  - A "Get loan offers" / "Car Loan" button that opens the lead form (ties in with the #3 lead card).
+  - The card-level "EMI from ₹…/mo" figure (#2) uses the same formula and default assumptions.
+- **In the header menu:** a new "EMI Calculator" nav item linking to a standalone page (e.g. `/emi-calculator`).
+  - Same calculator, with a car picker (brand → model → variant) to pre-fill the price, or a manual price entry.
+  - Also in the footer and the mobile menu.
+- **Formula:** EMI = P·r·(1+r)^n / ((1+r)^n − 1), with r = annual rate / 12 / 100.
+  - Round to whole rupees and format in Indian style (₹12,310).
+  - Show a note that this is an estimate and that actual EMI depends on the lender.
+- **Header nav order now:** Home, Group Deals, New Cars, EMI Calculator, Buying Guides, Compare, News.
+
+### Open points to confirm before building
+
+- **Default assumptions:** interest rate (e.g. 9.5%), tenure (e.g. 5 years) and down payment (e.g. 20%).
+- **Loan leads:** should they go to specific bank or NBFC partners?
+
+## 5. …
 (next requirement goes here)
