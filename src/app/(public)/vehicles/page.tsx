@@ -1,6 +1,7 @@
 import { Car, Search, SlidersHorizontal } from "lucide-react";
 import type { Metadata } from "next";
 import Link from "next/link";
+import { redirect } from "next/navigation";
 import { VehicleCard } from "@/components/catalogue/vehicle-card";
 import { EmptyState } from "@/components/shared/empty-state";
 import { SetupNotice } from "@/components/shared/setup-notice";
@@ -49,6 +50,8 @@ export default async function VehiclesPage({ searchParams }: { searchParams: Pro
   }
   const sp = await searchParams;
   const category = str(sp.category);
+  // Cars are browsed on /cars; keep old links working.
+  if (category === "car") redirect(str(sp.q) ? `/cars?q=${encodeURIComponent(str(sp.q)!)}` : "/cars");
   const filters: CatalogueFilters = {
     q: str(sp.q),
     category: category === "car" || category === "two_wheeler" ? category : undefined,

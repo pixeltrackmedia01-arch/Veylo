@@ -286,7 +286,7 @@ export const leadSchema = z.object({
   vehicleId: uuid.optional(),
   variantId: uuid.optional(),
   message: z.string().trim().max(1000).optional(),
-  consent: z.literal(true, { error: "Please agree to be contacted about this enquiry" }),
+  consent: z.boolean().refine((v) => v, "Please agree to be contacted about this enquiry"),
   // Honeypot: real users never fill this hidden field.
   website: z.string().max(0).optional(),
 });

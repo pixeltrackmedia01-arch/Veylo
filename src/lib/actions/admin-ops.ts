@@ -394,6 +394,17 @@ export async function setContactMessageStatusAction(id: string, status: "new" | 
   return ok("Updated.");
 }
 
+export async function setLeadStatusAction(id: string, status: "new" | "contacted" | "converted" | "closed"): Promise<ActionResult> {
+  const g = await guardAdmin();
+  if (g.error) return g.error;
+  if (!isUuid(id)) return { ok: false, error: "Invalid lead." };
+  const supabase = await createClient();
+  const { error } = await supabase.from("leads").update({ status }).eq("id", id);
+  if (error) return fail(error);
+  revalidatePath("/admin/leads");
+  return ok("Updated.");
+}
+
 export async function dispatchEmailsNowAction(): Promise<ActionResult> {
   const g = await guardAdmin();
   if (g.error) return g.error;

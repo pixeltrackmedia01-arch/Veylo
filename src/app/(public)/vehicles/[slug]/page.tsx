@@ -1,7 +1,7 @@
 import { ArrowRight, CalendarClock, Info, Users } from "lucide-react";
 import type { Metadata } from "next";
 import Link from "next/link";
-import { notFound } from "next/navigation";
+import { notFound, permanentRedirect } from "next/navigation";
 import { VehicleCard } from "@/components/catalogue/vehicle-card";
 import { BatchStatusBadge, DemoBadge } from "@/components/shared/status-badge";
 import { VehicleImage } from "@/components/shared/vehicle-image";
@@ -43,6 +43,8 @@ export default async function VehiclePage({ params }: Props) {
   const { slug } = await params;
   const vehicle = await getVehicleBySlug(slug);
   if (!vehicle) notFound();
+  // Cars have a dedicated product page.
+  if (vehicle.category === "car") permanentRedirect(`/cars/${vehicle.slug}`);
   const [catalogue, faqs] = await Promise.all([getCatalogue(), getFaqs()]);
   const related = catalogue.filter((v) => v.category === vehicle.category && v.id !== vehicle.id).slice(0, 3);
   const name = `${vehicle.manufacturer.name} ${vehicle.model_name}`;
@@ -51,10 +53,10 @@ export default async function VehiclePage({ params }: Props) {
     ? null
     : {
         "@context": "https://schema.org",
-        "@type": vehicle.category === "car" ? "Car" : "Product",
+        "@type": "Product",
         name,
         brand: { "@type": "Brand", name: vehicle.manufacturer.name },
-        category: vehicle.category === "car" ? "Car" : "Two-wheeler",
+        category: "Two-wheeler",
         model: vehicle.model_name,
       };
 
@@ -70,7 +72,7 @@ export default async function VehiclePage({ params }: Props) {
             <nav aria-label="Breadcrumb" className="text-sm text-muted-foreground">
               <Link href="/vehicles" className="hover:text-ink">Vehicles</Link> /{" "}
               <Link href={`/vehicles?category=${vehicle.category}`} className="hover:text-ink">
-                {vehicle.category === "car" ? "Cars" : "Two-wheelers"}
+                Two-wheelers
               </Link>
             </nav>
             <div className="flex flex-wrap gap-2">

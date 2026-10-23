@@ -8,6 +8,7 @@ export const metadata: Metadata = { title: "My dashboard", robots: { index: fals
 const NAV: AppNavItem[] = [
   { href: "/dashboard", label: "Overview", icon: "dashboard", exact: true },
   { href: "/dashboard/groups", label: "My groups", icon: "groups" },
+  { href: "/dashboard/saved", label: "Saved cars", icon: "car" },
   { href: "/dashboard/notifications", label: "Notifications", icon: "bell" },
   { href: "/dashboard/profile", label: "Profile & settings", icon: "profile" },
 ];

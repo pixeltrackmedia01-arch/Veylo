@@ -217,9 +217,17 @@ export async function getCurrentPrice(variantId: string, cityId: string): Promis
 export const getFaqs = cache(async (category?: string): Promise<Faq[]> => {
   if (!isSupabaseConfigured()) return [];
   const supabase = await createClient();
-  let query = supabase.from("faqs").select("*").eq("is_published", true).order("sort_order");
+  let query = supabase.from("faqs").select("*").eq("is_published", true).is("vehicle_id", null).order("sort_order");
   if (category) query = query.eq("category", category);
   const { data } = await query;
+  return (data ?? []) as Faq[];
+});
+
+/** Admin-written questions attached to one vehicle. */
+export const getVehicleFaqs = cache(async (vehicleId: string): Promise<Faq[]> => {
+  if (!isSupabaseConfigured()) return [];
+  const supabase = await createClient();
+  const { data } = await supabase.from("faqs").select("*").eq("is_published", true).eq("vehicle_id", vehicleId).order("sort_order");
   return (data ?? []) as Faq[];
 });
 

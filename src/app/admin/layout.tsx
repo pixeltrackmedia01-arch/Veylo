@@ -15,6 +15,7 @@ const NAV: AppNavItem[] = [
   { href: "/admin/dealers", label: "Dealers", icon: "dealers" },
   { href: "/admin/users", label: "Users", icon: "users" },
   { href: "/admin/content", label: "Content & settings", icon: "content" },
+  { href: "/admin/leads", label: "Leads", icon: "inbox" },
   { href: "/admin/messages", label: "Messages", icon: "inbox" },
   { href: "/admin/audit", label: "Audit log", icon: "audit" },
 ];
