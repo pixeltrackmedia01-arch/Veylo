@@ -147,5 +147,50 @@ Clicking any car card opens its own page (e.g. `/cars/mahindra-bolero-neo`).
 - **Default assumptions:** interest rate (e.g. 9.5%), tenure (e.g. 5 years) and down payment (e.g. 20%).
 - **Loan leads:** should they go to specific bank or NBFC partners?
 
-## 5. …
+## 5. Proper FAQ sections
+
+**Current state:** there's a basic `/faq` page and a home-page accordion fed by the `faqs` table (`question`, `answer`, `category`, `sort_order`, `is_published`). Admin → Content can already edit FAQs. This upgrades that into full FAQ sections across the site.
+
+- **Dedicated FAQ page (`/faq`), redesigned:**
+  - A hero with the title "Frequently Asked Questions" and a **search box** that filters questions live as you type.
+  - **Category tabs/chips** with icons and question counts:
+    - Getting started / How group buying works
+    - Joining a group (eligibility, verification, leaving)
+    - Pricing & savings (how savings are calculated, "save up to" claim, no fees)
+    - Dealer quotations (what's included, on-road price, validity)
+    - Buying & delivery (booking, payment to dealer, delivery, registration)
+    - Car loans & EMI
+    - Insurance
+    - Account & privacy
+    - For dealers (how to partner, commission)
+  - A smooth accordion per category: one open at a time, with a plus/minus or chevron animation and a hover state. Answers support links and lists (markdown).
+  - Deep links: each question has an anchor (`/faq#how-do-groups-close`) and a "copy link" action.
+  - An optional "Was this helpful? 👍 👎" per answer, stored for admin insight.
+  - Bottom CTA: "Still have questions?" with Contact us / WhatsApp / Call buttons.
+- **FAQ blocks in other places:**
+  - **Home page:** a "Frequently asked questions" section with the top 6–8 general questions and a "View all FAQs" link.
+  - **Car detail page (#3, "Questions" tab):** model-specific FAQs, e.g. "What is the mileage of the Bolero Neo?", "What is the on-road price in Surat?", "Is there a group deal open?". Generated from the car's data where possible, plus admin-written questions per model.
+  - **Group deal page:** FAQs about how that group works (target, deadline, what happens next).
+  - **EMI calculator page (#4):** loan/EMI FAQs.
+  - **Dealer portal / "Partner with us":** dealer FAQs.
+- **SEO:** add `FAQPage` structured data (JSON-LD) on every page that shows FAQs, so Google can show them as rich results.
+- **Admin:** manage FAQs by category and by vehicle, with:
+  - drag-to-reorder;
+  - publish/unpublish;
+  - "show on home page" and "show on car page" flags.
+  - Schema change: add `vehicle_id` (nullable) and a `featured` flag to `faqs`, and a fixed category list.
+- **Content:** write a complete, accurate starter set (≈40–60 Q&As) that matches how the platform really works:
+  - free to join;
+  - 20 verified buyers;
+  - dealer quotations reviewed before publishing;
+  - commission only after a completed sale;
+  - no guaranteed discount;
+  - buy directly from the dealer.
+
+### Open points to confirm before building
+
+- Which contact channels for the "Still have questions?" CTA (WhatsApp number, phone, email)?
+- Whether user-submitted questions are wanted (ties in with #3's Questions section) or admin-written only.
+
+## 6. …
 (next requirement goes here)
