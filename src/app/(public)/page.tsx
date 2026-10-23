@@ -178,7 +178,7 @@ export default async function HomePage() {
         <div className="grid gap-5 md:grid-cols-2">
           {[
             {
-              href: "/vehicles?category=car",
+              href: "/cars",
               image: "/images/placeholders/suv.svg",
               title: "Cars",
               body: "Hatchbacks, sedans and SUVs",
@@ -256,8 +256,8 @@ export default async function HomePage() {
               <p className="mt-2 text-muted-foreground">Participant counts include verified participants only.</p>
             </div>
             <Button asChild variant="outline">
-              <Link href="/vehicles">
-                See all vehicles <ArrowRight aria-hidden="true" />
+              <Link href="/groups">
+                See all groups <ArrowRight aria-hidden="true" />
               </Link>
             </Button>
           </div>
@@ -373,7 +373,7 @@ export default async function HomePage() {
             <p className="mt-2 max-w-xl text-white/85">Find a group for your exact variant. It is free, and you can leave while the group is open.</p>
           </div>
           <Button asChild size="lg" variant="ink">
-            <Link href="/vehicles">
+            <Link href="/groups">
               <Handshake aria-hidden="true" /> Explore Group Deals
             </Link>
           </Button>

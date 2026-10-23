@@ -1,5 +1,6 @@
 import type { EmailOtpType } from "@supabase/supabase-js";
 import { NextResponse, type NextRequest } from "next/server";
+import { getSiteUrl } from "@/lib/env";
 import { createClient } from "@/lib/supabase/server";
 import { safeRedirectPath } from "@/lib/utils";
 
@@ -9,7 +10,10 @@ import { safeRedirectPath } from "@/lib/utils";
  * PKCE `code` flow.
  */
 export async function GET(request: NextRequest) {
-  const { searchParams, origin } = new URL(request.url);
+  const { searchParams } = new URL(request.url);
+  // Behind Hostinger's proxy the request URL can carry the internal host (0.0.0.0:3000),
+  // so redirect to the configured public site URL when it is set.
+  const origin = process.env.NEXT_PUBLIC_SITE_URL ? getSiteUrl() : new URL(request.url).origin;
   const tokenHash = searchParams.get("token_hash");
   const type = searchParams.get("type") as EmailOtpType | null;
   const code = searchParams.get("code");

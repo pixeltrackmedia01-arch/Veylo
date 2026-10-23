@@ -25,7 +25,7 @@ export default async function MyGroupsPage() {
           title="No groups yet"
           action={
             <Button asChild>
-              <Link href="/vehicles">Explore Group Deals</Link>
+              <Link href="/groups">Explore Group Deals</Link>
             </Button>
           }
         />

@@ -63,7 +63,7 @@ export default function HowItWorksPage() {
 
       <div className="mt-12 flex flex-wrap gap-3">
         <Button asChild size="lg">
-          <Link href="/vehicles">
+          <Link href="/groups">
             Explore Group Deals <ArrowRight aria-hidden="true" />
           </Link>
         </Button>

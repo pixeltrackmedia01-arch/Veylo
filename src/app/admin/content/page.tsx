@@ -10,7 +10,15 @@ import type { ContentPage, Faq } from "@/lib/types";
 import { categoryMeta } from "@/components/faq/faq-categories";
 
 const EDITABLE_PAGES = ["about", "privacy", "terms", "disclaimer"];
-const SETTINGS = ["contact.public", "home.hero", "home.hero_image", "verification.require_phone", "batches.default_target", "batches.default_minimum"];
+const SETTINGS = [
+  "contact.public",
+  "home.hero",
+  "home.hero_image",
+  "home.ticker",
+  "verification.require_phone",
+  "batches.default_target",
+  "batches.default_minimum",
+];
 
 export default async function ContentAdminPage() {
   await requireAdmin();

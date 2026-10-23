@@ -368,7 +368,53 @@ export async function saveContentPageAction(input: unknown): Promise<ActionResul
   return ok("Page saved.");
 }
 
-const EDITABLE_SETTINGS = new Set(["contact.public", "home.hero", "verification.require_phone", "batches.default_target", "batches.default_minimum"]);
+const EDITABLE_SETTINGS = new Set([
+  "contact.public",
+  "home.hero",
+  "home.hero_image",
+  "home.ticker",
+  "verification.require_phone",
+  "batches.default_target",
+  "batches.default_minimum",
+]);
+
+const isPlainObject = (v: unknown): v is Record<string, unknown> => typeof v === "object" && v !== null && !Array.isArray(v);
+const isSafeHref = (v: unknown) => typeof v === "string" && (/^\/(?!\/)/.test(v) || /^https:\/\//.test(v));
+
+/** Shape checks for settings rendered on public pages. Returns an error message or null. */
+function settingError(key: string, value: unknown): string | null {
+  if (key === "verification.require_phone") return typeof value === "boolean" ? null : "Use true or false.";
+  if (key.startsWith("batches.")) return typeof value === "number" && Number.isInteger(value) && value >= 1 && value <= 500 ? null : "Enter a whole number between 1 and 500.";
+  if (key === "contact.public") {
+    if (!isPlainObject(value)) return "Enter a JSON object.";
+    return ["email", "phone", "address", "hours"].every((k) => value[k] === undefined || typeof value[k] === "string")
+      ? null
+      : "email, phone, address and hours must be text.";
+  }
+  if (key === "home.hero") {
+    if (!isPlainObject(value)) return "Enter a JSON object.";
+    for (const k of ["eyebrow", "headline", "subheadline"]) {
+      if (typeof value[k] !== "string" || !(value[k] as string).trim()) return `"${k}" is required text.`;
+    }
+    return value.highlight === undefined || typeof value.highlight === "string" ? null : '"highlight" must be text.';
+  }
+  if (key === "home.hero_image") {
+    if (!isPlainObject(value) || typeof value.url !== "string" || typeof value.alt !== "string") return 'Use {"url": "...", "alt": "..."}.';
+    if (value.url && !/^https:\/\//.test(value.url)) return "The image URL must start with https:// (or be empty).";
+    if (value.url && (value.alt as string).trim().length < 3) return "Describe the image in alt text.";
+    return null;
+  }
+  if (key === "home.ticker") {
+    if (!Array.isArray(value) || value.length > 12) return "Enter a list of up to 12 offers.";
+    for (const item of value) {
+      if (!isPlainObject(item) || typeof item.text !== "string" || !item.text.trim() || item.text.length > 160) return 'Each offer needs "text" (up to 160 characters).';
+      if (item.href !== undefined && !isSafeHref(item.href)) return 'Links must be a site path like "/cars" or an https:// URL.';
+      if (item.icon !== undefined && typeof item.icon !== "string") return '"icon" must be text.';
+    }
+    return null;
+  }
+  return null;
+}
 
 export async function saveSettingAction(key: string, rawJson: string): Promise<ActionResult> {
   const g = await guardAdmin();
@@ -380,14 +426,12 @@ export async function saveSettingAction(key: string, rawJson: string): Promise<A
   } catch {
     return { ok: false, error: "Enter valid JSON." };
   }
-  if (key === "verification.require_phone" && typeof value !== "boolean") return { ok: false, error: "Use true or false." };
-  if (key.startsWith("batches.") && (typeof value !== "number" || value < 1 || value > 500)) return { ok: false, error: "Enter a number between 1 and 500." };
-  if ((key === "contact.public" || key === "home.hero") && (typeof value !== "object" || value === null || Array.isArray(value))) {
-    return { ok: false, error: "Enter a JSON object." };
-  }
+  const problem = settingError(key, value);
+  if (problem) return { ok: false, error: problem };
   const supabase = await createClient();
-  const { error } = await supabase.from("app_settings").update({ value, updated_by: g.viewer.id }).eq("key", key);
+  const { data: updated, error } = await supabase.from("app_settings").update({ value, updated_by: g.viewer.id }).eq("key", key).select("key");
   if (error) return fail(error);
+  if (!updated?.length) return { ok: false, error: "That setting doesn't exist yet. Apply the latest database migrations." };
   await audit("setting.updated", "app_setting", key, value);
   revalidatePath("/", "layout");
   return ok("Setting saved.");

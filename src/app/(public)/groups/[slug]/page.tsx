@@ -91,8 +91,8 @@ export default async function GroupPage({ params }: Props) {
         <div className="container-page grid gap-10 py-10 lg:grid-cols-[1.4fr_1fr] lg:py-14">
           <div className="space-y-5">
             <nav aria-label="Breadcrumb" className="text-sm text-muted-foreground">
-              <Link href="/vehicles" className="hover:text-ink">Vehicles</Link> /{" "}
-              <Link href={`/vehicles/${vehicle.slug}`} className="hover:text-ink">
+              <Link href="/groups" className="hover:text-ink">Group deals</Link> /{" "}
+              <Link href={vehicle.category === "car" ? `/cars/${vehicle.slug}` : `/vehicles/${vehicle.slug}`} className="hover:text-ink">
                 {vehicle.manufacturer.name} {vehicle.model_name}
               </Link>
             </nav>

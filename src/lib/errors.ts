@@ -62,6 +62,7 @@ const MESSAGES: Record<string, string> = {
   invalid_action: "Unknown action.",
   rate_limited: "Too many attempts. Please wait a moment and try again.",
   invalid_phone: "Enter a valid 10-digit Indian mobile number.",
+  invalid_email: "Enter a valid email address.",
   invalid_name: "Please enter your name.",
   invalid_variant: "That variant doesn't belong to this car.",
   invalid_line_items: "Add between 1 and 40 valid line items.",

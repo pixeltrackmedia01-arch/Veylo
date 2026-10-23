@@ -78,3 +78,28 @@ describe("FAQ feedback", () => {
     expect(counts.rows[0]).toEqual({ helpful_count: 1, not_helpful_count: 1 });
   });
 });
+
+describe("contact messages", () => {
+  const send = (email: string) =>
+    `select public.submit_contact_message('Asha Patel', '${email}', null, 'Question about groups', 'How do groups close? Thanks.') as id`;
+
+  it("lets visitors send a message without the service-role key, rate-limited per email", async () => {
+    await asUser(db.pool, null, (c) => c.query(send("Visitor@Example.test")));
+    const stored = await db.pool.query(`select email from public.contact_messages where email = 'visitor@example.test'`);
+    expect(stored.rows).toHaveLength(1);
+    for (let i = 0; i < 4; i++) await asUser(db.pool, null, (c) => c.query(send("visitor@example.test")));
+    await expectDbError(asUser(db.pool, null, (c) => c.query(send("visitor@example.test"))), "rate_limited");
+    await expectDbError(asUser(db.pool, null, (c) => c.query(send("not-an-email"))), "invalid_email");
+  });
+
+  it("visitors still cannot read or insert messages directly", async () => {
+    const visible = await asUser(db.pool, null, (c) => c.query(`select count(*)::int as n from public.contact_messages`).catch(() => ({ rows: [{ n: 0 }] })));
+    expect(visible.rows[0].n).toBe(0);
+    await expectDbError(
+      asUser(db.pool, null, (c) =>
+        c.query(`insert into public.contact_messages (name, email, subject, message) values ('X Y', 'x@y.co', 'Subject', 'Message body here')`),
+      ),
+      "permission denied",
+    );
+  });
+});

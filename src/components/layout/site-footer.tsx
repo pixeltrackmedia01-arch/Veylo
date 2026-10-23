@@ -6,9 +6,11 @@ const COLUMNS = [
   {
     title: "Explore",
     links: [
-      { href: "/vehicles?category=car", label: "Cars" },
+      { href: "/cars", label: "New Cars" },
       { href: "/vehicles?category=two_wheeler", label: "Two-Wheelers" },
-      { href: "/vehicles", label: "All group deals" },
+      { href: "/groups", label: "All group deals" },
+      { href: "/emi-calculator", label: "EMI Calculator" },
+      { href: "/compare", label: "Compare Cars" },
       { href: "/how-it-works", label: "How It Works" },
     ],
   },

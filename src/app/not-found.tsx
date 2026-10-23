@@ -11,7 +11,7 @@ export default function NotFound() {
       <p className="max-w-md text-muted-foreground">The page may have moved, or the group may no longer be available.</p>
       <div className="flex gap-3">
         <Button asChild>
-          <Link href="/vehicles">Explore Group Deals</Link>
+          <Link href="/groups">Explore Group Deals</Link>
         </Button>
         <Button asChild variant="outline">
           <Link href="/">Home</Link>

@@ -30,7 +30,7 @@ export function VehicleCard({ vehicle }: { vehicle: CatalogueVehicle }) {
         <div>
           <p className="text-sm text-muted-foreground">{vehicle.manufacturer.name}</p>
           <h3 className="text-xl font-bold">
-            <Link href={`/vehicles/${vehicle.slug}`} className="after:absolute after:inset-0 focus-visible:outline-none">
+            <Link href={vehicle.category === "car" ? `/cars/${vehicle.slug}` : `/vehicles/${vehicle.slug}`} className="after:absolute after:inset-0 focus-visible:outline-none">
               {vehicle.model_name}
             </Link>
           </h3>

@@ -203,14 +203,8 @@ export async function addPriceAction(input: PriceInput, vehicleId: string): Prom
   if (!parsed.success) return { ok: false, error: "Please fix the highlighted fields.", fieldErrors: fieldErrors(parsed.error) };
   const p = parsed.data;
   const supabase = await createClient();
-  // Retire the previous current price for this variant & city, keeping it for history.
-  const { error: retireError } = await supabase
-    .from("vehicle_prices")
-    .update({ is_current: false })
-    .eq("variant_id", p.variantId)
-    .eq("city_id", p.cityId)
-    .eq("is_current", true);
-  if (retireError) return fail(retireError);
+  // Insert the new price as non-current first so a failure never leaves the variant without a current price,
+  // then retire the previous one (kept for history) and promote the new one.
   const { data, error } = await supabase
     .from("vehicle_prices")
     .insert({
@@ -229,12 +223,21 @@ export async function addPriceAction(input: PriceInput, vehicleId: string): Prom
       valid_until: p.validUntil ?? null,
       is_demo: p.isDemo,
       notes: p.notes || null,
-      is_current: true,
+      is_current: false,
       created_by: g.viewer.id,
     })
     .select("id")
     .single();
   if (error) return fail(error);
+  const { error: retireError } = await supabase
+    .from("vehicle_prices")
+    .update({ is_current: false })
+    .eq("variant_id", p.variantId)
+    .eq("city_id", p.cityId)
+    .eq("is_current", true);
+  if (retireError) return fail(retireError);
+  const { error: promoteError } = await supabase.from("vehicle_prices").update({ is_current: true }).eq("id", data.id);
+  if (promoteError) return fail(promoteError);
   await audit("price.recorded", "vehicle_price", data.id, p);
   revalidatePath(`/admin/vehicles/${vehicleId}`);
   revalidatePath("/vehicles", "layout");
@@ -287,6 +290,7 @@ export async function uploadVehicleImageAction(formData: FormData): Promise<Acti
 export async function deleteVehicleImageAction(imageId: string, vehicleId: string): Promise<ActionResult> {
   const g = await guardAdmin();
   if (g.error) return g.error;
+  if (!isUuid(imageId)) return { ok: false, error: "Invalid image." };
   const supabase = await createClient();
   const { data: img } = await supabase.from("vehicle_images").select("storage_path").eq("id", imageId).single();
   const { error } = await supabase.from("vehicle_images").delete().eq("id", imageId);

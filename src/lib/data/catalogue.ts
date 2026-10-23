@@ -17,6 +17,7 @@ import type {
   VehicleVariant,
 } from "@/lib/types";
 import { toNumber } from "@/lib/types";
+import { mergeSetting } from "@/lib/settings";
 
 export interface VehicleWithRelations extends Vehicle {
   manufacturer: Manufacturer;
@@ -235,7 +236,8 @@ export const getPublicSetting = cache(async <T,>(key: string, fallback: T): Prom
   if (!isSupabaseConfigured()) return fallback;
   const supabase = await createClient();
   const { data } = await supabase.from("app_settings").select("value").eq("key", key).eq("is_public", true).maybeSingle();
-  return data ? ({ ...fallback, ...(data.value as object) } as T) : fallback;
+  if (!data || data.value === null || data.value === undefined) return fallback;
+  return mergeSetting(fallback, data.value) as T;
 });
 
 export const getContentPage = cache(async (slug: string) => {

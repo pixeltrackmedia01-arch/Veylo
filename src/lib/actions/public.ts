@@ -1,9 +1,8 @@
 "use server";
 
-import { getViewer } from "@/lib/auth/session";
 import { fail, ok, type ActionResult } from "@/lib/errors";
 import { clientIp, rateLimit } from "@/lib/rate-limit";
-import { createAdminClient } from "@/lib/supabase/admin";
+import { createClient } from "@/lib/supabase/server";
 import { contactSchema, fieldErrors, type ContactInput } from "@/lib/validation/schemas";
 
 export async function submitContactAction(input: ContactInput): Promise<ActionResult> {
@@ -14,16 +13,14 @@ export async function submitContactAction(input: ContactInput): Promise<ActionRe
   const ip = await clientIp();
   if (!(await rateLimit("contact", ip, 5, 3600))) return fail("rate_limited");
 
-  const admin = createAdminClient();
-  if (!admin) return { ok: false, error: "The contact form isn't configured yet. Please email us instead." };
-  const viewer = await getViewer();
-  const { error } = await admin.from("contact_messages").insert({
-    name: parsed.data.name,
-    email: parsed.data.email,
-    phone: parsed.data.phone || null,
-    subject: parsed.data.subject,
-    message: parsed.data.message,
-    user_id: viewer?.id ?? null,
+  // submit_contact_message() validates and rate-limits per email, so this works without the service-role key.
+  const supabase = await createClient();
+  const { error } = await supabase.rpc("submit_contact_message", {
+    p_name: parsed.data.name,
+    p_email: parsed.data.email,
+    p_phone: parsed.data.phone || null,
+    p_subject: parsed.data.subject,
+    p_message: parsed.data.message,
   });
   if (error) return fail(error);
   return ok("Thanks — your message has been received. We usually reply within two working days.");

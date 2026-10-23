@@ -35,7 +35,7 @@ export default async function DashboardPage({ searchParams }: { searchParams: Pr
         description="Track your groups, respond to requests and review published dealer quotations."
         actions={
           <Button asChild>
-            <Link href="/vehicles">Find another group</Link>
+            <Link href="/groups">Find another group</Link>
           </Button>
         }
       />
@@ -100,7 +100,7 @@ export default async function DashboardPage({ searchParams }: { searchParams: Pr
             description="Find the exact variant you plan to buy and join its group — it's free."
             action={
               <Button asChild>
-                <Link href="/vehicles">Explore Group Deals</Link>
+                <Link href="/groups">Explore Group Deals</Link>
               </Button>
             }
           />
