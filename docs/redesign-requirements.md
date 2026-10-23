@@ -35,5 +35,55 @@ look and flow; do not copy its name, logo or wording.
 - **Region text:** the reference says Maharashtra; the current launch city is Surat, Gujarat.
 - **Two-wheelers:** the reference is cars-only. Keep the two-wheeler support and the brand-logo section that's already built?
 
-## 2. …
+## 2. "New Cars" listing page (reference: DriveBloc New Cars screenshot)
+
+A full catalogue page listing every car, with filters. It's reached from "New Cars" in the header.
+
+- **Header card:**
+  - Breadcrumb (Home / New Cars).
+  - Title "New Cars in India" and a count ("Showing 12+ new cars").
+  - Right side: a "Search brand or model…" box and a City box.
+- **Brand chip row:** logo + name pills (Honda, Hyundai, Kia, MG, Mahindra, Maruti Suzuki, Tata, Toyota, …). Clicking one filters by that brand.
+- **Quick-filter chip row:** SUV, Hatchback, Sedan, 7-seater MUV, Under ₹5 Lakh, ₹5–10 Lakh, ₹10–15 Lakh, Automatic, CNG, Diesel, Electric, Hybrid.
+- **Left sidebar "Filters" panel** with "Clear All". Checkbox groups (multi-select):
+  - **Brand**
+  - **Budget:** Under ₹5 L, ₹5–10 L, ₹10–15 L, ₹15–20 L, ₹20–30 L, Above ₹30 L
+  - **Body type:** Sedan, SUV, Hatchback, MUV, Coupe, Convertible, Pickup, Minivan
+  - **Fuel type:** Petrol, Diesel, Electric, Hybrid, CNG
+  - **Transmission:** Manual, Automatic
+  - On mobile, the sidebar becomes a slide-out filter drawer.
+- **Results area:** "Sort by" dropdown (Popularity, Price low→high, Price high→low, Newest, Mileage).
+- **Car cards (3 per row on desktop):**
+  - A real car photo.
+  - Wishlist (heart) and compare icons in the top-right corner.
+  - Brand name in small caps, model name in bold.
+  - Starting price in red: "₹7.50 Lakh ONWARDS".
+  - A spec grid: fuel type, transmission, engine cc, mileage (kmpl).
+  - Footer: "EMI from ₹12,310/mo" and a "View Details >" link.
+  - Hover: the card lifts and the photo zooms.
+- **Data has to be real and correct** for every car:
+  - photos;
+  - ex-showroom and on-road price;
+  - variants, specifications and features;
+  - mileage and EMI.
+  - The user suggests pulling these from online sources (CarDekho, Cars24, maker sites).
+- **"View Details" opens a car detail page** with full variant-wise prices (ex-showroom + on-road breakdown), specifications, features, a photo gallery and a "Join group" link for that car.
+
+### Open points to confirm before building
+
+- **Internet access:** this session's network blocks CarDekho, Cars24 and the maker websites, so nothing can be fetched yet. Two options:
+  - the user allows those domains in the environment's network settings;
+  - the user supplies the data (for example a spreadsheet of models, variants and prices).
+- **Photos are copyrighted:** CarDekho/Cars24 images can't be copied onto the site. Licensed sources are:
+  - maker press/media kits;
+  - dealer-supplied photos;
+  - the user's own photos;
+  - a licensed stock service.
+  Specs and ex-showroom prices are facts and can be used. Record the source and date for each price.
+- **On-road price** depends on city (RTO tax, insurance, charges). Confirm it's for Surat only (or which cities) and who keeps prices updated (the admin panel already supports per-city prices).
+- **EMI assumptions:** interest rate, tenure and down payment for "EMI from ₹…/mo" need to be fixed and shown as an estimate.
+- **Wishlist and Compare icons:** they need a wishlist (saved cars, login required) and a Compare page (ties in with requirement #1's Compare tab).
+- **Scope of the catalogue:** all cars sold in India, or a starting set (e.g. the top 30–50 models)? Two-wheelers too, with a matching "New Bikes" page?
+
+## 3. …
 (next requirement goes here)
