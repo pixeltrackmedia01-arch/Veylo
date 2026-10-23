@@ -18,7 +18,9 @@ export default defineConfig({
         extends: true,
         test: {
           name: "db",
-          include: ["tests/db/**/*.test.ts"],
+          // Requires a PostgreSQL server: TEST_DATABASE_URL=postgresql://user:pass@host:5432/postgres
+          include: process.env.TEST_DATABASE_URL ? ["tests/db/**/*.test.ts"] : [],
+          passWithNoTests: true,
           environment: "node",
           testTimeout: 60_000,
           hookTimeout: 120_000,
