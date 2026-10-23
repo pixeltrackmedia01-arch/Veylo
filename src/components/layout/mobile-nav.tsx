@@ -9,11 +9,13 @@ import { Button } from "@/components/ui/button";
 import { Sheet, SheetContent, SheetTitle, SheetTrigger } from "@/components/ui/sheet";
 
 const LINKS = [
-  { href: "/vehicles?category=car", label: "Cars" },
+  { href: "/", label: "Home" },
+  { href: "/groups", label: "Group Deals" },
+  { href: "/cars", label: "New Cars" },
   { href: "/vehicles?category=two_wheeler", label: "Two-Wheelers" },
-  { href: "/vehicles", label: "All group deals" },
+  { href: "/emi-calculator", label: "EMI Calculator" },
+  { href: "/compare", label: "Compare Cars" },
   { href: "/how-it-works", label: "How It Works" },
-  { href: "/about", label: "About" },
   { href: "/faq", label: "FAQ" },
   { href: "/contact", label: "Contact" },
 ];
@@ -24,7 +26,7 @@ export function MobileNav({ signedIn, isAdmin, isDealer }: { signedIn: boolean; 
   return (
     <Sheet open={open} onOpenChange={setOpen}>
       <SheetTrigger asChild>
-        <Button variant="ghost" size="icon" className="lg:hidden" aria-label="Open menu">
+        <Button variant="ghost" size="icon" className="xl:hidden" aria-label="Open menu">
           <Menu className="size-5" />
         </Button>
       </SheetTrigger>

@@ -21,13 +21,21 @@ export const siteConfig = {
   legalEntity: "GroupDrive (legal entity name to be confirmed)",
   // Brand colours are applied as CSS variables in the root layout.
   colors: {
-    primary: "#0f9f78",
-    primaryHover: "#0b8564",
+    primary: "#e11d2e",
+    primaryHover: "#c41626",
     primaryForeground: "#ffffff",
-    ink: "#0c1b33",
-    accentSoft: "#e7f6f1",
+    ink: "#111827",
+    accentSoft: "#fdecee",
   },
   defaultBatchTarget: 20,
+  // Default assumptions for EMI estimates (cards, car pages, EMI calculator).
+  emi: { annualRatePct: 9.5, tenureMonths: 60, downPaymentPct: 20 },
+  // Hero savings badge. The footnote must stay alongside any savings figure.
+  savings: {
+    badge: "Save up to ₹20,000 – ₹60,000*",
+    footnote:
+      "*Estimated saving per car based on group negotiations; the actual amount depends on the car, the dealer and how many buyers join. Savings are not guaranteed.",
+  },
 } as const;
 
 export type SiteConfig = typeof siteConfig;

@@ -36,6 +36,14 @@ export function formatINRCompact(value: number) {
   return formatINR(value);
 }
 
+/** Listing-style price, e.g. ₹7.50 Lakh or ₹1.25 Crore. */
+export function formatPriceLakh(value: number | null | undefined) {
+  if (value === null || value === undefined || !Number.isFinite(value)) return "—";
+  if (value >= 1e7) return `₹${(value / 1e7).toFixed(2)} Crore`;
+  if (value >= 1e5) return `₹${(value / 1e5).toFixed(2)} Lakh`;
+  return formatINR(value);
+}
+
 function trim(n: number) {
   return n.toFixed(2).replace(/\.?0+$/, "");
 }

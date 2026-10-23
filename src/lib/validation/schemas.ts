@@ -275,3 +275,19 @@ export const faqSchema = z.object({
 export function fieldErrors(error: z.ZodError) {
   return z.flattenError(error).fieldErrors as Record<string, string[] | undefined>;
 }
+
+export const LEAD_KINDS = ["on_road_price", "test_drive", "callback", "car_loan", "insurance", "best_price"] as const;
+
+export const leadSchema = z.object({
+  kind: z.enum(LEAD_KINDS),
+  name: z.string().trim().min(2, "Enter your name").max(120),
+  phone,
+  city: z.string().trim().max(80).optional(),
+  vehicleId: uuid.optional(),
+  variantId: uuid.optional(),
+  message: z.string().trim().max(1000).optional(),
+  consent: z.literal(true, { error: "Please agree to be contacted about this enquiry" }),
+  // Honeypot: real users never fill this hidden field.
+  website: z.string().max(0).optional(),
+});
+export type LeadInput = z.input<typeof leadSchema>;

@@ -5,6 +5,7 @@ import type { VehicleCategory } from "@/lib/types";
 import { cn } from "@/lib/utils";
 
 export function brandHref(brand: Brand, category: VehicleCategory) {
+  if (category === "car") return brand.slug ? `/cars?brand=${brand.slug}` : `/cars?q=${encodeURIComponent(brand.query)}`;
   return `/vehicles?${new URLSearchParams({ category, q: brand.query })}`;
 }
 

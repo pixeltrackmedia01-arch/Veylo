@@ -41,7 +41,7 @@ export function VehicleImage({
   const src = vehicleImageUrl(image) ?? fallbackFor(category, bodyType);
   const isPlaceholder = !image || image.is_placeholder || src.startsWith("/images/placeholders/");
   return (
-    <div className={cn("relative overflow-hidden bg-gradient-to-br from-slate-50 via-white to-emerald-50/60", className)}>
+    <div className={cn("relative overflow-hidden bg-gradient-to-br from-slate-50 via-white to-rose-50/50", className)}>
       <Image
         src={src}
         alt={image?.alt_text ?? alt}

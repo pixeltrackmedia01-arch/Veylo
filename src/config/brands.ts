@@ -12,17 +12,19 @@ export type Brand = {
   color: string;
   /** Wordmark text when there is no logo file; defaults to the first word of the name. */
   wordmark?: string;
+  /** Manufacturer slug in the catalogue, when the brand has listed cars. */
+  slug?: string;
 };
 
 export const CAR_BRANDS: Brand[] = [
-  { name: "Maruti Suzuki", query: "Maruti", logo: "/brands/suzuki.svg", color: "#E30613" },
-  { name: "Hyundai", query: "Hyundai", logo: "/brands/hyundai.svg", color: "#002C5E" },
-  { name: "Tata Motors", query: "Tata", logo: "/brands/tata.svg", color: "#486AAE" },
-  { name: "Mahindra", query: "Mahindra", logo: "/brands/mahindra.svg", color: "#DD052B" },
-  { name: "Toyota", query: "Toyota", logo: "/brands/toyota.svg", color: "#EB0A1E" },
-  { name: "Kia", query: "Kia", logo: "/brands/kia.svg", color: "#05141F" },
-  { name: "Honda Cars", query: "Honda", logo: "/brands/honda.svg", color: "#E40521" },
-  { name: "MG Motor", query: "MG", logo: "/brands/mg.svg", color: "#FF0000" },
+  { name: "Maruti Suzuki", query: "Maruti", logo: "/brands/suzuki.svg", color: "#E30613", slug: "maruti-suzuki" },
+  { name: "Hyundai", query: "Hyundai", logo: "/brands/hyundai.svg", color: "#002C5E", slug: "hyundai" },
+  { name: "Tata Motors", query: "Tata", logo: "/brands/tata.svg", color: "#486AAE", slug: "tata-motors" },
+  { name: "Mahindra", query: "Mahindra", logo: "/brands/mahindra.svg", color: "#DD052B", slug: "mahindra" },
+  { name: "Toyota", query: "Toyota", logo: "/brands/toyota.svg", color: "#EB0A1E", slug: "toyota" },
+  { name: "Kia", query: "Kia", logo: "/brands/kia.svg", color: "#05141F", slug: "kia" },
+  { name: "Honda Cars", query: "Honda", logo: "/brands/honda.svg", color: "#E40521", slug: "honda-cars" },
+  { name: "MG Motor", query: "MG", logo: "/brands/mg.svg", color: "#FF0000", slug: "mg-motor" },
   { name: "Renault", query: "Renault", logo: "/brands/renault.svg", color: "#000000" },
   { name: "Nissan", query: "Nissan", logo: "/brands/nissan.svg", color: "#C3002F" },
   { name: "Volkswagen", query: "Volkswagen", logo: "/brands/volkswagen.svg", color: "#151F5D" },
@@ -54,3 +56,8 @@ export const TWO_WHEELER_BRANDS: Brand[] = [
   { name: "Vespa", query: "Vespa", logo: "/brands/vespa.svg", color: "#5E8C7A" },
   { name: "Ducati", query: "Ducati", logo: "/brands/ducati.svg", color: "#CC0000" },
 ];
+
+/** Logo/wordmark for a catalogue manufacturer slug, if we have one. */
+export function brandForManufacturer(slug: string) {
+  return CAR_BRANDS.find((b) => b.slug === slug);
+}

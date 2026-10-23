@@ -104,11 +104,21 @@ export interface Vehicle {
   body_type: string | null;
   description: string | null;
   highlights: string[];
+  summary: string | null;
+  colours: VehicleColour[];
+  warranty: string | null;
+  popularity: number;
+  launched_on: string | null;
   status: PublishStatus;
   is_demo: boolean;
   published_at: string | null;
   created_at: string;
   updated_at: string;
+}
+
+export interface VehicleColour {
+  name: string;
+  hex: string;
 }
 
 export interface VehicleVariant {
@@ -120,6 +130,8 @@ export interface VehicleVariant {
   transmission: string | null;
   engine_cc: number | null;
   specifications: Record<string, string | number>;
+  /** Grouped feature list, e.g. {"Safety": ["6 airbags", ...]}. */
+  features: Record<string, string[]>;
   specs_source: string | null;
   specs_verified_at: string | null;
   status: PublishStatus;
@@ -385,6 +397,30 @@ export interface Faq {
   category: string;
   sort_order: number;
   is_published: boolean;
+  vehicle_id: string | null;
+  featured: boolean;
+  slug: string | null;
+  helpful_count: number;
+  not_helpful_count: number;
+}
+
+export type LeadKind = "on_road_price" | "test_drive" | "callback" | "car_loan" | "insurance" | "best_price";
+export type LeadStatus = "new" | "contacted" | "converted" | "closed";
+
+export interface Lead {
+  id: string;
+  kind: LeadKind;
+  name: string;
+  phone: string;
+  email: string | null;
+  city: string | null;
+  vehicle_id: string | null;
+  variant_id: string | null;
+  message: string | null;
+  user_id: string | null;
+  status: LeadStatus;
+  created_at: string;
+  updated_at: string;
 }
 
 export interface ContentPage {

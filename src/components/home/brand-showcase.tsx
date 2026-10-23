@@ -35,7 +35,7 @@ export function BrandShowcase() {
             <BrandTile key={b.name} brand={b} category="car" />
           ))}
         </div>
-        <ViewAll href="/vehicles?category=car" label="View all cars" />
+        <ViewAll href="/cars" label="View all cars" />
       </TabsContent>
       <TabsContent value="two_wheeler" className="mt-8">
         <div className="grid grid-cols-3 gap-2.5 sm:grid-cols-4 sm:gap-4 lg:grid-cols-7">

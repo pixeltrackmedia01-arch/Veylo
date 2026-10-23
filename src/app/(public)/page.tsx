@@ -1,7 +1,10 @@
 import {
   ArrowRight,
   BadgeCheck,
+  BadgePercent,
   Car,
+  ChevronDown,
+  CircleCheck,
   FileSearch,
   Handshake,
   ListChecks,
@@ -14,20 +17,21 @@ import Link from "next/link";
 import { BatchCard } from "@/components/catalogue/batch-card";
 import { BrandMarquee } from "@/components/home/brand-marquee";
 import { BrandShowcase } from "@/components/home/brand-showcase";
-import { HeroSearch } from "@/components/home/hero-search";
+import { HeroTabs } from "@/components/home/hero-tabs";
+import { CarArt } from "@/components/shared/car-art";
 import { SetupNotice } from "@/components/shared/setup-notice";
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion";
 import { Button } from "@/components/ui/button";
 import { siteConfig } from "@/config/site";
 import { getFaqs, getPlatformStats, getPublicSetting, listPublicBatches } from "@/lib/data/catalogue";
+import { getCars } from "@/lib/data/cars";
 import { isSupabaseConfigured } from "@/lib/env";
-import { formatNumber } from "@/lib/format";
 
 const HERO_DEFAULT = {
-  eyebrow: `Now live in ${siteConfig.launchCity.name}`,
-  headline: "Buy your next vehicle together, decide with clearer quotes.",
+  eyebrow: `Group buying for new cars in ${siteConfig.launchCity.name}`,
+  headline: "Buy Your New Car as a Group",
   subheadline:
-    "Join a free buyer group for the exact model and variant you want. When the group closes, we ask authorised dealerships for itemised quotations that we review before you see them.",
+    "Join other buyers who want the same car in your city. We take the group to authorised dealers and bring back their best offer.",
 };
 
 const STEPS = [
@@ -71,104 +75,93 @@ const TRUST_POINTS = [
   "We earn a commission from a dealership only after a verified completed sale, under a written agreement with that dealership.",
   "Only verified participants count toward a group's target — never page views or unverified sign-ups.",
   "Every quotation is reviewed before publication. Drafts are never shown as offers.",
-  "We show savings only against a verified reference price for the same variant and city.",
+  "Headline savings are estimates. On a group page we show a saving only against a verified reference price for the same variant and city.",
   "You buy directly from an authorised dealership, which confirms the final price, offers, stock, financing, insurance, registration and delivery.",
 ];
 
 export default async function HomePage() {
   const configured = isSupabaseConfigured();
-  const [hero, featured, stats, faqs] = configured
+  const [hero, heroImage, featured, stats, faqs, cars] = configured
     ? await Promise.all([
         getPublicSetting("home.hero", HERO_DEFAULT),
+        getPublicSetting<{ url?: string; alt?: string } | null>("home.hero_image", null),
         listPublicBatches({ status: "open", limit: 6 }),
         getPlatformStats(),
         getFaqs(),
+        getCars(),
       ])
-    : [HERO_DEFAULT, [], null, []];
+    : [HERO_DEFAULT, null, [], null, [], []];
+
+  const carBrands = [...new Map(cars.map((c) => [c.manufacturer.slug, c.manufacturer.name])).entries()]
+    .sort((a, b) => a[1].localeCompare(b[1]))
+    .map(([value, label]) => ({ value, label }));
+  const carOptions = [...cars]
+    .sort((a, b) => `${a.manufacturer.name} ${a.model_name}`.localeCompare(`${b.manufacturer.name} ${b.model_name}`))
+    .map((c) => ({ value: c.slug, label: `${c.manufacturer.name} ${c.model_name}` }));
 
   const sortedFeatured = [...featured].sort(
     (a, b) => b.verified_participant_count / b.target_participants - a.verified_participant_count / a.target_participants,
   );
-  const spotlight = sortedFeatured[0];
 
   return (
     <>
       {/* Hero */}
-      <section className="relative isolate overflow-hidden bg-ink text-white">
-        <div className="bg-grid absolute inset-0 -z-10 [mask-image:radial-gradient(ellipse_at_top,black,transparent_75%)]" aria-hidden="true" />
-        <div className="absolute -top-40 -left-40 -z-10 size-[560px] rounded-full bg-primary/30 blur-[120px]" aria-hidden="true" />
-        <div className="absolute -right-40 -bottom-48 -z-10 size-[520px] rounded-full bg-sky-500/20 blur-[120px]" aria-hidden="true" />
-        <div className="container-page grid items-center gap-12 py-14 sm:py-20 lg:grid-cols-[1.1fr_1fr] lg:py-24">
-          <div className="space-y-7">
-            <span className="inline-flex items-center gap-2 rounded-full border border-white/15 bg-white/5 px-3.5 py-1.5 text-sm font-semibold text-emerald-200 backdrop-blur">
-              <span className="relative flex size-2">
-                <span className="absolute inline-flex size-full animate-ping rounded-full bg-emerald-400 opacity-75" />
-                <span className="relative inline-flex size-2 rounded-full bg-emerald-400" />
-              </span>
-              {hero.eyebrow}
+      <section className="relative isolate flex min-h-[calc(100svh-4rem)] items-center overflow-hidden bg-[#0b0d10] text-white">
+        {heroImage?.url ? (
+          <Image src={heroImage.url} alt={heroImage.alt ?? ""} fill priority sizes="100vw" className="-z-20 object-cover" unoptimized />
+        ) : (
+          <div className="absolute inset-0 -z-20" aria-hidden="true">
+            <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_70%_40%,#3a1016_0%,#0b0d10_60%)]" />
+            <div className="absolute inset-x-0 bottom-0 h-1/3 bg-gradient-to-t from-black/80 to-transparent" />
+            <div className="absolute right-[-12%] bottom-[6%] w-[95%] max-w-[1100px] opacity-40 blur-[1px] sm:right-[-6%] lg:w-[70%]">
+              <CarArt body="sedan" color="#2a2f38" />
+            </div>
+            <div className="absolute bottom-[10%] left-0 h-px w-full bg-gradient-to-r from-transparent via-white/25 to-transparent" />
+          </div>
+        )}
+        <div className="absolute inset-0 -z-10 bg-black/55" aria-hidden="true" />
+
+        <div className="container-page flex flex-col items-center py-16 text-center sm:py-20">
+          <span className="inline-flex items-center gap-2 rounded-full border border-white/20 bg-white/10 px-4 py-1.5 text-sm font-semibold backdrop-blur">
+            <span className="relative flex size-2">
+              <span className="absolute inline-flex size-full animate-ping rounded-full bg-emerald-400 opacity-75" />
+              <span className="relative inline-flex size-2 rounded-full bg-emerald-400" />
             </span>
-            <h1 className="text-balance text-4xl leading-[1.05] font-extrabold text-white sm:text-5xl lg:text-6xl">
-              {hero.headline}
-            </h1>
-            <p className="max-w-xl text-lg leading-8 text-white/70">{hero.subheadline}</p>
-            <ul className="flex flex-wrap gap-x-6 gap-y-3 text-sm font-medium text-white/80">
-              {[
-                { icon: BadgeCheck, label: "₹0 joining fee" },
-                { icon: Users, label: "Groups of 20 verified buyers" },
-                { icon: ShieldCheck, label: "Reviewed, itemised quotes" },
-              ].map((t) => (
-                <li key={t.label} className="flex items-center gap-2">
-                  <t.icon className="size-5 text-emerald-400" aria-hidden="true" /> {t.label}
-                </li>
-              ))}
-            </ul>
-            {stats ? (
-              <dl className="grid max-w-md grid-cols-3 gap-4 border-t border-white/10 pt-6">
-                {[
-                  { value: stats.openGroups, label: "Open groups" },
-                  { value: stats.verifiedParticipants, label: "Buyers in groups" },
-                  { value: stats.vehicles, label: "Vehicles listed" },
-                ].map((s) => (
-                  <div key={s.label}>
-                    <dt className="sr-only">{s.label}</dt>
-                    <dd className="font-display text-3xl font-extrabold text-white">{formatNumber(s.value)}</dd>
-                    <dd className="text-xs text-white/60">{s.label}</dd>
-                  </div>
-                ))}
-              </dl>
-            ) : null}
+            {hero.eyebrow}
+          </span>
+          <h1 className="mt-6 max-w-5xl text-balance text-4xl leading-[1.05] font-extrabold text-white drop-shadow-lg sm:text-6xl lg:text-7xl">
+            {hero.headline}
+          </h1>
+          {siteConfig.savings.badge ? (
+            <p className="mt-7 inline-flex items-center gap-2.5 rounded-full border border-emerald-400/40 bg-emerald-500/15 px-5 py-2.5 text-lg font-extrabold text-white shadow-[0_0_40px_-8px] shadow-emerald-400/60 sm:text-2xl">
+              <BadgePercent className="size-6 text-emerald-300" aria-hidden="true" />
+              {siteConfig.savings.badge}
+            </p>
+          ) : null}
+          <span className="mt-7 h-1 w-24 rounded-full bg-primary" aria-hidden="true" />
+          <p className="mt-6 max-w-2xl text-lg leading-8 text-white/85 sm:text-xl">{hero.subheadline}</p>
+
+          <div className="mt-9 w-full">
+            <HeroTabs
+              brands={carBrands}
+              cars={carOptions}
+              openGroups={stats?.openGroups ?? 0}
+            />
           </div>
 
-          <div className="relative">
-            <HeroSearch />
-            {spotlight ? (
-              <Link
-                href={`/groups/${spotlight.slug}`}
-                className="animate-float group mt-5 flex items-center gap-4 rounded-2xl border border-white/10 bg-white/10 p-4 backdrop-blur transition-colors hover:bg-white/15"
-              >
-                <span className="flex size-12 shrink-0 items-center justify-center rounded-xl bg-emerald-400/15 text-emerald-300">
-                  <Users className="size-6" aria-hidden="true" />
-                </span>
-                <span className="min-w-0 flex-1">
-                  <span className="block text-xs font-semibold tracking-wider text-emerald-300 uppercase">Filling fast</span>
-                  <span className="block truncate font-semibold text-white">
-                    {spotlight.variant.vehicle.manufacturer.name} {spotlight.variant.vehicle.model_name} · {spotlight.variant.name}
-                  </span>
-                  <span className="mt-2 block h-1.5 overflow-hidden rounded-full bg-white/15">
-                    <span
-                      className="block h-full rounded-full bg-gradient-to-r from-emerald-400 to-teal-300"
-                      style={{ width: `${Math.min(100, (spotlight.verified_participant_count / spotlight.target_participants) * 100)}%` }}
-                    />
-                  </span>
-                  <span className="mt-1.5 block text-xs text-white/65">
-                    {spotlight.verified_participant_count} of {spotlight.target_participants} verified buyers joined
-                    {spotlight.is_demo ? " · demo" : ""}
-                  </span>
-                </span>
-                <ArrowRight className="size-5 text-white/60 transition-transform group-hover:translate-x-1 group-hover:text-white" aria-hidden="true" />
-              </Link>
-            ) : null}
-          </div>
+          <ul className="mt-7 flex flex-wrap justify-center gap-x-6 gap-y-2 text-[15px] font-medium text-white/90">
+            {["Free to join", "You decide whether to buy", "Buy direct from the dealer"].map((t) => (
+              <li key={t} className="flex items-center gap-2">
+                <CircleCheck className="size-5 text-emerald-400" aria-hidden="true" /> {t}
+              </li>
+            ))}
+          </ul>
+          {siteConfig.savings.badge ? (
+            <p className="mt-4 max-w-2xl text-xs leading-5 text-white/60">{siteConfig.savings.footnote}</p>
+          ) : null}
+          <a href="#brands-heading" className="mt-6 animate-bounce text-white/70 transition-colors hover:text-white" aria-label="Scroll down">
+            <ChevronDown className="size-7" aria-hidden="true" />
+          </a>
         </div>
       </section>
 
