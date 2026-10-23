@@ -85,5 +85,41 @@ A full catalogue page listing every car, with filters. It's reached from "New Ca
 - **Wishlist and Compare icons:** they need a wishlist (saved cars, login required) and a Compare page (ties in with requirement #1's Compare tab).
 - **Scope of the catalogue:** all cars sold in India, or a starting set (e.g. the top 30–50 models)? Two-wheelers too, with a matching "New Bikes" page?
 
-## 3. …
+## 3. Car detail ("product") page (reference: DriveBloc Bolero Neo screenshot)
+
+Clicking any car card opens its own page (e.g. `/cars/mahindra-bolero-neo`).
+
+- **Sticky section tab bar at the top:** Photos, Colours, Price/variants, On-road price, Specifications, Warranty, EMI, Questions. Clicking a tab scrolls to that section, and the active tab highlights while scrolling.
+- **Main column (left, wide):**
+  1. **Photo gallery:**
+     - A large main image with left/right arrows, an "All photos (n)" button that opens a full-screen lightbox, and an image counter (e.g. 1/24).
+     - A thumbnail strip below (exterior, interior, etc.), with a small "images are for illustration" note.
+  2. **Colours:** "<Model> Colours (n)" with a large car image in the selected colour and the colour name. Round colour swatches switch the image; prev/next arrows.
+  3. **One-line summary:** e.g. "The Mahindra Bolero Neo is a 7-seat body-on-frame SUV with a 1.5 mHawk100 diesel and a 5-speed manual."
+  4. **Key highlights:** an icon grid of engine (cc), power (bhp), fuel, transmission, body type and seating.
+  5. **Price list table:** every variant, with variant name, fuel, transmission, mileage, power and ex-showroom price ("Ex-showroom, check on-road"). The cheapest or recommended variant is highlighted. Clicking a row selects that variant for the sections below. A note says prices are indicative and the source/date are shown.
+  6. **"Best price for <variant> in <city> this month" callout:** a red-bordered box with a "Check my price" button. This leads to joining the group or a lead form.
+  7. **Specifications for the selected variant:** a two-column table:
+     - ex-showroom price, fuel, engine, max power, max torque;
+     - length, width, height, wheelbase, fuel tank;
+     - body type, transmission, seating.
+  8. **Features of the selected variant**, grouped into collapsible categories (Comfort, Exterior, Safety, Infotainment, …) with ticks.
+  9. **Also implied by the tab bar:** an on-road price breakdown (ex-showroom + RTO + insurance + other charges, for the chosen city), warranty details, an EMI calculator (loan amount, rate and tenure sliders) and a Questions/FAQ section.
+- **Right column (sticky sidebar):**
+  - **Group deal card** (green), e.g. "Mahindra group deal open in <city> — n of 20 buyers joined…", with a progress bar and a green "Join the Group" button. It connects to the existing batch/join logic.
+  - **"Interested in <model>?" lead card:**
+    - "Tell us your details to get the best price in your city";
+    - a red "Get On-Road Price" button, a "Book Test Drive" button and a "Call Me Back" button;
+    - small "Car Loan" and "Insurance" links.
+    - Each button opens a lead form (name, phone, city), which is stored and visible in the admin panel (and to dealers where relevant).
+- **Mobile:** the sidebar moves below the gallery, or becomes a sticky bottom bar with "Join Group" / "Get Price".
+
+### Open points to confirm before building
+
+- **Data per car:** the gallery, colour images (one per colour), full variant price lists, specs, features and warranty all need real data and licensed images. See the access and copyright notes in #2.
+- **Lead buttons:** "Get On-Road Price", "Book Test Drive", "Call Me Back", "Car Loan" and "Insurance" need a decision on who receives these leads (admin only, or forwarded to dealers) and how (dashboard, email, WhatsApp?).
+- **Questions section:** fixed FAQs written by admin, or user-submitted Q&A with moderation?
+- **Page URL scheme:** `/cars/<brand>-<model>` alongside the existing `/vehicles/<slug>`. The plan is to merge them into one.
+
+## 4. …
 (next requirement goes here)
