@@ -328,3 +328,41 @@ describe("audit log integrity", () => {
     expect(await q(db.pool, w.participants[0], `select id from public.audit_logs`)).toHaveLength(0);
   });
 });
+
+describe("atomic quotation editing", () => {
+  it("replaces line items and recomputes totals in one call, only while editable", async () => {
+    const cat2 = await createCatalogue(db.pool);
+    const dealer = await createDealer(db.pool, cat2);
+    const staff = await createUser(db.pool);
+    await linkDealerUser(db.pool, dealer, staff);
+    const batch = await createBatch(db.pool, cat2, { target: 2, minimum: 1 });
+    await fillBatch(db.pool, batch, 2);
+    const { rows } = await db.pool.query(`select id from public.quotation_requests where batch_id = $1`, [batch]);
+    const [quote] = await q<{ id: string }>(db.pool, staff, `select (public.start_quotation($1)).id as id`, [rows[0].id]);
+
+    const items = [
+      { category: "ex_showroom", label: "Ex-showroom", amount: 500000, is_included: true },
+      { category: "insurance", label: "Insurance", amount: 20000.5, is_included: true },
+      { category: "accessories", label: "Mats", amount: 3000, is_included: false },
+    ];
+    const [saved] = await q<{ total_payable: string }>(db.pool, staff,
+      `select (public.save_quotation($1, $2::jsonb, $3::jsonb)).total_payable`,
+      [quote.id, JSON.stringify({ valid_until: "2099-01-01", quote_reference: "R1" }), JSON.stringify(items)]);
+    expect(Number(saved.total_payable)).toBe(520000.5);
+
+    // A malformed item aborts the whole save; previous items survive.
+    await expectDbError(
+      q(db.pool, staff, `select public.save_quotation($1, $2::jsonb, $3::jsonb)`,
+        [quote.id, JSON.stringify({ valid_until: "2099-01-01" }), JSON.stringify([{ category: "bogus", label: "x", amount: 1 }])]),
+      "invalid input value",
+    );
+    const { rows: li } = await db.pool.query(`select count(*)::int as n from public.quotation_line_items where quotation_id = $1`, [quote.id]);
+    expect(li[0].n).toBe(3);
+
+    await q(db.pool, staff, `select public.submit_quotation($1)`, [quote.id]);
+    await expectDbError(
+      q(db.pool, staff, `select public.save_quotation($1, $2::jsonb, $3::jsonb)`, [quote.id, "{}", JSON.stringify(items)]),
+      "quotation_locked",
+    );
+  });
+});

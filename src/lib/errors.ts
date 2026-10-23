@@ -61,6 +61,8 @@ const MESSAGES: Record<string, string> = {
   membership_not_found: "Membership not found.",
   invalid_action: "Unknown action.",
   rate_limited: "Too many attempts. Please wait a moment and try again.",
+  invalid_line_items: "Add between 1 and 40 valid line items.",
+  invalid_document_path: "Invalid document upload.",
 };
 
 export function friendlyError(error: unknown, fallback = "Something went wrong. Please try again.") {

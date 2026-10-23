@@ -45,3 +45,12 @@ describe("utils", () => {
     expect(safeRedirectPath("/\\evil.com")).toBe("/dashboard");
   });
 });
+
+import { isoToISTLocal, istLocalToISO } from "./format";
+
+describe("IST conversion", () => {
+  it("treats datetime-local values as India time", () => {
+    expect(istLocalToISO("2026-11-01T18:30")).toBe("2026-11-01T13:00:00.000Z");
+    expect(isoToISTLocal("2026-11-01T13:00:00.000Z")).toBe("2026-11-01T18:30");
+  });
+});

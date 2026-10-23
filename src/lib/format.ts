@@ -72,3 +72,27 @@ export function timeRemaining(deadline: string | Date, now: Date = new Date()) {
 export function todayInIndia(now: Date = new Date()) {
   return new Intl.DateTimeFormat("en-CA", { timeZone: APP_TIME_ZONE }).format(now);
 }
+
+/** Interprets a `datetime-local` value (no zone) as India time and returns ISO-8601 UTC. */
+export function istLocalToISO(value: string) {
+  const withZone = /[zZ]|[+-]\d{2}:\d{2}$/.test(value) ? value : `${value.length === 16 ? `${value}:00` : value}+05:30`;
+  const date = new Date(withZone);
+  if (Number.isNaN(date.getTime())) throw new Error("Invalid date");
+  return date.toISOString();
+}
+
+/** ISO timestamp → `datetime-local` value in India time. */
+export function isoToISTLocal(iso: string) {
+  const d = new Date(new Date(iso).getTime() + 5.5 * 36e5);
+  return d.toISOString().slice(0, 16);
+}
+
+/** Date `days` ago in India as YYYY-MM-DD. */
+export function dateDaysAgo(days: number, now: Date = new Date()) {
+  return todayInIndia(new Date(now.getTime() - days * 864e5));
+}
+
+/** ISO timestamp `days` from now. */
+export function isoDaysFromNow(days: number, now: Date = new Date()) {
+  return new Date(now.getTime() + days * 864e5).toISOString();
+}

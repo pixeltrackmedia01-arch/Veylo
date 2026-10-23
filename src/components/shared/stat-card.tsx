@@ -22,7 +22,7 @@ export function StatCard({
         {Icon ? <Icon className="size-4 text-muted-foreground" aria-hidden="true" /> : null}
       </div>
       <p className="mt-2 font-display text-2xl font-bold text-ink tabular-nums">{value}</p>
-      {hint ? <p className="mt-1 text-xs text-muted-foreground">{hint}</p> : null}
+      {hint ? <div className="mt-1 text-xs text-muted-foreground">{hint}</div> : null}
     </div>
   );
 }
