@@ -1,7 +1,6 @@
 import {
   ArrowRight,
   BadgeCheck,
-  Bike,
   Car,
   FileSearch,
   Handshake,
@@ -10,8 +9,12 @@ import {
   ShieldCheck,
   Users,
 } from "lucide-react";
+import Image from "next/image";
 import Link from "next/link";
 import { BatchCard } from "@/components/catalogue/batch-card";
+import { BrandMarquee } from "@/components/home/brand-marquee";
+import { BrandShowcase } from "@/components/home/brand-showcase";
+import { HeroSearch } from "@/components/home/hero-search";
 import { SetupNotice } from "@/components/shared/setup-notice";
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion";
 import { Button } from "@/components/ui/button";
@@ -86,102 +89,145 @@ export default async function HomePage() {
   const sortedFeatured = [...featured].sort(
     (a, b) => b.verified_participant_count / b.target_participants - a.verified_participant_count / a.target_participants,
   );
+  const spotlight = sortedFeatured[0];
 
   return (
     <>
       {/* Hero */}
-      <section className="relative overflow-hidden border-b bg-gradient-to-b from-accent/60 via-white to-white">
-        <div className="pointer-events-none absolute -top-32 -right-32 size-[520px] rounded-full bg-primary/10 blur-3xl" aria-hidden="true" />
-        <div className="container-page relative grid items-center gap-12 py-14 sm:py-20 lg:grid-cols-[1.15fr_1fr] lg:py-24">
+      <section className="relative isolate overflow-hidden bg-ink text-white">
+        <div className="bg-grid absolute inset-0 -z-10 [mask-image:radial-gradient(ellipse_at_top,black,transparent_75%)]" aria-hidden="true" />
+        <div className="absolute -top-40 -left-40 -z-10 size-[560px] rounded-full bg-primary/30 blur-[120px]" aria-hidden="true" />
+        <div className="absolute -right-40 -bottom-48 -z-10 size-[520px] rounded-full bg-sky-500/20 blur-[120px]" aria-hidden="true" />
+        <div className="container-page grid items-center gap-12 py-14 sm:py-20 lg:grid-cols-[1.1fr_1fr] lg:py-24">
           <div className="space-y-7">
-            <span className="inline-flex items-center gap-2 rounded-full border border-primary/20 bg-white px-3 py-1 text-sm font-semibold text-accent-foreground shadow-sm">
-              <span className="size-2 rounded-full bg-primary" aria-hidden="true" /> {hero.eyebrow}
+            <span className="inline-flex items-center gap-2 rounded-full border border-white/15 bg-white/5 px-3.5 py-1.5 text-sm font-semibold text-emerald-200 backdrop-blur">
+              <span className="relative flex size-2">
+                <span className="absolute inline-flex size-full animate-ping rounded-full bg-emerald-400 opacity-75" />
+                <span className="relative inline-flex size-2 rounded-full bg-emerald-400" />
+              </span>
+              {hero.eyebrow}
             </span>
-            <h1 className="text-balance text-4xl leading-[1.08] font-extrabold sm:text-5xl lg:text-6xl">{hero.headline}</h1>
-            <p className="max-w-xl text-lg leading-8 text-foreground/75">{hero.subheadline}</p>
-            <div className="flex flex-col gap-3 sm:flex-row">
-              <Button asChild size="lg">
-                <Link href="/vehicles">
-                  Explore Group Deals <ArrowRight aria-hidden="true" />
-                </Link>
-              </Button>
-              <Button asChild size="lg" variant="outline">
-                <Link href="/how-it-works">How It Works</Link>
-              </Button>
-            </div>
-            <p className="text-sm text-muted-foreground">
-              Free to join · No obligation to buy · Discounts are not guaranteed
-            </p>
+            <h1 className="text-balance text-4xl leading-[1.05] font-extrabold text-white sm:text-5xl lg:text-6xl">
+              {hero.headline}
+            </h1>
+            <p className="max-w-xl text-lg leading-8 text-white/70">{hero.subheadline}</p>
+            <ul className="flex flex-wrap gap-x-6 gap-y-3 text-sm font-medium text-white/80">
+              {[
+                { icon: BadgeCheck, label: "₹0 joining fee" },
+                { icon: Users, label: "Groups of 20 verified buyers" },
+                { icon: ShieldCheck, label: "Reviewed, itemised quotes" },
+              ].map((t) => (
+                <li key={t.label} className="flex items-center gap-2">
+                  <t.icon className="size-5 text-emerald-400" aria-hidden="true" /> {t.label}
+                </li>
+              ))}
+            </ul>
+            {stats ? (
+              <dl className="grid max-w-md grid-cols-3 gap-4 border-t border-white/10 pt-6">
+                {[
+                  { value: stats.openGroups, label: "Open groups" },
+                  { value: stats.verifiedParticipants, label: "Buyers in groups" },
+                  { value: stats.vehicles, label: "Vehicles listed" },
+                ].map((s) => (
+                  <div key={s.label}>
+                    <dt className="sr-only">{s.label}</dt>
+                    <dd className="font-display text-3xl font-extrabold text-white">{formatNumber(s.value)}</dd>
+                    <dd className="text-xs text-white/60">{s.label}</dd>
+                  </div>
+                ))}
+              </dl>
+            ) : null}
           </div>
 
           <div className="relative">
-            <div className="rounded-3xl border bg-white p-6 shadow-[var(--shadow-lift)] sm:p-8">
-              <p className="text-sm font-semibold text-muted-foreground">How a group progresses</p>
-              <ol className="mt-5 space-y-5">
-                {[
-                  { label: "Verified buyers join", detail: "Up to 20 per group, free of charge" },
-                  { label: "Group closes", detail: "At 20 verified buyers or the deadline" },
-                  { label: "Dealers quote", detail: "Itemised quotations from authorised dealers" },
-                  { label: "We review & publish", detail: "Only reviewed quotations reach you" },
-                  { label: "You decide", detail: "Buy directly from the dealership — or don't" },
-                ].map((s, i) => (
-                  <li key={s.label} className="flex gap-4">
-                    <span className="flex size-8 shrink-0 items-center justify-center rounded-full bg-accent text-sm font-bold text-accent-foreground">
-                      {i + 1}
-                    </span>
-                    <div>
-                      <p className="font-semibold text-ink">{s.label}</p>
-                      <p className="text-sm text-muted-foreground">{s.detail}</p>
-                    </div>
-                  </li>
-                ))}
-              </ol>
-              {stats ? (
-                <div className="mt-6 grid grid-cols-3 gap-3 border-t pt-5 text-center">
-                  <div>
-                    <p className="font-display text-2xl font-bold text-ink">{formatNumber(stats.openGroups)}</p>
-                    <p className="text-xs text-muted-foreground">Open groups</p>
-                  </div>
-                  <div>
-                    <p className="font-display text-2xl font-bold text-ink">{formatNumber(stats.verifiedParticipants)}</p>
-                    <p className="text-xs text-muted-foreground">Verified in open groups</p>
-                  </div>
-                  <div>
-                    <p className="font-display text-2xl font-bold text-ink">{formatNumber(stats.vehicles)}</p>
-                    <p className="text-xs text-muted-foreground">Vehicles listed</p>
-                  </div>
-                </div>
-              ) : null}
-            </div>
+            <HeroSearch />
+            {spotlight ? (
+              <Link
+                href={`/groups/${spotlight.slug}`}
+                className="animate-float group mt-5 flex items-center gap-4 rounded-2xl border border-white/10 bg-white/10 p-4 backdrop-blur transition-colors hover:bg-white/15"
+              >
+                <span className="flex size-12 shrink-0 items-center justify-center rounded-xl bg-emerald-400/15 text-emerald-300">
+                  <Users className="size-6" aria-hidden="true" />
+                </span>
+                <span className="min-w-0 flex-1">
+                  <span className="block text-xs font-semibold tracking-wider text-emerald-300 uppercase">Filling fast</span>
+                  <span className="block truncate font-semibold text-white">
+                    {spotlight.variant.vehicle.manufacturer.name} {spotlight.variant.vehicle.model_name} · {spotlight.variant.name}
+                  </span>
+                  <span className="mt-2 block h-1.5 overflow-hidden rounded-full bg-white/15">
+                    <span
+                      className="block h-full rounded-full bg-gradient-to-r from-emerald-400 to-teal-300"
+                      style={{ width: `${Math.min(100, (spotlight.verified_participant_count / spotlight.target_participants) * 100)}%` }}
+                    />
+                  </span>
+                  <span className="mt-1.5 block text-xs text-white/65">
+                    {spotlight.verified_participant_count} of {spotlight.target_participants} verified buyers joined
+                    {spotlight.is_demo ? " · demo" : ""}
+                  </span>
+                </span>
+                <ArrowRight className="size-5 text-white/60 transition-transform group-hover:translate-x-1 group-hover:text-white" aria-hidden="true" />
+              </Link>
+            ) : null}
           </div>
+        </div>
+      </section>
+
+      {/* Brand strip */}
+      <section className="border-b bg-white" aria-label="Brands available">
+        <div className="container-page">
+          <BrandMarquee />
         </div>
       </section>
 
       <div className="container-page">{!configured ? <SetupNotice /> : null}</div>
 
+      {/* Brands */}
+      <section className="container-page py-16 sm:py-20" aria-labelledby="brands-heading">
+        <BrandShowcase />
+      </section>
+
       {/* Categories */}
-      <section className="container-page py-14" aria-labelledby="categories-heading">
-        <h2 id="categories-heading" className="text-2xl font-bold sm:text-3xl">
-          What are you planning to buy?
+      <section className="container-page pb-16" aria-labelledby="categories-heading">
+        <h2 id="categories-heading" className="sr-only">
+          Browse by vehicle type
         </h2>
-        <div className="mt-6 grid gap-4 sm:grid-cols-2">
+        <div className="grid gap-5 md:grid-cols-2">
           {[
-            { href: "/vehicles?category=car", icon: Car, title: "Cars", body: "Hatchbacks, sedans and SUVs" },
-            { href: "/vehicles?category=two_wheeler", icon: Bike, title: "Two-Wheelers", body: "Scooters and motorcycles" },
+            {
+              href: "/vehicles?category=car",
+              image: "/images/placeholders/suv.svg",
+              title: "Cars",
+              body: "Hatchbacks, sedans and SUVs",
+              tint: "from-emerald-50 to-teal-100",
+            },
+            {
+              href: "/vehicles?category=two_wheeler",
+              image: "/images/placeholders/scooter.svg",
+              title: "Two-wheelers",
+              body: "Scooters, motorcycles and EVs",
+              tint: "from-sky-50 to-indigo-100",
+            },
           ].map((c) => (
             <Link
               key={c.href}
               href={c.href}
-              className="group flex items-center gap-5 rounded-2xl border bg-white p-6 shadow-[var(--shadow-card)] transition-all hover:-translate-y-0.5 hover:border-primary/40 hover:shadow-[var(--shadow-lift)]"
+              className={`group relative flex min-h-48 items-center justify-between gap-4 overflow-hidden rounded-3xl bg-gradient-to-br ${c.tint} p-7 transition-all duration-300 hover:-translate-y-1 hover:shadow-[var(--shadow-lift)] sm:p-9`}
             >
-              <span className="flex size-14 items-center justify-center rounded-2xl bg-accent text-accent-foreground">
-                <c.icon className="size-7" aria-hidden="true" />
+              <span className="relative z-10">
+                <span className="block text-3xl font-extrabold text-ink">{c.title}</span>
+                <span className="mt-1 block text-foreground/70">{c.body}</span>
+                <span className="mt-5 inline-flex items-center gap-2 rounded-full bg-ink px-4 py-2 text-sm font-semibold text-white transition-colors group-hover:bg-primary">
+                  Explore <ArrowRight className="size-4 transition-transform group-hover:translate-x-1" aria-hidden="true" />
+                </span>
               </span>
-              <span className="flex-1">
-                <span className="block text-xl font-bold text-ink">{c.title}</span>
-                <span className="text-sm text-muted-foreground">{c.body}</span>
-              </span>
-              <ArrowRight className="size-5 text-muted-foreground transition-transform group-hover:translate-x-1 group-hover:text-primary" aria-hidden="true" />
+              <Image
+                src={c.image}
+                alt=""
+                width={240}
+                height={140}
+                unoptimized
+                className="w-28 shrink-0 transition-transform duration-500 group-hover:translate-x-2 group-hover:scale-110 sm:w-56"
+              />
             </Link>
           ))}
         </div>
@@ -192,7 +238,8 @@ export default async function HomePage() {
         <div className="container-page">
           <div className="flex flex-col justify-between gap-4 sm:flex-row sm:items-end">
             <div>
-              <h2 id="featured-heading" className="text-2xl font-bold sm:text-3xl">
+              <p className="text-sm font-bold tracking-widest text-primary uppercase">Live groups</p>
+              <h2 id="featured-heading" className="mt-2 text-3xl font-extrabold sm:text-4xl">
                 Groups open now in {siteConfig.launchCity.name}
               </h2>
               <p className="mt-2 text-muted-foreground">Participant counts include verified participants only.</p>
@@ -219,15 +266,29 @@ export default async function HomePage() {
 
       {/* Steps */}
       <section className="container-page py-16" aria-labelledby="steps-heading">
-        <h2 id="steps-heading" className="text-2xl font-bold sm:text-3xl">
-          Three simple steps
-        </h2>
-        <div className="mt-8 grid gap-6 md:grid-cols-3">
+        <div className="mx-auto max-w-2xl text-center">
+          <p className="text-sm font-bold tracking-widest text-primary uppercase">How it works</p>
+          <h2 id="steps-heading" className="mt-2 text-3xl font-extrabold sm:text-4xl">
+            Three simple steps
+          </h2>
+        </div>
+        <div className="relative mt-12 grid gap-6 md:grid-cols-3">
+          <div
+            className="absolute top-14 right-[16%] left-[16%] hidden h-0.5 bg-gradient-to-r from-primary/0 via-primary/40 to-primary/0 md:block"
+            aria-hidden="true"
+          />
           {STEPS.map((s, i) => (
-            <div key={s.title} className="relative rounded-2xl border bg-white p-7 shadow-[var(--shadow-card)]">
-              <span className="absolute top-6 right-6 font-display text-5xl font-extrabold text-secondary">{i + 1}</span>
-              <s.icon className="size-8 text-primary" aria-hidden="true" />
-              <h3 className="mt-5 text-xl font-bold">{s.title}</h3>
+            <div
+              key={s.title}
+              className="group relative rounded-3xl border bg-white p-7 text-center shadow-[var(--shadow-card)] transition-all duration-300 hover:-translate-y-1 hover:border-primary/30 hover:shadow-[var(--shadow-lift)]"
+            >
+              <span className="relative mx-auto flex size-16 items-center justify-center rounded-2xl bg-gradient-to-br from-primary to-emerald-500 text-white shadow-lg shadow-primary/30 transition-transform duration-300 group-hover:scale-110 group-hover:rotate-3">
+                <s.icon className="size-8" aria-hidden="true" />
+                <span className="absolute -top-2 -right-2 flex size-7 items-center justify-center rounded-full bg-ink text-xs font-bold text-white ring-4 ring-white">
+                  {i + 1}
+                </span>
+              </span>
+              <h3 className="mt-6 text-xl font-bold">{s.title}</h3>
               <p className="mt-2 leading-7 text-foreground/75">{s.body}</p>
             </div>
           ))}
@@ -235,15 +296,22 @@ export default async function HomePage() {
       </section>
 
       {/* Benefits */}
-      <section className="bg-ink py-16 text-white" aria-labelledby="benefits-heading">
+      <section className="relative isolate overflow-hidden bg-ink py-20 text-white" aria-labelledby="benefits-heading">
+        <div className="absolute top-0 left-1/2 -z-10 size-[600px] -translate-x-1/2 -translate-y-1/2 rounded-full bg-primary/20 blur-[120px]" aria-hidden="true" />
         <div className="container-page">
-          <h2 id="benefits-heading" className="text-2xl font-bold text-white sm:text-3xl">
+          <p className="text-sm font-bold tracking-widest text-emerald-300 uppercase">The group advantage</p>
+          <h2 id="benefits-heading" className="mt-2 text-3xl font-extrabold text-white sm:text-4xl">
             Why buy as a group?
           </h2>
           <div className="mt-8 grid gap-6 md:grid-cols-3">
             {BENEFITS.map((b) => (
-              <div key={b.title} className="rounded-2xl border border-white/10 bg-white/5 p-7">
-                <b.icon className="size-7 text-emerald-300" aria-hidden="true" />
+              <div
+                key={b.title}
+                className="group rounded-3xl border border-white/10 bg-white/5 p-7 transition-all duration-300 hover:-translate-y-1 hover:border-emerald-400/40 hover:bg-white/10"
+              >
+                <span className="flex size-12 items-center justify-center rounded-xl bg-emerald-400/15 transition-colors group-hover:bg-emerald-400/25">
+                  <b.icon className="size-6 text-emerald-300" aria-hidden="true" />
+                </span>
                 <h3 className="mt-4 text-lg font-bold text-white">{b.title}</h3>
                 <p className="mt-2 leading-7 text-white/75">{b.body}</p>
               </div>
@@ -274,7 +342,10 @@ export default async function HomePage() {
         </div>
         <ul className="grid gap-3">
           {TRUST_POINTS.map((t) => (
-            <li key={t} className="flex gap-3 rounded-xl border bg-white p-4">
+            <li
+              key={t}
+              className="flex gap-3 rounded-xl border bg-white p-4 transition-all hover:border-primary/30 hover:shadow-[var(--shadow-card)]"
+            >
               <BadgeCheck className="mt-0.5 size-5 shrink-0 text-primary" aria-hidden="true" />
               <span className="text-[15px] leading-6 text-foreground/85">{t}</span>
             </li>
@@ -308,7 +379,7 @@ export default async function HomePage() {
 
       {/* CTA */}
       <section className="container-page py-16">
-        <div className="flex flex-col items-start justify-between gap-6 rounded-3xl bg-gradient-to-br from-primary to-emerald-600 p-8 text-white sm:p-12 lg:flex-row lg:items-center">
+        <div className="relative isolate flex flex-col items-start justify-between gap-6 overflow-hidden rounded-3xl bg-gradient-to-br from-primary via-emerald-600 to-teal-700 p-8 text-white shadow-xl shadow-primary/20 sm:p-12 lg:flex-row lg:items-center">
           <div>
             <h2 className="text-2xl font-bold text-white sm:text-3xl">Planning a purchase in the next few months?</h2>
             <p className="mt-2 max-w-xl text-white/85">Find a group for your exact variant. It is free, and you can leave while the group is open.</p>
