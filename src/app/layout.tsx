@@ -1,6 +1,7 @@
 import type { Metadata, Viewport } from "next";
 import { Inter, Plus_Jakarta_Sans } from "next/font/google";
 import type { CSSProperties } from "react";
+import { GoogleTagManager } from "@/components/analytics/google-tag-manager";
 import { Toaster } from "@/components/shared/toaster";
 import { siteConfig } from "@/config/site";
 import { getSiteUrl } from "@/lib/env";
@@ -47,6 +48,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang="en-IN" className={`${body.variable} ${display.variable}`} style={brandVars}>
       <body className="flex min-h-dvh flex-col">
+        <GoogleTagManager />
         <a
           href="#main"
           className="sr-only z-[100] rounded-md bg-ink px-4 py-2 text-white focus:not-sr-only focus:fixed focus:top-3 focus:left-3"

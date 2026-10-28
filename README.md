@@ -316,6 +316,7 @@ Covered events: joining, closing soon, target reached, closure/expiry, cancellat
 - **Brand name, colours, contact details, launch city:** `src/config/site.ts`. Colours become CSS variables in the root layout.
 - **Runtime-editable (Admin → Content & settings):** public contact details, homepage hero copy, phone-verification policy, default batch target/minimum, FAQs, and the About/Privacy/Terms/Disclaimer pages.
 - **More cities:** add a row to `public.cities` with `is_active = true`; batches, dealers and prices are already city-scoped.
+- **Google Tag Manager:** set `NEXT_PUBLIC_GTM_ID` (e.g. `GTM-ABC1234`) before building. A successful lead form submission (`LeadDialog`: on-road price, test drive, call back, loan, insurance, best price — on `/cars/[slug]` and `/emi-calculator`) pushes `{ event: "generate_lead", lead_type, vehicle_id, variant_id, vehicle_label, page_path }` to the `dataLayer`. In GTM, create a **Custom Event** trigger named `generate_lead` and attach your conversion tags to it (e.g. GA4 event `generate_lead`, Google Ads conversion); use Data Layer Variables for the fields. No personal data is pushed.
 
 ---
 

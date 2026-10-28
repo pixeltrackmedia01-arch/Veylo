@@ -8,6 +8,7 @@ import { FormField } from "@/components/ui/form-field";
 import { Checkbox, Input, Textarea } from "@/components/ui/input";
 import { siteConfig } from "@/config/site";
 import { submitLeadAction } from "@/lib/actions/cars";
+import { trackLead } from "@/lib/analytics";
 import type { LeadKind } from "@/lib/types";
 
 export const LEAD_COPY: Record<LeadKind, { title: string; description: string; cta: string }> = {
@@ -86,6 +87,8 @@ export function LeadDialog({ target, onOpenChange }: { target: LeadTarget | null
                       website: String(fd.get("website") ?? ""),
                     });
                     if (res.ok) {
+                      // Skip the conversion when the honeypot was filled (bot submission).
+                      if (!fd.get("website")) trackLead(target);
                       setDone(res.message ?? "Thanks — we'll be in touch.");
                     } else {
                       setFormError(res.error);
