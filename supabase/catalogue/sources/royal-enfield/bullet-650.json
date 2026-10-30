@@ -1,0 +1,34 @@
+{
+  "brand": "Royal Enfield",
+  "model": "Bullet 650",
+  "slug": "bullet-650",
+  "official_page": "https://www.royalenfield.com/in/en/motorcycles/bullet-650/",
+  "brochure_pdf": null,
+  "price_city": "Royal Enfield website default (ex-showroom Chennai); starting price per model",
+  "ex_showroom_min": 364865,
+  "ex_showroom_max": 364865,
+  "fuel_types": [
+    "Petrol"
+  ],
+  "transmissions": [
+    "MT"
+  ],
+  "colours": [],
+  "variants": [
+    {
+      "code": "VBKT81BK",
+      "name": "Bullet 650 (starting price)",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 364865
+      },
+      "specifications": {},
+      "features": {}
+    }
+  ],
+  "notes": [
+    "Starting price only; Royal Enfield prices each colour/variant separately by city."
+  ],
+  "fetched_on": "2026-10-30"
+}

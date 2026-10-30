@@ -1,0 +1,258 @@
+[
+  {
+    "model": "Hunter 350",
+    "slug": "hunter-350",
+    "channel": "Motorcycle (Roadster)",
+    "variants": 1,
+    "colours": 0,
+    "ex_showroom_min": 137640,
+    "ex_showroom_max": 137640,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "MT"
+    ],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Bullet 350",
+    "slug": "bullet-350",
+    "channel": "Motorcycle (Heritage)",
+    "variants": 1,
+    "colours": 0,
+    "ex_showroom_min": 162161,
+    "ex_showroom_max": 162161,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "MT"
+    ],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Classic 350",
+    "slug": "classic-350",
+    "channel": "Motorcycle (Heritage)",
+    "variants": 1,
+    "colours": 0,
+    "ex_showroom_min": 181118,
+    "ex_showroom_max": 181118,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "MT"
+    ],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Meteor 350",
+    "slug": "meteor-350",
+    "channel": "Motorcycle (Cruiser)",
+    "variants": 1,
+    "colours": 0,
+    "ex_showroom_min": 191233,
+    "ex_showroom_max": 191233,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "MT"
+    ],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Goan Classic 350",
+    "slug": "goan-classic-350",
+    "channel": "Motorcycle (Heritage)",
+    "variants": 1,
+    "colours": 0,
+    "ex_showroom_min": 217934,
+    "ex_showroom_max": 217934,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "MT"
+    ],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Scram 440",
+    "slug": "scram-440",
+    "channel": "Motorcycle (Scrambler)",
+    "variants": 1,
+    "colours": 0,
+    "ex_showroom_min": 223131,
+    "ex_showroom_max": 223131,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "MT"
+    ],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Himalayan 440",
+    "slug": "himalayan-440",
+    "channel": "Motorcycle (Adventure)",
+    "variants": 1,
+    "colours": 0,
+    "ex_showroom_min": 229000,
+    "ex_showroom_max": 229000,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "MT"
+    ],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Guerrilla 450",
+    "slug": "guerrilla-450",
+    "channel": "Motorcycle (Roadster)",
+    "variants": 1,
+    "colours": 0,
+    "ex_showroom_min": 249194,
+    "ex_showroom_max": 249194,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "MT"
+    ],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Himalayan 450",
+    "slug": "himalayan-450",
+    "channel": "Motorcycle (Adventure)",
+    "variants": 1,
+    "colours": 0,
+    "ex_showroom_min": 305736,
+    "ex_showroom_max": 305736,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "MT"
+    ],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Interceptor 650",
+    "slug": "interceptor-650",
+    "channel": "Motorcycle (Roadster)",
+    "variants": 1,
+    "colours": 0,
+    "ex_showroom_min": 332703,
+    "ex_showroom_max": 332703,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "MT"
+    ],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Continental GT 650",
+    "slug": "continental-gt-650",
+    "channel": "Motorcycle (Pure Sport)",
+    "variants": 1,
+    "colours": 0,
+    "ex_showroom_min": 349609,
+    "ex_showroom_max": 349609,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "MT"
+    ],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Classic 650",
+    "slug": "classic-650",
+    "channel": "Motorcycle (Heritage)",
+    "variants": 1,
+    "colours": 0,
+    "ex_showroom_min": 361243,
+    "ex_showroom_max": 361243,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "MT"
+    ],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Bullet 650",
+    "slug": "bullet-650",
+    "channel": "Motorcycle (Heritage)",
+    "variants": 1,
+    "colours": 0,
+    "ex_showroom_min": 364865,
+    "ex_showroom_max": 364865,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "MT"
+    ],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Bear 650",
+    "slug": "bear-650",
+    "channel": "Motorcycle (Scrambler)",
+    "variants": 1,
+    "colours": 0,
+    "ex_showroom_min": 371675,
+    "ex_showroom_max": 371675,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "MT"
+    ],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Shotgun 650",
+    "slug": "shotgun-650",
+    "channel": "Motorcycle (Roadster)",
+    "variants": 1,
+    "colours": 0,
+    "ex_showroom_min": 394076,
+    "ex_showroom_max": 394076,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "MT"
+    ],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Super Meteor 650",
+    "slug": "super-meteor-650",
+    "channel": "Motorcycle (Cruiser)",
+    "variants": 1,
+    "colours": 0,
+    "ex_showroom_min": 398975,
+    "ex_showroom_max": 398975,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "MT"
+    ],
+    "brochure_pdf": null
+  }
+]

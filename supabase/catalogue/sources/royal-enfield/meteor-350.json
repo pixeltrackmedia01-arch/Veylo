@@ -1,0 +1,34 @@
+{
+  "brand": "Royal Enfield",
+  "model": "Meteor 350",
+  "slug": "meteor-350",
+  "official_page": "https://www.royalenfield.com/in/en/motorcycles/meteor/",
+  "brochure_pdf": null,
+  "price_city": "Royal Enfield website default (ex-showroom Chennai); starting price per model",
+  "ex_showroom_min": 191233,
+  "ex_showroom_max": 191233,
+  "fuel_types": [
+    "Petrol"
+  ],
+  "transmissions": [
+    "MT"
+  ],
+  "colours": [],
+  "variants": [
+    {
+      "code": "VUSD81SU",
+      "name": "Meteor 350 (starting price)",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 191233
+      },
+      "specifications": {},
+      "features": {}
+    }
+  ],
+  "notes": [
+    "Starting price only; Royal Enfield prices each colour/variant separately by city."
+  ],
+  "fetched_on": "2026-10-30"
+}

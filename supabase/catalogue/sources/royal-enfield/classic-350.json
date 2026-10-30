@@ -1,0 +1,34 @@
+{
+  "brand": "Royal Enfield",
+  "model": "Classic 350",
+  "slug": "classic-350",
+  "official_page": "https://www.royalenfield.com/in/en/motorcycles/classic-350/",
+  "brochure_pdf": null,
+  "price_city": "Royal Enfield website default (ex-showroom Chennai); starting price per model",
+  "ex_showroom_min": 181118,
+  "ex_showroom_max": 181118,
+  "fuel_types": [
+    "Petrol"
+  ],
+  "transmissions": [
+    "MT"
+  ],
+  "colours": [],
+  "variants": [
+    {
+      "code": "VBFV81RR",
+      "name": "Classic 350 (starting price)",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 181118
+      },
+      "specifications": {},
+      "features": {}
+    }
+  ],
+  "notes": [
+    "Starting price only; Royal Enfield prices each colour/variant separately by city."
+  ],
+  "fetched_on": "2026-10-30"
+}
