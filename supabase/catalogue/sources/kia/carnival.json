@@ -1,0 +1,49 @@
+{
+  "brand": "Kia",
+  "model": "Carnival",
+  "slug": "carnival",
+  "model_code": "MDBT0016",
+  "official_page": "https://www.kia.com/in/our-vehicles/carnival/showroom.html",
+  "brochure_pdf": "https://www.kia.com/content/dam/kia2/in/en/our-vehicles/carnival/Kia_Carnival_Brochure_Desktop.pdf",
+  "price_city": "Surat, Gujarat",
+  "ex_showroom_min": 5964900,
+  "ex_showroom_max": 5964900,
+  "fuel_types": [
+    "Diesel"
+  ],
+  "transmissions": [
+    "AT"
+  ],
+  "colours": [
+    {
+      "name": "Glacier White Pearl",
+      "paint": "metallic"
+    },
+    {
+      "name": "Fusion Black",
+      "paint": "metallic"
+    }
+  ],
+  "engines": [
+    {
+      "name": "D2.2 8AT Limousine Plus",
+      "fuel": "Diesel"
+    }
+  ],
+  "variants": [
+    {
+      "code": "VRNT0800",
+      "name": "Kia Carnival D2.2 8At Limousine Plus",
+      "trim": "Limousine Plus",
+      "fuel": "Diesel",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "metallic": 5964900
+      },
+      "specifications": {},
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}

@@ -64,6 +64,7 @@ ex_showroom_min, ex_showroom_max, fuel_types, transmissions, brochure_pdf}`.
 - Brands already done: maruti, hyundai, mahindra (Salesforce Commerce sites: variant cards with
   prices come from `Product-Variation` per fuel × gearbox × seating combo — see mahindra/fetch.py),
   toyota (XML price API per Surat dealer — toyota/fetch.py; HTML feature tables via
-  `scripts/catalogue/tools/html_tables.py FILE --summary`). Reachability notes: Tata's site has an expired TLS
+  `scripts/catalogue/tools/html_tables.py FILE --summary`), kia (configure.getVrntList.do with
+  stateCode=GJ&cityCode=W32 — kia/fetch.py). Reachability notes: Tata's site has an expired TLS
   certificate; Mercedes, Audi, Volvo, Porsche return 403 to scripts; BMW and MINI reset the
   connection — try `capture.mjs` (real browser) before falling back.

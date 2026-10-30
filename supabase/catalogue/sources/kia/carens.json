@@ -1,0 +1,106 @@
+{
+  "brand": "Kia",
+  "model": "Carens",
+  "slug": "carens",
+  "model_code": "MDBT0013",
+  "official_page": "https://www.kia.com/in/our-vehicles/carens/showroom.html",
+  "brochure_pdf": "https://www.kia.com/content/dam/kia2/in/en/our-vehicles/showroom/Brochures/Kia_Carens_Brochure_Desktop_2026.pdf",
+  "price_city": "Surat, Gujarat",
+  "ex_showroom_min": 1111900,
+  "ex_showroom_max": 1297900,
+  "fuel_types": [
+    "Diesel",
+    "Petrol"
+  ],
+  "transmissions": [
+    "MT"
+  ],
+  "colours": [
+    {
+      "name": "Imperial Blue",
+      "paint": "metallic"
+    },
+    {
+      "name": "Moss Brown",
+      "paint": "metallic"
+    },
+    {
+      "name": "Aurora Black Pearl",
+      "paint": "metallic"
+    },
+    {
+      "name": "Sparkling Silver",
+      "paint": "metallic"
+    },
+    {
+      "name": "Glacier White Pearl",
+      "paint": "metallic"
+    },
+    {
+      "name": "Clear White",
+      "paint": "metallic"
+    },
+    {
+      "name": "Pewter Olive",
+      "paint": "metallic"
+    },
+    {
+      "name": "Matte Graphite",
+      "paint": "metallic"
+    }
+  ],
+  "engines": [
+    {
+      "name": "1.5L CRDi VGT",
+      "fuel": "Diesel"
+    },
+    {
+      "name": "Smartstream G1.5",
+      "fuel": "Petrol"
+    },
+    {
+      "name": "Smartstream G1.5",
+      "fuel": "CNG"
+    }
+  ],
+  "variants": [
+    {
+      "code": "VRNT0524",
+      "name": "Kia Carens Smartstream G1.5 6Mt Premium (O) 7",
+      "trim": "Premium (O) 7",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "metallic": 1111900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT1267",
+      "name": "Carens Smartstream G1.5 Cng 6Mt Premium(O) 7",
+      "trim": "Premium (O) CNG",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "metallic": 1211800
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT0530",
+      "name": "Kia Carens D1.5 CRDi VGT 6Mt Premium (O) 7",
+      "trim": "Premium (O) 7",
+      "fuel": "Diesel",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "metallic": 1297900
+      },
+      "specifications": {},
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}

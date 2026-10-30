@@ -1,0 +1,357 @@
+{
+  "brand": "Kia",
+  "model": "Carens Clavis",
+  "slug": "carens-clavis",
+  "model_code": "MDBT0018",
+  "official_page": "https://www.kia.com/in/our-vehicles/carens-clavis/showroom.html",
+  "brochure_pdf": "https://www.kia.com/content/dam/kia2/in/en/images/csr/CSR-Plan-FY25-26.pdf",
+  "price_city": "Surat, Gujarat",
+  "ex_showroom_min": 1138900,
+  "ex_showroom_max": 2178900,
+  "fuel_types": [
+    "Diesel",
+    "Petrol"
+  ],
+  "transmissions": [
+    "AT",
+    "DCT",
+    "MT",
+    "iMT"
+  ],
+  "colours": [
+    {
+      "name": "Ivory Silver Gloss",
+      "paint": "metallic"
+    },
+    {
+      "name": "Sparkling Silver",
+      "paint": "metallic"
+    },
+    {
+      "name": "Aurora Black Pearl",
+      "paint": "metallic"
+    },
+    {
+      "name": "Imperial Blue",
+      "paint": "metallic"
+    },
+    {
+      "name": "Pewter Olive",
+      "paint": "metallic"
+    },
+    {
+      "name": "Clear White",
+      "paint": "metallic"
+    },
+    {
+      "name": "Dark Gun Metal",
+      "paint": "metallic"
+    },
+    {
+      "name": "Glacier White Pearl",
+      "paint": "metallic"
+    },
+    {
+      "name": "Gravity Gray",
+      "paint": "metallic"
+    }
+  ],
+  "engines": [
+    {
+      "name": "1.5 l CRDi VGT",
+      "fuel": "Diesel"
+    },
+    {
+      "name": "Smartstream G1.5",
+      "fuel": "CNG"
+    },
+    {
+      "name": "Smartstream T-GDi",
+      "fuel": "Petrol"
+    },
+    {
+      "name": "Smartstream G1.5",
+      "fuel": "Petrol"
+    }
+  ],
+  "variants": [
+    {
+      "code": "VRNT1001",
+      "name": "Kia Carens Clavis Smartstream G1.5 6Mt Hte 7",
+      "trim": "HTE 7",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "metallic": 1138900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT0403",
+      "name": "Carens Clavis Smartstream G1.5 6Mt Hte(O) 7",
+      "trim": "HTE(O) 7",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "metallic": 1234900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT1265",
+      "name": "Carens Clavis Smartstream G1.5 Cng 6Mt Hte 7",
+      "trim": "HTE CNG",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "metallic": 1238800
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT3001",
+      "name": "Carens Clavis Smartstream G1.5 6Mt Hte (Ex) 7",
+      "trim": "HTE(EX) 7",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "metallic": 1285900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT1017",
+      "name": "Kia Carens Clavis Smartstream G1.5T-GDi 6Mt Hte(O) 7",
+      "trim": "HTE(O) 7",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "metallic": 1321900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT1321",
+      "name": "Carens Clavis Smartstream G1.5 Cng 6Mt Hte(O) 7",
+      "trim": "HTE (O) CNG",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "metallic": 1334800
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT3002",
+      "name": "Carens Clavis Smartstream G1.5T-GDi 6Mt Hte (Ex) 7",
+      "trim": "HTE(EX) 7",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "metallic": 1376900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT1020",
+      "name": "Carens Clavis D1.5 CRDi VGT 6Mt Hte(O) 7",
+      "trim": "HTE(O) 7",
+      "fuel": "Diesel",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "metallic": 1436900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT3000",
+      "name": "Carens Clavis D1.5 CRDi VGT 6Mt Hte (Ex) 7",
+      "trim": "HTE(EX) 7",
+      "fuel": "Diesel",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "metallic": 1487900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT1019",
+      "name": "Kia Carens Clavis Smartstream G1.5T-GDi 6Mt Htk Plus(O)",
+      "trim": "HTK+(O) 7",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "metallic": 1641900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT1023",
+      "name": "Kia Carens Clavis D1.5 CRDi VGT 6Mt Htk Plus 7",
+      "trim": "HTK+ 7",
+      "fuel": "Diesel",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "metallic": 1643900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT1003",
+      "name": "Kia Carens Clavis Smartstream G1.5T-GDi 7Dct Htk Plus 7",
+      "trim": "HTK+ 7",
+      "fuel": "Petrol",
+      "transmission": "DCT",
+      "ex_showroom_surat": {
+        "metallic": 1684900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT1005",
+      "name": "Kia Carens Clavis D1.5 CRDi VGT 6Mt Htk Plus(O) 7",
+      "trim": "HTK+(O) 7",
+      "fuel": "Diesel",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "metallic": 1721900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT1004",
+      "name": "Kia Carens Clavis D1.5 CRDi VGT 6At Htk Plus 7",
+      "trim": "HTK+ 7",
+      "fuel": "Diesel",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "metallic": 1756900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT1018",
+      "name": "Kia Carens Clavis Smartstream G1.5T-GDi 7Dct Htk Plus(O",
+      "trim": "HTK+(O) 7",
+      "fuel": "Petrol",
+      "transmission": "DCT",
+      "ex_showroom_surat": {
+        "metallic": 1785900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT1006",
+      "name": "Kia Carens Clavis D1.5 CRDi VGT 6Mt Htx 7",
+      "trim": "HTX 7",
+      "fuel": "Diesel",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "metallic": 1900900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT1011",
+      "name": "Kia Carens Clavis Smartstream G1.5T-GDi 6Mt Htx Plus 7",
+      "trim": "HTX+ 7",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "metallic": 1903900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT1010",
+      "name": "Kia Carens Clavis Smartstream G1.5T-GDi Imt Htx Plus 7",
+      "trim": "HTX+ 7",
+      "fuel": "Petrol",
+      "transmission": "iMT",
+      "ex_showroom_surat": {
+        "metallic": 1932900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT0402",
+      "name": "Carens Clavis Smartstream G1.5T-GDi 7Dct Htx(O) 7",
+      "trim": "HTX(O) 7",
+      "fuel": "Petrol",
+      "transmission": "DCT",
+      "ex_showroom_surat": {
+        "metallic": 1961900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT1200",
+      "name": "Carens Clavis Smartstream G1.5T-GDi 7Dct Gtx 7",
+      "trim": "GTX 7",
+      "fuel": "Petrol",
+      "transmission": "DCT",
+      "ex_showroom_surat": {
+        "metallic": 1999900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT1012",
+      "name": "Kia Carens Clavis Smartstream G1.5T-GDi 7Dct Htx Plus 7",
+      "trim": "HTX+ 7",
+      "fuel": "Petrol",
+      "transmission": "DCT",
+      "ex_showroom_surat": {
+        "metallic": 2106900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT1206",
+      "name": "Carens Clavis Smartstream G1.5T-GDi 7Dct X Line 7",
+      "trim": "X LINE 7",
+      "fuel": "Petrol",
+      "transmission": "DCT",
+      "ex_showroom_surat": {
+        "metallic": 2178900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT1204",
+      "name": "Carens Clavis Smartstream G1.5T-GDi 7Dct Gtx Plus 7",
+      "trim": "GTX+ 7",
+      "fuel": "Petrol",
+      "transmission": "DCT",
+      "ex_showroom_surat": {
+        "metallic": 2178900
+      },
+      "specifications": {},
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}

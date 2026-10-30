@@ -1,0 +1,73 @@
+{
+  "brand": "Kia",
+  "model": "EV6",
+  "slug": "ev6",
+  "model_code": "MDBT0014",
+  "official_page": "https://www.kia.com/in/our-vehicles/ev6/showroom.html",
+  "brochure_pdf": "https://www.kia.com/content/dam/kia2/in/en/images/buy/download-brochure/ev6/EV6_Desktop_2025.pdf",
+  "price_city": "Surat, Gujarat",
+  "ex_showroom_min": 6096638,
+  "ex_showroom_max": 6597937,
+  "fuel_types": [
+    "Electric"
+  ],
+  "transmissions": [
+    "Automatic"
+  ],
+  "colours": [
+    {
+      "name": "Wolf Grey",
+      "paint": "metallic"
+    },
+    {
+      "name": "Aurora Black Pearl",
+      "paint": "metallic"
+    },
+    {
+      "name": "Snow White Pearl",
+      "paint": "metallic"
+    },
+    {
+      "name": "Runway Red",
+      "paint": "metallic"
+    }
+  ],
+  "engines": [
+    {
+      "name": "77.4 kWh Lithium ion",
+      "fuel": "Electric"
+    },
+    {
+      "name": "77.4 kWh Lithium ion",
+      "fuel": "Electric"
+    }
+  ],
+  "variants": [
+    {
+      "code": "VRNT0602",
+      "name": "Gt Line",
+      "trim": "GT Line",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "metallic": 6096638
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT0601",
+      "name": "Gt-Line Awd",
+      "trim": "GT-Line AWD",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "metallic": 6597937
+      },
+      "specifications": {},
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}

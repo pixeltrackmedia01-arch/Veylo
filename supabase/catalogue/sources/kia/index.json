@@ -1,0 +1,180 @@
+[
+  {
+    "model": "Sonet",
+    "slug": "sonet",
+    "channel": "Compact SUV",
+    "variants": 23,
+    "colours": 25,
+    "ex_showroom_min": 744900,
+    "ex_showroom_max": 1445900,
+    "fuel_types": [
+      "Diesel",
+      "Petrol"
+    ],
+    "transmissions": [
+      "AT",
+      "DCT",
+      "MT",
+      "iMT"
+    ],
+    "brochure_pdf": "https://www.kia.com/content/dam/kia2/in/en/our-vehicles/showroom/sonet/brochure/Sonet_Wild_Reborn_Brochure_2026_Desktop.pdf"
+  },
+  {
+    "model": "Syros",
+    "slug": "syros",
+    "channel": "Compact SUV",
+    "variants": 17,
+    "colours": 9,
+    "ex_showroom_min": 841900,
+    "ex_showroom_max": 1581900,
+    "fuel_types": [
+      "Diesel",
+      "Petrol"
+    ],
+    "transmissions": [
+      "AT",
+      "DCT",
+      "MT"
+    ],
+    "brochure_pdf": "https://www.kia.com/content/dam/kia2/in/en/our-vehicles/syros/Kia_Syros_5_Star_Brochure_Desktop.pdf"
+  },
+  {
+    "model": "Carens",
+    "slug": "carens",
+    "channel": "MUV",
+    "variants": 3,
+    "colours": 8,
+    "ex_showroom_min": 1111900,
+    "ex_showroom_max": 1297900,
+    "fuel_types": [
+      "Diesel",
+      "Petrol"
+    ],
+    "transmissions": [
+      "MT"
+    ],
+    "brochure_pdf": "https://www.kia.com/content/dam/kia2/in/en/our-vehicles/showroom/Brochures/Kia_Carens_Brochure_Desktop_2026.pdf"
+  },
+  {
+    "model": "Seltos",
+    "slug": "seltos",
+    "channel": "SUV",
+    "variants": 38,
+    "colours": 10,
+    "ex_showroom_min": 1124900,
+    "ex_showroom_max": 2201899,
+    "fuel_types": [
+      "Diesel",
+      "Petrol"
+    ],
+    "transmissions": [
+      "AT",
+      "DCT",
+      "IVT",
+      "MT"
+    ],
+    "brochure_pdf": "https://www.kia.com/content/dam/kia2/in/en/our-vehicles/new-seltos/showroom/brochure/Kia_Seltos_Brochure_2026_Desktop.pdf"
+  },
+  {
+    "model": "Carens Clavis",
+    "slug": "carens-clavis",
+    "channel": "MUV",
+    "variants": 23,
+    "colours": 9,
+    "ex_showroom_min": 1138900,
+    "ex_showroom_max": 2178900,
+    "fuel_types": [
+      "Diesel",
+      "Petrol"
+    ],
+    "transmissions": [
+      "AT",
+      "DCT",
+      "MT",
+      "iMT"
+    ],
+    "brochure_pdf": "https://www.kia.com/content/dam/kia2/in/en/images/csr/CSR-Plan-FY25-26.pdf"
+  },
+  {
+    "model": "Syros EV",
+    "slug": "syros-ev",
+    "channel": "Electric SUV",
+    "variants": 7,
+    "colours": 9,
+    "ex_showroom_min": 1349900,
+    "ex_showroom_max": 1999900,
+    "fuel_types": [
+      "Electric"
+    ],
+    "transmissions": [
+      "Automatic"
+    ],
+    "brochure_pdf": "https://www.kia.com/content/dam/kia2/in/en/images/our-vehicles/syros_ev/brochure/Kia_Syros_EV_Brochure_Desktop2026.pdf"
+  },
+  {
+    "model": "Carens Clavis EV",
+    "slug": "carens-clavis-ev",
+    "channel": "Electric MUV",
+    "variants": 17,
+    "colours": 7,
+    "ex_showroom_min": 1803900,
+    "ex_showroom_max": 2499900,
+    "fuel_types": [
+      "Electric"
+    ],
+    "transmissions": [
+      "Automatic"
+    ],
+    "brochure_pdf": "https://www.kia.com/content/dam/kia2/in/en/our-vehicles/kia-carens-clavis-ev/showroom/Kia_CarensClavisEV_Brochure_Desktop.pdf"
+  },
+  {
+    "model": "Sorento",
+    "slug": "sorento",
+    "channel": "SUV",
+    "variants": 32,
+    "colours": 8,
+    "ex_showroom_min": 2799000,
+    "ex_showroom_max": 4039000,
+    "fuel_types": [
+      "Diesel",
+      "Petrol"
+    ],
+    "transmissions": [
+      "AT",
+      "DCT"
+    ],
+    "brochure_pdf": "https://www.kia.com/content/dam/kia2/in/en/images/our-vehicles/sorento/brochure/Kia_India_Sorento_Brochure_Desktop.pdf"
+  },
+  {
+    "model": "Carnival",
+    "slug": "carnival",
+    "channel": "MPV",
+    "variants": 1,
+    "colours": 2,
+    "ex_showroom_min": 5964900,
+    "ex_showroom_max": 5964900,
+    "fuel_types": [
+      "Diesel"
+    ],
+    "transmissions": [
+      "AT"
+    ],
+    "brochure_pdf": "https://www.kia.com/content/dam/kia2/in/en/our-vehicles/carnival/Kia_Carnival_Brochure_Desktop.pdf"
+  },
+  {
+    "model": "EV6",
+    "slug": "ev6",
+    "channel": "Electric SUV",
+    "variants": 2,
+    "colours": 4,
+    "ex_showroom_min": 6096638,
+    "ex_showroom_max": 6597937,
+    "fuel_types": [
+      "Electric"
+    ],
+    "transmissions": [
+      "Automatic"
+    ],
+    "brochure_pdf": "https://www.kia.com/content/dam/kia2/in/en/images/buy/download-brochure/ev6/EV6_Desktop_2025.pdf"
+  }
+]

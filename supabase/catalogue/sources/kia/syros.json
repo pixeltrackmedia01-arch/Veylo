@@ -1,0 +1,276 @@
+{
+  "brand": "Kia",
+  "model": "Syros",
+  "slug": "syros",
+  "model_code": "MDBT0017",
+  "official_page": "https://www.kia.com/in/our-vehicles/syros/showroom.html",
+  "brochure_pdf": "https://www.kia.com/content/dam/kia2/in/en/our-vehicles/syros/Kia_Syros_5_Star_Brochure_Desktop.pdf",
+  "price_city": "Surat, Gujarat",
+  "ex_showroom_min": 841900,
+  "ex_showroom_max": 1581900,
+  "fuel_types": [
+    "Diesel",
+    "Petrol"
+  ],
+  "transmissions": [
+    "AT",
+    "DCT",
+    "MT"
+  ],
+  "colours": [
+    {
+      "name": "Frost Blue",
+      "paint": "metallic"
+    },
+    {
+      "name": "Ivory Silver Gloss",
+      "paint": "metallic"
+    },
+    {
+      "name": "Gravity Gray",
+      "paint": "metallic"
+    },
+    {
+      "name": "Imperial Blue",
+      "paint": "metallic"
+    },
+    {
+      "name": "Magma Red",
+      "paint": "metallic"
+    },
+    {
+      "name": "Pewter Olive",
+      "paint": "metallic"
+    },
+    {
+      "name": "Glacier White Pearl",
+      "paint": "metallic"
+    },
+    {
+      "name": "Aurora Black Pearl",
+      "paint": "metallic"
+    },
+    {
+      "name": "Ivory Silver Matte",
+      "paint": "metallic"
+    }
+  ],
+  "engines": [
+    {
+      "name": "D1.5 CRDI VGT",
+      "fuel": "Diesel"
+    },
+    {
+      "name": "G1.0T-GDi Smartstream",
+      "fuel": "Petrol"
+    }
+  ],
+  "variants": [
+    {
+      "code": "VRNT0904",
+      "name": "Syros G1.0T-GDi Smartstream 6Mt Hte",
+      "trim": "HTE",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "metallic": 841900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT0903",
+      "name": "Syros G1.0T-GDi Smartstream 6Mt Hte(O)",
+      "trim": "HTE(O)",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "metallic": 921900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT0905",
+      "name": "Syros G1.0T-GDi Smartstream 6Mt Htk(Ex)",
+      "trim": "HTK(EX)",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "metallic": 981900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT0910",
+      "name": "Syros D1.5 CRDi VGT 6Mt Hte(O)",
+      "trim": "HTE(O)",
+      "fuel": "Diesel",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "metallic": 999900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT0911",
+      "name": "Syros D1.5 CRDi VGT 6Mt Htk(Ex)",
+      "trim": "HTK(EX)",
+      "fuel": "Diesel",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "metallic": 1061900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT0901",
+      "name": "Syros G1.0T-GDi Smartstream 6Mt Htk Plus",
+      "trim": "HTK+",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "metallic": 1075900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT0912",
+      "name": "Syros D1.5 CRDi VGT 6Mt Htk Plus",
+      "trim": "HTK+",
+      "fuel": "Diesel",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "metallic": 1155900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT0906",
+      "name": "Syros G1.0T-GDi Smartstream 7Dct Htk Plus",
+      "trim": "HTK+",
+      "fuel": "Petrol",
+      "transmission": "DCT",
+      "ex_showroom_surat": {
+        "metallic": 1195900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT0902",
+      "name": "Syros G1.0T-GDi Smartstream 6Mt Htk Plus(O)",
+      "trim": "HTK+(O)",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "metallic": 1201900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT0914",
+      "name": "Syros D1.5 CRDi VGT 6At Htk Plus",
+      "trim": "HTK+",
+      "fuel": "Diesel",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "metallic": 1275900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT0913",
+      "name": "Syros D1.5 CRDi VGT 6Mt Htk Plus (O)",
+      "trim": "HTK+(O)",
+      "fuel": "Diesel",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "metallic": 1281900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT0907",
+      "name": "Syros G1.0T-GDi Smartstream 7Dct Htk Plus(O)",
+      "trim": "HTK+(O)",
+      "fuel": "Petrol",
+      "transmission": "DCT",
+      "ex_showroom_surat": {
+        "metallic": 1321900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT0908",
+      "name": "Syros G1.0T-GDi Smartstream 7Dct Htx",
+      "trim": "HTX",
+      "fuel": "Petrol",
+      "transmission": "DCT",
+      "ex_showroom_surat": {
+        "metallic": 1401900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT0915",
+      "name": "Syros D1.5 CRDi VGT 6At Htk Plus(O)",
+      "trim": "HTK+(O)",
+      "fuel": "Diesel",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "metallic": 1401900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT0916",
+      "name": "Syros D1.5 CRDi VGT 6At Htx",
+      "trim": "HTX",
+      "fuel": "Diesel",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "metallic": 1481900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT0909",
+      "name": "Syros G1.0T-GDi Smartstream 7Dct Htx(O)",
+      "trim": "HTX(O)",
+      "fuel": "Petrol",
+      "transmission": "DCT",
+      "ex_showroom_surat": {
+        "metallic": 1499900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT0917",
+      "name": "Syros D1.5 CRDi VGT 6At Htx(O)",
+      "trim": "HTX(O)",
+      "fuel": "Diesel",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "metallic": 1581900
+      },
+      "specifications": {},
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}

@@ -1,0 +1,261 @@
+{
+  "brand": "Kia",
+  "model": "Carens Clavis EV",
+  "slug": "carens-clavis-ev",
+  "model_code": "MDBT0019",
+  "official_page": "https://www.kia.com/in/our-vehicles/carens-clavis-ev/showroom.html",
+  "brochure_pdf": "https://www.kia.com/content/dam/kia2/in/en/our-vehicles/kia-carens-clavis-ev/showroom/Kia_CarensClavisEV_Brochure_Desktop.pdf",
+  "price_city": "Surat, Gujarat",
+  "ex_showroom_min": 1803900,
+  "ex_showroom_max": 2499900,
+  "fuel_types": [
+    "Electric"
+  ],
+  "transmissions": [
+    "Automatic"
+  ],
+  "colours": [
+    {
+      "name": "Ivory Silver Matte",
+      "paint": "metallic"
+    },
+    {
+      "name": "Dark Gun Metal",
+      "paint": "metallic"
+    },
+    {
+      "name": "Aurora Black Pearl",
+      "paint": "metallic"
+    },
+    {
+      "name": "Imperial Blue",
+      "paint": "metallic"
+    },
+    {
+      "name": "Pewter Olive",
+      "paint": "metallic"
+    },
+    {
+      "name": "Glacier White Pearl",
+      "paint": "metallic"
+    },
+    {
+      "name": "Gravity Grey",
+      "paint": "metallic"
+    }
+  ],
+  "engines": [
+    {
+      "name": "Electric",
+      "fuel": "Electric"
+    }
+  ],
+  "variants": [
+    {
+      "code": "VRNT1902",
+      "name": "Carens Clavis Ev Htk+ 7",
+      "trim": "HTK+ 7",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "metallic": 1803900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT2932",
+      "name": "Carens Clavis Ev Htx (E) 7",
+      "trim": "HTX (E) 7",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "metallic": 1999900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT1100",
+      "name": "Carens Clavis Ev Htx (E) 6",
+      "trim": "HTX (E) 6",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "metallic": 1999900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT1901",
+      "name": "Carens Clavis Ev Htx  7",
+      "trim": "HTX  7",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "metallic": 2053900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT1101",
+      "name": "Carens Clavis Ev Htx 6",
+      "trim": "HTX 6",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "metallic": 2053900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT2931",
+      "name": "Carens Clavis Ev Extended Range Htx (E) 7",
+      "trim": "HTX (E) 7 ER",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "metallic": 2203900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT1105",
+      "name": "Carens Clavis Ev Extended Range Htx (E) 6",
+      "trim": "HTX (E) 6 ER",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "metallic": 2203900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT1106",
+      "name": "Carens Clavis Ev Extended Range Htx 6",
+      "trim": "HTX 6 ER",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "metallic": 2253900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT1904",
+      "name": "Carens Clavis Ev Extended Range Htx  7",
+      "trim": "HTX  7 ER",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "metallic": 2253900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT1107",
+      "name": "Carens Clavis Ev Extended Range Gtx 6",
+      "trim": "GTX 6 ER",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "metallic": 2303900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT1102",
+      "name": "Carens Clavis Ev Extended Range Gtx 7",
+      "trim": "GTX 7 ER",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "metallic": 2303900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT1903",
+      "name": "Carens Clavis Ev Extended Range Htx Plus  7",
+      "trim": "HTX+ 7 ER",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "metallic": 2453900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT1108",
+      "name": "Carens Clavis Ev Extended Range Htx Plus 6",
+      "trim": "HTX+ 6 ER",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "metallic": 2453900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT1109",
+      "name": "Carens Clavis Ev Extended Range Gtx Plus 6",
+      "trim": "GTX+ 6 ER",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "metallic": 2499900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT1110",
+      "name": "Carens Clavis Ev Extended Range X-Line 6",
+      "trim": "X-LINE 6 ER",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "metallic": 2499900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT1103",
+      "name": "Carens Clavis Ev Extended Range Gtx Plus 7",
+      "trim": "GTX+ 7 ER",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "metallic": 2499900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT1104",
+      "name": "Carens Clavis Ev Extended Range X-Line 7",
+      "trim": "X-LINE 7 ER",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "metallic": 2499900
+      },
+      "specifications": {},
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}

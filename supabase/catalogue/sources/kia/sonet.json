@@ -1,0 +1,431 @@
+{
+  "brand": "Kia",
+  "model": "Sonet",
+  "slug": "sonet",
+  "model_code": "MDBT0012",
+  "official_page": "https://www.kia.com/in/our-vehicles/sonet/showroom.html",
+  "brochure_pdf": "https://www.kia.com/content/dam/kia2/in/en/our-vehicles/showroom/sonet/brochure/Sonet_Wild_Reborn_Brochure_2026_Desktop.pdf",
+  "price_city": "Surat, Gujarat",
+  "ex_showroom_min": 744900,
+  "ex_showroom_max": 1445900,
+  "fuel_types": [
+    "Diesel",
+    "Petrol"
+  ],
+  "transmissions": [
+    "AT",
+    "DCT",
+    "MT",
+    "iMT"
+  ],
+  "colours": [
+    {
+      "name": "Intense Red + Aurora Black Pearl",
+      "paint": "non_metallic"
+    },
+    {
+      "name": "Glacier White Pearl + Aurora Black Pearl",
+      "paint": "non_metallic"
+    },
+    {
+      "name": "Gravity Grey",
+      "paint": "metallic"
+    },
+    {
+      "name": "Steel Silver",
+      "paint": "metallic"
+    },
+    {
+      "name": "Aurora Black Pearl",
+      "paint": "metallic"
+    },
+    {
+      "name": "Intense Red",
+      "paint": "metallic"
+    },
+    {
+      "name": "Sparkling Silver",
+      "paint": "metallic"
+    },
+    {
+      "name": "Intelligency Blue",
+      "paint": "metallic"
+    },
+    {
+      "name": "Beige Gold",
+      "paint": "metallic"
+    },
+    {
+      "name": "Clear White",
+      "paint": "metallic"
+    },
+    {
+      "name": "Glacier White Pearl",
+      "paint": "metallic"
+    },
+    {
+      "name": "Imperial Blue",
+      "paint": "metallic"
+    },
+    {
+      "name": "Pewter Olive",
+      "paint": "metallic"
+    },
+    {
+      "name": "Beige gold + Aurora black pearl",
+      "paint": "non_metallic"
+    },
+    {
+      "name": "Intelligency Blue With Clear White",
+      "paint": "non_metallic"
+    },
+    {
+      "name": "Punchy Orange With Clear White",
+      "paint": "non_metallic"
+    },
+    {
+      "name": "Gravity Grey With Clear White",
+      "paint": "non_metallic"
+    },
+    {
+      "name": "Steel Silver With Aurora Black Pearl",
+      "paint": "non_metallic"
+    },
+    {
+      "name": "Sun Burn",
+      "paint": "metallic"
+    },
+    {
+      "name": "Typhoon Silver",
+      "paint": null
+    },
+    {
+      "name": "Snow White Pearl",
+      "paint": "metallic"
+    },
+    {
+      "name": "Matte Graphite",
+      "paint": "metallic"
+    },
+    {
+      "name": "Magma Red",
+      "paint": "metallic"
+    },
+    {
+      "name": "Glacier White Pearl + Aurora Black Pearl",
+      "paint": "non_metallic"
+    },
+    {
+      "name": "Steel Silver With Punchy Orange",
+      "paint": "non_metallic"
+    }
+  ],
+  "engines": [
+    {
+      "name": "1.5L CRDI WGT",
+      "fuel": "Diesel"
+    },
+    {
+      "name": "Smartstream G1.4T",
+      "fuel": "Petrol"
+    },
+    {
+      "name": "Refined 1.5 CRDi VGT Diesel Engine",
+      "fuel": "Diesel"
+    },
+    {
+      "name": "Powerful Smartstream 1.0 T – GDi Petrol Engine",
+      "fuel": "Petrol"
+    },
+    {
+      "name": "Advanced Smartstream 1.2 Petrol Engine",
+      "fuel": "Petrol"
+    },
+    {
+      "name": "2.2L Diesel 8AT",
+      "fuel": "Diesel"
+    }
+  ],
+  "variants": [
+    {
+      "code": "VRNT0413",
+      "name": "Kia Sonet Smartstream G1.2 5Mt Hte",
+      "trim": "HTE",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "metallic": 744900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT0422",
+      "name": "Kia Sonet Smartstream G1.2 5Mt Hte (O)",
+      "trim": "HTE(O)",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "metallic": 787900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT0419",
+      "name": "Kia Sonet Smartstream G1.2 5Mt Htk (O)",
+      "trim": "HTK(O)",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "metallic": 888900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT1928",
+      "name": "Kia Sonet Smartstream G1.2 5Mt Htk Plus",
+      "trim": "HTK+",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "metallic": 927900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT0421",
+      "name": "Kia Sonet D1.5 CRDi VGT 6Mt Hte (O)",
+      "trim": "HTE(O)",
+      "fuel": "Diesel",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "metallic": 928900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT0415",
+      "name": "Kia Sonet G1.0T-GDi Smartstream Imt Htk (O)",
+      "trim": "HTK (O)",
+      "fuel": "Petrol",
+      "transmission": "iMT",
+      "ex_showroom_surat": {
+        "metallic": 933900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT0404",
+      "name": "Kia Sonet Smartstream G1.2 5Mt Htk+(O)",
+      "trim": "HTK+(O)",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "metallic": 975900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT0940",
+      "name": "Sonet G1.0T-GDi Smartstream 7Dct Htk(O)",
+      "trim": "HTK(O)",
+      "fuel": "Petrol",
+      "transmission": "DCT",
+      "ex_showroom_surat": {
+        "metallic": 999900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT0420",
+      "name": "Kia Sonet D1.5 CRDi VGT 6Mt Htk (O)",
+      "trim": "HTK(O)",
+      "fuel": "Diesel",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "metallic": 999900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT0942",
+      "name": "Sonet D1.5 CRDi VGT 6At Hte(O)",
+      "trim": "HTE(O)",
+      "fuel": "Diesel",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "metallic": 999900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT0714",
+      "name": "Kia Sonet G1.0T-GDi Smartstream Imt Htk+(O)",
+      "trim": "HTK+(O)",
+      "fuel": "Petrol",
+      "transmission": "iMT",
+      "ex_showroom_surat": {
+        "metallic": 1028900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT2930",
+      "name": "Kia Sonet D1.5 CRDi VGT 6Mt Htk Plus",
+      "trim": "HTK+",
+      "fuel": "Diesel",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "metallic": 1064900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT0941",
+      "name": "Sonet G1.0T-GDi Smartstream 7Dct Htk+(O)",
+      "trim": "HTK+(O)",
+      "fuel": "Petrol",
+      "transmission": "DCT",
+      "ex_showroom_surat": {
+        "metallic": 1108900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT0943",
+      "name": "Sonet D1.5 CRDi VGT 6At Htk(O)",
+      "trim": "HTK(O)",
+      "fuel": "Diesel",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "metallic": 1108900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT0715",
+      "name": "Kia Sonet D1.5 CRDi VGT 6Mt Htk+(O)",
+      "trim": "HTK+(O)",
+      "fuel": "Diesel",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "metallic": 1114900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT0944",
+      "name": "Sonet D1.5 CRDi VGT 6At Htk Plus",
+      "trim": "HTK Plus",
+      "fuel": "Diesel",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "metallic": 1144900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT0416",
+      "name": "Kia Sonet D1.5 CRDi VGT 6Mt Htx",
+      "trim": "HTX",
+      "fuel": "Diesel",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "metallic": 1159900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT0409",
+      "name": "Kia Sonet G1.0T-GDi Smartstream 7Dct Htx",
+      "trim": "HTX",
+      "fuel": "Petrol",
+      "transmission": "DCT",
+      "ex_showroom_surat": {
+        "metallic": 1183900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT0945",
+      "name": "Sonet D1.5 CRDi VGT 6At Htk+(O)",
+      "trim": "HTK+(O)",
+      "fuel": "Diesel",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "metallic": 1194900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT0410",
+      "name": "Kia Sonet D1.5 CRDi VGT 6At Htx",
+      "trim": "HTX",
+      "fuel": "Diesel",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "metallic": 1238900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT0408",
+      "name": "Kia Sonet G1.0T-GDi Smartstream 7Dct Gtx Plus",
+      "trim": "GTX+",
+      "fuel": "Petrol",
+      "transmission": "DCT",
+      "ex_showroom_surat": {
+        "metallic": 1374900,
+        "non_metallic": 1384900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT0425",
+      "name": "Kia Sonet G1.0T-GDi Smartstream 7Dct X Line",
+      "trim": "X-Line",
+      "fuel": "Petrol",
+      "transmission": "DCT",
+      "ex_showroom_surat": {
+        "metallic": 1388900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT0414",
+      "name": "Kia Sonet D1.5 CRDi VGT 6At Gtx Plus",
+      "trim": "GTX+",
+      "fuel": "Diesel",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "metallic": 1435900,
+        "non_metallic": 1445900
+      },
+      "specifications": {},
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}

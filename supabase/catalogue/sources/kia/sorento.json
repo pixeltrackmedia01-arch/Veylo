@@ -1,0 +1,451 @@
+{
+  "brand": "Kia",
+  "model": "Sorento",
+  "slug": "sorento",
+  "model_code": "MDBT0022",
+  "official_page": "https://www.kia.com/in/our-vehicles/sorento/showroom.html",
+  "brochure_pdf": "https://www.kia.com/content/dam/kia2/in/en/images/our-vehicles/sorento/brochure/Kia_India_Sorento_Brochure_Desktop.pdf",
+  "price_city": "Surat, Gujarat",
+  "ex_showroom_min": 2799000,
+  "ex_showroom_max": 4039000,
+  "fuel_types": [
+    "Diesel",
+    "Petrol"
+  ],
+  "transmissions": [
+    "AT",
+    "DCT"
+  ],
+  "colours": [
+    {
+      "name": "Imperial Blue",
+      "paint": "metallic"
+    },
+    {
+      "name": "Dark Gun Metal (Matte)",
+      "paint": "metallic"
+    },
+    {
+      "name": "Magma Red",
+      "paint": "metallic"
+    },
+    {
+      "name": "Pewter Olive",
+      "paint": "metallic"
+    },
+    {
+      "name": "Aurora Black Pearl",
+      "paint": "metallic"
+    },
+    {
+      "name": "Glacier White Pearl",
+      "paint": "metallic"
+    },
+    {
+      "name": "Ivory Silver Gloss",
+      "paint": "metallic"
+    },
+    {
+      "name": "Gravity Gray",
+      "paint": "metallic"
+    }
+  ],
+  "engines": [
+    {
+      "name": "Smartstream 1.6Turbo GDI Hybrid 6AT",
+      "fuel": "Hybrid"
+    },
+    {
+      "name": "Smartstream D2.2 8DCT",
+      "fuel": "Diesel"
+    }
+  ],
+  "variants": [
+    {
+      "code": "VRNT1294",
+      "name": "Sorento Smartstream D2.2 Dct Hte 7",
+      "trim": "HTE 7",
+      "fuel": "Diesel",
+      "transmission": "DCT",
+      "ex_showroom_surat": {
+        "metallic": 2799000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT1285",
+      "name": "Sorento Smartstream G1.6 T-GDi At Hte 7",
+      "trim": "HTE 7",
+      "fuel": "Petrol",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "metallic": 2949000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT1295",
+      "name": "Sorento Smartstream D2.2 Dct Hte(O) 7",
+      "trim": "HTE(O) 7",
+      "fuel": "Diesel",
+      "transmission": "DCT",
+      "ex_showroom_surat": {
+        "metallic": 2949000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT1286",
+      "name": "Sorento Smartstream G1.6 T-GDi At Hte(O) 7",
+      "trim": "HTE(O) 7",
+      "fuel": "Petrol",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "metallic": 3099000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT1300",
+      "name": "Sorento Smartstream D2.2 Dct Htk 7",
+      "trim": "HTK 7",
+      "fuel": "Diesel",
+      "transmission": "DCT",
+      "ex_showroom_surat": {
+        "metallic": 3249000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT1304",
+      "name": "Sorento Smartstream D2.2 Dct Htk 6",
+      "trim": "HTK 6",
+      "fuel": "Diesel",
+      "transmission": "DCT",
+      "ex_showroom_surat": {
+        "metallic": 3269000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT1299",
+      "name": "Sorento Smartstream D2.2 Dct Htk(A) 7",
+      "trim": "HTK(A) 7",
+      "fuel": "Diesel",
+      "transmission": "DCT",
+      "ex_showroom_surat": {
+        "metallic": 3349000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT1298",
+      "name": "Sorento Smartstream D2.2 Dct Htk(A) Blackline 7",
+      "trim": "HTK(A) BLACKLINE 7",
+      "fuel": "Diesel",
+      "transmission": "DCT",
+      "ex_showroom_surat": {
+        "metallic": 3369000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT1312",
+      "name": "Sorento Smartstream D2.2 Dct Htk(A) 6",
+      "trim": "HTK(A) 6",
+      "fuel": "Diesel",
+      "transmission": "DCT",
+      "ex_showroom_surat": {
+        "metallic": 3369000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT1306",
+      "name": "Sorento Smartstream D2.2 Dct Htk(A) Blackline 6",
+      "trim": "HTK(A) BLACKLINE 6",
+      "fuel": "Diesel",
+      "transmission": "DCT",
+      "ex_showroom_surat": {
+        "metallic": 3389000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT1288",
+      "name": "Sorento Smartstream G1.6 T-GDi At Htk 7",
+      "trim": "HTK 7",
+      "fuel": "Petrol",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "metallic": 3399000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT1310",
+      "name": "Sorento Smartstream G1.6 T-GDi At Htk 6",
+      "trim": "HTK 6",
+      "fuel": "Petrol",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "metallic": 3419000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT1287",
+      "name": "Sorento Smartstream G1.6 T-GDi At Htk(A) 7",
+      "trim": "HTK(A) 7",
+      "fuel": "Petrol",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "metallic": 3499000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT1309",
+      "name": "Sorento Smartstream G1.6 T-GDi At Htk(A) 6",
+      "trim": "HTK(A) 6",
+      "fuel": "Petrol",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "metallic": 3519000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT1289",
+      "name": "Sorento Smartstream G1.6 T-GDi At Htk(A) Blackline 7",
+      "trim": "HTK(A) BLACKLINE 7",
+      "fuel": "Petrol",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "metallic": 3519000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT1311",
+      "name": "Sorento Smartstream G1.6 T-GDi At Htk(A) Blackline 6",
+      "trim": "HTK(A) BLACKLINE 6",
+      "fuel": "Petrol",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "metallic": 3539000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT1296",
+      "name": "Sorento Smartstream D2.2 Dct Htx 7",
+      "trim": "HTX 7",
+      "fuel": "Diesel",
+      "transmission": "DCT",
+      "ex_showroom_surat": {
+        "metallic": 3749000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT1284",
+      "name": "Sorento Smartstream D2.2 Dct Htx Blackline 7",
+      "trim": "HTX BLACKLINE 7",
+      "fuel": "Diesel",
+      "transmission": "DCT",
+      "ex_showroom_surat": {
+        "metallic": 3769000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT1305",
+      "name": "Sorento Smartstream D2.2 Dct Htx 6",
+      "trim": "HTX 6",
+      "fuel": "Diesel",
+      "transmission": "DCT",
+      "ex_showroom_surat": {
+        "metallic": 3769000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT1307",
+      "name": "Sorento Smartstream D2.2 Dct Htx Blackline 6",
+      "trim": "HTX BLACKLINE 6",
+      "fuel": "Diesel",
+      "transmission": "DCT",
+      "ex_showroom_surat": {
+        "metallic": 3789000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT1297",
+      "name": "Sorento Smartstream D2.2 Dct Htx(A) 7",
+      "trim": "HTX(A) 7",
+      "fuel": "Diesel",
+      "transmission": "DCT",
+      "ex_showroom_surat": {
+        "metallic": 3849000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT1303",
+      "name": "Sorento Smartstream D2.2 Dct Htx(A) 6",
+      "trim": "HTX(A) 6",
+      "fuel": "Diesel",
+      "transmission": "DCT",
+      "ex_showroom_surat": {
+        "metallic": 3869000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT1301",
+      "name": "Sorento Smartstream D2.2 Dct Htx(A) Blackline 7",
+      "trim": "HTX(A) BLACKLINE 7",
+      "fuel": "Diesel",
+      "transmission": "DCT",
+      "ex_showroom_surat": {
+        "metallic": 3869000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT1308",
+      "name": "Sorento Smartstream D2.2 Dct Htx(A) Blackline 6",
+      "trim": "HTX(A) BLACKLINE 6",
+      "fuel": "Diesel",
+      "transmission": "DCT",
+      "ex_showroom_surat": {
+        "metallic": 3889000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT1291",
+      "name": "Sorento Smartstream G1.6 T-GDi At Htx 7",
+      "trim": "HTX 7",
+      "fuel": "Petrol",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "metallic": 3899000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT1283",
+      "name": "Sorento Smartstream G1.6 T-GDi At Htx Black Line 7",
+      "trim": "HTX BLACK LINE 7",
+      "fuel": "Petrol",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "metallic": 3919000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT1314",
+      "name": "Sorento Smartstream G1.6 T-GDi At Htx 6",
+      "trim": "HTX 6",
+      "fuel": "Petrol",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "metallic": 3919000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT1302",
+      "name": "Sorento Smartstream G1.6 T-GDi At Htx Black Line 6",
+      "trim": "HTX BLACK LINE 6",
+      "fuel": "Petrol",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "metallic": 3939000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT1290",
+      "name": "Sorento Smartstream G1.6 T-GDi At Htx(A) 7",
+      "trim": "HTX(A) 7",
+      "fuel": "Petrol",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "metallic": 3999000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT1313",
+      "name": "Sorento Smartstream G1.6 T-GDi At Htx(A) 6",
+      "trim": "HTX(A) 6",
+      "fuel": "Petrol",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "metallic": 4019000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT1292",
+      "name": "Sorento Smartstream G1.6 T-GDi At Htx(A) Black Line 7",
+      "trim": "HTX(A) BLACK LINE 7",
+      "fuel": "Petrol",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "metallic": 4019000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT1315",
+      "name": "Sorento Smartstream G1.6 T-GDi At Htx(A) Black Line 6",
+      "trim": " HTX(A) BLACK LINE 6",
+      "fuel": "Petrol",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "metallic": 4039000
+      },
+      "specifications": {},
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}

@@ -1,0 +1,149 @@
+{
+  "brand": "Kia",
+  "model": "Syros EV",
+  "slug": "syros-ev",
+  "model_code": "MDBT0021",
+  "official_page": "https://www.kia.com/in/our-vehicles/syros-ev/showroom.html",
+  "brochure_pdf": "https://www.kia.com/content/dam/kia2/in/en/images/our-vehicles/syros_ev/brochure/Kia_Syros_EV_Brochure_Desktop2026.pdf",
+  "price_city": "Surat, Gujarat",
+  "ex_showroom_min": 1349900,
+  "ex_showroom_max": 1999900,
+  "fuel_types": [
+    "Electric"
+  ],
+  "transmissions": [
+    "Automatic"
+  ],
+  "colours": [
+    {
+      "name": "Ivory Silver Matte",
+      "paint": "metallic"
+    },
+    {
+      "name": "Ivory Silver Gloss",
+      "paint": "metallic"
+    },
+    {
+      "name": "Glacier White Pearl",
+      "paint": "metallic"
+    },
+    {
+      "name": "Magma Red",
+      "paint": "metallic"
+    },
+    {
+      "name": "Gravity Grey",
+      "paint": "metallic"
+    },
+    {
+      "name": "Pewter Olive",
+      "paint": "metallic"
+    },
+    {
+      "name": "Aurora Black Pearl",
+      "paint": "metallic"
+    },
+    {
+      "name": "Frost Blue",
+      "paint": "metallic"
+    },
+    {
+      "name": "Matte Graphite",
+      "paint": "metallic"
+    }
+  ],
+  "engines": [
+    {
+      "name": "Electric",
+      "fuel": "Electric"
+    }
+  ],
+  "variants": [
+    {
+      "code": "VRNT1250",
+      "name": "Syros Ev Htk",
+      "trim": "HTK",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "metallic": 1349900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT1251",
+      "name": "Syros Ev Htk Plus",
+      "trim": "HTK+",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "metallic": 1499900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT1245",
+      "name": "Syros Ev Htx",
+      "trim": "HTX",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "metallic": 1599900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT1248",
+      "name": "Syros Ev Extended Range Htk Plus",
+      "trim": "HTK+ ER",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "metallic": 1699900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT1246",
+      "name": "Syros Ev Extended Range Htx",
+      "trim": "HTX ER",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "metallic": 1799900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT1244",
+      "name": "Syros Ev Extended Range Htx Plus",
+      "trim": "HTX+ ER",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "metallic": 1949900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT1252",
+      "name": "Syros Ev Extended Range X-Line",
+      "trim": "X-Line ER",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "metallic": 1999900
+      },
+      "specifications": {},
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}

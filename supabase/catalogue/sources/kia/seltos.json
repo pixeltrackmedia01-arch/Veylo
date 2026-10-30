@@ -1,0 +1,545 @@
+{
+  "brand": "Kia",
+  "model": "Seltos",
+  "slug": "seltos",
+  "model_code": "MDBT0020",
+  "official_page": "https://www.kia.com/in/our-vehicles/seltos/showroom.html",
+  "brochure_pdf": "https://www.kia.com/content/dam/kia2/in/en/our-vehicles/new-seltos/showroom/brochure/Kia_Seltos_Brochure_2026_Desktop.pdf",
+  "price_city": "Surat, Gujarat",
+  "ex_showroom_min": 1124900,
+  "ex_showroom_max": 2201899,
+  "fuel_types": [
+    "Diesel",
+    "Petrol"
+  ],
+  "transmissions": [
+    "AT",
+    "DCT",
+    "IVT",
+    "MT"
+  ],
+  "colours": [
+    {
+      "name": "Frost Blue",
+      "paint": "metallic"
+    },
+    {
+      "name": "Glacier White Pearl",
+      "paint": "metallic"
+    },
+    {
+      "name": "Matte Graphite",
+      "paint": "metallic"
+    },
+    {
+      "name": "Morning Haze",
+      "paint": "metallic"
+    },
+    {
+      "name": "Imperial Blue",
+      "paint": "metallic"
+    },
+    {
+      "name": "Pewter Olive",
+      "paint": "metallic"
+    },
+    {
+      "name": "Aurora Black Pearl",
+      "paint": "metallic"
+    },
+    {
+      "name": "Magma Red",
+      "paint": "metallic"
+    },
+    {
+      "name": "Ivory Silver Gloss",
+      "paint": "metallic"
+    },
+    {
+      "name": "Gravity Gray",
+      "paint": "metallic"
+    }
+  ],
+  "engines": [
+    {
+      "name": "1.5L CRDi VGT",
+      "fuel": "Diesel"
+    },
+    {
+      "name": "Smartstream G1.5",
+      "fuel": "Petrol"
+    },
+    {
+      "name": "Smartstream G1.5T-GDI",
+      "fuel": "Petrol"
+    }
+  ],
+  "variants": [
+    {
+      "code": "VRNT29104",
+      "name": "Seltos Smartstream G1.5 6Mt Hte",
+      "trim": "HTE",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "metallic": 1124900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT2985",
+      "name": "Seltos Smartstream G1.5 6Mt Hte (O)",
+      "trim": "HTE (O)",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "metallic": 1241900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT2956",
+      "name": "Seltos D1.5 CRDi VGT 6Mt Hte",
+      "trim": "HTE",
+      "fuel": "Diesel",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "metallic": 1293900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT2981",
+      "name": "Seltos Smartstream G1.5 6Mt Htk",
+      "trim": "HTK",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "metallic": 1341900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT29103",
+      "name": "Seltos Smartstream G1.5 Ivt Hte (O)",
+      "trim": "HTE (O)",
+      "fuel": "Petrol",
+      "transmission": "IVT",
+      "ex_showroom_surat": {
+        "metallic": 1371900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT29105",
+      "name": "Seltos D1.5 CRDi VGT 6Mt Hte (O)",
+      "trim": "HTE (O)",
+      "fuel": "Diesel",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "metallic": 1403900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT29102",
+      "name": "Seltos Smartstream G1.5 6Mt Htk (O)",
+      "trim": "HTK (O)",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "metallic": 1451900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT2993",
+      "name": "Seltos Smartstream G1.5 Ivt Htk",
+      "trim": "HTK",
+      "fuel": "Petrol",
+      "transmission": "IVT",
+      "ex_showroom_surat": {
+        "metallic": 1471900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT2988",
+      "name": "Seltos D1.5 CRDi VGT 6Mt Htk",
+      "trim": "HTK",
+      "fuel": "Diesel",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "metallic": 1503900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT29106",
+      "name": "Seltos D1.5 CRDi VGT 6At Hte (O)",
+      "trim": "HTE (O)",
+      "fuel": "Diesel",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "metallic": 1532400
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT2992",
+      "name": "Seltos Smartstream G1.5 Ivt Htk (O)",
+      "trim": "HTK (O)",
+      "fuel": "Petrol",
+      "transmission": "IVT",
+      "ex_showroom_surat": {
+        "metallic": 1581900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT2949",
+      "name": "Seltos Smartstream G1.5 6Mt Htx",
+      "trim": "HTX",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "metallic": 1591900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT2982",
+      "name": "Seltos D1.5 CRDi VGT 6Mt Htk (O)",
+      "trim": "HTK (O)",
+      "fuel": "Diesel",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "metallic": 1613900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT2953",
+      "name": "Seltos D1.5 CRDi VGT 6At Htk",
+      "trim": "HTK",
+      "fuel": "Diesel",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "metallic": 1633900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT2986",
+      "name": "Seltos Smartstream G1.5T-GDi 7Dct Htk (O)",
+      "trim": "HTK (O)",
+      "fuel": "Petrol",
+      "transmission": "DCT",
+      "ex_showroom_surat": {
+        "metallic": 1661900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT29112",
+      "name": "Seltos Smartstream G1.5 6Mt Htx (A)",
+      "trim": "HTX (A)",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "metallic": 1701900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT2990",
+      "name": "Seltos Smartstream G1.5 Ivt Htx",
+      "trim": "HTX",
+      "fuel": "Petrol",
+      "transmission": "IVT",
+      "ex_showroom_surat": {
+        "metallic": 1721900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT2950",
+      "name": "Seltos D1.5 CRDi VGT 6At Htk (O)",
+      "trim": "HTK (O)",
+      "fuel": "Diesel",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "metallic": 1743900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT2989",
+      "name": "Seltos D1.5 CRDi VGT 6Mt Htx",
+      "trim": "HTX",
+      "fuel": "Diesel",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "metallic": 1753900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT2996",
+      "name": "Seltos Smartstream G1.5T-GDi 7Dct Htx",
+      "trim": "HTX",
+      "fuel": "Petrol",
+      "transmission": "DCT",
+      "ex_showroom_surat": {
+        "metallic": 1801900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT2997",
+      "name": "Seltos Smartstream G1.5 Ivt Htx (A)",
+      "trim": "HTX (A)",
+      "fuel": "Petrol",
+      "transmission": "IVT",
+      "ex_showroom_surat": {
+        "metallic": 1831900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT2983",
+      "name": "Seltos D1.5 CRDi VGT 6Mt Htx (A)",
+      "trim": "HTX (A)",
+      "fuel": "Diesel",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "metallic": 1863900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT29101",
+      "name": "Seltos Smartstream G1.5 Ivt Gtx",
+      "trim": "GTX",
+      "fuel": "Petrol",
+      "transmission": "IVT",
+      "ex_showroom_surat": {
+        "metallic": 1871900,
+        "non_metallic": 1891900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT2998",
+      "name": "Seltos D1.5 CRDi VGT 6At Htx",
+      "trim": "HTX",
+      "fuel": "Diesel",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "metallic": 1883900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT2984",
+      "name": "Seltos Smartstream G1.5T-GDi 7Dct Htx (A)",
+      "trim": "HTX (A)",
+      "fuel": "Petrol",
+      "transmission": "DCT",
+      "ex_showroom_surat": {
+        "metallic": 1911900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT2994",
+      "name": "Seltos Smartstream G1.5T-GDi 7Dct Gtx",
+      "trim": "GTX",
+      "fuel": "Petrol",
+      "transmission": "DCT",
+      "ex_showroom_surat": {
+        "metallic": 1951900,
+        "non_metallic": 1971900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT2937",
+      "name": "Seltos Smartstream G1.5 Ivt Gtx (A)",
+      "trim": "GTX (A)",
+      "fuel": "Petrol",
+      "transmission": "IVT",
+      "ex_showroom_surat": {
+        "metallic": 1981900,
+        "non_metallic": 1999900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT29108",
+      "name": "Seltos Smartstream G1.5 Ivt X Line (A)",
+      "trim": "X LINE (A)",
+      "fuel": "Petrol",
+      "transmission": "IVT",
+      "ex_showroom_surat": {
+        "metallic": 1981900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT2963",
+      "name": "Seltos D1.5 CRDi VGT 6At Htx (A)",
+      "trim": "HTX (A)",
+      "fuel": "Diesel",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "metallic": 1993900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT2995",
+      "name": "Seltos Smartstream G1.5T-GDi 7Dct Gtx (A)",
+      "trim": "GTX (A)",
+      "fuel": "Petrol",
+      "transmission": "DCT",
+      "ex_showroom_surat": {
+        "metallic": 1999900,
+        "non_metallic": 2021400
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT2951",
+      "name": "Seltos D1.5 CRDi VGT 6At Gtx",
+      "trim": "GTX",
+      "fuel": "Diesel",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "metallic": 1999900,
+        "non_metallic": 2019899
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT29107",
+      "name": "Seltos Smartstream G1.5T-GDi 7Dct X Line (A)",
+      "trim": "X LINE (A)",
+      "fuel": "Petrol",
+      "transmission": "DCT",
+      "ex_showroom_surat": {
+        "metallic": 1999900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT2975",
+      "name": "Seltos D1.5 CRDi VGT 6At Gtx (A)",
+      "trim": "GTX (A)",
+      "fuel": "Diesel",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "metallic": 2032400,
+        "non_metallic": 2052400
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT2980",
+      "name": "Seltos D1.5 CRDi VGT 6At X Line (A)",
+      "trim": "X LINE (A)",
+      "fuel": "Diesel",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "metallic": 2032400
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT4445",
+      "name": "Seltos Smartstream G1.5T-GDi 7Dct Gtx (O)",
+      "trim": "GTX (O)",
+      "fuel": "Petrol",
+      "transmission": "DCT",
+      "ex_showroom_surat": {
+        "metallic": 2156900,
+        "non_metallic": 2176900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT4446",
+      "name": "Seltos Smartstream G1.5T-GDi 7Dct X Line (O)",
+      "trim": "X LINE(O)",
+      "fuel": "Petrol",
+      "transmission": "DCT",
+      "ex_showroom_surat": {
+        "metallic": 2156900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT4447",
+      "name": "Seltos D1.5 CRDi VGT 6At Gtx (O)",
+      "trim": "GTX (O)",
+      "fuel": "Diesel",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "metallic": 2181900,
+        "non_metallic": 2201899
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "VRNT4444",
+      "name": "Seltos D1.5 CRDi VGT 6At X Line (O)",
+      "trim": "X LINE(O)",
+      "fuel": "Diesel",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "metallic": 2181900
+      },
+      "specifications": {},
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}
