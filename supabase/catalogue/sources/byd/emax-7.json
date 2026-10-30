@@ -1,0 +1,67 @@
+{
+  "brand": "BYD",
+  "model": "eMAX 7",
+  "slug": "emax-7",
+  "official_page": "https://www.bydautoindia.com/bydemax7",
+  "brochure_pdf": null,
+  "price_city": "Surat, Gujarat (BYD lists one all-India ex-showroom price)",
+  "ex_showroom_min": 2790000,
+  "ex_showroom_max": 2990000,
+  "fuel_types": [
+    "Electric"
+  ],
+  "transmissions": [
+    "Automatic"
+  ],
+  "colours": [],
+  "variants": [
+    {
+      "name": "eMAX 7 Comfort (option 1)",
+      "trim": "Comfort",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 2790000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "eMAX 7 Comfort (option 2)",
+      "trim": "Comfort",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 2830000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "eMAX 7 Superior (option 1)",
+      "trim": "Superior",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 2930000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "eMAX 7 Superior (option 2)",
+      "trim": "Superior",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 2990000
+      },
+      "specifications": {},
+      "features": {}
+    }
+  ],
+  "notes": [
+    "Some trims are listed twice at different prices without saying what differs (likely seating or battery option)."
+  ],
+  "fetched_on": "2026-10-30"
+}

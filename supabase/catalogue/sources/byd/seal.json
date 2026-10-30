@@ -1,0 +1,54 @@
+{
+  "brand": "BYD",
+  "model": "Seal",
+  "slug": "seal",
+  "official_page": "https://www.bydautoindia.com/bydseal",
+  "brochure_pdf": null,
+  "price_city": "Surat, Gujarat (BYD lists one all-India ex-showroom price)",
+  "ex_showroom_min": 4150000,
+  "ex_showroom_max": 5365000,
+  "fuel_types": [
+    "Electric"
+  ],
+  "transmissions": [
+    "Automatic"
+  ],
+  "colours": [],
+  "variants": [
+    {
+      "name": "Seal Dynamic",
+      "trim": "Dynamic",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 4150000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Seal Premium",
+      "trim": "Premium",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 4620000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Seal Performance",
+      "trim": "Performance",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 5365000
+      },
+      "specifications": {},
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}

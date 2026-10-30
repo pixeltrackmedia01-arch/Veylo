@@ -1,0 +1,65 @@
+{
+  "brand": "BYD",
+  "model": "Sealion 7",
+  "slug": "sealion-7",
+  "official_page": "https://www.bydautoindia.com/bydsealion7",
+  "brochure_pdf": null,
+  "price_city": "Surat, Gujarat (BYD lists one all-India ex-showroom price)",
+  "ex_showroom_min": 4190000,
+  "ex_showroom_max": 5590000,
+  "fuel_types": [
+    "Electric"
+  ],
+  "transmissions": [
+    "Automatic"
+  ],
+  "colours": [],
+  "variants": [
+    {
+      "name": "Sealion 7 Dynamic",
+      "trim": "Dynamic",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 4190000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Sealion 7 Premium",
+      "trim": "Premium",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 4990000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Sealion 7 Premium (Rich Tan & Black interior)",
+      "trim": "Premium (Rich Tan & Black interior)",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 5060000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Sealion 7 Performance",
+      "trim": "Performance",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 5590000
+      },
+      "specifications": {},
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}

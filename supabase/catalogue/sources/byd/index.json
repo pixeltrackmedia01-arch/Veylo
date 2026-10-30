@@ -1,0 +1,66 @@
+[
+  {
+    "model": "Atto 3",
+    "slug": "atto-3",
+    "channel": "Electric SUV",
+    "variants": 3,
+    "colours": 0,
+    "ex_showroom_min": 2499000,
+    "ex_showroom_max": 3449000,
+    "fuel_types": [
+      "Electric"
+    ],
+    "transmissions": [
+      "Automatic"
+    ],
+    "brochure_pdf": null
+  },
+  {
+    "model": "eMAX 7",
+    "slug": "emax-7",
+    "channel": "Electric MPV",
+    "variants": 4,
+    "colours": 0,
+    "ex_showroom_min": 2790000,
+    "ex_showroom_max": 2990000,
+    "fuel_types": [
+      "Electric"
+    ],
+    "transmissions": [
+      "Automatic"
+    ],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Seal",
+    "slug": "seal",
+    "channel": "Electric Sedan",
+    "variants": 3,
+    "colours": 0,
+    "ex_showroom_min": 4150000,
+    "ex_showroom_max": 5365000,
+    "fuel_types": [
+      "Electric"
+    ],
+    "transmissions": [
+      "Automatic"
+    ],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Sealion 7",
+    "slug": "sealion-7",
+    "channel": "Electric SUV",
+    "variants": 4,
+    "colours": 0,
+    "ex_showroom_min": 4190000,
+    "ex_showroom_max": 5590000,
+    "fuel_types": [
+      "Electric"
+    ],
+    "transmissions": [
+      "Automatic"
+    ],
+    "brochure_pdf": null
+  }
+]
