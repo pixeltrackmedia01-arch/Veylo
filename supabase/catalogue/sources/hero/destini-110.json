@@ -1,0 +1,109 @@
+{
+  "brand": "Hero",
+  "model": "Destini 110",
+  "slug": "destini-110",
+  "official_page": "https://www.heromotocorp.com/en-in/scooters/destini-110.html",
+  "brochure_pdf": null,
+  "price_city": "Hero's website default ex-showroom price (state not stated)",
+  "ex_showroom_min": 72000,
+  "ex_showroom_max": 79000,
+  "fuel_types": [
+    "Petrol"
+  ],
+  "transmissions": [],
+  "colours": [],
+  "variants": [
+    {
+      "name": "Destini 110 (starting price)",
+      "fuel": "Petrol",
+      "transmission": null,
+      "specifications": {
+        "Dimensions": {
+          "Overall Length": "1859 mm",
+          "Ground Clearance": "162 mm",
+          "Kerb Weight": "114 kg",
+          "Fuel Tank Capacity": "5.3 L",
+          "Wheelbase": "1302 mm",
+          "Seat Height": "770 mm",
+          "Overall Width": "Disc: 703 mm and Drum: 697 mm",
+          "Overall Height": "1125 mm"
+        },
+        "Electricals": {
+          "Starting System": "Electric/kick start",
+          "Ignition System": "Fuel Injection (FI)",
+          "Battery": "12V- 4Ah /ETZ-5"
+        },
+        "Engine": {
+          "Engine Type": "Air Cooled, 4 stroke engine",
+          "Max Torque": "8.7 Nm&nbsp;@ 5750rpm",
+          "Max Power": "6 kW&nbsp;@ 7250 rpm",
+          "Displacement": "110.9 cc",
+          "Starting System": "Electric/kick start"
+        },
+        "Suspension": {
+          "Front Suspension": "Telescopic fork absorber",
+          "Rear Suspension": "Single coil Spring Hydraulic Type&nbsp;"
+        },
+        "Wheels & Tyres": {
+          "Front Tyre": "90/90 - 12 Tubeless",
+          "Rear Tyre": "100/80 - 12 Tubeless&quot;"
+        },
+        "Transmission": {
+          "Transmission Type": "CVT"
+        }
+      },
+      "features": {},
+      "ex_showroom_surat": {
+        "standard": 72000
+      }
+    },
+    {
+      "name": "Destini 110 (top variant price)",
+      "fuel": "Petrol",
+      "transmission": null,
+      "specifications": {
+        "Dimensions": {
+          "Overall Length": "1859 mm",
+          "Ground Clearance": "162 mm",
+          "Kerb Weight": "114 kg",
+          "Fuel Tank Capacity": "5.3 L",
+          "Wheelbase": "1302 mm",
+          "Seat Height": "770 mm",
+          "Overall Width": "Disc: 703 mm and Drum: 697 mm",
+          "Overall Height": "1125 mm"
+        },
+        "Electricals": {
+          "Starting System": "Electric/kick start",
+          "Ignition System": "Fuel Injection (FI)",
+          "Battery": "12V- 4Ah /ETZ-5"
+        },
+        "Engine": {
+          "Engine Type": "Air Cooled, 4 stroke engine",
+          "Max Torque": "8.7 Nm&nbsp;@ 5750rpm",
+          "Max Power": "6 kW&nbsp;@ 7250 rpm",
+          "Displacement": "110.9 cc",
+          "Starting System": "Electric/kick start"
+        },
+        "Suspension": {
+          "Front Suspension": "Telescopic fork absorber",
+          "Rear Suspension": "Single coil Spring Hydraulic Type&nbsp;"
+        },
+        "Wheels & Tyres": {
+          "Front Tyre": "90/90 - 12 Tubeless",
+          "Rear Tyre": "100/80 - 12 Tubeless&quot;"
+        },
+        "Transmission": {
+          "Transmission Type": "CVT"
+        }
+      },
+      "features": {},
+      "ex_showroom_surat": {
+        "standard": 79000
+      }
+    }
+  ],
+  "notes": [
+    "Hero lists a price range per model, not per variant: entries are the starting and top prices."
+  ],
+  "fetched_on": "2026-10-30"
+}

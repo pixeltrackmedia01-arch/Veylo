@@ -1,0 +1,77 @@
+{
+  "brand": "Hero",
+  "model": "Destini Prime",
+  "slug": "destini-prime",
+  "official_page": "https://www.heromotocorp.com/en-in/scooters/destini-prime.html",
+  "brochure_pdf": null,
+  "price_city": "Hero's website default ex-showroom price (state not stated)",
+  "ex_showroom_min": 70430,
+  "ex_showroom_max": 70430,
+  "fuel_types": [
+    "Petrol"
+  ],
+  "transmissions": [],
+  "colours": [],
+  "variants": [
+    {
+      "name": "Destini Prime (starting price)",
+      "fuel": "Petrol",
+      "transmission": null,
+      "specifications": {
+        "Dimensions": {
+          "Overall Length": "1809 mm",
+          "Ground Clearance": "155 mm",
+          "Kerb Weight": "115",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/scooters/content-fragments/destini-prime/assets/New-Specs-Dimensions.png",
+          "Fuel Tank Capacity": "5 litres",
+          "Wheelbase": "1245 mm",
+          "Overall Width": "729 mm",
+          "Overall Height": "1154 mm"
+        },
+        "Other": {
+          "Download Link": "/content/dam/hero-commerce/in/en/products/scooters/content-fragments/destini-prime/assets/destini-prime-brochure.pdf",
+          "Download Text": "DOWNLOAD BROCHURE",
+          "Title": "DESTINI PRIME SPECIFICATIONS",
+          "Right Tab Image": "/content/dam/hero-commerce/in/en/products/scooters/content-fragments/destini-prime/assets/New-Specs-RHS-Destini-Prime.png"
+        },
+        "Engine": {
+          "Type": "Air Cooled, 4-Stroke, SI Engine",
+          "Max Torque": "10.36 Nm @ 5500 Revolutions Per Minute (rpm)",
+          "Max Power": "6.69 kW (9 BHP) @ 7000 Revolutions Per Minute (rpm)",
+          "Fuel System": "Fuel Injection (FI)",
+          "Displacement": "124.6 cc",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/scooters/content-fragments/destini-prime/assets/New-Specs-125cc-Scooter-Engine.png",
+          "Starting System": "Electric/Self-Start"
+        },
+        "Electricals": {
+          "Tail Stop Lamp": "12 V - 5/21 W (Multi-Reflector Type)",
+          "Battery": "12 V - 4 Ah ETZ5 MF Battery",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/scooters/content-fragments/destini-prime/assets/New-Specs-Head-light.png"
+        },
+        "Wheels & Tyres": {
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/scooters/content-fragments/destini-prime/assets/News-Specs-Tyre.png",
+          "Front Tyre": "90/100-10",
+          "Rear Tyre": "90/100-10"
+        },
+        "Brakes": {
+          "Rear Brake": "130 mm",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/scooters/content-fragments/destini-prime/assets/New-Specs-Break.png",
+          "Front Brake": "130 mm"
+        },
+        "Suspension": {
+          "Front Suspension": "Telescopic Fork",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/scooters/content-fragments/destini-prime/assets/suspensionx.png",
+          "Rear Suspension": "Single Coil Spring Hydraulic Type"
+        }
+      },
+      "features": {},
+      "ex_showroom_surat": {
+        "standard": 70430
+      }
+    }
+  ],
+  "notes": [
+    "Hero lists a price range per model, not per variant: entries are the starting and top prices."
+  ],
+  "fetched_on": "2026-10-30"
+}

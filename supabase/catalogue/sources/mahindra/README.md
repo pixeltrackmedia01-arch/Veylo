@@ -1,6 +1,6 @@
 # Mahindra catalogue (official data)
 
-Collected on 2026-10-30. Prices are **ex-showroom, Surat (Gujarat)**, in ₹ lakh.
+Collected on 2026-10-30. Prices are **ex-showroom** in ₹ lakh — Surat, Gujarat (Mahindra lists one ex-showroom price nationally).
 
 Sources: auto.mahindra.com and mahindraelectricsuv.com (every variant with its ex-showroom
 price and the colour list with paint codes), and the official brochures (spec lines printed as
@@ -18,7 +18,7 @@ listed under XUV 3XO. XUV400 has a single variant left on sale.
 
 ## Summary
 
-| # | Model | Showroom / type | Variants | Colours | Fuel | Transmission | Ex-showroom Surat (₹ lakh) |
+| # | Model | Showroom / type | Variants | Colours | Fuel | Transmission | Ex-showroom (₹ lakh) |
 |---|---|---|---|---|---|---|---|
 | 1 | Bolero | SUV | 4 | 4 | Diesel | Manual | 8.57 – 9.99 |
 | 2 | Bolero Neo | SUV | 5 | 6 | Diesel | Manual | 9.06 – 10.85 |

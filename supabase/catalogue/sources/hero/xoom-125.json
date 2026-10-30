@@ -1,0 +1,109 @@
+{
+  "brand": "Hero",
+  "model": "Xoom 125",
+  "slug": "xoom-125",
+  "official_page": "https://www.heromotocorp.com/en-in/scooters/xoom-125.html",
+  "brochure_pdf": null,
+  "price_city": "Hero's website default ex-showroom price (state not stated)",
+  "ex_showroom_min": 80494,
+  "ex_showroom_max": 86025,
+  "fuel_types": [
+    "Petrol"
+  ],
+  "transmissions": [],
+  "colours": [],
+  "variants": [
+    {
+      "name": "Xoom 125 (starting price)",
+      "fuel": "Petrol",
+      "transmission": null,
+      "specifications": {
+        "Dimensions": {
+          "Overall Length": "1978 mm",
+          "Ground Clearance": "164 mm",
+          "Kerb Weight": "Drum - 120 kg and Disc - 121 kg",
+          "Fuel Tank Capacity": "5 L",
+          "Wheelbase": "1327 mm",
+          "Seat Height": "777 mm",
+          "Overall Width": "Disc: 749 and Drum: 739",
+          "Overall Height": "1131 mm"
+        },
+        "Electricals": {
+          "Starting System": "Electric/kick start",
+          "Ignition System": "Fuel Injection (FI)",
+          "Battery": "12V- 4Ah /ETZ-5"
+        },
+        "Engine": {
+          "Engine Type": "Air Cooled, 4 stroke, SI Engine",
+          "Max Torque": "10.4 Nm @ 6000 rpm",
+          "Max Power": "7.3 kw (9.8 bhp) @ 7250 rpm",
+          "Displacement": "124.6 cc",
+          "Starting System": "Electric/kick start"
+        },
+        "Suspension": {
+          "Front Suspension": "Telescopic Hydraulic shock absorber",
+          "Rear Suspension": "Single side shock absorber with adjustor"
+        },
+        "Wheels & Tyres": {
+          "Front Tyre": "110/80 - 14&quot;",
+          "Rear Tyre": "120/70 - 14&quot;"
+        },
+        "Transmission": {
+          "Transmission Type": "CVT"
+        }
+      },
+      "features": {},
+      "ex_showroom_surat": {
+        "standard": 80494
+      }
+    },
+    {
+      "name": "Xoom 125 (top variant price)",
+      "fuel": "Petrol",
+      "transmission": null,
+      "specifications": {
+        "Dimensions": {
+          "Overall Length": "1978 mm",
+          "Ground Clearance": "164 mm",
+          "Kerb Weight": "Drum - 120 kg and Disc - 121 kg",
+          "Fuel Tank Capacity": "5 L",
+          "Wheelbase": "1327 mm",
+          "Seat Height": "777 mm",
+          "Overall Width": "Disc: 749 and Drum: 739",
+          "Overall Height": "1131 mm"
+        },
+        "Electricals": {
+          "Starting System": "Electric/kick start",
+          "Ignition System": "Fuel Injection (FI)",
+          "Battery": "12V- 4Ah /ETZ-5"
+        },
+        "Engine": {
+          "Engine Type": "Air Cooled, 4 stroke, SI Engine",
+          "Max Torque": "10.4 Nm @ 6000 rpm",
+          "Max Power": "7.3 kw (9.8 bhp) @ 7250 rpm",
+          "Displacement": "124.6 cc",
+          "Starting System": "Electric/kick start"
+        },
+        "Suspension": {
+          "Front Suspension": "Telescopic Hydraulic shock absorber",
+          "Rear Suspension": "Single side shock absorber with adjustor"
+        },
+        "Wheels & Tyres": {
+          "Front Tyre": "110/80 - 14&quot;",
+          "Rear Tyre": "120/70 - 14&quot;"
+        },
+        "Transmission": {
+          "Transmission Type": "CVT"
+        }
+      },
+      "features": {},
+      "ex_showroom_surat": {
+        "standard": 86025
+      }
+    }
+  ],
+  "notes": [
+    "Hero lists a price range per model, not per variant: entries are the starting and top prices."
+  ],
+  "fetched_on": "2026-10-30"
+}

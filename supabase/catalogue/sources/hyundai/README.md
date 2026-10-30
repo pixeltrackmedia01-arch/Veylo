@@ -1,6 +1,6 @@
 # Hyundai catalogue (official data)
 
-Collected on 2026-10-30. Prices are **ex-showroom, Surat (Gujarat)**, in ₹ lakh.
+Collected on 2026-10-30. Prices are **ex-showroom** in ₹ lakh — Surat, Gujarat.
 
 Sources:
 - **hyundai.com/in** — every variant with its Surat ex-showroom price (`standard` and
@@ -21,7 +21,7 @@ current brochure lists an 84 kWh battery — confirm with a dealer.
 
 ## Summary
 
-| # | Model | Showroom / type | Variants | Colours | Fuel | Transmission | Ex-showroom Surat (₹ lakh) |
+| # | Model | Showroom / type | Variants | Colours | Fuel | Transmission | Ex-showroom (₹ lakh) |
 |---|---|---|---|---|---|---|---|
 | 1 | Grand i10 Nios | Hatchback | 15 | 7 | CNG, Petrol | AMT, MT | 5.60 – 8.09 |
 | 2 | i20 | Hatchback | 12 | 7 | Petrol | IVT, MT | 6.00 – 10.68 |

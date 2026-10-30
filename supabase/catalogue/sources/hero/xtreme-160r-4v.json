@@ -1,0 +1,171 @@
+{
+  "brand": "Hero",
+  "model": "Xtreme 160r 4V",
+  "slug": "xtreme-160r-4v",
+  "official_page": "https://www.heromotocorp.com/en-in/motorcycles/xtreme-160r-4v.html",
+  "brochure_pdf": null,
+  "price_city": "Hero's website default ex-showroom price (state not stated)",
+  "ex_showroom_min": 129615,
+  "ex_showroom_max": 134100,
+  "fuel_types": [
+    "Petrol"
+  ],
+  "transmissions": [],
+  "colours": [],
+  "variants": [
+    {
+      "name": "Xtreme 160r 4V (starting price)",
+      "fuel": "Petrol",
+      "transmission": null,
+      "specifications": {
+        "Dimensions": {
+          "Overall Length": "2029 mm",
+          "Ground Clearance": "165 mm",
+          "Kerb Weight": "147.5 Kg",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/performance/content-fragments/xtreme-160r-4v/assets/updated-images/specification/specification-07.png",
+          "Fuel Tank Capacity": "12 L",
+          "Wheelbase": "Alloy",
+          "Seat Height": "800mm",
+          "Overall Width": "793 mm",
+          "Overall Height": "1052 mm"
+        },
+        "Electricals": {
+          "Drag Timer": "First in segment",
+          "Starting System": "Self Start",
+          "Battery": "12 V-6AH (VRLA)",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/performance/content-fragments/xtreme-160r-4v/assets/updated-images/specification/specification-06.png",
+          "Lamps": "LED Headlight with Position Lamps LED Tail Light and LED Winkers"
+        },
+        "Other": {
+          "Download Link": "/content/dam/hero-commerce/in/en/products/performance/content-fragments/xtreme-160r-4v/assets/specifications/xtreme-160r-4v-brochure-updated-2026.pdf",
+          "Download Text": "DOWNLOAD BROCHURE",
+          "Title": "XTREME 160R 4V SPECIFICATIONS",
+          "Right Tab Image": "/content/dam/hero-commerce/in/en/products/performance/content-fragments/xtreme-160r-4v/assets/updated-images/specification/right-image.png",
+          "Alt Text Right Tab Image": "Xtreme bike",
+          "Chassis Left Tab Image": "/content/dam/hero-commerce/in/en/products/performance/content-fragments/xtreme-160r-4v/assets/updated-images/specification/specification-04.png"
+        },
+        "Engine": {
+          "Type": "4 Stroke, Air-Oil Cooled, 4 Valve",
+          "Alt Text Left Tab Image": "Engine image",
+          "Max Torque": "14.6Nm @6500 rpm",
+          "Bore Stroke": "66.5 mm X 47.0 mm",
+          "Max Power": "<div>16.9 Ps/12.4kW @ 8500rpm</div>",
+          "Compression Ratio": "10.1:1",
+          "Fuel System": "12 Liters",
+          "Displacement": "163.2",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/performance/content-fragments/xtreme-160r-4v/assets/updated-images/specification/specification-01.png",
+          "Starting System": "Self Start"
+        },
+        "Wheels & Tyres": {
+          "Alt Text Left Tab Image": "Wheels and Tyres",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/performance/content-fragments/xtreme-160r-4v/assets/updated-images/specification/specification-02.png",
+          "Front Tyre": "100/80- 17 (TL)",
+          "Rear Tyre": "130/70 R 17(TL)"
+        },
+        "Suspension": {
+          "Alt Text Left Tab Image": "Suspension",
+          "Front Suspension": "KYB Upside Down Forks, 37 mm DIA",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/performance/content-fragments/xtreme-160r-4v/assets/updated-images/specification/specification-03.png",
+          "Rear Suspension": "7 Step Adjustable Monoshock"
+        },
+        "Transmission": {
+          "Compression Ratio": "10.1:1",
+          "Swing Arm": "Box Type (50x30mm rectangle tube)",
+          "Frame Tyre": "Tubular Underbone Diamond Type",
+          "Transmission Type": "5 Speed Constant Mesh",
+          "Clutch Type": "Multiplate Wet"
+        },
+        "Brakes": {
+          "Rear Brake": "<div>Disc 220 mm (Petal)</div>",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/performance/content-fragments/xtreme-160r-4v/assets/updated-images/specification/specification-05.png",
+          "Abs": "Dual Channel",
+          "Front Brake": "Disc 276 mm (Petal)",
+          "Safety": "Panic Brake Alert (First in Segment)"
+        }
+      },
+      "features": {},
+      "ex_showroom_surat": {
+        "standard": 129615
+      }
+    },
+    {
+      "name": "Xtreme 160r 4V (top variant price)",
+      "fuel": "Petrol",
+      "transmission": null,
+      "specifications": {
+        "Dimensions": {
+          "Overall Length": "2029 mm",
+          "Ground Clearance": "165 mm",
+          "Kerb Weight": "147.5 Kg",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/performance/content-fragments/xtreme-160r-4v/assets/updated-images/specification/specification-07.png",
+          "Fuel Tank Capacity": "12 L",
+          "Wheelbase": "Alloy",
+          "Seat Height": "800mm",
+          "Overall Width": "793 mm",
+          "Overall Height": "1052 mm"
+        },
+        "Electricals": {
+          "Drag Timer": "First in segment",
+          "Starting System": "Self Start",
+          "Battery": "12 V-6AH (VRLA)",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/performance/content-fragments/xtreme-160r-4v/assets/updated-images/specification/specification-06.png",
+          "Lamps": "LED Headlight with Position Lamps LED Tail Light and LED Winkers"
+        },
+        "Other": {
+          "Download Link": "/content/dam/hero-commerce/in/en/products/performance/content-fragments/xtreme-160r-4v/assets/specifications/xtreme-160r-4v-brochure-updated-2026.pdf",
+          "Download Text": "DOWNLOAD BROCHURE",
+          "Title": "XTREME 160R 4V SPECIFICATIONS",
+          "Right Tab Image": "/content/dam/hero-commerce/in/en/products/performance/content-fragments/xtreme-160r-4v/assets/updated-images/specification/right-image.png",
+          "Alt Text Right Tab Image": "Xtreme bike",
+          "Chassis Left Tab Image": "/content/dam/hero-commerce/in/en/products/performance/content-fragments/xtreme-160r-4v/assets/updated-images/specification/specification-04.png"
+        },
+        "Engine": {
+          "Type": "4 Stroke, Air-Oil Cooled, 4 Valve",
+          "Alt Text Left Tab Image": "Engine image",
+          "Max Torque": "14.6Nm @6500 rpm",
+          "Bore Stroke": "66.5 mm X 47.0 mm",
+          "Max Power": "<div>16.9 Ps/12.4kW @ 8500rpm</div>",
+          "Compression Ratio": "10.1:1",
+          "Fuel System": "12 Liters",
+          "Displacement": "163.2",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/performance/content-fragments/xtreme-160r-4v/assets/updated-images/specification/specification-01.png",
+          "Starting System": "Self Start"
+        },
+        "Wheels & Tyres": {
+          "Alt Text Left Tab Image": "Wheels and Tyres",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/performance/content-fragments/xtreme-160r-4v/assets/updated-images/specification/specification-02.png",
+          "Front Tyre": "100/80- 17 (TL)",
+          "Rear Tyre": "130/70 R 17(TL)"
+        },
+        "Suspension": {
+          "Alt Text Left Tab Image": "Suspension",
+          "Front Suspension": "KYB Upside Down Forks, 37 mm DIA",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/performance/content-fragments/xtreme-160r-4v/assets/updated-images/specification/specification-03.png",
+          "Rear Suspension": "7 Step Adjustable Monoshock"
+        },
+        "Transmission": {
+          "Compression Ratio": "10.1:1",
+          "Swing Arm": "Box Type (50x30mm rectangle tube)",
+          "Frame Tyre": "Tubular Underbone Diamond Type",
+          "Transmission Type": "5 Speed Constant Mesh",
+          "Clutch Type": "Multiplate Wet"
+        },
+        "Brakes": {
+          "Rear Brake": "<div>Disc 220 mm (Petal)</div>",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/performance/content-fragments/xtreme-160r-4v/assets/updated-images/specification/specification-05.png",
+          "Abs": "Dual Channel",
+          "Front Brake": "Disc 276 mm (Petal)",
+          "Safety": "Panic Brake Alert (First in Segment)"
+        }
+      },
+      "features": {},
+      "ex_showroom_surat": {
+        "standard": 134100
+      }
+    }
+  ],
+  "notes": [
+    "Hero lists a price range per model, not per variant: entries are the starting and top prices."
+  ],
+  "fetched_on": "2026-10-30"
+}

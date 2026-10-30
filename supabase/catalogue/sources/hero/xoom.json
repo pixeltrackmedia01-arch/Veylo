@@ -1,0 +1,143 @@
+{
+  "brand": "Hero",
+  "model": "XOOM",
+  "slug": "xoom",
+  "official_page": "https://www.heromotocorp.com/en-in/scooters/xoom.html",
+  "brochure_pdf": null,
+  "price_city": "Hero's website default ex-showroom price (state not stated)",
+  "ex_showroom_min": 72351,
+  "ex_showroom_max": 77283,
+  "fuel_types": [
+    "Petrol"
+  ],
+  "transmissions": [],
+  "colours": [],
+  "variants": [
+    {
+      "name": "XOOM (starting price)",
+      "fuel": "Petrol",
+      "transmission": null,
+      "specifications": {
+        "Dimensions": {
+          "Overall Length": "1881 mm",
+          "Ground Clearance": "155 mm&nbsp;&nbsp;&nbsp;&nbsp;",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/scooters/content-fragments/xoom/assets/specifications/Xoom-Combat-Edition-Dimensions-2X.png",
+          "Alt Text Left Tab Image": "Dimesions image",
+          "Wheelbase": "1300 mm",
+          "Seat Height": "770 mm",
+          "Overall Width": "Drum 717 / Disc 731 mm",
+          "Overall Height": "1118 mm"
+        },
+        "Other": {
+          "Download Link": "/content/dam/hero-commerce/in/en/products/scooters/content-fragments/xoom/assets/xoom-brochure-digital-june.pdf",
+          "Download Text": "Download Brochure",
+          "Title": "XOOM SPECIFICATIONS",
+          "Right Tab Image": "/content/dam/hero-commerce/in/en/products/scooters/content-fragments/xoom/assets/specifications/xoom-specification-right.png",
+          "Alt Text Right Tab Image": "Specification Right Tab Image"
+        },
+        "Electricals": {
+          "Starting System": "Electric-Start / Kick-Start",
+          "Battery": "12V - 4 Ah ETZ5 (MF-Battery)130mm",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/scooters/content-fragments/xoom/assets/specifications/electricals.png",
+          "Alt Text Left Tab Image": "Electricals image"
+        },
+        "Brakes": {
+          "Alt Text Left Tab Image": "Brakes Image",
+          "Rear Brake": "130mm",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/scooters/content-fragments/xoom/assets/specifications/brakes.png",
+          "Front Brake": "130mm"
+        },
+        "Engine": {
+          "Type": "Air cooled, 4-stroke, SI engine",
+          "Alt Text Left Tab Image": "Engine Image",
+          "Max Torque": "8.70 Nm @ 5750 Revolutions Per Minute (RPM)",
+          "Max Power": "6.0kW (8.05 BHP) @ 7250 Revolutions per Minute(RPM)",
+          "Fuel System": "Fuel Injection (FI)",
+          "Displacement": "110.9 cc",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/scooters/content-fragments/xoom/assets/specifications/engine.png"
+        },
+        "Wheels & Tyres": {
+          "Alt Text Left Tab Image": "Tyres",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/scooters/content-fragments/xoom/assets/specifications/brakes.png",
+          "Front Tyre": "90/90 - 12 54J",
+          "Rear Tyre": "90/90 - 12 54J"
+        },
+        "Suspension": {
+          "Alt Text Left Tab Image": "Suspension image",
+          "Front Suspension": "Telescopic Hydraulic Shock Absorbers",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/scooters/content-fragments/xoom/assets/specifications/suspension.png",
+          "Rear Suspension": "Unit Swing with Spring Loaded Hydraulic Damper"
+        }
+      },
+      "features": {},
+      "ex_showroom_surat": {
+        "standard": 72351
+      }
+    },
+    {
+      "name": "XOOM (top variant price)",
+      "fuel": "Petrol",
+      "transmission": null,
+      "specifications": {
+        "Dimensions": {
+          "Overall Length": "1881 mm",
+          "Ground Clearance": "155 mm&nbsp;&nbsp;&nbsp;&nbsp;",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/scooters/content-fragments/xoom/assets/specifications/Xoom-Combat-Edition-Dimensions-2X.png",
+          "Alt Text Left Tab Image": "Dimesions image",
+          "Wheelbase": "1300 mm",
+          "Seat Height": "770 mm",
+          "Overall Width": "Drum 717 / Disc 731 mm",
+          "Overall Height": "1118 mm"
+        },
+        "Other": {
+          "Download Link": "/content/dam/hero-commerce/in/en/products/scooters/content-fragments/xoom/assets/xoom-brochure-digital-june.pdf",
+          "Download Text": "Download Brochure",
+          "Title": "XOOM SPECIFICATIONS",
+          "Right Tab Image": "/content/dam/hero-commerce/in/en/products/scooters/content-fragments/xoom/assets/specifications/xoom-specification-right.png",
+          "Alt Text Right Tab Image": "Specification Right Tab Image"
+        },
+        "Electricals": {
+          "Starting System": "Electric-Start / Kick-Start",
+          "Battery": "12V - 4 Ah ETZ5 (MF-Battery)130mm",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/scooters/content-fragments/xoom/assets/specifications/electricals.png",
+          "Alt Text Left Tab Image": "Electricals image"
+        },
+        "Brakes": {
+          "Alt Text Left Tab Image": "Brakes Image",
+          "Rear Brake": "130mm",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/scooters/content-fragments/xoom/assets/specifications/brakes.png",
+          "Front Brake": "130mm"
+        },
+        "Engine": {
+          "Type": "Air cooled, 4-stroke, SI engine",
+          "Alt Text Left Tab Image": "Engine Image",
+          "Max Torque": "8.70 Nm @ 5750 Revolutions Per Minute (RPM)",
+          "Max Power": "6.0kW (8.05 BHP) @ 7250 Revolutions per Minute(RPM)",
+          "Fuel System": "Fuel Injection (FI)",
+          "Displacement": "110.9 cc",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/scooters/content-fragments/xoom/assets/specifications/engine.png"
+        },
+        "Wheels & Tyres": {
+          "Alt Text Left Tab Image": "Tyres",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/scooters/content-fragments/xoom/assets/specifications/brakes.png",
+          "Front Tyre": "90/90 - 12 54J",
+          "Rear Tyre": "90/90 - 12 54J"
+        },
+        "Suspension": {
+          "Alt Text Left Tab Image": "Suspension image",
+          "Front Suspension": "Telescopic Hydraulic Shock Absorbers",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/scooters/content-fragments/xoom/assets/specifications/suspension.png",
+          "Rear Suspension": "Unit Swing with Spring Loaded Hydraulic Damper"
+        }
+      },
+      "features": {},
+      "ex_showroom_surat": {
+        "standard": 77283
+      }
+    }
+  ],
+  "notes": [
+    "Hero lists a price range per model, not per variant: entries are the starting and top prices."
+  ],
+  "fetched_on": "2026-10-30"
+}

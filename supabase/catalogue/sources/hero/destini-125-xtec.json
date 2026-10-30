@@ -1,0 +1,151 @@
+{
+  "brand": "Hero",
+  "model": "Destini 125 Xtec",
+  "slug": "destini-125-xtec",
+  "official_page": "https://www.heromotocorp.com/en-in/scooters/destini-125-xtec.html",
+  "brochure_pdf": null,
+  "price_city": "Hero's website default ex-showroom price (state not stated)",
+  "ex_showroom_min": 79179,
+  "ex_showroom_max": 92662,
+  "fuel_types": [
+    "Petrol"
+  ],
+  "transmissions": [],
+  "colours": [],
+  "variants": [
+    {
+      "name": "Destini 125 Xtec (starting price)",
+      "fuel": "Petrol",
+      "transmission": null,
+      "specifications": {
+        "Dimensions": {
+          "Overall Length": "1809 mm",
+          "Ground Clearance": "155 mm",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/scooters/content-fragments/destini-125-xtec/assets/New-Image-Specs-Dimensions.png",
+          "Fuel Tank Capacity": "5 Litres",
+          "Wheelbase": "1245 mm",
+          "Seat Height": "778 mm",
+          "Max Payload": "130 Kg",
+          "Overall Width": "729 mm",
+          "Overall Height": "1154 mm"
+        },
+        "Other": {
+          "Download Link": "/content/dam/hero-commerce/in/en/products/scooters/content-fragments/destini-125-xtec/assets/brochure-destini-125.pdf",
+          "Download Text": "Download Brochure",
+          "Title": "DESTINI 125 XTEC SPECIFICATIONS",
+          "Right Tab Image": "/content/dam/hero-commerce/in/en/products/scooters/content-fragments/destini-125-xtec/assets/Destini-125-Xtec-Web-414-388.png"
+        },
+        "Brakes": {
+          "Alt Text Left Tab Image": "Brakes",
+          "Rear Brake": "130 mm",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/scooters/content-fragments/destini-125-xtec/assets/New-Image-Specs-Breake.png",
+          "Front Brake": "130 mm"
+        },
+        "Electricals": {
+          "Headlamp": "12 V - 35 W/35 W - LED Bulb ( Multi - Reflector Type)",
+          "Ignition System": "Electronic Control Unit (ECU)",
+          "Tail Stop Lamp": "12 V - 5/21 W (Multi-Reflector Type)",
+          "Turn Signal Lamp": "12 V - 10 W x 4 nos. (MFR - Clear Lens - Amber Bulb)",
+          "Battery": "12 V - 4 Ah ETZ5 MF Battery",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/scooters/content-fragments/destini-125-xtec/assets/5-1-electricals.png",
+          "Alt Text Left Tab Image": "Electricals"
+        },
+        "Engine": {
+          "Type": "Air Cooled, 4-Stroke, SI Engine",
+          "Alt Text Left Tab Image": "Engine",
+          "Max Torque": "10.4 Nm @ 5500 Revolutions Per Minute (rpm)",
+          "Max Power": "6.7 kW (9 BHP) @ 7000 Revolutions Per Minute (rpm)",
+          "Fuel System": "Fuel Injection (FI)",
+          "Displacement": "124.6 cc",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/scooters/content-fragments/destini-125-xtec/assets/New-Image-Specs-engine.png",
+          "Starting System": "Self - Start / Kick-Start"
+        },
+        "Wheels & Tyres": {
+          "Alt Text Left Tab Image": "Wheels & Tyres",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/scooters/content-fragments/destini-125-xtec/assets/4-1-wheels-and-tyres.png",
+          "Front Tyre": "90/100-10",
+          "Rear Tyre": "90/100-10"
+        },
+        "Suspension": {
+          "Alt Text Left Tab Image": "Suspension",
+          "Front Suspension": "Telescopic Hydraulic Shock Absorber",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/scooters/content-fragments/destini-125-xtec/assets/New-Image-Specs-Tyre.png",
+          "Rear Suspension": "Unit Swing with Spring Loaded Hydraulic Damper"
+        }
+      },
+      "features": {},
+      "ex_showroom_surat": {
+        "standard": 79179
+      }
+    },
+    {
+      "name": "Destini 125 Xtec (top variant price)",
+      "fuel": "Petrol",
+      "transmission": null,
+      "specifications": {
+        "Dimensions": {
+          "Overall Length": "1809 mm",
+          "Ground Clearance": "155 mm",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/scooters/content-fragments/destini-125-xtec/assets/New-Image-Specs-Dimensions.png",
+          "Fuel Tank Capacity": "5 Litres",
+          "Wheelbase": "1245 mm",
+          "Seat Height": "778 mm",
+          "Max Payload": "130 Kg",
+          "Overall Width": "729 mm",
+          "Overall Height": "1154 mm"
+        },
+        "Other": {
+          "Download Link": "/content/dam/hero-commerce/in/en/products/scooters/content-fragments/destini-125-xtec/assets/brochure-destini-125.pdf",
+          "Download Text": "Download Brochure",
+          "Title": "DESTINI 125 XTEC SPECIFICATIONS",
+          "Right Tab Image": "/content/dam/hero-commerce/in/en/products/scooters/content-fragments/destini-125-xtec/assets/Destini-125-Xtec-Web-414-388.png"
+        },
+        "Brakes": {
+          "Alt Text Left Tab Image": "Brakes",
+          "Rear Brake": "130 mm",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/scooters/content-fragments/destini-125-xtec/assets/New-Image-Specs-Breake.png",
+          "Front Brake": "130 mm"
+        },
+        "Electricals": {
+          "Headlamp": "12 V - 35 W/35 W - LED Bulb ( Multi - Reflector Type)",
+          "Ignition System": "Electronic Control Unit (ECU)",
+          "Tail Stop Lamp": "12 V - 5/21 W (Multi-Reflector Type)",
+          "Turn Signal Lamp": "12 V - 10 W x 4 nos. (MFR - Clear Lens - Amber Bulb)",
+          "Battery": "12 V - 4 Ah ETZ5 MF Battery",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/scooters/content-fragments/destini-125-xtec/assets/5-1-electricals.png",
+          "Alt Text Left Tab Image": "Electricals"
+        },
+        "Engine": {
+          "Type": "Air Cooled, 4-Stroke, SI Engine",
+          "Alt Text Left Tab Image": "Engine",
+          "Max Torque": "10.4 Nm @ 5500 Revolutions Per Minute (rpm)",
+          "Max Power": "6.7 kW (9 BHP) @ 7000 Revolutions Per Minute (rpm)",
+          "Fuel System": "Fuel Injection (FI)",
+          "Displacement": "124.6 cc",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/scooters/content-fragments/destini-125-xtec/assets/New-Image-Specs-engine.png",
+          "Starting System": "Self - Start / Kick-Start"
+        },
+        "Wheels & Tyres": {
+          "Alt Text Left Tab Image": "Wheels & Tyres",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/scooters/content-fragments/destini-125-xtec/assets/4-1-wheels-and-tyres.png",
+          "Front Tyre": "90/100-10",
+          "Rear Tyre": "90/100-10"
+        },
+        "Suspension": {
+          "Alt Text Left Tab Image": "Suspension",
+          "Front Suspension": "Telescopic Hydraulic Shock Absorber",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/scooters/content-fragments/destini-125-xtec/assets/New-Image-Specs-Tyre.png",
+          "Rear Suspension": "Unit Swing with Spring Loaded Hydraulic Damper"
+        }
+      },
+      "features": {},
+      "ex_showroom_surat": {
+        "standard": 92662
+      }
+    }
+  ],
+  "notes": [
+    "Hero lists a price range per model, not per variant: entries are the starting and top prices."
+  ],
+  "fetched_on": "2026-10-30"
+}

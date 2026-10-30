@@ -1,0 +1,147 @@
+{
+  "brand": "Hero",
+  "model": "Pleasure Plus Xtec",
+  "slug": "pleasure-plus-xtec",
+  "official_page": "https://www.heromotocorp.com/en-in/scooters/pleasure-plus-xtec.html",
+  "brochure_pdf": null,
+  "price_city": "Hero's website default ex-showroom price (state not stated)",
+  "ex_showroom_min": 69766,
+  "ex_showroom_max": 75712,
+  "fuel_types": [
+    "Petrol"
+  ],
+  "transmissions": [],
+  "colours": [],
+  "variants": [
+    {
+      "name": "Pleasure Plus Xtec (starting price)",
+      "fuel": "Petrol",
+      "transmission": null,
+      "specifications": {
+        "Dimensions": {
+          "Overall Length": "1769 mm",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/scooters/content-fragments/pleasure-plus-xtec/assets/New-Specs-Dimension-pleasure-plus-xtec.png",
+          "Alt Text Left Tab Image": "Dimensions Image",
+          "Wheelbase": "1238 mm",
+          "Max Payload": "Max payload",
+          "Overall Width": "704 mm",
+          "Overall Height": "1161 mm"
+        },
+        "Other": {
+          "Download Link": "/content/dam/hero-commerce/in/en/products/scooters/content-fragments/pleasure-plus-xtec/assets/hero-pleasure-plus-xtech-brochure.pdf",
+          "Download Text": "Download Brochure",
+          "Title": "PLEASURE+ XTEC SPECIFICATIONS",
+          "Right Tab Image": "/content/dam/hero-commerce/in/en/products/scooters/content-fragments/pleasure-plus-xtec/assets/Specification_Right_Side_Image.png",
+          "Alt Text Right Tab Image": "PLEASURE+ XTEC"
+        },
+        "Brakes": {
+          "Alt Text Left Tab Image": "Brakes Image",
+          "Front": "Internal Expanding Shoe Type (130 mm)",
+          "Rear Brake": "Internal Expanding Shoe Type (130 mm)",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/scooters/content-fragments/pleasure-plus-xtec/assets/New-Specs-Brakes-pleasure-plus-xtec.png",
+          "Rear": "Internal Expanding Shoe Type (130 mm)",
+          "Front Brake": "Internal Expanding Shoe Type (130 mm)"
+        },
+        "Engine": {
+          "Type": "Air cooled, 4-stroke Single Cylinder OHC",
+          "Alt Text Left Tab Image": "Engine Image",
+          "Max Torque": "8.70 Nm @ 5500 Revolutions Per Minute (RPM)",
+          "Max Power": "6.0kW (8 BHP) @ 7000 Revolutions per Minute(RPM)",
+          "Compression Ratio": "9.5:1Starting System",
+          "Displacement": "110.9 cc",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/scooters/content-fragments/pleasure-plus-xtec/assets/engine.png",
+          "Starting System": "Electric start / Kick-start <a>&nbsp;</a>"
+        },
+        "Wheels & Tyres": {
+          "Alt Text Left Tab Image": "Wheels & tyres image",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/scooters/content-fragments/pleasure-plus-xtec/assets/New-Specs-Tyres-pleasure-plus-xtec.png",
+          "Front Tyre": "90/100x10-53 J (Tubeless)",
+          "Rear Tyre": "90/100x10-53 J (Tubeless)"
+        },
+        "Suspension": {
+          "Alt Text Left Tab Image": "Suspension image",
+          "Front Suspension": "Bottom link with spring-loaded hydraulic dampers",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/scooters/content-fragments/pleasure-plus-xtec/assets/New-Specs-Suspension-pleasure-plus-xtec.png",
+          "Rear Suspension": "Swing Arm with spring-loaded hydraulic dampers"
+        },
+        "Electricals": {
+          "Battery": "12V-4Ah ETZ-5 MF-Battery",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/scooters/content-fragments/pleasure-plus-xtec/assets/New-Specs-Elect-pleasure-plus-xtec.png",
+          "Right Tab Image": "/content/dam/hero-commerce/in/en/products/scooters/content-fragments/pleasure-xteck/assets/electricals.png",
+          "Alt Text Right Tab Image": "Electricals Image"
+        }
+      },
+      "features": {},
+      "ex_showroom_surat": {
+        "standard": 69766
+      }
+    },
+    {
+      "name": "Pleasure Plus Xtec (top variant price)",
+      "fuel": "Petrol",
+      "transmission": null,
+      "specifications": {
+        "Dimensions": {
+          "Overall Length": "1769 mm",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/scooters/content-fragments/pleasure-plus-xtec/assets/New-Specs-Dimension-pleasure-plus-xtec.png",
+          "Alt Text Left Tab Image": "Dimensions Image",
+          "Wheelbase": "1238 mm",
+          "Max Payload": "Max payload",
+          "Overall Width": "704 mm",
+          "Overall Height": "1161 mm"
+        },
+        "Other": {
+          "Download Link": "/content/dam/hero-commerce/in/en/products/scooters/content-fragments/pleasure-plus-xtec/assets/hero-pleasure-plus-xtech-brochure.pdf",
+          "Download Text": "Download Brochure",
+          "Title": "PLEASURE+ XTEC SPECIFICATIONS",
+          "Right Tab Image": "/content/dam/hero-commerce/in/en/products/scooters/content-fragments/pleasure-plus-xtec/assets/Specification_Right_Side_Image.png",
+          "Alt Text Right Tab Image": "PLEASURE+ XTEC"
+        },
+        "Brakes": {
+          "Alt Text Left Tab Image": "Brakes Image",
+          "Front": "Internal Expanding Shoe Type (130 mm)",
+          "Rear Brake": "Internal Expanding Shoe Type (130 mm)",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/scooters/content-fragments/pleasure-plus-xtec/assets/New-Specs-Brakes-pleasure-plus-xtec.png",
+          "Rear": "Internal Expanding Shoe Type (130 mm)",
+          "Front Brake": "Internal Expanding Shoe Type (130 mm)"
+        },
+        "Engine": {
+          "Type": "Air cooled, 4-stroke Single Cylinder OHC",
+          "Alt Text Left Tab Image": "Engine Image",
+          "Max Torque": "8.70 Nm @ 5500 Revolutions Per Minute (RPM)",
+          "Max Power": "6.0kW (8 BHP) @ 7000 Revolutions per Minute(RPM)",
+          "Compression Ratio": "9.5:1Starting System",
+          "Displacement": "110.9 cc",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/scooters/content-fragments/pleasure-plus-xtec/assets/engine.png",
+          "Starting System": "Electric start / Kick-start <a>&nbsp;</a>"
+        },
+        "Wheels & Tyres": {
+          "Alt Text Left Tab Image": "Wheels & tyres image",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/scooters/content-fragments/pleasure-plus-xtec/assets/New-Specs-Tyres-pleasure-plus-xtec.png",
+          "Front Tyre": "90/100x10-53 J (Tubeless)",
+          "Rear Tyre": "90/100x10-53 J (Tubeless)"
+        },
+        "Suspension": {
+          "Alt Text Left Tab Image": "Suspension image",
+          "Front Suspension": "Bottom link with spring-loaded hydraulic dampers",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/scooters/content-fragments/pleasure-plus-xtec/assets/New-Specs-Suspension-pleasure-plus-xtec.png",
+          "Rear Suspension": "Swing Arm with spring-loaded hydraulic dampers"
+        },
+        "Electricals": {
+          "Battery": "12V-4Ah ETZ-5 MF-Battery",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/scooters/content-fragments/pleasure-plus-xtec/assets/New-Specs-Elect-pleasure-plus-xtec.png",
+          "Right Tab Image": "/content/dam/hero-commerce/in/en/products/scooters/content-fragments/pleasure-xteck/assets/electricals.png",
+          "Alt Text Right Tab Image": "Electricals Image"
+        }
+      },
+      "features": {},
+      "ex_showroom_surat": {
+        "standard": 75712
+      }
+    }
+  ],
+  "notes": [
+    "Hero lists a price range per model, not per variant: entries are the starting and top prices."
+  ],
+  "fetched_on": "2026-10-30"
+}

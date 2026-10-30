@@ -1,0 +1,436 @@
+[
+  {
+    "model": "HF Deluxe",
+    "slug": "hf-deluxe",
+    "channel": "Motorcycle",
+    "variants": 2,
+    "colours": 0,
+    "ex_showroom_min": 56742,
+    "ex_showroom_max": 69235,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [],
+    "brochure_pdf": null
+  },
+  {
+    "model": "HF 100",
+    "slug": "hf-100",
+    "channel": "Motorcycle",
+    "variants": 1,
+    "colours": 0,
+    "ex_showroom_min": 59489,
+    "ex_showroom_max": 59489,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Splendor Plus",
+    "slug": "splendor-plus",
+    "channel": "Motorcycle",
+    "variants": 2,
+    "colours": 0,
+    "ex_showroom_min": 74152,
+    "ex_showroom_max": 76437,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Passion Plus",
+    "slug": "passion-plus",
+    "channel": "Motorcycle",
+    "variants": 2,
+    "colours": 0,
+    "ex_showroom_min": 76941,
+    "ex_showroom_max": 78324,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Splendor Plus Xtec",
+    "slug": "splendor-plus-xtec",
+    "channel": "Motorcycle",
+    "variants": 2,
+    "colours": 0,
+    "ex_showroom_min": 77678,
+    "ex_showroom_max": 80721,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Super Splendor",
+    "slug": "super-splendor",
+    "channel": "Motorcycle",
+    "variants": 2,
+    "colours": 0,
+    "ex_showroom_min": 78019,
+    "ex_showroom_max": 92412,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Passion Xtec",
+    "slug": "passion-xtec",
+    "channel": "Motorcycle",
+    "variants": 2,
+    "colours": 0,
+    "ex_showroom_min": 80032,
+    "ex_showroom_max": 90052,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Splendor+ Xtec 2.0",
+    "slug": "splendor-plus-xtec-2-0",
+    "channel": "Motorcycle",
+    "variants": 1,
+    "colours": 0,
+    "ex_showroom_min": 80214,
+    "ex_showroom_max": 80214,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Glamour",
+    "slug": "glamour",
+    "channel": "Motorcycle",
+    "variants": 2,
+    "colours": 0,
+    "ex_showroom_min": 81313,
+    "ex_showroom_max": 85001,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Super Splendor Xtec",
+    "slug": "super-splendor-xtec",
+    "channel": "Motorcycle",
+    "variants": 2,
+    "colours": 0,
+    "ex_showroom_min": 82248,
+    "ex_showroom_max": 85844,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Glamour X Price, Mileage, Features & Specifications",
+    "slug": "glamour-x-abs",
+    "channel": "Motorcycle",
+    "variants": 2,
+    "colours": 0,
+    "ex_showroom_min": 82967,
+    "ex_showroom_max": 92186,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Glamour X Price, Mileage, Features & Specifications",
+    "slug": "glamour-x",
+    "channel": "Motorcycle",
+    "variants": 2,
+    "colours": 0,
+    "ex_showroom_min": 82967,
+    "ex_showroom_max": 92186,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Glamour Xtec",
+    "slug": "glamour-xtec",
+    "channel": "Motorcycle",
+    "variants": 2,
+    "colours": 0,
+    "ex_showroom_min": 85218,
+    "ex_showroom_max": 100262,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Xtreme 125R",
+    "slug": "xtreme-125r",
+    "channel": "Motorcycle",
+    "variants": 2,
+    "colours": 0,
+    "ex_showroom_min": 92500,
+    "ex_showroom_max": 104500,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Xtreme 160R",
+    "slug": "xtreme-160r",
+    "channel": "Motorcycle",
+    "variants": 1,
+    "colours": 0,
+    "ex_showroom_min": 104749,
+    "ex_showroom_max": 104749,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Xtreme 160r 4V",
+    "slug": "xtreme-160r-4v",
+    "channel": "Motorcycle",
+    "variants": 2,
+    "colours": 0,
+    "ex_showroom_min": 129615,
+    "ex_showroom_max": 134100,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Xpulse 200T 4V",
+    "slug": "xpulse-200t-4v",
+    "channel": "Motorcycle",
+    "variants": 2,
+    "colours": 0,
+    "ex_showroom_min": 130246,
+    "ex_showroom_max": 145110,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Xpulse 200 4V",
+    "slug": "xpulse-200-4v",
+    "channel": "Motorcycle",
+    "variants": 2,
+    "colours": 0,
+    "ex_showroom_min": 140047,
+    "ex_showroom_max": 154797,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Xtreme 200s 4V",
+    "slug": "xtreme-200s-4v",
+    "channel": "Motorcycle",
+    "variants": 2,
+    "colours": 0,
+    "ex_showroom_min": 141150,
+    "ex_showroom_max": 146900,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Karizma XMR: Live the Legend",
+    "slug": "karizma-xmr",
+    "channel": "Motorcycle",
+    "variants": 1,
+    "colours": 0,
+    "ex_showroom_min": 179900,
+    "ex_showroom_max": 179900,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Mavrick 440: Me X Machine",
+    "slug": "mavrick-440",
+    "channel": "Motorcycle",
+    "variants": 1,
+    "colours": 0,
+    "ex_showroom_min": 199000,
+    "ex_showroom_max": 199000,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Harley Davidson X440: Price, Mileage, Specification, Colours, Images",
+    "slug": "harley-x440",
+    "channel": "Motorcycle",
+    "variants": 2,
+    "colours": 0,
+    "ex_showroom_min": 239500,
+    "ex_showroom_max": 279500,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Harley Davidson X440: Price, Mileage, Specification, Colours, Images",
+    "slug": "x440-t",
+    "channel": "Motorcycle",
+    "variants": 2,
+    "colours": 0,
+    "ex_showroom_min": 239500,
+    "ex_showroom_max": 279500,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Pleasure Plus Xtec",
+    "slug": "pleasure-plus-xtec",
+    "channel": "Scooter",
+    "variants": 2,
+    "colours": 0,
+    "ex_showroom_min": 69766,
+    "ex_showroom_max": 75712,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Destini Prime",
+    "slug": "destini-prime",
+    "channel": "Scooter",
+    "variants": 1,
+    "colours": 0,
+    "ex_showroom_min": 70430,
+    "ex_showroom_max": 70430,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Destini 110",
+    "slug": "destini-110",
+    "channel": "Scooter",
+    "variants": 2,
+    "colours": 0,
+    "ex_showroom_min": 72000,
+    "ex_showroom_max": 79000,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [],
+    "brochure_pdf": null
+  },
+  {
+    "model": "XOOM",
+    "slug": "xoom",
+    "channel": "Scooter",
+    "variants": 2,
+    "colours": 0,
+    "ex_showroom_min": 72351,
+    "ex_showroom_max": 77283,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [],
+    "brochure_pdf": null
+  },
+  {
+    "model": "New Destini 125",
+    "slug": "new-destini-125",
+    "channel": "Scooter",
+    "variants": 2,
+    "colours": 0,
+    "ex_showroom_min": 75838,
+    "ex_showroom_max": 84919,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Destini 125 Xtec",
+    "slug": "destini-125-xtec",
+    "channel": "Scooter",
+    "variants": 2,
+    "colours": 0,
+    "ex_showroom_min": 79179,
+    "ex_showroom_max": 92662,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Xoom 125",
+    "slug": "xoom-125",
+    "channel": "Scooter",
+    "variants": 2,
+    "colours": 0,
+    "ex_showroom_min": 80494,
+    "ex_showroom_max": 86025,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Xoom 160",
+    "slug": "xoom-160",
+    "channel": "Scooter",
+    "variants": 1,
+    "colours": 0,
+    "ex_showroom_min": 136898,
+    "ex_showroom_max": 136898,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [],
+    "brochure_pdf": null
+  }
+]

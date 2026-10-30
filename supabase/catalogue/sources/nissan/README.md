@@ -1,6 +1,6 @@
 # Nissan catalogue (official data)
 
-Collected on 2026-10-30. Prices are **ex-showroom, Surat (Gujarat)**, in ₹ lakh.
+Collected on 2026-10-30. Prices are **ex-showroom** in ₹ lakh — Surat, Gujarat (Nissan publishes one national ex-showroom price list).
 
 Source: nissan.in price list (one national ex-showroom price per variant; the "Surat" figure is
 that price). Magnite and Gravite also offer a factory-approved CNG kit as a priced add-on.
@@ -10,7 +10,7 @@ feature data; colours and brochures are not included.
 
 ## Summary
 
-| # | Model | Showroom / type | Variants | Colours | Fuel | Transmission | Ex-showroom Surat (₹ lakh) |
+| # | Model | Showroom / type | Variants | Colours | Fuel | Transmission | Ex-showroom (₹ lakh) |
 |---|---|---|---|---|---|---|---|
 | 1 | Magnite | Compact SUV | 22 | 0 | Petrol | AMT, CVT, MT | 5.69 – 10.99 |
 | 2 | Gravite | MUV | 8 | 0 | Petrol | AMT, MT | 5.73 – 9.09 |

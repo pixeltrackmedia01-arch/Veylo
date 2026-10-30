@@ -1,6 +1,6 @@
 # Honda catalogue (official data)
 
-Collected on 2026-10-30. Prices are **ex-showroom, Surat (Gujarat)**, in ₹ lakh.
+Collected on 2026-10-30. Prices are **ex-showroom** in ₹ lakh — Surat, Gujarat.
 
 Source: hondacarindia.com price service (the "Check Price" tool) for Surat — every variant it
 prices, found by checking each Honda grade × gearbox combination for each car — plus the
@@ -11,7 +11,7 @@ Colours are not included. The City e:HEV hybrid is not in Honda's current car li
 
 ## Summary
 
-| # | Model | Showroom / type | Variants | Colours | Fuel | Transmission | Ex-showroom Surat (₹ lakh) |
+| # | Model | Showroom / type | Variants | Colours | Fuel | Transmission | Ex-showroom (₹ lakh) |
 |---|---|---|---|---|---|---|---|
 | 1 | Amaze (2nd Gen) | Sedan | 2 | 0 | Petrol | CVT, MT | 6.98 – 7.80 |
 | 2 | Amaze | Sedan | 6 | 0 | Petrol | CVT, MT | 7.65 – 10.21 |

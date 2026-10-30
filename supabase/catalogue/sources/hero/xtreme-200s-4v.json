@@ -1,0 +1,153 @@
+{
+  "brand": "Hero",
+  "model": "Xtreme 200s 4V",
+  "slug": "xtreme-200s-4v",
+  "official_page": "https://www.heromotocorp.com/en-in/motorcycles/xtreme-200s-4v.html",
+  "brochure_pdf": null,
+  "price_city": "Hero's website default ex-showroom price (state not stated)",
+  "ex_showroom_min": 141150,
+  "ex_showroom_max": 146900,
+  "fuel_types": [
+    "Petrol"
+  ],
+  "transmissions": [],
+  "colours": [],
+  "variants": [
+    {
+      "name": "Xtreme 200s 4V (starting price)",
+      "fuel": "Petrol",
+      "transmission": null,
+      "specifications": {
+        "Dimensions": {
+          "Overall Length": "200 mm",
+          "Ground Clearance": "165 mm",
+          "Kerb Weight": "155 Kg",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/performance/content-fragments/xtreme-200s-4v/assets/Step. Img--Xtreme 200s 4v-moon yellow--Circle-220 x 220.png",
+          "Alt Text Left Tab Image": "Dimensions",
+          "Fuel Tank Capacity": "12. 8 liters",
+          "Wheelbase": "1344 mm",
+          "Seat Height": "795 mm",
+          "Overall Width": "745 mm",
+          "Overall Height": "1106 mm"
+        },
+        "Other": {
+          "Download Link": "https://www.heromotocorp.com/content/dam/hero-commerce/in/en/products/performance/content-fragments/xtreme-200s-4v/assets/xtreme-200s-4v-brochure-updated.pdf",
+          "Download Text": "Download Brochure",
+          "Title": "XTREME 200S 4V Specifications",
+          "Right Tab Image": "/content/dam/hero-commerce/in/en/products/performance/content-fragments/xtreme-200s-4v/assets/Xtreme 200s 4v-moon yellow--Right B.G.-Web-209--300.png",
+          "Chassis Left Tab Image": "/content/dam/hero-commerce/in/en/products/performance/content-fragments/xtreme-200s-4v/assets/New-Specs-Transmission-Chassis.png"
+        },
+        "Electricals": {
+          "Headlamp": "All-Digital Instrument Full LCD Display with smartphone connectivity",
+          "Battery": "12V-6 Ah, ETZ-7 *MF Battery",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/performance/content-fragments/xtreme-200s-4v/assets/New-Specs-Electrical-Xtreme-200S-4V.png"
+        },
+        "Engine": {
+          "Type": "All new 200CC 4 Valve",
+          "Max Torque": "17.35 Nm X 6500 rpm",
+          "Bore Stroke": "66.5mm X 57.5mm",
+          "Max Power": "19.1 PS @ 8500 RPM",
+          "Compression Ratio": "10:01",
+          "Fuel System": "12.8 Liters",
+          "Displacement": "199.6cc",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/performance/content-fragments/xtreme-200s-4v/assets/New-Specs-Engine-Xtreme-200S-4V.png",
+          "Starting System": "Self and Kick"
+        },
+        "Wheels & Tyres": {
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/performance/content-fragments/xtreme-200s-4v/assets/New-Specs-Wheel-Xtreme-200S-4V.png",
+          "Front Tyre": "100/80-17",
+          "Rear Tyre": "130/70-17"
+        },
+        "Brakes": {
+          "Rear Brake": "Petal Disc Dia. 220 mm",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/performance/content-fragments/xtreme-200s-4v/assets/New-Specs-Breaks-Xtreme-200S-4V.png",
+          "Front Brake": "Petal Disc Dia. 276 mm (ABS)"
+        },
+        "Suspension": {
+          "Front Suspension": "Telescopic Front Forks with anti friction bush",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/performance/content-fragments/xtreme-200s-4v/assets/New-Specs-Suspension-Xtreme-200S-4V.png",
+          "Rear Suspension": "Rectangular swingarm with monoshok"
+        },
+        "Transmission": {
+          "Frame Tyre": "Diamond Type",
+          "Transmission Type": "5-speed constant mesh",
+          "Clutch Type": "Multi-plate, wet type"
+        }
+      },
+      "features": {},
+      "ex_showroom_surat": {
+        "standard": 141150
+      }
+    },
+    {
+      "name": "Xtreme 200s 4V (top variant price)",
+      "fuel": "Petrol",
+      "transmission": null,
+      "specifications": {
+        "Dimensions": {
+          "Overall Length": "200 mm",
+          "Ground Clearance": "165 mm",
+          "Kerb Weight": "155 Kg",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/performance/content-fragments/xtreme-200s-4v/assets/Step. Img--Xtreme 200s 4v-moon yellow--Circle-220 x 220.png",
+          "Alt Text Left Tab Image": "Dimensions",
+          "Fuel Tank Capacity": "12. 8 liters",
+          "Wheelbase": "1344 mm",
+          "Seat Height": "795 mm",
+          "Overall Width": "745 mm",
+          "Overall Height": "1106 mm"
+        },
+        "Other": {
+          "Download Link": "https://www.heromotocorp.com/content/dam/hero-commerce/in/en/products/performance/content-fragments/xtreme-200s-4v/assets/xtreme-200s-4v-brochure-updated.pdf",
+          "Download Text": "Download Brochure",
+          "Title": "XTREME 200S 4V Specifications",
+          "Right Tab Image": "/content/dam/hero-commerce/in/en/products/performance/content-fragments/xtreme-200s-4v/assets/Xtreme 200s 4v-moon yellow--Right B.G.-Web-209--300.png",
+          "Chassis Left Tab Image": "/content/dam/hero-commerce/in/en/products/performance/content-fragments/xtreme-200s-4v/assets/New-Specs-Transmission-Chassis.png"
+        },
+        "Electricals": {
+          "Headlamp": "All-Digital Instrument Full LCD Display with smartphone connectivity",
+          "Battery": "12V-6 Ah, ETZ-7 *MF Battery",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/performance/content-fragments/xtreme-200s-4v/assets/New-Specs-Electrical-Xtreme-200S-4V.png"
+        },
+        "Engine": {
+          "Type": "All new 200CC 4 Valve",
+          "Max Torque": "17.35 Nm X 6500 rpm",
+          "Bore Stroke": "66.5mm X 57.5mm",
+          "Max Power": "19.1 PS @ 8500 RPM",
+          "Compression Ratio": "10:01",
+          "Fuel System": "12.8 Liters",
+          "Displacement": "199.6cc",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/performance/content-fragments/xtreme-200s-4v/assets/New-Specs-Engine-Xtreme-200S-4V.png",
+          "Starting System": "Self and Kick"
+        },
+        "Wheels & Tyres": {
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/performance/content-fragments/xtreme-200s-4v/assets/New-Specs-Wheel-Xtreme-200S-4V.png",
+          "Front Tyre": "100/80-17",
+          "Rear Tyre": "130/70-17"
+        },
+        "Brakes": {
+          "Rear Brake": "Petal Disc Dia. 220 mm",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/performance/content-fragments/xtreme-200s-4v/assets/New-Specs-Breaks-Xtreme-200S-4V.png",
+          "Front Brake": "Petal Disc Dia. 276 mm (ABS)"
+        },
+        "Suspension": {
+          "Front Suspension": "Telescopic Front Forks with anti friction bush",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/performance/content-fragments/xtreme-200s-4v/assets/New-Specs-Suspension-Xtreme-200S-4V.png",
+          "Rear Suspension": "Rectangular swingarm with monoshok"
+        },
+        "Transmission": {
+          "Frame Tyre": "Diamond Type",
+          "Transmission Type": "5-speed constant mesh",
+          "Clutch Type": "Multi-plate, wet type"
+        }
+      },
+      "features": {},
+      "ex_showroom_surat": {
+        "standard": 146900
+      }
+    }
+  ],
+  "notes": [
+    "Hero lists a price range per model, not per variant: entries are the starting and top prices."
+  ],
+  "fetched_on": "2026-10-30"
+}

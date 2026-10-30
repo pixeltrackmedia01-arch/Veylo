@@ -1,6 +1,6 @@
 # Citroën catalogue (official data)
 
-Collected on 2026-10-30. Prices are **ex-showroom, Surat (Gujarat)**, in ₹ lakh.
+Collected on 2026-10-30. Prices are **ex-showroom** in ₹ lakh — Surat, Gujarat (Citroën publishes one national ex-showroom price list).
 
 Source: Citroën India's price service (the data behind citroen.in's Check Price tool) — every
 variant with its ex-showroom price (one national price list; the "Surat" figure is that price)
@@ -11,7 +11,7 @@ no machine-readable spec or feature data; colours are not included.
 
 ## Summary
 
-| # | Model | Showroom / type | Variants | Colours | Fuel | Transmission | Ex-showroom Surat (₹ lakh) |
+| # | Model | Showroom / type | Variants | Colours | Fuel | Transmission | Ex-showroom (₹ lakh) |
 |---|---|---|---|---|---|---|---|
 | 1 | C3X | SUV | 8 | 0 | Petrol | Automatic, MT | 4.99 – 9.68 |
 | 2 | BasaltX | SUV Coupe | 12 | 0 | Petrol | Automatic, MT | 8.55 – 13.89 |

@@ -63,6 +63,8 @@ ex_showroom_min, ex_showroom_max, fuel_types, transmissions, brochure_pdf}`.
 - Keep requests polite: only the pages/feeds the site itself loads, ~1 request/second.
 - Brands already done: maruti, hyundai, mahindra (Salesforce Commerce sites: variant cards with
   prices come from `Product-Variation` per fuel × gearbox × seating combo — see mahindra/fetch.py),
+  honda, mg, renault (city price .xlsx via
+  `scripts/catalogue/tools/browser_download.mjs`), nissan, volkswagen, citroen, byd, hero (2W),
   toyota (XML price API per Surat dealer — toyota/fetch.py; HTML feature tables via
   `scripts/catalogue/tools/html_tables.py FILE --summary`), kia (configure.getVrntList.do with
   stateCode=GJ&cityCode=W32 — kia/fetch.py). Reachability notes: Tata's site has an expired TLS

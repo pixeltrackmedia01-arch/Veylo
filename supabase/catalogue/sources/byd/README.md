@@ -1,6 +1,6 @@
 # BYD catalogue (official data)
 
-Collected on 2026-10-30. Prices are **ex-showroom, Surat (Gujarat)**, in ₹ lakh.
+Collected on 2026-10-30. Prices are **ex-showroom** in ₹ lakh — Surat, Gujarat (BYD lists one all-India ex-showroom price).
 
 Source: bydautoindia.com model pages (variant price tables; BYD lists one all-India
 ex-showroom price, used here as the Surat figure).
@@ -11,7 +11,7 @@ not included.
 
 ## Summary
 
-| # | Model | Showroom / type | Variants | Colours | Fuel | Transmission | Ex-showroom Surat (₹ lakh) |
+| # | Model | Showroom / type | Variants | Colours | Fuel | Transmission | Ex-showroom (₹ lakh) |
 |---|---|---|---|---|---|---|---|
 | 1 | Atto 3 | Electric SUV | 3 | 0 | Electric | Automatic | 24.99 – 34.49 |
 | 2 | eMAX 7 | Electric MPV | 4 | 0 | Electric | Automatic | 27.90 – 29.90 |

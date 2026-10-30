@@ -1,6 +1,6 @@
 # Toyota catalogue (official data)
 
-Collected on 2026-10-30. Prices are **ex-showroom, Surat (Gujarat)**, in ₹ lakh.
+Collected on 2026-10-30. Prices are **ex-showroom** in ₹ lakh — Surat, Gujarat (dealer: Munjani Toyota; effective 14th Oct 2026).
 
 Sources: toyotabharat.com price list (the same data its "Price List" page shows for Gujarat →
 Surat, from a Surat dealer; Toyota's ex-showroom prices are the same at every dealer in a city)
@@ -14,7 +14,7 @@ if needed. Per-variant feature mapping is not done; the tables list features per
 
 ## Summary
 
-| # | Model | Showroom / type | Variants | Colours | Fuel | Transmission | Ex-showroom Surat (₹ lakh) |
+| # | Model | Showroom / type | Variants | Colours | Fuel | Transmission | Ex-showroom (₹ lakh) |
 |---|---|---|---|---|---|---|---|
 | 1 | Glanza | Hatchback | 13 | 0 | CNG, Petrol | Automatic, Manual | 6.99 – 10.98 |
 | 2 | Urban Cruiser Taisor | Compact SUV | 16 | 0 | CNG, Petrol | Automatic, Manual | 7.43 – 12.94 |

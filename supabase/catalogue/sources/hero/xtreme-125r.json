@@ -1,0 +1,93 @@
+{
+  "brand": "Hero",
+  "model": "Xtreme 125R",
+  "slug": "xtreme-125r",
+  "official_page": "https://www.heromotocorp.com/en-in/motorcycles/xtreme-125r.html",
+  "brochure_pdf": null,
+  "price_city": "Hero's website default ex-showroom price (state not stated)",
+  "ex_showroom_min": 92500,
+  "ex_showroom_max": 104500,
+  "fuel_types": [
+    "Petrol"
+  ],
+  "transmissions": [],
+  "colours": [],
+  "variants": [
+    {
+      "name": "Xtreme 125R (starting price)",
+      "fuel": "Petrol",
+      "transmission": null,
+      "specifications": {
+        "Other": {
+          "Download Link": "https://www.heromotocorp.com//content/dam/hero-commerce/in/en/products/performance/content-fragments/xtreme-125r/assets/specifications/25_03_HERO_XTREME_12092816-Xtreme-Digital-Brochure-1080x1920.pdf",
+          "Download Text": "Download Brochure",
+          "Title": "XTREME 125r Specifications",
+          "Right Tab Image": "/content/dam/hero-commerce/in/en/products/performance/content-fragments/xtreme125r/assets/spec3.png"
+        },
+        "Engine": {
+          "Max Torque": "10.5 Nm @ 6500 rpm",
+          "Bore Stroke": "52.4 mm X 57.8 mm",
+          "Max Power": "11.4 bhp @8250 rpm",
+          "Fuel System": "10 L",
+          "Displacement": "125 cc",
+          "Starting System": "Self and Kick"
+        },
+        "Wheels & Tyres": {
+          "Front Tyre": "90/90-70",
+          "Rear Tyre": "120/80-17"
+        },
+        "Dimensions": {
+          "Seat Height": "794 mm"
+        },
+        "Transmission": {
+          "Frame Tyre": "Diamond Type",
+          "Transmission Type": "5-speed constant mesh"
+        }
+      },
+      "features": {},
+      "ex_showroom_surat": {
+        "standard": 92500
+      }
+    },
+    {
+      "name": "Xtreme 125R (top variant price)",
+      "fuel": "Petrol",
+      "transmission": null,
+      "specifications": {
+        "Other": {
+          "Download Link": "https://www.heromotocorp.com//content/dam/hero-commerce/in/en/products/performance/content-fragments/xtreme-125r/assets/specifications/25_03_HERO_XTREME_12092816-Xtreme-Digital-Brochure-1080x1920.pdf",
+          "Download Text": "Download Brochure",
+          "Title": "XTREME 125r Specifications",
+          "Right Tab Image": "/content/dam/hero-commerce/in/en/products/performance/content-fragments/xtreme125r/assets/spec3.png"
+        },
+        "Engine": {
+          "Max Torque": "10.5 Nm @ 6500 rpm",
+          "Bore Stroke": "52.4 mm X 57.8 mm",
+          "Max Power": "11.4 bhp @8250 rpm",
+          "Fuel System": "10 L",
+          "Displacement": "125 cc",
+          "Starting System": "Self and Kick"
+        },
+        "Wheels & Tyres": {
+          "Front Tyre": "90/90-70",
+          "Rear Tyre": "120/80-17"
+        },
+        "Dimensions": {
+          "Seat Height": "794 mm"
+        },
+        "Transmission": {
+          "Frame Tyre": "Diamond Type",
+          "Transmission Type": "5-speed constant mesh"
+        }
+      },
+      "features": {},
+      "ex_showroom_surat": {
+        "standard": 104500
+      }
+    }
+  ],
+  "notes": [
+    "Hero lists a price range per model, not per variant: entries are the starting and top prices."
+  ],
+  "fetched_on": "2026-10-30"
+}

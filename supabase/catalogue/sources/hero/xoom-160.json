@@ -1,0 +1,66 @@
+{
+  "brand": "Hero",
+  "model": "Xoom 160",
+  "slug": "xoom-160",
+  "official_page": "https://www.heromotocorp.com/en-in/scooters/xoom-160.html",
+  "brochure_pdf": null,
+  "price_city": "Hero's website default ex-showroom price (state not stated)",
+  "ex_showroom_min": 136898,
+  "ex_showroom_max": 136898,
+  "fuel_types": [
+    "Petrol"
+  ],
+  "transmissions": [],
+  "colours": [],
+  "variants": [
+    {
+      "name": "Xoom 160 (starting price)",
+      "fuel": "Petrol",
+      "transmission": null,
+      "specifications": {
+        "Dimensions": {
+          "Overall Length": "1983 mm",
+          "Ground Clearance": "155 mm",
+          "Kerb Weight": "142 kg",
+          "Fuel Tank Capacity": "7 L",
+          "Wheelbase": "1348 mm",
+          "Seat Height": "787 mm",
+          "Overall Width": "772 mm",
+          "Overall Height": "1214 mm"
+        },
+        "Electricals": {
+          "Starting System": "Self",
+          "Ignition System": "Fuel Injection (FI)",
+          "Battery": "12V- 6Ah /ETZ-7"
+        },
+        "Engine": {
+          "Engine Type": "Liquid cooled, 4 Valve single cylinder SOHC",
+          "Max Torque": "14 Nm @ 6500 rpm",
+          "Max Power": "10.9 kw (14.6 bhp) @ 8000 rpm",
+          "Displacement": "156cc",
+          "Starting System": "Self"
+        },
+        "Suspension": {
+          "Front Suspension": "Telescopic Hydraulic shock absorber",
+          "Rear Suspension": "Dual shock absorbers"
+        },
+        "Wheels & Tyres": {
+          "Front Tyre": "120/70 - 14&quot;",
+          "Rear Tyre": "140/60 - 14&quot;"
+        },
+        "Transmission": {
+          "Transmission Type": "CVT",
+          "Clutch Type": "Dry, Centrifugal"
+        }
+      },
+      "features": {},
+      "ex_showroom_surat": {
+        "standard": 136898
+      }
+    }
+  ],
+  "notes": [
+    "Hero lists a price range per model, not per variant: entries are the starting and top prices."
+  ],
+  "fetched_on": "2026-10-30"
+}

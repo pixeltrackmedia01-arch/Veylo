@@ -1,6 +1,6 @@
 # Volkswagen catalogue (official data)
 
-Collected on 2026-10-30. Prices are **ex-showroom, Surat (Gujarat)**, in ₹ lakh.
+Collected on 2026-10-30. Prices are **ex-showroom** in ₹ lakh — Surat, Gujarat (Volkswagen publishes one national ex-showroom price list).
 
 Source: volkswagen.co.in — each model's price table (one national ex-showroom price per
 variant; the "Surat" figure is that price) and brochure links.
@@ -9,7 +9,7 @@ variant; the "Surat" figure is that price) and brochure links.
 
 ## Summary
 
-| # | Model | Showroom / type | Variants | Colours | Fuel | Transmission | Ex-showroom Surat (₹ lakh) |
+| # | Model | Showroom / type | Variants | Colours | Fuel | Transmission | Ex-showroom (₹ lakh) |
 |---|---|---|---|---|---|---|---|
 | 1 | Virtus | Sedan | 8 | 0 | Petrol | AT, DSG, MT | 10.71 – 18.85 |
 | 2 | Taigun | SUV | 11 | 0 | Petrol | AT, DSG, MT | 11.00 – 19.47 |

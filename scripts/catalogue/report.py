@@ -24,13 +24,13 @@ fetched, brand = first["fetched_on"], first["brand"]
 lines = [
     f"# {brand} catalogue (official data)",
     "",
-    f"Collected on {fetched}. Prices are **ex-showroom, Surat (Gujarat)**, in ₹ lakh.",
+    f"Collected on {fetched}. Prices are **ex-showroom** in ₹ lakh — {first.get('price_city', 'Surat, Gujarat')}.",
     "",
     *intro,
     "",
     "## Summary",
     "",
-    "| # | Model | Showroom / type | Variants | Colours | Fuel | Transmission | Ex-showroom Surat (₹ lakh) |",
+    "| # | Model | Showroom / type | Variants | Colours | Fuel | Transmission | Ex-showroom (₹ lakh) |",
     "|---|---|---|---|---|---|---|---|",
 ]
 for i, m in enumerate(index, 1):

@@ -1,0 +1,83 @@
+{
+  "brand": "Hero",
+  "model": "Karizma XMR: Live the Legend",
+  "slug": "karizma-xmr",
+  "official_page": "https://www.heromotocorp.com/en-in/motorcycles/karizma-xmr.html",
+  "brochure_pdf": null,
+  "price_city": "Hero's website default ex-showroom price (state not stated)",
+  "ex_showroom_min": 179900,
+  "ex_showroom_max": 179900,
+  "fuel_types": [
+    "Petrol"
+  ],
+  "transmissions": [],
+  "colours": [],
+  "variants": [
+    {
+      "name": "Karizma XMR: Live the Legend (starting price)",
+      "fuel": "Petrol",
+      "transmission": null,
+      "specifications": {
+        "Dimensions": {
+          "Overall Length": "2068 mm",
+          "Ground Clearance": "160 mm",
+          "Kerb Weight": "163.5 kg",
+          "Fuel Tank Capacity": "11 L",
+          "Wheelbase": "1351 mm",
+          "Seat Height": "810 mm",
+          "Overall Width": "760 mm",
+          "Overall Height": "&nbsp; &nbsp;1110 mm"
+        },
+        "Other": {
+          "Download Link": "/content/dam/hero-aem-website/in/en-in/premia/acaa/product-detail/detailed-spec/download/KarizmaXMR-Spec-Sheet.pdf",
+          "Download Text": "Download Specs",
+          "Title": "Detailed Specs"
+        },
+        "Electricals": {
+          "Starting System": "Self",
+          "Tail Light": "Signature H Shaped LED Tail Light",
+          "Headlamp": "Auto Illuminated Class-D LED Projector Headlamp, with LED DRLs",
+          "Tail Stop Lamp": "Signature H Shaped LED Tail Light",
+          "Battery": "MF Battery 12V- 6 Ah, ETZ-7"
+        },
+        "Engine": {
+          "Engine Type": "4 Stroke, 4 Valve, Single Cylinder Liquid Cooled, DOHC",
+          "Max Torque": "20.4 Nm @7250 rpm",
+          "Bore Stroke": "73 mm * 50 mm",
+          "Max Power": "25.5 Ps @9250 rpm",
+          "Compression Ratio": "12: 01",
+          "Displacement": "210 cc",
+          "Starting System": "Self"
+        },
+        "Wheels & Tyres": {
+          "Wheel Type": "Alloy Wheels",
+          "Front Tyre": "100/80-17&nbsp;",
+          "Rear Tyre": "140/70-17&nbsp;"
+        },
+        "Brakes": {
+          "Rear Brake": "Dia 230 mm, Petal Disc",
+          "Abs": "Dual channel ABS",
+          "Front Brake": "Dia 300 mm, Petal Disc"
+        },
+        "Suspension": {
+          "Front Suspension": "Dia 37 mm, Telescopic Front Forks with Anti Friction Bush",
+          "Rear Suspension": "Gas Charged Mono Shock, 6 Step Pre-load Adjustable"
+        },
+        "Transmission": {
+          "Swing Arm": "Rectangular Swing Arm",
+          "Frame Tyre": "Steel Trellis Frame",
+          "Transmission Type": "6-speed, Constant Mesh",
+          "Clutch Type": "Wet type Slip &amp; Assist"
+        }
+      },
+      "features": {},
+      "ex_showroom_surat": {
+        "standard": 179900
+      }
+    }
+  ],
+  "notes": [
+    "Hero lists a price range per model, not per variant: entries are the starting and top prices."
+  ],
+  "fetched_on": "2026-10-30"
+}

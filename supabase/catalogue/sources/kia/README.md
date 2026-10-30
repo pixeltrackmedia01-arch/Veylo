@@ -1,6 +1,6 @@
 # Kia catalogue (official data)
 
-Collected on 2026-10-30. Prices are **ex-showroom, Surat (Gujarat)**, in ₹ lakh.
+Collected on 2026-10-30. Prices are **ex-showroom** in ₹ lakh — Surat, Gujarat.
 
 Source: kia.com/in configurator feed for Gujarat → Surat — every variant with its ex-showroom
 price by paint type (`metallic`, `non_metallic`), exterior colours, engine and gearbox options,
@@ -13,7 +13,7 @@ generation Seltos have no variants on sale in Surat and are left out.
 
 ## Summary
 
-| # | Model | Showroom / type | Variants | Colours | Fuel | Transmission | Ex-showroom Surat (₹ lakh) |
+| # | Model | Showroom / type | Variants | Colours | Fuel | Transmission | Ex-showroom (₹ lakh) |
 |---|---|---|---|---|---|---|---|
 | 1 | Sonet | Compact SUV | 23 | 25 | Diesel, Petrol | AT, DCT, MT, iMT | 7.45 – 14.46 |
 | 2 | Syros | Compact SUV | 17 | 9 | Diesel, Petrol | AT, DCT, MT | 8.42 – 15.82 |

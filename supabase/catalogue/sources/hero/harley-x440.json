@@ -1,0 +1,115 @@
+{
+  "brand": "Hero",
+  "model": "Harley Davidson X440: Price, Mileage, Specification, Colours, Images",
+  "slug": "harley-x440",
+  "official_page": "https://www.heromotocorp.com/en-in/motorcycles/harley-x440.html",
+  "brochure_pdf": null,
+  "price_city": "Hero's website default ex-showroom price (state not stated)",
+  "ex_showroom_min": 239500,
+  "ex_showroom_max": 279500,
+  "fuel_types": [
+    "Petrol"
+  ],
+  "transmissions": [],
+  "colours": [],
+  "variants": [
+    {
+      "name": "Harley Davidson X440: Price, Mileage, Specification, Colours, Images (starting price)",
+      "fuel": "Petrol",
+      "transmission": null,
+      "specifications": {
+        "Dimensions": {
+          "Overall Length": "2168 mm",
+          "Ground Clearance": "170 mm",
+          "Kerb Weight": "190.5 KGs",
+          "Fuel Tank Capacity": "13.5 L",
+          "Wheelbase": "1418 mm",
+          "Seat Height": "805 mm"
+        },
+        "Engine": {
+          "Engine Type": "440cc Single Cylinder, Air-Oil Cooled, Long Stroke Engine",
+          "Type": "TFT Display",
+          "Max Torque": "38 NM&nbsp;@4000 RPM",
+          "Bore Stroke": "79.6 mm x 88.4 mm",
+          "Max Power": "27 bhp @ 6,000 rpm",
+          "Compression Ratio": "9.5:1",
+          "Displacement": "440 cc"
+        },
+        "Electricals": {
+          "Tail Light": "All LED Headlamp with Multi-Projectors and Signature DRL, LED Winkers and LED Tail Lamp",
+          "Bluetooth": "Yes with Call Answer/Reject, Music Control and TbT Navigation",
+          "U S B": "Yes, 2A - QC 3.0 standard"
+        },
+        "Other": {
+          "Title": "Essential Specs"
+        },
+        "Wheels & Tyres": {
+          "Front Tyre": "MRF Zapper Hyke<br> 100/90 X 18",
+          "Rear Tyre": "140/70 X 17"
+        },
+        "Transmission": {
+          "Frame Tyre": "Trellis Frame",
+          "Transmission Type": "6 Speed Manual&nbsp;"
+        },
+        "Brakes": {
+          "Abs": "Dual Channel ABS"
+        }
+      },
+      "features": {},
+      "ex_showroom_surat": {
+        "standard": 239500
+      }
+    },
+    {
+      "name": "Harley Davidson X440: Price, Mileage, Specification, Colours, Images (top variant price)",
+      "fuel": "Petrol",
+      "transmission": null,
+      "specifications": {
+        "Dimensions": {
+          "Overall Length": "2168 mm",
+          "Ground Clearance": "170 mm",
+          "Kerb Weight": "190.5 KGs",
+          "Fuel Tank Capacity": "13.5 L",
+          "Wheelbase": "1418 mm",
+          "Seat Height": "805 mm"
+        },
+        "Engine": {
+          "Engine Type": "440cc Single Cylinder, Air-Oil Cooled, Long Stroke Engine",
+          "Type": "TFT Display",
+          "Max Torque": "38 NM&nbsp;@4000 RPM",
+          "Bore Stroke": "79.6 mm x 88.4 mm",
+          "Max Power": "27 bhp @ 6,000 rpm",
+          "Compression Ratio": "9.5:1",
+          "Displacement": "440 cc"
+        },
+        "Electricals": {
+          "Tail Light": "All LED Headlamp with Multi-Projectors and Signature DRL, LED Winkers and LED Tail Lamp",
+          "Bluetooth": "Yes with Call Answer/Reject, Music Control and TbT Navigation",
+          "U S B": "Yes, 2A - QC 3.0 standard"
+        },
+        "Other": {
+          "Title": "Essential Specs"
+        },
+        "Wheels & Tyres": {
+          "Front Tyre": "MRF Zapper Hyke<br> 100/90 X 18",
+          "Rear Tyre": "140/70 X 17"
+        },
+        "Transmission": {
+          "Frame Tyre": "Trellis Frame",
+          "Transmission Type": "6 Speed Manual&nbsp;"
+        },
+        "Brakes": {
+          "Abs": "Dual Channel ABS"
+        }
+      },
+      "features": {},
+      "ex_showroom_surat": {
+        "standard": 279500
+      }
+    }
+  ],
+  "notes": [
+    "Hero lists a price range per model, not per variant: entries are the starting and top prices."
+  ],
+  "fetched_on": "2026-10-30"
+}

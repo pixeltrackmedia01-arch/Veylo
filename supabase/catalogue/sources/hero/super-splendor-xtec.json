@@ -1,0 +1,141 @@
+{
+  "brand": "Hero",
+  "model": "Super Splendor Xtec",
+  "slug": "super-splendor-xtec",
+  "official_page": "https://www.heromotocorp.com/en-in/motorcycles/super-splendor-xtec.html",
+  "brochure_pdf": null,
+  "price_city": "Hero's website default ex-showroom price (state not stated)",
+  "ex_showroom_min": 82248,
+  "ex_showroom_max": 85844,
+  "fuel_types": [
+    "Petrol"
+  ],
+  "transmissions": [],
+  "colours": [],
+  "variants": [
+    {
+      "name": "Super Splendor Xtec (starting price)",
+      "fuel": "Petrol",
+      "transmission": null,
+      "specifications": {
+        "Dimensions": {
+          "Overall Length": "2042 mm",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/super-splendor-xtec/assets/dimensions.png",
+          "Wheelbase": "1267 mm",
+          "Seat Height": "793 mm",
+          "Overall Width": "752 mm (Disc)/ 729 mm (Drum)",
+          "Overall Height": "1092 mm"
+        },
+        "Other": {
+          "Download Link": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/super-splendor-xtec/assets/super-splendor-xtec-brochure.pdf",
+          "Download Text": "Download Brochure",
+          "Title": "SUPER SPLENDOR XTEC SPECIFICATIONS",
+          "Right Tab Image": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/super-splendor-xtec/assets/Spec-Right side image.png",
+          "Chassis Left Tab Image": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/super-splendor-xtec/assets/transmission.png"
+        },
+        "Electricals": {
+          "Starting System": "Self Start(with i3S) &amp; kick",
+          "Battery": "MF Battery, 12V-4Ah",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/super-splendor-xtec/assets/electricals.png"
+        },
+        "Engine": {
+          "Type": "Air Cooled, 4-Stroke, OHC, Single Cylinder",
+          "Max Torque": "10.6 Nm @ 6000 rpm",
+          "Bore Stroke": "52.4 x 57.8 mm",
+          "Max Power": "10.7 BHP @7500rpm",
+          "Fuel System": "Advanced Programmed Fuel Injection",
+          "Displacement": "124.7 cc",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/super-splendor-xtec/assets/engine.png"
+        },
+        "Wheels & Tyres": {
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/super-splendor-xtec/assets/wheels-tyres.png",
+          "Front Tyre": "80/100- 18 Tubeless&nbsp;",
+          "Rear Tyre": "90/90- 18 Tubeless&nbsp;"
+        },
+        "Brakes": {
+          "Rear Brake": "Drum&nbsp;130 mm",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/super-splendor-xtec/assets/brakes.png",
+          "Front Brake": "Disc - Dia 240 mm / Drum -&nbsp;Dia 130 mm"
+        },
+        "Suspension": {
+          "Front Suspension": "Telescopic Hydraulic Shock Absorbers",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/super-splendor-xtec/assets/suspensions.png",
+          "Rear Suspension": "5-Step Adjustable&nbsp;Telescopic Hydraulic Shock Absorbers"
+        },
+        "Transmission": {
+          "Frame Tyre": "Tubular Diamond",
+          "Transmission Type": "5-Speed Constant Mesh",
+          "Clutch Type": "Wet Multi Plate"
+        }
+      },
+      "features": {},
+      "ex_showroom_surat": {
+        "standard": 82248
+      }
+    },
+    {
+      "name": "Super Splendor Xtec (top variant price)",
+      "fuel": "Petrol",
+      "transmission": null,
+      "specifications": {
+        "Dimensions": {
+          "Overall Length": "2042 mm",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/super-splendor-xtec/assets/dimensions.png",
+          "Wheelbase": "1267 mm",
+          "Seat Height": "793 mm",
+          "Overall Width": "752 mm (Disc)/ 729 mm (Drum)",
+          "Overall Height": "1092 mm"
+        },
+        "Other": {
+          "Download Link": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/super-splendor-xtec/assets/super-splendor-xtec-brochure.pdf",
+          "Download Text": "Download Brochure",
+          "Title": "SUPER SPLENDOR XTEC SPECIFICATIONS",
+          "Right Tab Image": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/super-splendor-xtec/assets/Spec-Right side image.png",
+          "Chassis Left Tab Image": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/super-splendor-xtec/assets/transmission.png"
+        },
+        "Electricals": {
+          "Starting System": "Self Start(with i3S) &amp; kick",
+          "Battery": "MF Battery, 12V-4Ah",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/super-splendor-xtec/assets/electricals.png"
+        },
+        "Engine": {
+          "Type": "Air Cooled, 4-Stroke, OHC, Single Cylinder",
+          "Max Torque": "10.6 Nm @ 6000 rpm",
+          "Bore Stroke": "52.4 x 57.8 mm",
+          "Max Power": "10.7 BHP @7500rpm",
+          "Fuel System": "Advanced Programmed Fuel Injection",
+          "Displacement": "124.7 cc",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/super-splendor-xtec/assets/engine.png"
+        },
+        "Wheels & Tyres": {
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/super-splendor-xtec/assets/wheels-tyres.png",
+          "Front Tyre": "80/100- 18 Tubeless&nbsp;",
+          "Rear Tyre": "90/90- 18 Tubeless&nbsp;"
+        },
+        "Brakes": {
+          "Rear Brake": "Drum&nbsp;130 mm",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/super-splendor-xtec/assets/brakes.png",
+          "Front Brake": "Disc - Dia 240 mm / Drum -&nbsp;Dia 130 mm"
+        },
+        "Suspension": {
+          "Front Suspension": "Telescopic Hydraulic Shock Absorbers",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/super-splendor-xtec/assets/suspensions.png",
+          "Rear Suspension": "5-Step Adjustable&nbsp;Telescopic Hydraulic Shock Absorbers"
+        },
+        "Transmission": {
+          "Frame Tyre": "Tubular Diamond",
+          "Transmission Type": "5-Speed Constant Mesh",
+          "Clutch Type": "Wet Multi Plate"
+        }
+      },
+      "features": {},
+      "ex_showroom_surat": {
+        "standard": 85844
+      }
+    }
+  ],
+  "notes": [
+    "Hero lists a price range per model, not per variant: entries are the starting and top prices."
+  ],
+  "fetched_on": "2026-10-30"
+}

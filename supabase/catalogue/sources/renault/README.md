@@ -1,6 +1,6 @@
 # Renault catalogue (official data)
 
-Collected on 2026-10-30. Prices are **ex-showroom, Surat (Gujarat)**, in ₹ lakh.
+Collected on 2026-10-30. Prices are **ex-showroom** in ₹ lakh — Surat, Gujarat (Renault price sheet dated 59-94-0040).
 
 Source: Renault India's official city-wise price sheets (one Excel file per model, linked from
 each model's price page) — the Surat row gives every version's ex-showroom price, with dual-tone
@@ -11,7 +11,7 @@ are not included.
 
 ## Summary
 
-| # | Model | Showroom / type | Variants | Colours | Fuel | Transmission | Ex-showroom Surat (₹ lakh) |
+| # | Model | Showroom / type | Variants | Colours | Fuel | Transmission | Ex-showroom (₹ lakh) |
 |---|---|---|---|---|---|---|---|
 | 1 | Kwid | Hatchback | 4 | 0 | Petrol | AMT, MT | 4.53 – 5.61 |
 | 2 | Triber | MUV | 8 | 0 | Petrol | AMT, MT | 5.81 – 9.21 |

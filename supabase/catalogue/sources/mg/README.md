@@ -1,6 +1,6 @@
 # MG catalogue (official data)
 
-Collected on 2026-10-30. Prices are **ex-showroom, Surat (Gujarat)**, in ₹ lakh.
+Collected on 2026-10-30. Prices are **ex-showroom** in ₹ lakh — Surat, Gujarat (MG lists one ex-showroom price nationally).
 
 Source: the feed behind mgmotor.co.in's on-road price calculator (every model and variant MG
 lists there, with its ex-showroom price) and MG's brochure page.
@@ -12,7 +12,7 @@ are not included. Colours are not included.
 
 ## Summary
 
-| # | Model | Showroom / type | Variants | Colours | Fuel | Transmission | Ex-showroom Surat (₹ lakh) |
+| # | Model | Showroom / type | Variants | Colours | Fuel | Transmission | Ex-showroom (₹ lakh) |
 |---|---|---|---|---|---|---|---|
 | 1 | Comet EV | Hatchback (EV) | 5 | 0 | Electric | Automatic | 7.90 – 10.17 |
 | 2 | Astor | SUV | 8 | 0 | Petrol | CVT, Manual | 9.79 – 15.50 |

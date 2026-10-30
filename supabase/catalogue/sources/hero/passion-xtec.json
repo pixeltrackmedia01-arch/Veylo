@@ -1,0 +1,121 @@
+{
+  "brand": "Hero",
+  "model": "Passion Xtec",
+  "slug": "passion-xtec",
+  "official_page": "https://www.heromotocorp.com/en-in/motorcycles/passion-xtec.html",
+  "brochure_pdf": null,
+  "price_city": "Hero's website default ex-showroom price (state not stated)",
+  "ex_showroom_min": 80032,
+  "ex_showroom_max": 90052,
+  "fuel_types": [
+    "Petrol"
+  ],
+  "transmissions": [],
+  "colours": [],
+  "variants": [
+    {
+      "name": "Passion Xtec (starting price)",
+      "fuel": "Petrol",
+      "transmission": null,
+      "specifications": {
+        "Dimensions": {
+          "Overall Length": "2036mm",
+          "Ground Clearance": "168mm",
+          "Kerb Weight": "Drum -117 Kg Disc- 118 Kg",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/passion-xtec/assets/Dimension.png",
+          "Fuel Tank Capacity": "10 Litres",
+          "Wheelbase": "1270mm",
+          "Seat Height": "799mm",
+          "Overall Width": "Drum -715mm , Disc - 739mm",
+          "Overall Height": "1113mm"
+        },
+        "Other": {
+          "Download Link": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/passion-xtec/assets/passion-xtec.pdf",
+          "Download Text": "Download Brochure",
+          "Title": "PASSION XTEC SPECIFICATIONS",
+          "Right Tab Image": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/passion-xtec/assets/Right side image.png",
+          "Gearbox Gearbox": "4 speed gearbox",
+          "Gearbox Left Tab Image": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/passion-xtec/assets/gear-box.png"
+        },
+        "Engine": {
+          "Alt Text Left Tab Image": "Engine",
+          "Max Torque": "9.79 Nm @5000 rpm",
+          "Bore Stroke": "50.0 x 57.8 mm",
+          "Max Power": "6.73kW @7500 r.p.m",
+          "Fuel System": "Fuel Injection",
+          "Displacement": "113.2 cc",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/passion-xtec/assets/Engine.png"
+        },
+        "Wheels & Tyres": {
+          "Wheel Type": "Alloy",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/passion-xtec/assets/passion-xtec-red-split-alloy-wheels.png",
+          "Front Tyre": "80/100-18(Tubeless)",
+          "Rear Tyre": "80/100-18(Tubeless)"
+        },
+        "Suspension": {
+          "Front Suspension": "Conventional fork - Dia.30mm",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/passion-xtec/assets/passion-xtec-red--longer-front-suspension.png",
+          "Rear Suspension": "Twin Shox"
+        }
+      },
+      "features": {},
+      "ex_showroom_surat": {
+        "standard": 80032
+      }
+    },
+    {
+      "name": "Passion Xtec (top variant price)",
+      "fuel": "Petrol",
+      "transmission": null,
+      "specifications": {
+        "Dimensions": {
+          "Overall Length": "2036mm",
+          "Ground Clearance": "168mm",
+          "Kerb Weight": "Drum -117 Kg Disc- 118 Kg",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/passion-xtec/assets/Dimension.png",
+          "Fuel Tank Capacity": "10 Litres",
+          "Wheelbase": "1270mm",
+          "Seat Height": "799mm",
+          "Overall Width": "Drum -715mm , Disc - 739mm",
+          "Overall Height": "1113mm"
+        },
+        "Other": {
+          "Download Link": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/passion-xtec/assets/passion-xtec.pdf",
+          "Download Text": "Download Brochure",
+          "Title": "PASSION XTEC SPECIFICATIONS",
+          "Right Tab Image": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/passion-xtec/assets/Right side image.png",
+          "Gearbox Gearbox": "4 speed gearbox",
+          "Gearbox Left Tab Image": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/passion-xtec/assets/gear-box.png"
+        },
+        "Engine": {
+          "Alt Text Left Tab Image": "Engine",
+          "Max Torque": "9.79 Nm @5000 rpm",
+          "Bore Stroke": "50.0 x 57.8 mm",
+          "Max Power": "6.73kW @7500 r.p.m",
+          "Fuel System": "Fuel Injection",
+          "Displacement": "113.2 cc",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/passion-xtec/assets/Engine.png"
+        },
+        "Wheels & Tyres": {
+          "Wheel Type": "Alloy",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/passion-xtec/assets/passion-xtec-red-split-alloy-wheels.png",
+          "Front Tyre": "80/100-18(Tubeless)",
+          "Rear Tyre": "80/100-18(Tubeless)"
+        },
+        "Suspension": {
+          "Front Suspension": "Conventional fork - Dia.30mm",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/passion-xtec/assets/passion-xtec-red--longer-front-suspension.png",
+          "Rear Suspension": "Twin Shox"
+        }
+      },
+      "features": {},
+      "ex_showroom_surat": {
+        "standard": 90052
+      }
+    }
+  ],
+  "notes": [
+    "Hero lists a price range per model, not per variant: entries are the starting and top prices."
+  ],
+  "fetched_on": "2026-10-30"
+}

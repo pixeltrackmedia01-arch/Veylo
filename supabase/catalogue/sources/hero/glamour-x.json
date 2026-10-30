@@ -1,0 +1,139 @@
+{
+  "brand": "Hero",
+  "model": "Glamour X Price, Mileage, Features & Specifications",
+  "slug": "glamour-x",
+  "official_page": "https://www.heromotocorp.com/en-in/motorcycles/glamour-x.html",
+  "brochure_pdf": null,
+  "price_city": "Hero's website default ex-showroom price (state not stated)",
+  "ex_showroom_min": 82967,
+  "ex_showroom_max": 92186,
+  "fuel_types": [
+    "Petrol"
+  ],
+  "transmissions": [],
+  "colours": [],
+  "variants": [
+    {
+      "name": "Glamour X Price, Mileage, Features & Specifications (starting price)",
+      "fuel": "Petrol",
+      "transmission": null,
+      "specifications": {
+        "Dimensions": {
+          "Overall Length": "2042 mm",
+          "Kerb Weight": "125.5 (Drum Self Cast), 127.0(Disc Self Cast)",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/glamour/assets/specifications/dimensions.png",
+          "Seat Height": "790 mm",
+          "Overall Height": "1090 mm"
+        },
+        "Other": {
+          "Download Link": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/glamour/assets/glamour-leaf-updated.pdf",
+          "Download Text": "Download Brochure",
+          "Title": "GLAMOUR SPECIFICATIONS",
+          "Right Tab Image": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/glamour/assets/bike-image/glamour_right_bike_specs.png",
+          "Chassis Left Tab Image": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/glamour/assets/specifications/chassis.png"
+        },
+        "Engine": {
+          "Engine Type": "Air Cooled, 4S",
+          "Max Torque": "10.5 Nm&nbsp;@ 6000 rpm",
+          "Max Power": "8.5kW @8250 rpm",
+          "Fuel System": "Fuel Injection",
+          "Fuel Efficiency": "65 km/l",
+          "Displacement": "124.7 cc",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/glamour/assets/specifications/reliable_125cc_engine.png"
+        },
+        "Wheels & Tyres": {
+          "Wheel Type": "Alloy",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/glamour/assets/specifications/wheels_and_tyres.png",
+          "Front Tyre": "80/100-18 tubeless",
+          "Rear Tyre": "100/80-18 tubeless"
+        },
+        "Brakes": {
+          "Rear Brake": "Drum: Dia 130",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/glamour/assets/specifications/front_disc_brakes.png",
+          "Abs": "No",
+          "Front Brake": "Disc: Dia 240,<br> Drum: Dia 130"
+        },
+        "Suspension": {
+          "Front Suspension": "Dia. 30 telescopic fork - 105 stroke",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/glamour/assets/specifications/suspension.png",
+          "Rear Suspension": "5-step adjustable - 73.5 mm stroke hydraulic shock absorbers"
+        },
+        "Electricals": {
+          "Bluetooth": "Yes"
+        },
+        "Transmission": {
+          "Frame Tyre": "Diamond",
+          "Transmission Type": "Manual",
+          "Clutch Type": "Wet Multi Plate"
+        }
+      },
+      "features": {},
+      "ex_showroom_surat": {
+        "standard": 82967
+      }
+    },
+    {
+      "name": "Glamour X Price, Mileage, Features & Specifications (top variant price)",
+      "fuel": "Petrol",
+      "transmission": null,
+      "specifications": {
+        "Dimensions": {
+          "Overall Length": "2042 mm",
+          "Kerb Weight": "125.5 (Drum Self Cast), 127.0(Disc Self Cast)",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/glamour/assets/specifications/dimensions.png",
+          "Seat Height": "790 mm",
+          "Overall Height": "1090 mm"
+        },
+        "Other": {
+          "Download Link": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/glamour/assets/glamour-leaf-updated.pdf",
+          "Download Text": "Download Brochure",
+          "Title": "GLAMOUR SPECIFICATIONS",
+          "Right Tab Image": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/glamour/assets/bike-image/glamour_right_bike_specs.png",
+          "Chassis Left Tab Image": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/glamour/assets/specifications/chassis.png"
+        },
+        "Engine": {
+          "Engine Type": "Air Cooled, 4S",
+          "Max Torque": "10.5 Nm&nbsp;@ 6000 rpm",
+          "Max Power": "8.5kW @8250 rpm",
+          "Fuel System": "Fuel Injection",
+          "Fuel Efficiency": "65 km/l",
+          "Displacement": "124.7 cc",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/glamour/assets/specifications/reliable_125cc_engine.png"
+        },
+        "Wheels & Tyres": {
+          "Wheel Type": "Alloy",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/glamour/assets/specifications/wheels_and_tyres.png",
+          "Front Tyre": "80/100-18 tubeless",
+          "Rear Tyre": "100/80-18 tubeless"
+        },
+        "Brakes": {
+          "Rear Brake": "Drum: Dia 130",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/glamour/assets/specifications/front_disc_brakes.png",
+          "Abs": "No",
+          "Front Brake": "Disc: Dia 240,<br> Drum: Dia 130"
+        },
+        "Suspension": {
+          "Front Suspension": "Dia. 30 telescopic fork - 105 stroke",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/glamour/assets/specifications/suspension.png",
+          "Rear Suspension": "5-step adjustable - 73.5 mm stroke hydraulic shock absorbers"
+        },
+        "Electricals": {
+          "Bluetooth": "Yes"
+        },
+        "Transmission": {
+          "Frame Tyre": "Diamond",
+          "Transmission Type": "Manual",
+          "Clutch Type": "Wet Multi Plate"
+        }
+      },
+      "features": {},
+      "ex_showroom_surat": {
+        "standard": 92186
+      }
+    }
+  ],
+  "notes": [
+    "Hero lists a price range per model, not per variant: entries are the starting and top prices."
+  ],
+  "fetched_on": "2026-10-30"
+}

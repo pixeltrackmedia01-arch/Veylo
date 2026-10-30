@@ -1,0 +1,163 @@
+{
+  "brand": "Hero",
+  "model": "Xpulse 200T 4V",
+  "slug": "xpulse-200t-4v",
+  "official_page": "https://www.heromotocorp.com/en-in/motorcycles/xpulse-200t-4v.html",
+  "brochure_pdf": null,
+  "price_city": "Hero's website default ex-showroom price (state not stated)",
+  "ex_showroom_min": 130246,
+  "ex_showroom_max": 145110,
+  "fuel_types": [
+    "Petrol"
+  ],
+  "transmissions": [],
+  "colours": [],
+  "variants": [
+    {
+      "name": "Xpulse 200T 4V (starting price)",
+      "fuel": "Petrol",
+      "transmission": null,
+      "specifications": {
+        "Dimensions": {
+          "Overall Length": "2097 mm",
+          "Ground Clearance": "177 mm",
+          "Kerb Weight": "155 KG",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/performance/content-fragments/xpulse-200t-4v/assets/New-Specs-XPULSE-200T-4V-Dimensions.png",
+          "Fuel Tank Capacity": "13 Liter",
+          "Wheelbase": "1400 mm",
+          "Seat Height": "795 mm",
+          "Overall Width": "807 mm",
+          "Overall Height": "1082 mm"
+        },
+        "Other": {
+          "Download Link": "https://www.heromotocorp.com/content/dam/hero-commerce/in/en/products/performance/content-fragments/xpulse-200t-4v/assets/Xpulse200T4V_2023.pdf",
+          "Download Text": "Download Brochure",
+          "Title": "Xpulse 200T 4v Specifications",
+          "Right Tab Image": "/content/dam/hero-commerce/in/en/products/performance/content-fragments/xpulse-200t-4v/assets/New-Specification-Xulse-200T-4V.png",
+          "Chassis Left Tab Image": "/content/dam/hero-commerce/in/en/products/performance/content-fragments/xpulse-200t-4v/assets/New-Specs-Xpulse-200T-4V-Transmission-Chassis.png"
+        },
+        "Electricals": {
+          "Starting System": "Self &amp; Kick",
+          "Headlamp": "LED",
+          "Tail Stop Lamp": "LED",
+          "Battery": "12V-6 Ah, ETZ-7 *MF Battery",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/performance/content-fragments/xpulse-200t-4v/assets/New-Elec-XPULSE-200T-4V-LED-Headlamp.png"
+        },
+        "Engine": {
+          "Type": "Oil Colled, 4 Stroke 4 Valve Single Cylinder OHC",
+          "Alt Text Left Tab Image": "Engine image",
+          "Max Torque": "17.35Nm @ 65 rpm",
+          "Bore Stroke": "66.5 mm X 57.5 mm",
+          "Max Power": "14.1KW/ 18.9BHP @ 8500 RPM",
+          "Compression Ratio": "10.5:1",
+          "Fuel System": "13 Liters",
+          "Displacement": "199.6 CC",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/performance/content-fragments/xpulse-200t-4v/assets/xpulse-200-4V_Engine.png",
+          "Starting System": "Self &amp; Kick"
+        },
+        "Wheels & Tyres": {
+          "Alt Text Left Tab Image": "wheels and tyres",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/performance/content-fragments/xpulse-200t-4v/assets/New-Spec-Break-XPULSE-200T-4V-Wide-Radial-Rear-Tyre.png",
+          "Front Tyre": "100/80-17",
+          "Rear Tyre": "130 mm Wide Radial"
+        },
+        "Suspension": {
+          "Alt Text Left Tab Image": "Suspension",
+          "Front Suspension": "Telescopic Front Forks (dia 37) with Anti Friction Bush",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/performance/content-fragments/xpulse-200t-4v/assets/New-Suspension-PULSE-200T-4V-Adjustable-Monoshock.png",
+          "Rear Suspension": "7 Step Adjustable Monoshock"
+        },
+        "Brakes": {
+          "Rear Brake": "DISC Dia. 220 mm",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/performance/content-fragments/xpulse-200t-4v/assets/New-Specs-XPULSE-200T-4V-Petal-Disc-Breake.png",
+          "Abs": "3 Modes",
+          "Front Brake": "DISC Dia. 276 mm"
+        },
+        "Transmission": {
+          "Frame Tyre": "Diamond Type",
+          "Transmission Type": "5 Speed Constant Mesh",
+          "Clutch Type": "Multi Plate, Wet Type"
+        }
+      },
+      "features": {},
+      "ex_showroom_surat": {
+        "standard": 130246
+      }
+    },
+    {
+      "name": "Xpulse 200T 4V (top variant price)",
+      "fuel": "Petrol",
+      "transmission": null,
+      "specifications": {
+        "Dimensions": {
+          "Overall Length": "2097 mm",
+          "Ground Clearance": "177 mm",
+          "Kerb Weight": "155 KG",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/performance/content-fragments/xpulse-200t-4v/assets/New-Specs-XPULSE-200T-4V-Dimensions.png",
+          "Fuel Tank Capacity": "13 Liter",
+          "Wheelbase": "1400 mm",
+          "Seat Height": "795 mm",
+          "Overall Width": "807 mm",
+          "Overall Height": "1082 mm"
+        },
+        "Other": {
+          "Download Link": "https://www.heromotocorp.com/content/dam/hero-commerce/in/en/products/performance/content-fragments/xpulse-200t-4v/assets/Xpulse200T4V_2023.pdf",
+          "Download Text": "Download Brochure",
+          "Title": "Xpulse 200T 4v Specifications",
+          "Right Tab Image": "/content/dam/hero-commerce/in/en/products/performance/content-fragments/xpulse-200t-4v/assets/New-Specification-Xulse-200T-4V.png",
+          "Chassis Left Tab Image": "/content/dam/hero-commerce/in/en/products/performance/content-fragments/xpulse-200t-4v/assets/New-Specs-Xpulse-200T-4V-Transmission-Chassis.png"
+        },
+        "Electricals": {
+          "Starting System": "Self &amp; Kick",
+          "Headlamp": "LED",
+          "Tail Stop Lamp": "LED",
+          "Battery": "12V-6 Ah, ETZ-7 *MF Battery",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/performance/content-fragments/xpulse-200t-4v/assets/New-Elec-XPULSE-200T-4V-LED-Headlamp.png"
+        },
+        "Engine": {
+          "Type": "Oil Colled, 4 Stroke 4 Valve Single Cylinder OHC",
+          "Alt Text Left Tab Image": "Engine image",
+          "Max Torque": "17.35Nm @ 65 rpm",
+          "Bore Stroke": "66.5 mm X 57.5 mm",
+          "Max Power": "14.1KW/ 18.9BHP @ 8500 RPM",
+          "Compression Ratio": "10.5:1",
+          "Fuel System": "13 Liters",
+          "Displacement": "199.6 CC",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/performance/content-fragments/xpulse-200t-4v/assets/xpulse-200-4V_Engine.png",
+          "Starting System": "Self &amp; Kick"
+        },
+        "Wheels & Tyres": {
+          "Alt Text Left Tab Image": "wheels and tyres",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/performance/content-fragments/xpulse-200t-4v/assets/New-Spec-Break-XPULSE-200T-4V-Wide-Radial-Rear-Tyre.png",
+          "Front Tyre": "100/80-17",
+          "Rear Tyre": "130 mm Wide Radial"
+        },
+        "Suspension": {
+          "Alt Text Left Tab Image": "Suspension",
+          "Front Suspension": "Telescopic Front Forks (dia 37) with Anti Friction Bush",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/performance/content-fragments/xpulse-200t-4v/assets/New-Suspension-PULSE-200T-4V-Adjustable-Monoshock.png",
+          "Rear Suspension": "7 Step Adjustable Monoshock"
+        },
+        "Brakes": {
+          "Rear Brake": "DISC Dia. 220 mm",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/performance/content-fragments/xpulse-200t-4v/assets/New-Specs-XPULSE-200T-4V-Petal-Disc-Breake.png",
+          "Abs": "3 Modes",
+          "Front Brake": "DISC Dia. 276 mm"
+        },
+        "Transmission": {
+          "Frame Tyre": "Diamond Type",
+          "Transmission Type": "5 Speed Constant Mesh",
+          "Clutch Type": "Multi Plate, Wet Type"
+        }
+      },
+      "features": {},
+      "ex_showroom_surat": {
+        "standard": 145110
+      }
+    }
+  ],
+  "notes": [
+    "Hero lists a price range per model, not per variant: entries are the starting and top prices."
+  ],
+  "fetched_on": "2026-10-30"
+}

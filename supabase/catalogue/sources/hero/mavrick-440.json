@@ -1,0 +1,78 @@
+{
+  "brand": "Hero",
+  "model": "Mavrick 440: Me X Machine",
+  "slug": "mavrick-440",
+  "official_page": "https://www.heromotocorp.com/en-in/motorcycles/mavrick-440.html",
+  "brochure_pdf": null,
+  "price_city": "Hero's website default ex-showroom price (state not stated)",
+  "ex_showroom_min": 199000,
+  "ex_showroom_max": 199000,
+  "fuel_types": [
+    "Petrol"
+  ],
+  "transmissions": [],
+  "colours": [],
+  "variants": [
+    {
+      "name": "Mavrick 440: Me X Machine (starting price)",
+      "fuel": "Petrol",
+      "transmission": null,
+      "specifications": {
+        "Dimensions": {
+          "Overall Length": "2100 mm",
+          "Ground Clearance": "175 mm",
+          "Kerb Weight": "Alloy - 187 Kg, Spoke - 191 kg",
+          "Saddle Height": "803 mm",
+          "Fuel Tank Capacity": "13.5 L",
+          "Wheelbase": "1388 mm",
+          "Overall Width": "868 mm",
+          "Overall Height": "1112 mm"
+        },
+        "Other": {
+          "Download Text": "Download Brochure",
+          "Title": "DETAILED SPECIFICATIONS"
+        },
+        "Electricals": {
+          "Headlamp": "LED, 19V, 17.5W",
+          "Tail Stop Lamp": "LED, 7.0V 1.2W/ 7.0V 0.7W",
+          "Turn Signal Lamp": "LED",
+          "Battery": "*MF Battery 12V- 8 Ah/ ETZ-9",
+          "Lamps": "LED, 13.5V, 2.5W"
+        },
+        "Engine": {
+          "Type": "Full Vertical, Air-Oil cooled 2V",
+          "Max Torque": "36 Nm @ 4000 rpm",
+          "Bore Stroke": "79.6X88.4 mm",
+          "Max Power": "27 bhp @6000 rpm",
+          "Compression Ratio": "9.65:1",
+          "Displacement": "440 cc"
+        },
+        "Brakes": {
+          "Rear Brake": "Disc - 240 mm",
+          "Front Brake": "Disc - 320 mm"
+        },
+        "Suspension": {
+          "Front Suspension": "Telescopic Front Fork, 43 mm",
+          "Rear Suspension": "7 step adjustable twin shock"
+        },
+        "Wheels & Tyres": {
+          "Front Tyre": "110/70 - 17",
+          "Rear Tyre": "150/60 - 17"
+        },
+        "Transmission": {
+          "Frame Tyre": "Trellis Frame Body",
+          "Transmission Type": "Manual 6 speed",
+          "Clutch Type": "Multi plate, Wet type, Assist &amp; Slipper"
+        }
+      },
+      "features": {},
+      "ex_showroom_surat": {
+        "standard": 199000
+      }
+    }
+  ],
+  "notes": [
+    "Hero lists a price range per model, not per variant: entries are the starting and top prices."
+  ],
+  "fetched_on": "2026-10-30"
+}

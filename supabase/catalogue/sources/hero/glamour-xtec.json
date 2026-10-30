@@ -1,0 +1,137 @@
+{
+  "brand": "Hero",
+  "model": "Glamour Xtec",
+  "slug": "glamour-xtec",
+  "official_page": "https://www.heromotocorp.com/en-in/motorcycles/glamour-xtec.html",
+  "brochure_pdf": null,
+  "price_city": "Hero's website default ex-showroom price (state not stated)",
+  "ex_showroom_min": 85218,
+  "ex_showroom_max": 100262,
+  "fuel_types": [
+    "Petrol"
+  ],
+  "transmissions": [],
+  "colours": [],
+  "variants": [
+    {
+      "name": "Glamour Xtec (starting price)",
+      "fuel": "Petrol",
+      "transmission": null,
+      "specifications": {
+        "Dimensions": {
+          "Overall Length": "2051 mm",
+          "Ground Clearance": "180 mm",
+          "Kerb Weight": "Self Drum Cast -122 Kg , Self Disc Cast -123 kg",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/glamour-xtec/assets/New-Specs-Glamour-req-image.png",
+          "Fuel Tank Capacity": "10 Litres",
+          "Wheelbase": "1273 mm",
+          "Seat Height": "798 mm",
+          "Overall Width": "Drum - 130 mm, Disc - 743 mm",
+          "Overall Height": "1074 mm"
+        },
+        "Other": {
+          "Download Link": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/glamour-xtec/assets/glamour-xtec.pdf",
+          "Download Text": "Download Brochure",
+          "Title": "GLAMOUR XTEC SPECIFICATIONS",
+          "Right Tab Image": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/glamour-xtec/assets/Spec-background-image.png",
+          "Chassis Left Tab Image": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/glamour-xtec/assets/Chassis.png"
+        },
+        "Engine": {
+          "Engine Type": "Air Cooled 4 stroke",
+          "Max Torque": "10.6 Nm @ 6000 rpm",
+          "Bore Stroke": "52.4 mm x 57.8 mm",
+          "Max Power": "10.7 bhp @ 7500 r.p.m",
+          "Fuel System": "Fuel Injection",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/glamour-xtec/assets/Engine.png"
+        },
+        "Wheels & Tyres": {
+          "Wheel Type": "Alloy",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/glamour-xtec/assets/Wheel and Tyre.png",
+          "Front Tyre": "80/100-18 (Tubeless)",
+          "Rear Tyre": "100/80 - 18 (Tubeless)"
+        },
+        "Brakes": {
+          "Rear Brake": "Drum - Dia 130",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/glamour-xtec/assets/Brake.png",
+          "Front Brake": "Disc-Dia 240"
+        },
+        "Suspension": {
+          "Front Suspension": "Dia. 30 Telescopic",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/glamour-xtec/assets/Suspension.png",
+          "Rear Suspension": "5 step Adjustable Hydraulic Shock Absorbers"
+        },
+        "Transmission": {
+          "Frame Tyre": "Diamond",
+          "Transmission Type": "5 Speed",
+          "Clutch Type": "Wet Multiplate"
+        }
+      },
+      "features": {},
+      "ex_showroom_surat": {
+        "standard": 85218
+      }
+    },
+    {
+      "name": "Glamour Xtec (top variant price)",
+      "fuel": "Petrol",
+      "transmission": null,
+      "specifications": {
+        "Dimensions": {
+          "Overall Length": "2051 mm",
+          "Ground Clearance": "180 mm",
+          "Kerb Weight": "Self Drum Cast -122 Kg , Self Disc Cast -123 kg",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/glamour-xtec/assets/New-Specs-Glamour-req-image.png",
+          "Fuel Tank Capacity": "10 Litres",
+          "Wheelbase": "1273 mm",
+          "Seat Height": "798 mm",
+          "Overall Width": "Drum - 130 mm, Disc - 743 mm",
+          "Overall Height": "1074 mm"
+        },
+        "Other": {
+          "Download Link": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/glamour-xtec/assets/glamour-xtec.pdf",
+          "Download Text": "Download Brochure",
+          "Title": "GLAMOUR XTEC SPECIFICATIONS",
+          "Right Tab Image": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/glamour-xtec/assets/Spec-background-image.png",
+          "Chassis Left Tab Image": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/glamour-xtec/assets/Chassis.png"
+        },
+        "Engine": {
+          "Engine Type": "Air Cooled 4 stroke",
+          "Max Torque": "10.6 Nm @ 6000 rpm",
+          "Bore Stroke": "52.4 mm x 57.8 mm",
+          "Max Power": "10.7 bhp @ 7500 r.p.m",
+          "Fuel System": "Fuel Injection",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/glamour-xtec/assets/Engine.png"
+        },
+        "Wheels & Tyres": {
+          "Wheel Type": "Alloy",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/glamour-xtec/assets/Wheel and Tyre.png",
+          "Front Tyre": "80/100-18 (Tubeless)",
+          "Rear Tyre": "100/80 - 18 (Tubeless)"
+        },
+        "Brakes": {
+          "Rear Brake": "Drum - Dia 130",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/glamour-xtec/assets/Brake.png",
+          "Front Brake": "Disc-Dia 240"
+        },
+        "Suspension": {
+          "Front Suspension": "Dia. 30 Telescopic",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/glamour-xtec/assets/Suspension.png",
+          "Rear Suspension": "5 step Adjustable Hydraulic Shock Absorbers"
+        },
+        "Transmission": {
+          "Frame Tyre": "Diamond",
+          "Transmission Type": "5 Speed",
+          "Clutch Type": "Wet Multiplate"
+        }
+      },
+      "features": {},
+      "ex_showroom_surat": {
+        "standard": 100262
+      }
+    }
+  ],
+  "notes": [
+    "Hero lists a price range per model, not per variant: entries are the starting and top prices."
+  ],
+  "fetched_on": "2026-10-30"
+}

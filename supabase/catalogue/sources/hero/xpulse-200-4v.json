@@ -1,0 +1,161 @@
+{
+  "brand": "Hero",
+  "model": "Xpulse 200 4V",
+  "slug": "xpulse-200-4v",
+  "official_page": "https://www.heromotocorp.com/en-in/motorcycles/xpulse-200-4v.html",
+  "brochure_pdf": null,
+  "price_city": "Hero's website default ex-showroom price (state not stated)",
+  "ex_showroom_min": 140047,
+  "ex_showroom_max": 154797,
+  "fuel_types": [
+    "Petrol"
+  ],
+  "transmissions": [],
+  "colours": [],
+  "variants": [
+    {
+      "name": "Xpulse 200 4V (starting price)",
+      "fuel": "Petrol",
+      "transmission": null,
+      "specifications": {
+        "Dimensions": {
+          "Overall Length": "2255mm (Pro)<br> 2222mm (Base)",
+          "Ground Clearance": "270mm (Pro)<br> 220mm (Base)",
+          "Kerb Weight": "161KG (Pro)<br> 159KG (Base)",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/performance/content-fragments/xpulse-200-4v/assets/New-Dimensions-Image.png",
+          "Alt Text Left Tab Image": "Dimensions",
+          "Fuel Tank Capacity": "13.0 Litres",
+          "Wheelbase": "1427mm (Pro)<br> 1410mm (Base)",
+          "Seat Height": "891mm (Pro) 825mm (Base)",
+          "Overall Width": "862mm",
+          "Overall Height": "1380mm (Pro)<br> 1320mm (Base)"
+        },
+        "Other": {
+          "Download Link": "/content/dam/hero-commerce/in/en/products/performance/content-fragments/xpulse-200-4v/assets/dakar/xpulse-200-4v-dakar-edition.pdf",
+          "Download Text": "Download Brochure",
+          "Title": "Xpulse 200 4V Specifications",
+          "Right Tab Image": "/content/dam/hero-commerce/in/en/products/performance/content-fragments/xpulse-200-4v/assets/Background_Specifications.png",
+          "Alt Text Right Tab Image": "X pulse bike",
+          "Chassis Alt Text Left Tab Image": "Chassis",
+          "Chassis Left Tab Image": "/content/dam/hero-commerce/in/en/products/performance/content-fragments/xpulse-200-4v/assets/New-ransmission-And-Chassis.png"
+        },
+        "Electricals": {
+          "Tail Light": "LED",
+          "Headlamp": "LED(Class D with DRL)",
+          "Instrument Cluster": "Full Digital LCD , with Bluetooth &amp; Turn by Turn Navigation",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/performance/content-fragments/xpulse-200-4v/assets/dakar/rally-windshield.png",
+          "Right Tab Image": "/content/dam/hero-commerce/in/en/products/performance/content-fragments/xpulse-200-4v/assets/xpulse_electricals.jpg",
+          "Alt Text Left Tab Image": "Electricals"
+        },
+        "Brakes": {
+          "Alt Text Left Tab Image": "Brakes",
+          "Rear Brake": "Petal Disc Dia. 220 mm",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/performance/content-fragments/xpulse-200-4v/assets/New-Brakes-Image.png",
+          "Front Brake": "Petal Disc Dia. 276 mm"
+        },
+        "Engine": {
+          "Type": "Oil Cooled, 4 stroke 4 Valve single cylinder OHC",
+          "Alt Text Left Tab Image": "Engine",
+          "Max Torque": "17.35 Nm@ 6500 RPM",
+          "Max Power": "14.1 KW/18.9BHP @ 8500 RPM",
+          "Displacement": "199.6cc",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/performance/content-fragments/xpulse-200-4v/assets/4V-engine.jpg"
+        },
+        "Wheels & Tyres": {
+          "Alt Text Left Tab Image": "wheels and tyres",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/performance/content-fragments/xpulse-200-4v/assets/New-WheelsAnd-Tyre.png",
+          "Front Tyre": "90/90-21 M/C54S",
+          "Rear Tyre": "120/80-18 M/C 62S"
+        },
+        "Suspension": {
+          "Alt Text Left Tab Image": "Suspension",
+          "Front Suspension": "Pro -Cartridge Type (dia 37mm) with adjustable compression &amp; rebound damping | Base - telescopic Front Forks (dia 37mm) with anti friction bush",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/performance/content-fragments/xpulse-200-4v/assets/New-Suspension-Image.png",
+          "Rear Suspension": "Rectangular swingarm with 10 step preload adjustable monoshock"
+        },
+        "Transmission": {
+          "Transmission Type": "5-speed Constant Mesh",
+          "Clutch Type": "Multi-Plate Wet Type"
+        }
+      },
+      "features": {},
+      "ex_showroom_surat": {
+        "standard": 140047
+      }
+    },
+    {
+      "name": "Xpulse 200 4V (top variant price)",
+      "fuel": "Petrol",
+      "transmission": null,
+      "specifications": {
+        "Dimensions": {
+          "Overall Length": "2255mm (Pro)<br> 2222mm (Base)",
+          "Ground Clearance": "270mm (Pro)<br> 220mm (Base)",
+          "Kerb Weight": "161KG (Pro)<br> 159KG (Base)",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/performance/content-fragments/xpulse-200-4v/assets/New-Dimensions-Image.png",
+          "Alt Text Left Tab Image": "Dimensions",
+          "Fuel Tank Capacity": "13.0 Litres",
+          "Wheelbase": "1427mm (Pro)<br> 1410mm (Base)",
+          "Seat Height": "891mm (Pro) 825mm (Base)",
+          "Overall Width": "862mm",
+          "Overall Height": "1380mm (Pro)<br> 1320mm (Base)"
+        },
+        "Other": {
+          "Download Link": "/content/dam/hero-commerce/in/en/products/performance/content-fragments/xpulse-200-4v/assets/dakar/xpulse-200-4v-dakar-edition.pdf",
+          "Download Text": "Download Brochure",
+          "Title": "Xpulse 200 4V Specifications",
+          "Right Tab Image": "/content/dam/hero-commerce/in/en/products/performance/content-fragments/xpulse-200-4v/assets/Background_Specifications.png",
+          "Alt Text Right Tab Image": "X pulse bike",
+          "Chassis Alt Text Left Tab Image": "Chassis",
+          "Chassis Left Tab Image": "/content/dam/hero-commerce/in/en/products/performance/content-fragments/xpulse-200-4v/assets/New-ransmission-And-Chassis.png"
+        },
+        "Electricals": {
+          "Tail Light": "LED",
+          "Headlamp": "LED(Class D with DRL)",
+          "Instrument Cluster": "Full Digital LCD , with Bluetooth &amp; Turn by Turn Navigation",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/performance/content-fragments/xpulse-200-4v/assets/dakar/rally-windshield.png",
+          "Right Tab Image": "/content/dam/hero-commerce/in/en/products/performance/content-fragments/xpulse-200-4v/assets/xpulse_electricals.jpg",
+          "Alt Text Left Tab Image": "Electricals"
+        },
+        "Brakes": {
+          "Alt Text Left Tab Image": "Brakes",
+          "Rear Brake": "Petal Disc Dia. 220 mm",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/performance/content-fragments/xpulse-200-4v/assets/New-Brakes-Image.png",
+          "Front Brake": "Petal Disc Dia. 276 mm"
+        },
+        "Engine": {
+          "Type": "Oil Cooled, 4 stroke 4 Valve single cylinder OHC",
+          "Alt Text Left Tab Image": "Engine",
+          "Max Torque": "17.35 Nm@ 6500 RPM",
+          "Max Power": "14.1 KW/18.9BHP @ 8500 RPM",
+          "Displacement": "199.6cc",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/performance/content-fragments/xpulse-200-4v/assets/4V-engine.jpg"
+        },
+        "Wheels & Tyres": {
+          "Alt Text Left Tab Image": "wheels and tyres",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/performance/content-fragments/xpulse-200-4v/assets/New-WheelsAnd-Tyre.png",
+          "Front Tyre": "90/90-21 M/C54S",
+          "Rear Tyre": "120/80-18 M/C 62S"
+        },
+        "Suspension": {
+          "Alt Text Left Tab Image": "Suspension",
+          "Front Suspension": "Pro -Cartridge Type (dia 37mm) with adjustable compression &amp; rebound damping | Base - telescopic Front Forks (dia 37mm) with anti friction bush",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/performance/content-fragments/xpulse-200-4v/assets/New-Suspension-Image.png",
+          "Rear Suspension": "Rectangular swingarm with 10 step preload adjustable monoshock"
+        },
+        "Transmission": {
+          "Transmission Type": "5-speed Constant Mesh",
+          "Clutch Type": "Multi-Plate Wet Type"
+        }
+      },
+      "features": {},
+      "ex_showroom_surat": {
+        "standard": 154797
+      }
+    }
+  ],
+  "notes": [
+    "Hero lists a price range per model, not per variant: entries are the starting and top prices."
+  ],
+  "fetched_on": "2026-10-30"
+}

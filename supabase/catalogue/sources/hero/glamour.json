@@ -1,0 +1,137 @@
+{
+  "brand": "Hero",
+  "model": "Glamour",
+  "slug": "glamour",
+  "official_page": "https://www.heromotocorp.com/en-in/motorcycles/glamour.html",
+  "brochure_pdf": null,
+  "price_city": "Hero's website default ex-showroom price (state not stated)",
+  "ex_showroom_min": 81313,
+  "ex_showroom_max": 85001,
+  "fuel_types": [
+    "Petrol"
+  ],
+  "transmissions": [],
+  "colours": [],
+  "variants": [
+    {
+      "name": "Glamour (starting price)",
+      "fuel": "Petrol",
+      "transmission": null,
+      "specifications": {
+        "Dimensions": {
+          "Overall Length": "2042 mm",
+          "Ground Clearance": "170 mm",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/glamour/assets/specifications/dimensions.png",
+          "Fuel Tank Capacity": "10 Litres",
+          "Wheelbase": "1267 mm",
+          "Seat Height": "793 mm",
+          "Overall Width": "742 mm (Disc), 720 mm (Drum)",
+          "Overall Height": "1090 mm"
+        },
+        "Other": {
+          "Download Link": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/glamour/assets/glamour-leaflet-updated.pdf",
+          "Download Text": "Download Brochure",
+          "Title": "GLAMOUR SPECIFICATIONS",
+          "Right Tab Image": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/glamour/assets/bike-image/glamour_right_bike_specs.png",
+          "Chassis Left Tab Image": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/glamour/assets/specifications/chassis.png"
+        },
+        "Engine": {
+          "Engine Type": "Air Cooled, 4 stroke",
+          "Max Torque": "10.4 Nm&nbsp;@ 6000 rpm",
+          "Max Power": "7.75 kW&nbsp;@ 7500 rpm",
+          "Fuel System": "Fuel Injection",
+          "Fuel Efficiency": "65 km/l",
+          "Displacement": "124.7 cm³",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/glamour/assets/specifications/reliable_125cc_engine.png"
+        },
+        "Wheels & Tyres": {
+          "Wheel Type": "Alloy wheels",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/glamour/assets/specifications/wheels_and_tyres.png",
+          "Front Tyre": "80/100-18 tubeless",
+          "Rear Tyre": "100/80-18 tubeless"
+        },
+        "Brakes": {
+          "Rear Brake": "Drum: Dia 130",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/glamour/assets/specifications/front_disc_brakes.png",
+          "Front Brake": "Disc: Dia 240,<br> Drum: Dia 130"
+        },
+        "Suspension": {
+          "Front Suspension": "Dia. 30 telescopic fork - 105 stroke",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/glamour/assets/specifications/suspension.png",
+          "Rear Suspension": "5-step adjustable - 73.5 mm stroke hydraulic shock absorbers"
+        },
+        "Transmission": {
+          "Frame Tyre": "Diamond",
+          "Transmission Type": "Constant mesh, 5-speed",
+          "Clutch Type": "Wet Multi Plate"
+        }
+      },
+      "features": {},
+      "ex_showroom_surat": {
+        "standard": 81313
+      }
+    },
+    {
+      "name": "Glamour (top variant price)",
+      "fuel": "Petrol",
+      "transmission": null,
+      "specifications": {
+        "Dimensions": {
+          "Overall Length": "2042 mm",
+          "Ground Clearance": "170 mm",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/glamour/assets/specifications/dimensions.png",
+          "Fuel Tank Capacity": "10 Litres",
+          "Wheelbase": "1267 mm",
+          "Seat Height": "793 mm",
+          "Overall Width": "742 mm (Disc), 720 mm (Drum)",
+          "Overall Height": "1090 mm"
+        },
+        "Other": {
+          "Download Link": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/glamour/assets/glamour-leaflet-updated.pdf",
+          "Download Text": "Download Brochure",
+          "Title": "GLAMOUR SPECIFICATIONS",
+          "Right Tab Image": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/glamour/assets/bike-image/glamour_right_bike_specs.png",
+          "Chassis Left Tab Image": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/glamour/assets/specifications/chassis.png"
+        },
+        "Engine": {
+          "Engine Type": "Air Cooled, 4 stroke",
+          "Max Torque": "10.4 Nm&nbsp;@ 6000 rpm",
+          "Max Power": "7.75 kW&nbsp;@ 7500 rpm",
+          "Fuel System": "Fuel Injection",
+          "Fuel Efficiency": "65 km/l",
+          "Displacement": "124.7 cm³",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/glamour/assets/specifications/reliable_125cc_engine.png"
+        },
+        "Wheels & Tyres": {
+          "Wheel Type": "Alloy wheels",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/glamour/assets/specifications/wheels_and_tyres.png",
+          "Front Tyre": "80/100-18 tubeless",
+          "Rear Tyre": "100/80-18 tubeless"
+        },
+        "Brakes": {
+          "Rear Brake": "Drum: Dia 130",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/glamour/assets/specifications/front_disc_brakes.png",
+          "Front Brake": "Disc: Dia 240,<br> Drum: Dia 130"
+        },
+        "Suspension": {
+          "Front Suspension": "Dia. 30 telescopic fork - 105 stroke",
+          "Left Tab Image": "/content/dam/hero-commerce/in/en/products/executive/content-fragments/glamour/assets/specifications/suspension.png",
+          "Rear Suspension": "5-step adjustable - 73.5 mm stroke hydraulic shock absorbers"
+        },
+        "Transmission": {
+          "Frame Tyre": "Diamond",
+          "Transmission Type": "Constant mesh, 5-speed",
+          "Clutch Type": "Wet Multi Plate"
+        }
+      },
+      "features": {},
+      "ex_showroom_surat": {
+        "standard": 85001
+      }
+    }
+  ],
+  "notes": [
+    "Hero lists a price range per model, not per variant: entries are the starting and top prices."
+  ],
+  "fetched_on": "2026-10-30"
+}
