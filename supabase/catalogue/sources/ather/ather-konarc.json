@@ -1,0 +1,71 @@
+{
+  "brand": "Ather",
+  "model": "Ather Konarc",
+  "slug": "ather-konarc",
+  "official_page": "https://www.atherenergy.com/",
+  "brochure_pdf": null,
+  "price_city": "Ahmedabad, Gujarat (atherenergy.com price page; ex-showroom after current offers)",
+  "ex_showroom_min": 100104,
+  "ex_showroom_max": 142051,
+  "fuel_types": [
+    "Electric"
+  ],
+  "transmissions": [
+    "Automatic"
+  ],
+  "colours": [],
+  "variants": [
+    {
+      "code": "SEL1S121IN",
+      "name": "Ather Konarc (KONARC, gen1)",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 100104
+      },
+      "on_road_gujarat": {
+        "insurance": 6494,
+        "road_tax": 1001,
+        "total": 107849
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "SEL1S1R2IN",
+      "name": "Ather Konarc (KONARC, gen1)",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 119551
+      },
+      "on_road_gujarat": {
+        "insurance": 7048,
+        "road_tax": 1277,
+        "total": 128126
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "SEL1S1R3IN",
+      "name": "Ather Konarc (KONARC, gen1)",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 142051
+      },
+      "on_road_gujarat": {
+        "insurance": 7489,
+        "road_tax": 1496,
+        "total": 151286
+      },
+      "specifications": {},
+      "features": {}
+    }
+  ],
+  "notes": [
+    "Variant names keep Ather's official codes; battery size is shown where the code states it."
+  ],
+  "fetched_on": "2026-10-30"
+}

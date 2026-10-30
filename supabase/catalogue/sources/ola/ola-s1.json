@@ -1,0 +1,72 @@
+{
+  "brand": "Ola Electric",
+  "model": "Ola S1",
+  "slug": "ola-s1",
+  "official_page": "https://www.olaelectric.com/",
+  "brochure_pdf": null,
+  "price_city": "Gujarat (state price list from olaelectric.com)",
+  "ex_showroom_min": 138305,
+  "ex_showroom_max": 169923,
+  "fuel_types": [
+    "Electric"
+  ],
+  "transmissions": [
+    "Automatic"
+  ],
+  "colours": [],
+  "variants": [
+    {
+      "code": "s1_air_3kwh",
+      "name": "Ola S1 Air",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 138305
+      },
+      "on_road_gujarat": {
+        "rto": 8980,
+        "insurance": 0,
+        "handling": 4398,
+        "total": 151683
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "s1_pro",
+      "name": "Ola S1 Pro",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 152443
+      },
+      "on_road_gujarat": {
+        "rto": 10546,
+        "insurance": 0,
+        "handling": 4398,
+        "total": 167387
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "s1_pro_gen2",
+      "name": "Ola S1 Pro Gen2 (Gen 2)",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 169923
+      },
+      "on_road_gujarat": {
+        "rto": 10941,
+        "insurance": 0,
+        "handling": 4398,
+        "total": 185262
+      },
+      "specifications": {},
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}

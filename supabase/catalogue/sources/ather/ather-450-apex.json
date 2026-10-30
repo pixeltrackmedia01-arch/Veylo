@@ -1,0 +1,39 @@
+{
+  "brand": "Ather",
+  "model": "Ather 450 Apex",
+  "slug": "ather-450-apex",
+  "official_page": "https://www.atherenergy.com/",
+  "brochure_pdf": null,
+  "price_city": "Ahmedabad, Gujarat (atherenergy.com price page; ex-showroom after current offers)",
+  "ex_showroom_min": 195051,
+  "ex_showroom_max": 195051,
+  "fuel_types": [
+    "Electric"
+  ],
+  "transmissions": [
+    "Automatic"
+  ],
+  "colours": [],
+  "variants": [
+    {
+      "code": "S450A235IN",
+      "name": "Ather 450 Apex 3.7 kWh (450APEXR35, gen5)",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 195051
+      },
+      "on_road_gujarat": {
+        "insurance": 8216,
+        "road_tax": 1858,
+        "total": 205375
+      },
+      "specifications": {},
+      "features": {}
+    }
+  ],
+  "notes": [
+    "Variant names keep Ather's official codes; battery size is shown where the code states it."
+  ],
+  "fetched_on": "2026-10-30"
+}

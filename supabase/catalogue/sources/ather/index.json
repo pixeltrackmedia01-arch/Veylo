@@ -1,0 +1,82 @@
+[
+  {
+    "model": "Ather Konarc",
+    "slug": "ather-konarc",
+    "channel": "Electric scooter",
+    "variants": 3,
+    "colours": 0,
+    "ex_showroom_min": 100104,
+    "ex_showroom_max": 142051,
+    "fuel_types": [
+      "Electric"
+    ],
+    "transmissions": [
+      "Automatic"
+    ],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Ather Rizta",
+    "slug": "ather-rizta",
+    "channel": "Electric scooter",
+    "variants": 6,
+    "colours": 0,
+    "ex_showroom_min": 119554,
+    "ex_showroom_max": 157054,
+    "fuel_types": [
+      "Electric"
+    ],
+    "transmissions": [
+      "Automatic"
+    ],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Ather 450S",
+    "slug": "ather-450s",
+    "channel": "Electric scooter",
+    "variants": 2,
+    "colours": 0,
+    "ex_showroom_min": 125893,
+    "ex_showroom_max": 150050,
+    "fuel_types": [
+      "Electric"
+    ],
+    "transmissions": [
+      "Automatic"
+    ],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Ather 450X",
+    "slug": "ather-450x",
+    "channel": "Electric scooter",
+    "variants": 2,
+    "colours": 0,
+    "ex_showroom_min": 149051,
+    "ex_showroom_max": 163051,
+    "fuel_types": [
+      "Electric"
+    ],
+    "transmissions": [
+      "Automatic"
+    ],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Ather 450 Apex",
+    "slug": "ather-450-apex",
+    "channel": "Electric scooter",
+    "variants": 1,
+    "colours": 0,
+    "ex_showroom_min": 195051,
+    "ex_showroom_max": 195051,
+    "fuel_types": [
+      "Electric"
+    ],
+    "transmissions": [
+      "Automatic"
+    ],
+    "brochure_pdf": null
+  }
+]

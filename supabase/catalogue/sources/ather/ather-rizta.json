@@ -1,0 +1,119 @@
+{
+  "brand": "Ather",
+  "model": "Ather Rizta",
+  "slug": "ather-rizta",
+  "official_page": "https://www.atherenergy.com/",
+  "brochure_pdf": null,
+  "price_city": "Ahmedabad, Gujarat (atherenergy.com price page; ex-showroom after current offers)",
+  "ex_showroom_min": 119554,
+  "ex_showroom_max": 157054,
+  "fuel_types": [
+    "Electric"
+  ],
+  "transmissions": [
+    "Automatic"
+  ],
+  "colours": [],
+  "variants": [
+    {
+      "code": "SRIZS1LRIN",
+      "name": "Ather Rizta S (RIZS1LR, gen1)",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 119554
+      },
+      "on_road_gujarat": {
+        "insurance": 6991,
+        "road_tax": 1248,
+        "total": 128043
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "SRIZZ1LRIN",
+      "name": "Ather Rizta Z (RIZZ1LR, gen1)",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 137054
+      },
+      "on_road_gujarat": {
+        "insurance": 7288,
+        "road_tax": 1396,
+        "total": 145987
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "SRIZS1HRIN",
+      "name": "Ather Rizta S (RIZS1HR, gen1)",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 142054
+      },
+      "on_road_gujarat": {
+        "insurance": 7431,
+        "road_tax": 1467,
+        "total": 151202
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "SRIZS135IN",
+      "name": "Ather Rizta S 3.7 kWh (RIZSR35, gen1)",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 142054
+      },
+      "on_road_gujarat": {
+        "insurance": 7431,
+        "road_tax": 1467,
+        "total": 151202
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "SRIZZ1HRIN",
+      "name": "Ather Rizta Z (RIZZ1HR, gen1)",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 157054
+      },
+      "on_road_gujarat": {
+        "insurance": 7671,
+        "road_tax": 1586,
+        "total": 166561
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "SRIZZ135IN",
+      "name": "Ather Rizta Z 3.7 kWh (RIZZR35, gen1)",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 157054
+      },
+      "on_road_gujarat": {
+        "insurance": 7671,
+        "road_tax": 1586,
+        "total": 166561
+      },
+      "specifications": {},
+      "features": {}
+    }
+  ],
+  "notes": [
+    "Variant names keep Ather's official codes; battery size is shown where the code states it."
+  ],
+  "fetched_on": "2026-10-30"
+}

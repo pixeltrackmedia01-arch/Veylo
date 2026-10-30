@@ -1,0 +1,55 @@
+{
+  "brand": "Ather",
+  "model": "Ather 450S",
+  "slug": "ather-450s",
+  "official_page": "https://www.atherenergy.com/",
+  "brochure_pdf": null,
+  "price_city": "Ahmedabad, Gujarat (atherenergy.com price page; ex-showroom after current offers)",
+  "ex_showroom_min": 125893,
+  "ex_showroom_max": 150050,
+  "fuel_types": [
+    "Electric"
+  ],
+  "transmissions": [
+    "Automatic"
+  ],
+  "colours": [],
+  "variants": [
+    {
+      "code": "S450S5LRIN",
+      "name": "Ather 450S (450SLR, gen5)",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 125893
+      },
+      "on_road_gujarat": {
+        "insurance": 7241,
+        "road_tax": 1373,
+        "total": 134757
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "S450S535IN",
+      "name": "Ather 450S 3.7 kWh (450SR35, gen5)",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 150050
+      },
+      "on_road_gujarat": {
+        "insurance": 7517,
+        "road_tax": 1510,
+        "total": 159328
+      },
+      "specifications": {},
+      "features": {}
+    }
+  ],
+  "notes": [
+    "Variant names keep Ather's official codes; battery size is shown where the code states it."
+  ],
+  "fetched_on": "2026-10-30"
+}

@@ -1,0 +1,38 @@
+{
+  "brand": "Ola Electric",
+  "model": "Ola S1 X +",
+  "slug": "ola-s1-x",
+  "official_page": "https://www.olaelectric.com/",
+  "brochure_pdf": null,
+  "price_city": "Gujarat (state price list from olaelectric.com)",
+  "ex_showroom_min": 106779,
+  "ex_showroom_max": 106779,
+  "fuel_types": [
+    "Electric"
+  ],
+  "transmissions": [
+    "Automatic"
+  ],
+  "colours": [],
+  "variants": [
+    {
+      "code": "s1_3kwh",
+      "name": "Ola S1 X +",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 106779
+      },
+      "on_road_gujarat": {
+        "rto": 8265,
+        "insurance": 0,
+        "handling": 4398,
+        "total": 119442
+      },
+      "specifications": {},
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}
