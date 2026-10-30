@@ -1,0 +1,89 @@
+{
+  "brand": "TVS",
+  "model": "Apache RTR 160 2V",
+  "slug": "apache-rtr-160-2v",
+  "official_page": "https://www.tvsmotor.com/tvs-apache/apache-rtr-160-2v",
+  "brochure_pdf": null,
+  "price_city": "Gujarat (state ex-showroom price from tvsmotor.com)",
+  "ex_showroom_min": 114890,
+  "ex_showroom_max": 128990,
+  "fuel_types": [
+    "Petrol"
+  ],
+  "transmissions": [],
+  "colours": [],
+  "variants": [
+    {
+      "name": "Apache RTR 160 2V Rm Drum (Black Edition)",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 114890
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Apache RTR 160 2V Rm Drum",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 117490
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Apache RTR 160 2V Rm Disc",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 120690
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Apache RTR 160 2V Rm Disc Bt",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 123790
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Apache RTR 160 2V Racing Edition",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 125090
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Apache RTR 160 2V Dual Channel Abs",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 127790
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Apache RTR 160 2V Dual Channel Abs With Tcs",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 128990
+      },
+      "specifications": {},
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}

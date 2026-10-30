@@ -1,0 +1,89 @@
+{
+  "brand": "TVS",
+  "model": "Raider",
+  "slug": "raider",
+  "official_page": "https://www.tvsmotor.com/tvs-raider",
+  "brochure_pdf": null,
+  "price_city": "Gujarat (state ex-showroom price from tvsmotor.com)",
+  "ex_showroom_min": 86870,
+  "ex_showroom_max": 104190,
+  "fuel_types": [
+    "Petrol"
+  ],
+  "transmissions": [],
+  "colours": [],
+  "variants": [
+    {
+      "name": "Raider Drum",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 86870
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Raider Single Seat",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 91240
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Raider Igo",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 96540
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Raider Split Seat",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 96540
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Raider Sse",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 98390
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Raider Sxc Dd",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 101350
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Raider Tft Dd",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 104190
+      },
+      "specifications": {},
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}

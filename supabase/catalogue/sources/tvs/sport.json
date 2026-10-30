@@ -1,0 +1,39 @@
+{
+  "brand": "TVS",
+  "model": "Sport",
+  "slug": "sport",
+  "official_page": "https://www.tvsmotor.com/tvs-sport",
+  "brochure_pdf": null,
+  "price_city": "Gujarat (state ex-showroom price from tvsmotor.com)",
+  "ex_showroom_min": 65019,
+  "ex_showroom_max": 66019,
+  "fuel_types": [
+    "Petrol"
+  ],
+  "transmissions": [],
+  "colours": [],
+  "variants": [
+    {
+      "name": "Sport Self Start (Es) - Alloy Wheels",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 65019
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Sport Self Start (Es Plus) - Alloy Wheels",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 66019
+      },
+      "specifications": {},
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}

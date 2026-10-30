@@ -1,0 +1,69 @@
+{
+  "brand": "TVS",
+  "model": "Jupiter",
+  "slug": "jupiter",
+  "official_page": "https://www.tvsmotor.com/tvs-apache",
+  "brochure_pdf": null,
+  "price_city": "Gujarat (state ex-showroom price from tvsmotor.com)",
+  "ex_showroom_min": 76654,
+  "ex_showroom_max": 91774,
+  "fuel_types": [
+    "Petrol"
+  ],
+  "transmissions": [],
+  "colours": [],
+  "variants": [
+    {
+      "name": "Jupiter Drum",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 76654
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Jupiter Drum Alloy",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 81124
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Jupiter Drum Sxc",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 85674
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Jupiter Disc Sxc",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 88774
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Jupiter Dual Tone",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 91774
+      },
+      "specifications": {},
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}

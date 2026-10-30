@@ -1,0 +1,29 @@
+{
+  "brand": "TVS",
+  "model": "Apache RTR 180",
+  "slug": "apache-rtr-180",
+  "official_page": "https://www.tvsmotor.com/tvs-apache/apache-rtr-180",
+  "brochure_pdf": null,
+  "price_city": "Gujarat (state ex-showroom price from tvsmotor.com)",
+  "ex_showroom_min": 128440,
+  "ex_showroom_max": 128440,
+  "fuel_types": [
+    "Petrol"
+  ],
+  "transmissions": [],
+  "colours": [],
+  "variants": [
+    {
+      "name": "Apache RTR 180 Rm Disc Bt",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 128440
+      },
+      "specifications": {},
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}

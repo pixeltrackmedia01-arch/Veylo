@@ -1,0 +1,119 @@
+{
+  "brand": "TVS",
+  "model": "Ronin",
+  "slug": "ronin",
+  "official_page": "https://www.tvsmotor.com/tvs-ronin/pricing",
+  "brochure_pdf": null,
+  "price_city": "Gujarat (state ex-showroom price from tvsmotor.com)",
+  "ex_showroom_min": 130790,
+  "ex_showroom_max": 164140,
+  "fuel_types": [
+    "Petrol"
+  ],
+  "transmissions": [],
+  "colours": [],
+  "variants": [
+    {
+      "name": "Ronin Tvs Ronin – Base Lightning Black",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 130790
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Ronin Tvs Ronin – Base Magma Red",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 132490
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Ronin Tvs Ronin - Agonda Edition",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 134290
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Ronin Tvs Ronin – Base+  Desert Mirage",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 142990
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Ronin Tvs Ronin – Base+  Sunlit Yellow",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 142990
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Ronin Tvs Ronin – Mid Glacier Silver",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 152040
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Ronin Tvs Ronin – Mid Charcoal Ember",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 153340
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Ronin Standard",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 159208
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Ronin Tvs Ronin – Top Nimbus Grey",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 164140
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Ronin Tvs Ronin – Top Midnight Blue",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 164140
+      },
+      "specifications": {},
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}

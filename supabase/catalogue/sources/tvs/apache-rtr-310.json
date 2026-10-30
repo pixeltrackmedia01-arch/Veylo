@@ -1,0 +1,89 @@
+{
+  "brand": "TVS",
+  "model": "Apache RTR 310",
+  "slug": "apache-rtr-310",
+  "official_page": "https://www.tvsmotor.com/tvs-apache/price",
+  "brochure_pdf": null,
+  "price_city": "Gujarat (state ex-showroom price from tvsmotor.com)",
+  "ex_showroom_min": 229990,
+  "ex_showroom_max": 297290,
+  "fuel_types": [
+    "Petrol"
+  ],
+  "transmissions": [],
+  "colours": [],
+  "variants": [
+    {
+      "name": "Apache RTR 310 Apache Rtr 310 Arsenal Black Base Without Quickshifter",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 229990
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Apache RTR 310 Apache Rtr 310 Arsenal Black Base",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 246990
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Apache RTR 310 Apache Rtr 310 Fury Yellow Base",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 246990
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Apache RTR 310 Rtr 310 Black Diamond Edition Base",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 248990
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Apache RTR 310 Apache Rtr 310 Fiery Red Base",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 251990
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Apache RTR 310 Apache Rtr 310 Sepang Blue Base",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 252990
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Apache RTR 310 Apache Rtr 310 Anniversary Edition",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 297290
+      },
+      "specifications": {},
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}

@@ -1,0 +1,170 @@
+[
+  {
+    "model": "XL 100",
+    "slug": "xl-100",
+    "channel": "Motorcycle",
+    "variants": 5,
+    "colours": 0,
+    "ex_showroom_min": 48069,
+    "ex_showroom_max": 60779,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Sport",
+    "slug": "sport",
+    "channel": "Motorcycle",
+    "variants": 2,
+    "colours": 0,
+    "ex_showroom_min": 65019,
+    "ex_showroom_max": 66019,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Radeon",
+    "slug": "radeon",
+    "channel": "Motorcycle",
+    "variants": 3,
+    "colours": 0,
+    "ex_showroom_min": 80569,
+    "ex_showroom_max": 86569,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Raider",
+    "slug": "raider",
+    "channel": "Motorcycle",
+    "variants": 7,
+    "colours": 0,
+    "ex_showroom_min": 86870,
+    "ex_showroom_max": 104190,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Apache RTR 160 2V",
+    "slug": "apache-rtr-160-2v",
+    "channel": "Motorcycle",
+    "variants": 7,
+    "colours": 0,
+    "ex_showroom_min": 114890,
+    "ex_showroom_max": 128990,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Apache RTR 160 4V",
+    "slug": "apache-rtr-160-4v",
+    "channel": "Motorcycle",
+    "variants": 4,
+    "colours": 0,
+    "ex_showroom_min": 120190,
+    "ex_showroom_max": 141740,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Apache RTR 180",
+    "slug": "apache-rtr-180",
+    "channel": "Motorcycle",
+    "variants": 1,
+    "colours": 0,
+    "ex_showroom_min": 128440,
+    "ex_showroom_max": 128440,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Ronin",
+    "slug": "ronin",
+    "channel": "Motorcycle",
+    "variants": 10,
+    "colours": 0,
+    "ex_showroom_min": 130790,
+    "ex_showroom_max": 164140,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Apache RTR 200 4V",
+    "slug": "apache-rtr-200-4v",
+    "channel": "Motorcycle",
+    "variants": 1,
+    "colours": 0,
+    "ex_showroom_min": 149990,
+    "ex_showroom_max": 149990,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Apache RTR 310",
+    "slug": "apache-rtr-310",
+    "channel": "Motorcycle",
+    "variants": 7,
+    "colours": 0,
+    "ex_showroom_min": 229990,
+    "ex_showroom_max": 297290,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Apache RR 310",
+    "slug": "apache-rr-310",
+    "channel": "Motorcycle",
+    "variants": 5,
+    "colours": 0,
+    "ex_showroom_min": 266190,
+    "ex_showroom_max": 333040,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Jupiter",
+    "slug": "jupiter",
+    "channel": "Scooter",
+    "variants": 5,
+    "colours": 0,
+    "ex_showroom_min": 76654,
+    "ex_showroom_max": 91774,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [],
+    "brochure_pdf": null
+  }
+]

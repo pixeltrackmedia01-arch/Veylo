@@ -1,0 +1,59 @@
+{
+  "brand": "TVS",
+  "model": "Apache RTR 160 4V",
+  "slug": "apache-rtr-160-4v",
+  "official_page": "https://www.tvsmotor.com/tvs-apache/apache-rtr-160-4v",
+  "brochure_pdf": null,
+  "price_city": "Gujarat (state ex-showroom price from tvsmotor.com)",
+  "ex_showroom_min": 120190,
+  "ex_showroom_max": 141740,
+  "fuel_types": [
+    "Petrol"
+  ],
+  "transmissions": [],
+  "colours": [],
+  "variants": [
+    {
+      "name": "Apache RTR 160 4V Rm Disc (Black Edition)",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 120190
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Apache RTR 160 4V Single Channel Abs",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 128090
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Apache RTR 160 4V Dual Channel Abs With Usd",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 134040
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Apache RTR 160 4V Tft With Map Mirroring",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 141740
+      },
+      "specifications": {},
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}
