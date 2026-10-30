@@ -1,0 +1,867 @@
+{
+  "brand": "Toyota",
+  "model": "Hilux",
+  "slug": "hilux",
+  "official_page": "https://www.toyotabharat.com/showroom/hilux/",
+  "brochure_pdf": null,
+  "price_city": "Surat, Gujarat (dealer: Munjani Toyota; effective 17th Jun 2026)",
+  "ex_showroom_min": 3199000,
+  "ex_showroom_max": 3689000,
+  "fuel_types": [
+    "Diesel"
+  ],
+  "transmissions": [
+    "Automatic"
+  ],
+  "colours": [],
+  "official_tables": [
+    [
+      [
+        "Parameters",
+        "Details",
+        "GX 4X2 AT",
+        "GX 4X4 AT",
+        "VX 4X4 AT"
+      ],
+      [
+        "Engine",
+        "2.8 L Diesel",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Transmission",
+        "6-Speed Automatic",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Drive Type",
+        "4 x 2",
+        "✓",
+        "✗",
+        "✗"
+      ],
+      [
+        "4 x 4",
+        "✗",
+        "✓",
+        "✓"
+      ]
+    ],
+    [
+      [
+        "Parameters",
+        "Details",
+        "GX 4X2 AT",
+        "GX 4X4 AT",
+        "VX 4X4 AT"
+      ],
+      [
+        "Airbags",
+        "7 SRS",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "ABS (Anti-lock Braking System)",
+        "",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "VSC (Vehicle Stability Control) with Brake Assist",
+        "",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Anti-Theft Alarm",
+        "",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Tyre Pressure Monitoring System (TPMS) – Direct",
+        "",
+        "✗",
+        "✗",
+        "✓"
+      ],
+      [
+        "Front Row Seat Belt with Pretensioner & Force Limiter",
+        "",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Height Adjustable Front Seat Belts",
+        "",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "3-Point ELR Seat Belts",
+        "All Seats",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Seatbelt Reminder",
+        "All Seats",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Child Restraint System: ISOFIX + Tether Anchorage on 2nd Row",
+        "",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Emergency Brake Signal",
+        "",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Impact Absorbing Structure",
+        "",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Impact Sensing Auto Door Unlock",
+        "",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Speed Sensing Door Lock",
+        "",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Inside Rear View Mirror",
+        "Day & Night",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Parking Assist",
+        "Back Camera",
+        "✓",
+        "✓",
+        "✗"
+      ],
+      [
+        "Panoramic View Monitor (PVM)",
+        "",
+        "✗",
+        "✗",
+        "✓"
+      ]
+    ],
+    [
+      [
+        "Parameters",
+        "Details",
+        "GX 4X2 AT",
+        "GX 4X4 AT",
+        "VX 4X4 AT"
+      ],
+      [
+        "4WD with High (H4) & Low (L4) Range",
+        "",
+        "✗",
+        "✓",
+        "✓"
+      ],
+      [
+        "Downhill Assist Control",
+        "",
+        "✗",
+        "✗",
+        "✓"
+      ],
+      [
+        "Traction Control",
+        "Multi Terrain Select",
+        "✗",
+        "✗",
+        "✓"
+      ],
+      [
+        "Electronic Drive Control",
+        "2WD / 4WD",
+        "✗",
+        "✓",
+        "✓"
+      ],
+      [
+        "Electronic Differential Lock",
+        "",
+        "✗",
+        "✓",
+        "✓"
+      ]
+    ],
+    [
+      [
+        "Parameters",
+        "Details",
+        "GX 4X2 AT",
+        "GX 4X4 AT",
+        "VX 4X4 AT"
+      ],
+      [
+        "New Design Front Bumper with Cyber Sumo Architectural Design",
+        "",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Rugged Honeycomb Front Grille",
+        "",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Hexagonal Grip Side Step",
+        "",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Integrated Rear Bed Step",
+        "",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Tailgate Assisted Rear Deck Door",
+        "With Lock",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Headlamp with Integrated Turn Indicator",
+        "LED",
+        "✓",
+        "✓",
+        "✗"
+      ],
+      [
+        "LED Premium w/Welcome Lamp",
+        "✗",
+        "✗",
+        "✓"
+      ],
+      [
+        "Daytime Running Lamps (DRL)",
+        "LED",
+        "✗",
+        "✗",
+        "✓"
+      ],
+      [
+        "Welcome Door Lamps",
+        "",
+        "✗",
+        "✗",
+        "✓"
+      ],
+      [
+        "Hood Ornament",
+        "",
+        "✗",
+        "✗",
+        "✓"
+      ],
+      [
+        "Wheel Arch Liners",
+        "",
+        "✗",
+        "✗",
+        "✓"
+      ],
+      [
+        "Front Fog Lamps",
+        "LED",
+        "✗",
+        "✗",
+        "✓"
+      ],
+      [
+        "Rear Fog Lamp",
+        "LED",
+        "✗",
+        "✗",
+        "✓"
+      ],
+      [
+        "Bulb",
+        "✓",
+        "✓",
+        "✗"
+      ],
+      [
+        "Rear Tail Lamp",
+        "Bulb",
+        "✓",
+        "✓",
+        "✗"
+      ],
+      [
+        "LED",
+        "✗",
+        "✗",
+        "✓"
+      ],
+      [
+        "Outside Rear View Mirror (ORVM)",
+        "Electrically Adjustable",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Retractable",
+        "✗",
+        "✗",
+        "✓"
+      ],
+      [
+        "Side Turn Indicators",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Matte Finish",
+        "✓",
+        "✓",
+        "✗"
+      ],
+      [
+        "",
+        "Glossy Finish",
+        "✗",
+        "✗",
+        "✓"
+      ],
+      [
+        "Outside Door Handles",
+        "Matte Finish",
+        "✓",
+        "✓",
+        "✗"
+      ],
+      [
+        "Glossy Finish",
+        "✗",
+        "✗",
+        "✓"
+      ],
+      [
+        "Antenna",
+        "Pole",
+        "✓",
+        "✓",
+        "✗"
+      ],
+      [
+        "Sharkfin",
+        "✗",
+        "✗",
+        "✓"
+      ]
+    ],
+    [
+      [
+        "Parameters",
+        "Details",
+        "GX 4X2 AT",
+        "GX 4X4 AT",
+        "VX 4X4 AT"
+      ],
+      [
+        "Interiors",
+        "All Black Themed",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "With Premium Dashboard",
+        "✗",
+        "✗",
+        "✓"
+      ],
+      [
+        "Height adjustable Headrest",
+        "Front & Rear",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Driver seat adjust",
+        "Manual 6-Way",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Passenger seat adjust",
+        "Manual 4-Way",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Inside Door Handles",
+        "Black",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Door scuff plates",
+        "Illuminated",
+        "✗",
+        "✗",
+        "✓"
+      ],
+      [
+        "Windshield Glass",
+        "Green Laminated",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "TFT Multi Information Display Instrument Cluster",
+        "",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Infotainment",
+        "8 inches",
+        "✓",
+        "✓",
+        "✗"
+      ],
+      [
+        "12.3 inches",
+        "✗",
+        "✗",
+        "✓"
+      ],
+      [
+        "Speakers",
+        "4",
+        "✓",
+        "✓",
+        "✗"
+      ],
+      [
+        "8",
+        "✗",
+        "✗",
+        "✓"
+      ],
+      [
+        "Hydraulic Power Steering",
+        "",
+        "✓",
+        "✓",
+        "✓"
+      ]
+    ],
+    [
+      [
+        "Parameters",
+        "Details",
+        "GX 4X2 AT",
+        "GX 4X4 AT",
+        "VX 4X4 AT"
+      ],
+      [
+        "Air Conditioning",
+        "Manual",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Wireless Charger",
+        "",
+        "✗",
+        "✗",
+        "✓"
+      ],
+      [
+        "Drive Modes",
+        "Sport, Normal, Eco",
+        "✗",
+        "✗",
+        "✓"
+      ],
+      [
+        "Steering Switches",
+        "Volume, MID, Tel, Voice Command",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Cruise Control",
+        "",
+        "✗",
+        "✗",
+        "✓"
+      ],
+      [
+        "Key Type",
+        "Foldable Key",
+        "✓",
+        "✓",
+        "✗"
+      ],
+      [
+        "Smart Entry with Push Start Stop",
+        "✗",
+        "✗",
+        "✓"
+      ],
+      [
+        "Front seats armrest",
+        "with storage",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Rear center armrest",
+        "with cupholders",
+        "✗",
+        "✗",
+        "✓"
+      ],
+      [
+        "Additional Upper Glove Box",
+        "",
+        "✓",
+        "✓",
+        "✗"
+      ],
+      [
+        "With Retractable Lid",
+        "",
+        "",
+        "✓"
+      ],
+      [
+        "Cupholders on Dashboard",
+        "",
+        "✓",
+        "✓",
+        ""
+      ],
+      [
+        "With Retractable Lid",
+        "",
+        "",
+        "✓"
+      ],
+      [
+        "Steering Adjustment",
+        "Tilt & Telescopic",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Apple CarPlay & Android Auto",
+        "Wireless",
+        "✗",
+        "✗",
+        "✓"
+      ],
+      [
+        "Wired",
+        "✓",
+        "✓",
+        ""
+      ],
+      [
+        "Bluetooth Connectivity",
+        "",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Power Windows",
+        "All windows with Jam Protection",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "USB Charger",
+        "Type C",
+        "1",
+        "1",
+        "3"
+      ],
+      [
+        "Power Outlet",
+        "12V",
+        "2",
+        "2",
+        "1"
+      ],
+      [
+        "220V",
+        "✗",
+        "✗",
+        "✓"
+      ],
+      [
+        "Vanity Mirror",
+        "Passenger Side",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Map Lamps",
+        "",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Room Lamp",
+        "",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Sun Glass Holder",
+        "",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Air Filter",
+        "",
+        "Regular",
+        "Regular",
+        "PM 2.5"
+      ],
+      [
+        "Toyota i-Connect",
+        "",
+        "✗",
+        "✗",
+        "✓"
+      ]
+    ],
+    [
+      [
+        "GRADE",
+        "GX",
+        "GX",
+        "VX"
+      ],
+      [
+        "4x2",
+        "4x4",
+        "4x4"
+      ],
+      [
+        "DIMENSIONS"
+      ],
+      [
+        "Overall (L×W×H) (mm)",
+        "5320 × 1855 × 1815"
+      ],
+      [
+        "Wheelbase (mm)",
+        "3085"
+      ],
+      [
+        "Fuel Tank Capacity",
+        "80 L"
+      ],
+      [
+        "Minimum Turning Radius",
+        "6.3 m"
+      ],
+      [
+        "Seating Capacity",
+        "5"
+      ],
+      [
+        "Gross Vehicle Weight",
+        "2650 kg",
+        "2750 kg"
+      ],
+      [
+        "ENGINE"
+      ],
+      [
+        "Configuration",
+        "4 Cylinder - Inline"
+      ],
+      [
+        "Displacement (cm³)",
+        "2755 cm³ (0.002755 m³)"
+      ],
+      [
+        "Maximum Power",
+        "150 kW"
+      ],
+      [
+        "Maximum Torque",
+        "500 Nm"
+      ],
+      [
+        "SUSPENSION"
+      ],
+      [
+        "Front",
+        "Double Wishbone"
+      ],
+      [
+        "Rear",
+        "Leaf Spring Rigid Axle"
+      ],
+      [
+        "BRAKES"
+      ],
+      [
+        "Front",
+        "Ventilated Discs"
+      ],
+      [
+        "Rear",
+        "Drum"
+      ],
+      [
+        "TYRE & STABILISER"
+      ],
+      [
+        "Tyre",
+        "265/65 R17 Alloys"
+      ],
+      [
+        "Spare Tyre",
+        "265/65 R17 Steel Wheel"
+      ],
+      [
+        "Stabiliser",
+        "Front Pitch & Bounce Control"
+      ]
+    ]
+  ],
+  "variants": [
+    {
+      "code": "HLXXC",
+      "name": "Hilux 4x2 GX AT",
+      "fuel": "Diesel",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 3199000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "HLXXC",
+      "name": "Hilux 4x2 GX AT[Platinum White Pearl]",
+      "fuel": "Diesel",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 3219000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "HLXXB",
+      "name": "Hilux 4x4 GX AT",
+      "fuel": "Diesel",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 3369000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "HLXXB",
+      "name": "Hilux 4x4 GX AT[Platinum White Pearl]",
+      "fuel": "Diesel",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 3389000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "HLXXA",
+      "name": "Hilux 4x4 VX AT",
+      "fuel": "Diesel",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 3669000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "HLXXA",
+      "name": "Hilux 4x4 VX AT[Platinum White Pearl]",
+      "fuel": "Diesel",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 3689000
+      },
+      "specifications": {},
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}

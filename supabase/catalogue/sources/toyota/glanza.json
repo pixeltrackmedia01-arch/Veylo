@@ -1,0 +1,1372 @@
+{
+  "brand": "Toyota",
+  "model": "Glanza",
+  "slug": "glanza",
+  "official_page": "https://www.toyotabharat.com/showroom/glanza/",
+  "brochure_pdf": null,
+  "price_city": "Surat, Gujarat (dealer: Munjani Toyota; effective 14th Oct 2026)",
+  "ex_showroom_min": 699000,
+  "ex_showroom_max": 1098000,
+  "fuel_types": [
+    "CNG",
+    "Petrol"
+  ],
+  "transmissions": [
+    "Automatic",
+    "Manual"
+  ],
+  "colours": [],
+  "official_tables": [
+    [
+      [
+        "FEATURES",
+        "E (MT)",
+        "S (MT/AMT)",
+        "S CNG (MT/AMT)",
+        "G (MT/AMT)",
+        "G CNG (MT/AMT)",
+        "V (MT/AMT)",
+        "V(O) (MT/AMT)"
+      ],
+      [
+        "Sporty Front bumper with Hammer head design",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Body Coloured Bumpers",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "New Sleek Alloy wheel+Tire 195/55 R16 (Polished surface) with center cap",
+        "-",
+        "-",
+        "-",
+        "✓",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Steel wheel+Tire 185/65 R15 with Full wheel cap",
+        "✓",
+        "✓",
+        "✓",
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      [
+        "Spare Wheel (Steel Wheel - 185/65 R15)",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Projector headlamp",
+        "Halogen",
+        "Halogen",
+        "Halogen",
+        "LED",
+        "LED",
+        "LED",
+        "LED"
+      ],
+      [
+        "LED Fog lamps",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "✓",
+        "✓"
+      ],
+      [
+        "Headlamp ON warning buzzer",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Auto headlight w Welcome home lighting",
+        "-",
+        "-",
+        "-",
+        "✓",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "LED Daytime Running Lamp (DRL)",
+        "-",
+        "-",
+        "-",
+        "✓",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Turn Lamp (Fender)",
+        "✓",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      [
+        "Turn lamp(Door mirrors)",
+        "-",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Tail lamp + Brake lamp + Highmounted stop lamp",
+        "LED",
+        "LED",
+        "LED",
+        "LED",
+        "LED",
+        "LED",
+        "LED"
+      ],
+      [
+        "Rear window wiper & washer",
+        "-",
+        "-",
+        "-",
+        "✓",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "UV Protect Glass",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "✓",
+        "✓"
+      ],
+      [
+        "ORVM Body Coloured",
+        "Black",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Outside door handle – chrome",
+        "-",
+        "-",
+        "-",
+        "✓",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Outside door handle body coloured",
+        "Black",
+        "✓",
+        "✓",
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      [
+        "Back door / Trunk lid garnish",
+        "-",
+        "-",
+        "-",
+        "✓",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Back door Spoiler",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Floating roof effect w A/B/C Pillar black out",
+        "-",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Shark fin type roof antenna",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓"
+      ]
+    ],
+    [
+      [
+        "FEATURES",
+        "E (MT)",
+        "S (MT/AMT)",
+        "S CNG (MT/AMT)",
+        "G (MT/AMT)",
+        "G CNG (MT/AMT)",
+        "V (MT/AMT)",
+        "V(O) (MT/AMT)"
+      ],
+      [
+        "Classy Dual Tone (Dashboard + Seats)",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Interactive TFT Tachometer display - Door ajar warning - Tachometer - Speedometer - Clock & outside temperature - Average fuel economy",
+        "Mono-chrome",
+        "Mono-chrome",
+        "Mono-chrome",
+        "10.67 cm (Colour)",
+        "10.67 cm (Colour)",
+        "10.67 cm (Colour)",
+        "10.67 cm (Colour)"
+      ],
+      [
+        "Seat upholstery type",
+        "Fabric",
+        "Fabric",
+        "Fabric",
+        "Fabric",
+        "Fabric",
+        "Leatherette",
+        "Leatherette"
+      ],
+      [
+        "Urethane / Leather wrapped steering wheel",
+        "Urethane",
+        "Urethane",
+        "Urethane",
+        "Urethane",
+        "Urethane",
+        "Leather",
+        "Leather"
+      ],
+      [
+        "60:40 Split rear seats",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Automatic Shift panel- Piano Black",
+        "-",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓"
+      ]
+    ],
+    [
+      [
+        "FEATURES",
+        "E (MT)",
+        "S (MT/AMT)",
+        "S CNG (MT/AMT)",
+        "G (MT/AMT)",
+        "G CNG (MT/AMT)",
+        "V (MT/AMT)",
+        "V(O) (MT/AMT)"
+      ],
+      [
+        "Remote check & Control (Lock/Unlock, Hazard lights, Headlights, Distance to empty)",
+        "-",
+        "-",
+        "-",
+        "✓",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Smart Watch & Hey Siri Voice Assistance Compatibility",
+        "-",
+        "-",
+        "-",
+        "✓",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Vehicle Safety & security - Auto collision notification, Tow alert, Geo fencing, Find my car & Valet profile",
+        "-",
+        "-",
+        "-",
+        "✓",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Service connect - Vehicle health & Malfunction indicator",
+        "-",
+        "-",
+        "-",
+        "✓",
+        "✓",
+        "✓",
+        "✓"
+      ]
+    ],
+    [
+      [
+        "FEATURES",
+        "E (MT)",
+        "S (MT/AMT)",
+        "S CNG (MT/AMT)",
+        "G (MT/AMT)",
+        "G CNG (MT/AMT)",
+        "V (MT/AMT)",
+        "V(O) (MT/AMT)"
+      ],
+      [
+        "ABS / EBD",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Vehicle Stability Control (ESP)",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Hill hold control",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Automatically door lock by speed",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "High speed alert system* (>80 km/h)",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Immobilizer",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "STANDARD 6 Airbags",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Seat belt pre-tensioners and Force limiter",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "3 pt ELR Seat Belts (All Occupants)",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Rear seats belts type (3 points for Side & Center)",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Seat belt reminder (Driver & Passenger) - Lamp and buzzer",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Seat belt reminder (Rear) - Lamp and buzzer",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "ISOFIX Anchorage",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Emergency Stop Signal",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Adaptive Cruise Control",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "✓"
+      ]
+    ],
+    [
+      [
+        "FEATURES",
+        "E (MT)",
+        "S (MT/AMT)",
+        "S CNG (MT/AMT)",
+        "G (MT/AMT)",
+        "G CNG (MT/AMT)",
+        "V (MT/AMT)",
+        "V(O) (MT/AMT)"
+      ],
+      [
+        "Lane Departure Warning (LDW)",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "✓"
+      ],
+      [
+        "Lane Departure Prevention (LDP)",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "✓"
+      ],
+      [
+        "Lane Keeping Assist (LKA)",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "✓"
+      ],
+      [
+        "High Beam Assist",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "✓"
+      ],
+      [
+        "Autonomous Emergency Brake (AEB)",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "✓"
+      ],
+      [
+        "Steering wheel commands (Lane keeping assist)",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "✓"
+      ],
+      [
+        "Lane Departure Warning (LDW)",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "✓"
+      ]
+    ],
+    [
+      [
+        "FEATURES",
+        "E (MT)",
+        "S (MT/AMT)",
+        "S CNG (MT/AMT)",
+        "G (MT/AMT)",
+        "G CNG (MT/AMT)",
+        "V (MT/AMT)",
+        "V(O) (MT/AMT)"
+      ],
+      [
+        "ORVMs Electric adjust & retract",
+        "-",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓ (Auto)",
+        "✓ (Auto)"
+      ],
+      [
+        "Manual ORVMS",
+        "✓",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      [
+        "Remote keyless entry",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "All power windows",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Front Driver side electric windows (up / down auto)",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Driver side Auto up/Down with Pinch Guard",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Key less push start system",
+        "-",
+        "-",
+        "-",
+        "✓",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Head Up Display (HUD)",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "✓",
+        "✓"
+      ],
+      [
+        "360 Degree camera (Surround view)",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "✓",
+        "✓"
+      ],
+      [
+        "Rear view camera",
+        "-",
+        "-",
+        "-",
+        "✓",
+        "✓",
+        "-",
+        "-"
+      ],
+      [
+        "Rear Parking sensor",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Gear shift indicator",
+        "✓ (MT)",
+        "✓ (MT)",
+        "✓ (MT)",
+        "✓ (MT)",
+        "✓ (MT)",
+        "✓ (MT)",
+        "✓ (MT)"
+      ],
+      [
+        "Day / night rear view mirror",
+        "Manual",
+        "Manual",
+        "Manual",
+        "Manual",
+        "Manual",
+        "Auto",
+        "Auto"
+      ],
+      [
+        "Adjustable Steering (Tilt & Telescopic)",
+        "✓ (Tilt)",
+        "✓ (Tilt)",
+        "✓ (Tilt)",
+        "✓ (Tilt & Telescopic)",
+        "✓ (Tilt & Telescopic)",
+        "✓ (Tilt & Telescopic)",
+        "✓ (Tilt & Telescopic)"
+      ],
+      [
+        "Steering mounted Audio & calling",
+        "-",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Cruise control",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "✓",
+        "✓(ACC)"
+      ],
+      [
+        "Driver seat height adjust",
+        "-",
+        "-",
+        "-",
+        "✓",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Auto Air Conditioner",
+        "-",
+        "-",
+        "-",
+        "✓",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Manual Air Conditioner",
+        "✓ (Digital)",
+        "✓ (Digital)",
+        "✓ (Digital)",
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      [
+        "Rear A/C Vent",
+        "-",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Front center armrest with Slide",
+        "-",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Center console with cupholder",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Seat back pocket (Co-driver)",
+        "-",
+        "-",
+        "-",
+        "✓",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Ventilated Seat",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "✓",
+        "✓"
+      ],
+      [
+        "All seats adjustable headrest (Front+Rear)",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Room lamp (Roof center)",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Spot map lamp (Roof front)",
+        "-",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Luggage room lamp + Glove box light +Front footwell light",
+        "-",
+        "-",
+        "-",
+        "✓",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Interior light turn-on when IG OFF or Key open",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Heater",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Sun visor + Vanity mirror (Driver + Co-driver)",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Vanity mirror Lamp + ticket holder (Driver + Co-driver)",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "✓",
+        "✓"
+      ],
+      [
+        "Rear Defogger",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Accessory socket",
+        "✓ (Front, Rear)",
+        "✓ (Front)",
+        "✓ (Front)",
+        "✓ (Front)",
+        "✓ (Front)",
+        "✓ (Front)",
+        "✓ (Front)"
+      ],
+      [
+        "USB / AUX socket",
+        "-",
+        "✓ (Front)",
+        "✓ (Front)",
+        "✓ (Front)",
+        "✓ (Front)",
+        "✓ (Front)",
+        "✓ (Front)"
+      ],
+      [
+        "Rear Fast Charging USB (Both A&C Type)",
+        "-",
+        "✓ (Rear)",
+        "✓ (Rear)",
+        "✓ (Rear)",
+        "✓ (Rear)",
+        "✓ (Rear)",
+        "✓ (Rear)"
+      ],
+      [
+        "Wireless Charging with Active Cooling",
+        "-",
+        "-",
+        "-",
+        "✓",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Shift knob type",
+        "Material",
+        "Material",
+        "Material",
+        "Material",
+        "Material",
+        "Material",
+        "Material"
+      ],
+      [
+        "Luggage room Shelf",
+        "-",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓",
+        "✓"
+      ],
+      [
+        "Fuel Tank Capacity",
+        "37 L",
+        "37 L",
+        "37 L",
+        "37 L",
+        "37 L",
+        "37 L",
+        "37 L"
+      ]
+    ],
+    [
+      [
+        "Engine",
+        "Petrol",
+        "E-CNG"
+      ],
+      [
+        "Engine Capacity - No. of cylinders",
+        "1,197 cm³ - 3 Cylinders (BS6 Phase2)",
+        "1,197 cm³ - 3 Cylinders (BS6 Phase2)"
+      ],
+      [
+        "Max. power",
+        "61kW @ 5700rpm",
+        "Gas Mode : 61kW @ 5700rpm CNG mode 51.3kW @ 5700rpm"
+      ],
+      [
+        "Torque",
+        "112.4 Nm @ 4500rpm",
+        "Gas Mode : 112.4 Nm @ 4500rpm CNG Mode : 101.8 Nm @ 2900rpm"
+      ],
+      [
+        "Fuel efficiency*",
+        "MT : 23.80 km/L AMT : 24.77 km/L",
+        "MT: 33.61 km/kg AMT: 34.47 km/kg"
+      ],
+      [
+        "Idle start/stop",
+        "All Variants"
+      ],
+      [
+        "Variant Type",
+        "E (MT), S (MT & AMT), G (MT & AMT), V (MT & AMT)",
+        "S (MT & AMT), G (MT & AMT)"
+      ],
+      [
+        "Length X Width X Height",
+        "3,990 mm X 1,745 mm X 1,530 mm"
+      ],
+      [
+        "Wheelbase",
+        "2,520 mm"
+      ],
+      [
+        "Turning radius",
+        "4.85m"
+      ],
+      [
+        "Fuel Tank capacity",
+        "37 L",
+        "CNG 55 L (water equivalent) Petrol 37 L"
+      ],
+      [
+        "Seating Capacity",
+        "5 Seats"
+      ],
+      [
+        "Suspension"
+      ],
+      [
+        "Suspension type",
+        "Front - MacPherson strut"
+      ],
+      [
+        "Rear - Torsion beam"
+      ],
+      [
+        "Brakes"
+      ],
+      [
+        "Brake Type",
+        "Front - Ventilated disc"
+      ],
+      [
+        "Rear - Drum"
+      ],
+      [
+        "Weight"
+      ],
+      [
+        "Kerb weight (kg)",
+        "950-985 (MT), 965-990 (AMT)",
+        "1045-1055 (MT), 1050-1060 (AMT)"
+      ],
+      [
+        "Gross weight (kg)",
+        "1410",
+        "1480"
+      ]
+    ],
+    [
+      [
+        "FEATURES",
+        "E (MT)",
+        "S (MT/AMT)",
+        "S CNG (MT/AMT)",
+        "G (MT/AMT)",
+        "G CNG (MT/AMT)",
+        "V (MT/AMT)",
+        "V(O) (MT/AMT)"
+      ],
+      [
+        "SmartPlay Pro",
+        "-",
+        "17.78 cm Touchscreen",
+        "17.78 cm Touchscreen",
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      [
+        "SmartPlay Pro+",
+        "-",
+        "-",
+        "-",
+        "22.86 cm Touchscreen",
+        "22.86 cm Touchscreen",
+        "22.86 cm Touchscreen",
+        "22.86 cm Touchscreen"
+      ],
+      [
+        "1DIN Pocket + 1DIN Cover",
+        "✓",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      [
+        "Android Auto / Apple CarPlay",
+        "-",
+        "✓ (Wireless)",
+        "✓ (Wireless)",
+        "✓ (Wireless)",
+        "✓ (Wireless)",
+        "✓ (Wireless)",
+        "✓ (Wireless)"
+      ],
+      [
+        "Number of Door Speaker",
+        "-",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4"
+      ],
+      [
+        "Number of Tweeter",
+        "-",
+        "-",
+        "-",
+        "2",
+        "2",
+        "2",
+        "2"
+      ],
+      [
+        "Surround Sense Powered by ARKAMYS",
+        "-",
+        "-",
+        "-",
+        "✓",
+        "✓",
+        "-",
+        "-"
+      ],
+      [
+        "Premium Sound System by Clarion",
+        "-",
+        "-",
+        "-",
+        "-",
+        "-",
+        "✓",
+        "✓"
+      ],
+      [
+        "Onboard Voice Assistant - Hi Toyota",
+        "-",
+        "-",
+        "-",
+        "✓",
+        "✓",
+        "✓",
+        "✓"
+      ]
+    ]
+  ],
+  "variants": [
+    {
+      "code": "D24ZW",
+      "name": "Glanza E MT",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 699000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "D24ZV",
+      "name": "Glanza S MT",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 771000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "D24ZU",
+      "name": "Glanza S AMT",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 831000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "D24ZT",
+      "name": "Glanza G MT",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 873000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "D24Z7",
+      "name": "Glanza S MT CNG",
+      "fuel": "CNG",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 876000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "D24Z8",
+      "name": "Glanza S AMT CNG",
+      "fuel": "CNG",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 931000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "D24ZS",
+      "name": "Glanza G AMT",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 933000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "D24Z5",
+      "name": "Glanza G MT CNG",
+      "fuel": "CNG",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 968000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "D24ZR",
+      "name": "Glanza V MT",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 999000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "D24Z6",
+      "name": "Glanza G AMT CNG",
+      "fuel": "CNG",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 1023000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "D24ZP",
+      "name": "Glanza V(O) MT",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 1049000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "D24ZQ",
+      "name": "Glanza V AMT",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 1059000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "D24ZO",
+      "name": "Glanza V(O)  AMT",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 1098000
+      },
+      "specifications": {},
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}

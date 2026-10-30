@@ -55,6 +55,8 @@ for m in index:
             f"{spec(v, 'Max Power', 'Max. Power', 'Max power')} | {spec(v, 'Fuel Efficiency', 'Fuel-Efficiency', 'Range', 'Driving Range', 'Driving range')} | {v.get('airbags') or '—'} | {lakh(base)} | {lakh(p.get('dual_tone'))} |"
         )
     lines += ["", "Colours: " + ", ".join(c["name"] for c in d["colours"])]
+    for t in d.get("official_tables") or []:
+        lines += ["", "| " + " | ".join(t[0]) + " |", "|" + "---|" * len(t[0])] + ["| " + " | ".join(r + [""] * (len(t[0]) - len(r))) + " |" for r in t[1:]]
     if d.get("brochure_specs"):
         lines += ["", "Brochure specs:"] + [f"- {x}" for x in d["brochure_specs"]]
     lines += [f"\n> Note: {n}" for n in d.get("notes") or []]

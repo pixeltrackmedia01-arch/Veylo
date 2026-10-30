@@ -1,0 +1,300 @@
+{
+  "brand": "Toyota",
+  "model": "Innova Hycross",
+  "slug": "innova-hycross",
+  "official_page": "https://www.toyotabharat.com/showroom/innova/",
+  "brochure_pdf": "https://www.toyotabharat.com/documents/brochures/innova-hycross/view-brochure/index.html",
+  "price_city": "Surat, Gujarat (dealer: Munjani Toyota; effective 25th Nov 2022)",
+  "ex_showroom_min": 1870000,
+  "ex_showroom_max": 3295000,
+  "fuel_types": [
+    "Petrol",
+    "Strong Hybrid"
+  ],
+  "transmissions": [
+    "Automatic"
+  ],
+  "colours": [],
+  "official_tables": [],
+  "variants": [
+    {
+      "code": "INND3",
+      "name": "Innova Hycross Innova Hycross G-FLT [7S]",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 1870000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "INND4",
+      "name": "Innova Hycross Innova Hycross G-FLT [8S]",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 1875000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "INND3",
+      "name": "Innova Hycross Innova Hycross G-FLT [7S][Platinum White Pearl]",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 1885000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "INND4",
+      "name": "Innova Hycross Innova Hycross G-FLT [8S][Platinum White Pearl]",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 1890000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "INNYI",
+      "name": "Innova Hycross Innova Hycross GX [7S]",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 1953000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "INNYJ",
+      "name": "Innova Hycross Innova Hycross GX [8S]",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 1958000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "INNYI",
+      "name": "Innova Hycross Innova Hycross GX [7S][Platinum White Pearl]",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 1968000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "INNYJ",
+      "name": "Innova Hycross Innova Hycross GX [8S][Platinum White Pearl]",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 1973000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "INNYL",
+      "name": "Innova Hycross Innova Hycross GX(O) [8S]",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 2084000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "INNYK",
+      "name": "Innova Hycross Innova Hycross GX(O) [7S]",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 2097000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "INNYL",
+      "name": "Innova Hycross Innova Hycross GX(O) [8S][Platinum White Pearl]",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 2099000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "INNYK",
+      "name": "Innova Hycross Innova Hycross GX(O) [7S][Platinum White Pearl]",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 2112000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "INNYE",
+      "name": "Innova Hycross Innova Hycross Hybrid VX [7S]",
+      "fuel": "Strong Hybrid",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 2676000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "INNYF",
+      "name": "Innova Hycross Innova Hycross Hybrid VX [8S]",
+      "fuel": "Strong Hybrid",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 2681000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "INNYE",
+      "name": "Innova Hycross Innova Hycross Hybrid VX [7S][Platinum White Pearl]",
+      "fuel": "Strong Hybrid",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 2691000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "INNYF",
+      "name": "Innova Hycross Innova Hycross Hybrid VX [8S][Platinum White Pearl]",
+      "fuel": "Strong Hybrid",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 2696000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "INNYC",
+      "name": "Innova Hycross Innova Hycross Hybrid VX(O) [7S]",
+      "fuel": "Strong Hybrid",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 2877000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "INNYD",
+      "name": "Innova Hycross Innova Hycross Hybrid VX(O) [8S]",
+      "fuel": "Strong Hybrid",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 2882000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "INNYC",
+      "name": "Innova Hycross Innova Hycross Hybrid VX(O) [7S][Platinum White Pearl]",
+      "fuel": "Strong Hybrid",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 2892000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "INNYD",
+      "name": "Innova Hycross Innova Hycross Hybrid VX(O) [8S][Platinum White Pearl]",
+      "fuel": "Strong Hybrid",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 2897000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "INNYB",
+      "name": "Innova Hycross Innova Hycross Hybrid ZX",
+      "fuel": "Strong Hybrid",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 3120000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "INNYB",
+      "name": "Innova Hycross Innova Hycross Hybrid ZX[Platinum White Pearl]",
+      "fuel": "Strong Hybrid",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 3135000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "INNYA",
+      "name": "Innova Hycross Innova Hycross Hybrid ZX(O)",
+      "fuel": "Strong Hybrid",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 3184000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "INNYA",
+      "name": "Innova Hycross Innova Hycross Hybrid ZX(O)[Platinum White Pearl]",
+      "fuel": "Strong Hybrid",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 3199000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "INNHZ",
+      "name": "Innova Hycross Innova Hycross Hybrid ZX(O) [LE]",
+      "fuel": "Strong Hybrid",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 3295000
+      },
+      "specifications": {},
+      "features": {}
+    }
+  ],
+  "notes": [
+    "The model page publishes no feature/spec tables in HTML (brochure is an image flipbook)."
+  ],
+  "fetched_on": "2026-10-30"
+}

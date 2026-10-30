@@ -1,0 +1,392 @@
+{
+  "brand": "Toyota",
+  "model": "Legender",
+  "slug": "fortuner-legender",
+  "official_page": "https://www.toyotabharat.com/showroom/fortuner/index-legender.html",
+  "brochure_pdf": "https://www.toyotabharat.com/documents/brochures/fortuner-mmc/legender-brochure-mobile.pdf",
+  "price_city": "Surat, Gujarat (dealer: Munjani Toyota; effective 6th Jan 2021)",
+  "ex_showroom_min": 4335000,
+  "ex_showroom_max": 4877000,
+  "fuel_types": [
+    "Diesel"
+  ],
+  "transmissions": [
+    "Automatic",
+    "Manual"
+  ],
+  "colours": [],
+  "official_tables": [
+    [
+      [
+        "Legender",
+        "4x4 MT",
+        "4x2, 4x4 AT"
+      ],
+      [
+        "Overall (L X W X H)",
+        "479.5 cm X 185.5 cm X 183.5 cm"
+      ],
+      [
+        "Wheelbase",
+        "274.5 cm"
+      ],
+      [
+        "Min. Turning Radius",
+        "580 cm"
+      ],
+      [
+        "Fuel Tank Capacity",
+        "80 𝓁 (0.080m3)"
+      ],
+      [
+        "Seating Capacity",
+        "7N Seater"
+      ],
+      [
+        "Gross Vehicle Weight",
+        "2735 kg [4WD]",
+        "2610 kg [2WD], 2735 kg [4WD]"
+      ]
+    ],
+    [
+      [
+        "Legender",
+        "4x4 MT",
+        "4x2, 4x4 AT"
+      ],
+      [
+        "Fuel Type",
+        "Diesel^"
+      ],
+      [
+        "Displacement",
+        "2755 cm3 [cc]"
+      ],
+      [
+        "Valve Train",
+        "Double Overhead Camshaft [DOHC], 16-Valve"
+      ],
+      [
+        "Charging System",
+        "Variable Nozzle Turbocharger with Intercooler"
+      ],
+      [
+        "Cylinder Nos. Layout",
+        "4-Cylinder, In-Line"
+      ],
+      [
+        "Max. Output",
+        "150 kW [204 PS] (MT) @ 57 s -1",
+        "150 kW [204 PS] (AT) @ 50 - 57 s -1"
+      ],
+      [
+        "Max. Torque",
+        "420 Nm (MT) @ 23-57 s-1",
+        "500 Nm (AT) @ 27-47 s-1"
+      ]
+    ],
+    [
+      [
+        "Legender",
+        "4x4 MT",
+        "4x2, 4x4 AT"
+      ],
+      [
+        "Front Suspension",
+        "Double Wishbone"
+      ],
+      [
+        "Rear Suspension",
+        "4-Link With Coil Spring"
+      ],
+      [
+        "Brake Front & Rear",
+        "Ventilated Discs"
+      ],
+      [
+        "Tyre",
+        "265/60 R18 (45.72cm) 4WD"
+      ],
+      [
+        "Stabilizer",
+        "Front & Rear"
+      ],
+      [
+        "Pitch & Bounce Control"
+      ],
+      [
+        "Transmission",
+        "Transmission 6MT with iMT",
+        "6AT [Sequential Shift + Paddle Shift + Shiftlock]"
+      ],
+      [
+        "Drive Type",
+        "4WD",
+        "2WD/4WD"
+      ],
+      [
+        "Auto-Limited Slip Differential"
+      ]
+    ],
+    [
+      [
+        "VSC [Vehicle Stability Control] with BA [Brake Assist]"
+      ],
+      [
+        "HAC [Hill Assist Control]"
+      ],
+      [
+        "TRC [Traction Control System]"
+      ],
+      [
+        "7 (Units) SRS Airbags**"
+      ],
+      [
+        "Seat Belt Reminder (2nd & 3rd Row Seats)"
+      ],
+      [
+        "Anti Theft Alarm with Ultrasonic Sensor and Glass Break Sensor"
+      ],
+      [
+        "Front Seats: WIL Concept Seats [Whiplash Injury Lessening]"
+      ],
+      [
+        "Child Restraint System: ISOFIX + Tether Anchor on 2nd Row"
+      ],
+      [
+        "Front Row Seatbelts with Pre-Tensioner + Force Limiter"
+      ],
+      [
+        "ABS with EBD"
+      ],
+      [
+        "Speed Auto Lock with Emergency Unlock"
+      ],
+      [
+        "Impact Absorbing Structure with Pedestrian Protection Support"
+      ],
+      [
+        "Emergency Brake Signal"
+      ]
+    ],
+    [
+      [
+        "Split Quad LED Headlamps with Waterfall LED Line Guide Signature"
+      ],
+      [
+        "New Design Split LED Rear Combination Lamps"
+      ],
+      [
+        "Sequential Turn Indicators [Fr & Rr.]"
+      ],
+      [
+        "Catamaran Style Front and Rear Bumper"
+      ],
+      [
+        "Sleek and Cool Design Theme Grille with Piano Black Highlights"
+      ],
+      [
+        "Dual Tone Black Roof"
+      ],
+      [
+        "SMART Entry and Push Start/Stop"
+      ],
+      [
+        "Illuminated Entry System - Puddle Lamps Under Outside Mirror"
+      ],
+      [
+        "Chrome Plated Door Handles and Window Beltline"
+      ],
+      [
+        "Multi Layer Machine Cut Finish Alloy Wheels"
+      ],
+      [
+        "LED Front Fog Lamp"
+      ],
+      [
+        "Rear Fog Lamp"
+      ],
+      [
+        "Fully Automatic Power Back Door with Height Adjust Memory and Jam Protection"
+      ],
+      [
+        "Electrically Adjustable, Retractable Side Mirrors with Side Turn Indicators"
+      ],
+      [
+        "Aero-Stabilising Fins on ORVM Base and Rear Combination Lamps"
+      ]
+    ],
+    [
+      [
+        "Leather Seats* with Perforation"
+      ],
+      [
+        "Ventilated Front Seats"
+      ],
+      [
+        "Dual Tone (Black & Maroon) Upholstery"
+      ],
+      [
+        "Cabin Wrapped in Soft Upholstery, Metallic Accents and Galaxy Black Patterned Ornamentation"
+      ],
+      [
+        "Interior Ambient Illumination [Instrument Center Garnish Area, Front Door Trims, Footwell Area]"
+      ],
+      [
+        "Heat Rejection Glass"
+      ],
+      [
+        "Cruise Control"
+      ],
+      [
+        "Contrast Maroon Stitch Across Interior"
+      ],
+      [
+        "Large TFT Multi-Information Display"
+      ],
+      [
+        "New Optitron Black Dial Combimeter with Illumination Control and White Illumination Bar"
+      ],
+      [
+        "Audio, MID, Tel, Voice Recognition Switches on Steering Wheel"
+      ],
+      [
+        "Tilt & Telescopic Steering Column"
+      ],
+      [
+        "Dual Zone Automatic Climate Control [Dual A/C]"
+      ],
+      [
+        "Electrochromic Inside Rear View Mirror"
+      ],
+      [
+        "8.0 DA Touch Screen Audio with Capacitive Switches [BT, USB, Android Auto / Apple CarPlay]"
+      ],
+      [
+        "Premium JBL Speakers (11N Speakers Including Subwoofer & Amplifier) - 4WD only"
+      ],
+      [
+        "Rear USB Port"
+      ],
+      [
+        "Wireless Smartphone Charger***"
+      ],
+      [
+        "Centre Console Box with Soft Armrest"
+      ],
+      [
+        "Power Windows: All Windows Auto Up/Down with Jam Protection and Electronic Internal Rear View Mirror"
+      ],
+      [
+        "Cooled Upper Glovebox"
+      ],
+      [
+        "Power Back Door Access on SMART Key, Back Door and Driver Control"
+      ],
+      [
+        "Kick Sensor for Back Door Opening***"
+      ],
+      [
+        "Driving Modes: ECO / NORMAL / SPORT Mode"
+      ],
+      [
+        "Power Adjust Driver and Front Passenger Seats"
+      ],
+      [
+        "2nd Row: 60:40 Split Fold, Slide, Recline and One-Touch Tumble"
+      ],
+      [
+        "3rd Row: One-Touch Easy Space-Up with Recline"
+      ],
+      [
+        "Park Assist: Back Monitor, Front and Rear Sensors with MID Indication"
+      ],
+      [
+        "Power Steering with VFC (Variable Flow Control)"
+      ]
+    ],
+    [
+      [
+        "Tough Frame with Exceptional Torsional and Bending Rigidity"
+      ],
+      [
+        "High [H4] and Low [L4] Range - 4WD Variant"
+      ],
+      [
+        "DAC [Downhill Assist Control] - 4WD Variant"
+      ],
+      [
+        "A-TRC [Active Traction Control]"
+      ],
+      [
+        "Electronic Drive [2WD/4WD] Control - 4WD Variant"
+      ],
+      [
+        "Approach/Departure Angle: 0.51 rad/0.44 rad"
+      ],
+      [
+        "Lockable Differential - 4WD Variant"
+      ]
+    ],
+    [
+      [
+        "Emergency Call - SOS, Auto Collision Notification"
+      ],
+      [
+        "Vehicle Security - Tow Alert"
+      ],
+      [
+        "Remote Check - Odometer, Distance to Empty, Hazard & Head Lamps"
+      ],
+      [
+        "Vehicle Health e-Care - Warning Malfunction indicator, Vehicle Health Report"
+      ],
+      [
+        "Smart Watch Connect, Siri Voice Assistant (iOS)"
+      ],
+      [
+        "Real Time Service Booking Appointment"
+      ],
+      [
+        "20+Additional Features"
+      ]
+    ]
+  ],
+  "variants": [
+    {
+      "code": "FRN1L",
+      "name": "Legender (2.8L) 4x2 AT",
+      "fuel": "Diesel",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 4335000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "FRN2L",
+      "name": "Legender (2.8L) 4x4 MT",
+      "fuel": "Diesel",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 4553000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "FRN4L",
+      "name": "Legender 4X4 AT Neo Drive 48V",
+      "fuel": "Diesel",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 4877000
+      },
+      "specifications": {},
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}

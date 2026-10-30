@@ -1,0 +1,114 @@
+{
+  "brand": "Toyota",
+  "model": "Rumion",
+  "slug": "rumion",
+  "official_page": "https://www.toyotabharat.com/showroom/rumion/",
+  "brochure_pdf": null,
+  "price_city": "Surat, Gujarat (dealer: Munjani Toyota; effective 10th Aug 2023)",
+  "ex_showroom_min": 979000,
+  "ex_showroom_max": 1421000,
+  "fuel_types": [
+    "CNG",
+    "Petrol"
+  ],
+  "transmissions": [
+    "Automatic",
+    "Manual"
+  ],
+  "colours": [],
+  "official_tables": [],
+  "variants": [
+    {
+      "code": "A15MG",
+      "name": "Rumion E MT NEODRIVE",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 979000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "A15MF",
+      "name": "Rumion S MT NEO DRIVE",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 1077000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "A15M1",
+      "name": "Rumion S MT CNG",
+      "fuel": "CNG",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 1169000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "A15MD",
+      "name": "Rumion G MT NEO DRIVE",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 1193000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "A15ME",
+      "name": "Rumion S AT NEO DRIVE",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 1235000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "A15MB",
+      "name": "Rumion V MT NEO DRIVE",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 1270000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "A15MC",
+      "name": "Rumion G AT NEODRIVE",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 1344000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "A15MA",
+      "name": "Rumion V AT NEO DRIVE",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 1421000
+      },
+      "specifications": {},
+      "features": {}
+    }
+  ],
+  "notes": [
+    "The model page publishes no feature/spec tables in HTML (brochure is an image flipbook)."
+  ],
+  "fetched_on": "2026-10-30"
+}

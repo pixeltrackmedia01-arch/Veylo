@@ -1,0 +1,224 @@
+[
+  {
+    "model": "Glanza",
+    "slug": "glanza",
+    "channel": "Hatchback",
+    "variants": 13,
+    "colours": 0,
+    "ex_showroom_min": 699000,
+    "ex_showroom_max": 1098000,
+    "fuel_types": [
+      "CNG",
+      "Petrol"
+    ],
+    "transmissions": [
+      "Automatic",
+      "Manual"
+    ],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Urban Cruiser Taisor",
+    "slug": "urban-cruiser-taisor",
+    "channel": "Compact SUV",
+    "variants": 16,
+    "colours": 0,
+    "ex_showroom_min": 743000,
+    "ex_showroom_max": 1294000,
+    "fuel_types": [
+      "CNG",
+      "Petrol"
+    ],
+    "transmissions": [
+      "Automatic",
+      "Manual"
+    ],
+    "brochure_pdf": "https://www.toyotabharat.com/documents/brochures/urban-cruiser-taisor/e-brochure-uc-taisor.pdf"
+  },
+  {
+    "model": "Rumion",
+    "slug": "rumion",
+    "channel": "MUV",
+    "variants": 8,
+    "colours": 0,
+    "ex_showroom_min": 979000,
+    "ex_showroom_max": 1421000,
+    "fuel_types": [
+      "CNG",
+      "Petrol"
+    ],
+    "transmissions": [
+      "Automatic",
+      "Manual"
+    ],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Urban Cruiser Hyryder",
+    "slug": "urban-cruiser-hyryder",
+    "channel": "SUV",
+    "variants": 27,
+    "colours": 0,
+    "ex_showroom_min": 1282000,
+    "ex_showroom_max": 2019000,
+    "fuel_types": [
+      "CNG",
+      "Petrol",
+      "Strong Hybrid"
+    ],
+    "transmissions": [
+      "Automatic",
+      "Automatic (e-Drive)",
+      "Manual"
+    ],
+    "brochure_pdf": "https://www.toyotabharat.com/documents/brochures/urbancruiser-hyryder/view-brochure/index.html"
+  },
+  {
+    "model": "Urban Cruiser Ebella",
+    "slug": "urban-cruiser-ebella",
+    "channel": "Electric SUV",
+    "variants": 5,
+    "colours": 0,
+    "ex_showroom_min": 2360000,
+    "ex_showroom_max": 2380000,
+    "fuel_types": [
+      "Electric"
+    ],
+    "transmissions": [
+      "Automatic"
+    ],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Innova Crysta",
+    "slug": "innova-crysta",
+    "channel": "MUV",
+    "variants": 18,
+    "colours": 0,
+    "ex_showroom_min": 1995000,
+    "ex_showroom_max": 2710000,
+    "fuel_types": [
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual"
+    ],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Innova Hycross",
+    "slug": "innova-hycross",
+    "channel": "MUV",
+    "variants": 25,
+    "colours": 0,
+    "ex_showroom_min": 1870000,
+    "ex_showroom_max": 3295000,
+    "fuel_types": [
+      "Petrol",
+      "Strong Hybrid"
+    ],
+    "transmissions": [
+      "Automatic"
+    ],
+    "brochure_pdf": "https://www.toyotabharat.com/documents/brochures/innova-hycross/view-brochure/index.html"
+  },
+  {
+    "model": "Fortuner",
+    "slug": "fortuner",
+    "channel": "SUV",
+    "variants": 11,
+    "colours": 0,
+    "ex_showroom_min": 3511000,
+    "ex_showroom_max": 5097000,
+    "fuel_types": [
+      "Diesel",
+      "Petrol"
+    ],
+    "transmissions": [
+      "Automatic",
+      "Manual"
+    ],
+    "brochure_pdf": "https://www.toyotabharat.com/documents/brochures/fortuner-mmc/gr_mobile-brochure_360x640pix.pdf"
+  },
+  {
+    "model": "Legender",
+    "slug": "fortuner-legender",
+    "channel": "SUV",
+    "variants": 3,
+    "colours": 0,
+    "ex_showroom_min": 4335000,
+    "ex_showroom_max": 4877000,
+    "fuel_types": [
+      "Diesel"
+    ],
+    "transmissions": [
+      "Automatic",
+      "Manual"
+    ],
+    "brochure_pdf": "https://www.toyotabharat.com/documents/brochures/fortuner-mmc/legender-brochure-mobile.pdf"
+  },
+  {
+    "model": "Camry",
+    "slug": "camry",
+    "channel": "Sedan",
+    "variants": 4,
+    "colours": 0,
+    "ex_showroom_min": 4869000,
+    "ex_showroom_max": 4889000,
+    "fuel_types": [
+      "Strong Hybrid"
+    ],
+    "transmissions": [
+      "Automatic"
+    ],
+    "brochure_pdf": "https://www.toyotabharat.com/documents/brochures/camry/view-brochure/index.html"
+  },
+  {
+    "model": "Vellfire",
+    "slug": "vellfire",
+    "channel": "MPV",
+    "variants": 4,
+    "colours": 0,
+    "ex_showroom_min": 11999000,
+    "ex_showroom_max": 12999000,
+    "fuel_types": [
+      "Strong Hybrid"
+    ],
+    "transmissions": [
+      "Automatic"
+    ],
+    "brochure_pdf": "https://www.toyotabharat.com/documents/brochures/vellfire/view-brochure/index.html"
+  },
+  {
+    "model": "Land Cruiser 300",
+    "slug": "land-cruiser-300",
+    "channel": "SUV",
+    "variants": 4,
+    "colours": 0,
+    "ex_showroom_min": 21775000,
+    "ex_showroom_max": 22493300,
+    "fuel_types": [
+      "Diesel"
+    ],
+    "transmissions": [
+      "Automatic"
+    ],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Hilux",
+    "slug": "hilux",
+    "channel": "Pickup",
+    "variants": 6,
+    "colours": 0,
+    "ex_showroom_min": 3199000,
+    "ex_showroom_max": 3689000,
+    "fuel_types": [
+      "Diesel"
+    ],
+    "transmissions": [
+      "Automatic"
+    ],
+    "brochure_pdf": null
+  }
+]

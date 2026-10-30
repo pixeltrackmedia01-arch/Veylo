@@ -1,0 +1,68 @@
+{
+  "brand": "Toyota",
+  "model": "Land Cruiser 300",
+  "slug": "land-cruiser-300",
+  "official_page": "https://www.toyotabharat.com/showroom/lc300/",
+  "brochure_pdf": null,
+  "price_city": "Surat, Gujarat (dealer: Munjani Toyota; effective 16th Jan 2024)",
+  "ex_showroom_min": 21775000,
+  "ex_showroom_max": 22493300,
+  "fuel_types": [
+    "Diesel"
+  ],
+  "transmissions": [
+    "Automatic"
+  ],
+  "colours": [],
+  "official_tables": [],
+  "variants": [
+    {
+      "code": "LCRLY",
+      "name": "Land Cruiser 300 ZX (Int. Color - Black)",
+      "fuel": "Diesel",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 21775000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "LCRLZ",
+      "name": "Land Cruiser 300 ZX (Int. Color - Brown)",
+      "fuel": "Diesel",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 21775000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "LCRLW",
+      "name": "Land Cruiser 300 GR-S (Int. Color - Black and Dark Red)",
+      "fuel": "Diesel",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 22493300
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "LCRLX",
+      "name": "Land Cruiser 300 GR-S (Int. Color - Black)",
+      "fuel": "Diesel",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 22493300
+      },
+      "specifications": {},
+      "features": {}
+    }
+  ],
+  "notes": [
+    "The model page publishes no feature/spec tables in HTML (brochure is an image flipbook)."
+  ],
+  "fetched_on": "2026-10-30"
+}

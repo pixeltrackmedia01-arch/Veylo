@@ -1,0 +1,508 @@
+{
+  "brand": "Toyota",
+  "model": "Fortuner",
+  "slug": "fortuner",
+  "official_page": "https://www.toyotabharat.com/showroom/fortuner/index-fortuner.html",
+  "brochure_pdf": "https://www.toyotabharat.com/documents/brochures/fortuner-mmc/gr_mobile-brochure_360x640pix.pdf",
+  "price_city": "Surat, Gujarat (dealer: Munjani Toyota; effective 12th Sep 2017)",
+  "ex_showroom_min": 3511000,
+  "ex_showroom_max": 5097000,
+  "fuel_types": [
+    "Diesel",
+    "Petrol"
+  ],
+  "transmissions": [
+    "Automatic",
+    "Manual"
+  ],
+  "colours": [],
+  "official_tables": [
+    [
+      [
+        "Fuel Type",
+        "DIESEL",
+        "PETROL"
+      ],
+      [
+        "Overall (L X W X H)",
+        "479.5 cm X 185.5 cm X 183.5 cm"
+      ],
+      [
+        "Wheelbase",
+        "274.5 cm"
+      ],
+      [
+        "Min. Turning Radius",
+        "580 cm"
+      ],
+      [
+        "Fuel Tank Capacity",
+        "80ℓ (0.080m3)"
+      ],
+      [
+        "Seating Capacity",
+        "7N Seater"
+      ],
+      [
+        "Gross Vehicle Weight",
+        "2610 kg (2WD), 2735 kg (4WD)",
+        "2510 kg (2WD)"
+      ]
+    ],
+    [
+      [
+        "Fuel Type",
+        "DIESEL",
+        "PETROL"
+      ],
+      [
+        "Displacement",
+        "2755 cm3 (cc)",
+        "2694 cm3 (cc)"
+      ],
+      [
+        "Valve Train",
+        "Double Overhead Camshaft [DOHC], 16-Valve",
+        "Double Overhead Camshaft (DOHC), Dual VVT-i 16-Valve"
+      ],
+      [
+        "Charging System",
+        "Variable Nozzle Turbocharger with Intercooler",
+        "-"
+      ],
+      [
+        "Cylinder Nos. Layout",
+        "4-Cylinder, In-Line"
+      ],
+      [
+        "Max. Output",
+        "150 kW (204 PS) (MT) @ 57 s-1",
+        "122 kW (166 PS) @ 87 s-1"
+      ],
+      [
+        "150 kW (204 PS) (AT) @ 50 -57 s-1"
+      ],
+      [
+        "Max. Torque",
+        "420 Nm (MT) @ 23 - 57 s-1",
+        "245 Nm @ 67 s-1"
+      ],
+      [
+        "500 Nm (AT) @ 27 - 47 s-1"
+      ],
+      [
+        "Front Suspension",
+        "Double Wishbone"
+      ],
+      [
+        "Rear Suspension",
+        "4-Link With Coil Spring"
+      ],
+      [
+        "Brake Front & Rear",
+        "Ventilated Discs"
+      ],
+      [
+        "Tyre",
+        "265/65 R17 (43.18 cm) [2WD], 265/60 R18 (45.72 cm) [4WD]",
+        "265/65 R17 (43.18 cm)"
+      ],
+      [
+        "Stabilizer",
+        "Front & Rear"
+      ],
+      [
+        "Pitch & Bounce Control",
+        "-"
+      ],
+      [
+        "Transmission",
+        "Transmission 6MT with iMT (Intelligent Manual Transmission)",
+        "5MT"
+      ],
+      [
+        "6AT [Sequential Shift + Paddle Shift + Shiftlock]"
+      ],
+      [
+        "Automatic Idling Stop/Start Function (AT)",
+        "-"
+      ],
+      [
+        "Drive Type",
+        "2WD/4WD",
+        "2WD"
+      ],
+      [
+        "Auto-Limited Slip Differential"
+      ]
+    ],
+    [
+      [
+        "Fuel Type",
+        "DIESEL",
+        "PETROL"
+      ],
+      [
+        "VSC (Vehicle Stability Control) with BA (Brake Assist)"
+      ],
+      [
+        "HAC (Hill Assist Control)"
+      ],
+      [
+        "TRC (Traction Control System)"
+      ],
+      [
+        "7 (Units) SRS Airbags**"
+      ],
+      [
+        "Anti Theft Alarm with Ultrasonic Sensor and Glass Break Sensor"
+      ],
+      [
+        "Front Seats: WIL Concept Seats [Whiplash Injury Lessening]"
+      ],
+      [
+        "Child Restraint System: ISOFIX + Tether Anchor on 2nd Row"
+      ],
+      [
+        "Front Row Seatbelts with Pre-Tensioner + Force Limiter"
+      ],
+      [
+        "ABS with EBD"
+      ],
+      [
+        "Speed Auto Lock with Emergency Unlock"
+      ],
+      [
+        "Impact Absorbing Structure with Pedestrian Protection Support"
+      ],
+      [
+        "Emergency Brake Signal"
+      ]
+    ],
+    [
+      [
+        "Fuel Type",
+        "DIESEL",
+        "PETROL"
+      ],
+      [
+        "Dusk Sensing LED Headlamps with LED Line-Guide"
+      ],
+      [
+        "New Design Split LED Rear Combination Lamps"
+      ],
+      [
+        "New Design Front DRL with Integrated Turn Indicators"
+      ],
+      [
+        "New Design Front Bumper with Skid Plate"
+      ],
+      [
+        "Bold New Trapezoid Shaped Grille with Chrome Highlights"
+      ],
+      [
+        "SMART Entry and Push Start/Stop"
+      ],
+      [
+        "Illuminated Entry System - Puddle Lamps Under Outside Mirror"
+      ],
+      [
+        "Chrome Plated Door Handles and Window Beltline"
+      ],
+      [
+        "",
+        "New Design Super Chrome Alloy Wheels (4WD) Machine Finish Alloy Wheels (2WD)",
+        "Machine Finish Alloy Wheels"
+      ],
+      [
+        "LED Front Fog Lamp"
+      ],
+      [
+        "Rear Fog Lamp"
+      ],
+      [
+        "Fully Automatic Power Back Door with Height Adjust Memory and Jam Protection"
+      ],
+      [
+        "Electrically Adjustable, Retractable Side Mirrors with Side Turn Indicators"
+      ],
+      [
+        "Aero-Stabilising Fins on ORVM Base and Rear Combination Lamps"
+      ]
+    ],
+    [
+      [
+        "Fuel Type",
+        "DIESEL",
+        "PETROL"
+      ],
+      [
+        "Leather Seats* with Perforation"
+      ],
+      [
+        "Ventilated Front Seats"
+      ],
+      [
+        "Two Seat Colour Options [Chamois and Black]#"
+      ],
+      [
+        "Cabin Wrapped in Soft Upholstery, Metallic Accents and Woodgrain-Patterned Ornamentation"
+      ],
+      [
+        "Heat Rejection Glass"
+      ],
+      [
+        "Cruise Control"
+      ],
+      [
+        "Large TFT Multi-Information Display"
+      ],
+      [
+        "New Optitron Cool-Blue Combimeter with Chrome Accents and Illumination Control"
+      ],
+      [
+        "Audio, MID, Tel, Voice Recognition Switches on Steering Wheel"
+      ],
+      [
+        "Tilt & Telescopic Steering Column"
+      ],
+      [
+        "Automatic Climate Control (Dual A/C) with Auto Rear Cooler"
+      ],
+      [
+        "Electrochromic Inside Rear View Mirror"
+      ],
+      [
+        "8.0 DA Touch Screen Audio with Capacitive Switches (BT, USB, Android Auto / Apple CarPlay)"
+      ],
+      [
+        "",
+        "Premium JBL Speakers (11N Speakers Including Subwoofer & Amplifier) - 4WD only",
+        "6N Speakers"
+      ],
+      [
+        "Connected Car Technology (Geo-Fencing, Realtime Vehicle tracking, Walk to car & many more)"
+      ],
+      [
+        "Centre Console Box with Soft Armrest"
+      ],
+      [
+        "Power Windows: All Windows Auto Up/Down with Jam Protection"
+      ],
+      [
+        "Cooled Upper Glovebox"
+      ],
+      [
+        "Power Back Door Access on SMART Key, Back Door and Driver Control"
+      ],
+      [
+        "",
+        "Driving Modes: ECO / NORMAL / SPORT Mode",
+        "Driving Modes: ECO / PWR Modes"
+      ],
+      [
+        "Power Adjust Driver and Front Passenger Seats"
+      ],
+      [
+        "2nd Row: 60:40 Split Fold, Slide, Recline & One-Touch Tumble"
+      ],
+      [
+        "3rd Row: One-Touch Easy Space-Up with Recline"
+      ],
+      [
+        "Park Assist: Back Monitor, Front and Rear Sensors with MID Indication"
+      ],
+      [
+        "",
+        "Power Steering with VFC (Variable Flow Control)",
+        "-"
+      ]
+    ],
+    [
+      [
+        "Fuel Type",
+        "DIESEL",
+        "PETROL"
+      ],
+      [
+        "Tough Frame with Exceptional Torsional and Bending Rigidity"
+      ],
+      [
+        "",
+        "High (H4) and Low (L4) Range - 4WD Variants",
+        "-"
+      ],
+      [
+        "",
+        "DAC (Downhill Assist Control) - 4WD Variants",
+        "-"
+      ],
+      [
+        "A-TRC (Active Traction Control)"
+      ],
+      [
+        "",
+        "Electronic Drive (2WD/4WD) Control - 4WD Variants",
+        "-"
+      ],
+      [
+        "Approach/Departure Angle: 0.51 rad/0.44 rad"
+      ],
+      [
+        "",
+        "Lockable Differential - 4WD Variants",
+        "-"
+      ]
+    ],
+    [
+      [
+        "Fuel Type",
+        "DIESEL",
+        "PETROL"
+      ],
+      [
+        "Emergency Call - SOS, Auto Collision Notification"
+      ],
+      [
+        "Vehicle Security - Tow Alert"
+      ],
+      [
+        "Vehicle Health e-Care- Warning Malfunction indicator, Vehicle Health Report"
+      ],
+      [
+        "Smart Watch Connect, Siri Voice Assistant (iOS)"
+      ],
+      [
+        "Real Time Service Booking Appointment"
+      ],
+      [
+        "20+ Additional Features"
+      ]
+    ]
+  ],
+  "variants": [
+    {
+      "code": "FRNP6",
+      "name": "Fortuner (2.7L) 4x2 AT",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 3511000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "FRNP6",
+      "name": "Fortuner (2.7L) 4x2 AT[Platinum White Pearl]",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 3531000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "FRNBJ",
+      "name": "Fortuner (2.8L) 4x2 MT",
+      "fuel": "Diesel",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 3575000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "FRNBJ",
+      "name": "Fortuner (2.8L) 4x2 MT[Platinum White Pearl]",
+      "fuel": "Diesel",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 3595000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "FRNBK",
+      "name": "Fortuner (2.8L) 4x2 AT",
+      "fuel": "Diesel",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 3799000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "FRNBK",
+      "name": "Fortuner (2.8L) 4x2 AT[Platinum White Pearl]",
+      "fuel": "Diesel",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 3819000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "FRNBI",
+      "name": "Fortuner (2.8L) 4x4 MT",
+      "fuel": "Diesel",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 3974000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "FRNBI",
+      "name": "Fortuner (2.8L) 4x4 MT[Platinum White Pearl]",
+      "fuel": "Diesel",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 3994000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "FRNBM",
+      "name": "Fortuner 4X4 AT Neo Drive 48V",
+      "fuel": "Diesel",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 4355000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "FRNBM",
+      "name": "Fortuner 4X4 AT Neo Drive 48V[Platinum White Pearl]",
+      "fuel": "Diesel",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 4375000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "FRN3L",
+      "name": "Fortuner GR-S (2.8L) 4x4 AT",
+      "fuel": "Diesel",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 5097000
+      },
+      "specifications": {},
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}

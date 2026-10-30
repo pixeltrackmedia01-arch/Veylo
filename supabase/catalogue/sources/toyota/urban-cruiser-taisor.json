@@ -1,0 +1,202 @@
+{
+  "brand": "Toyota",
+  "model": "Urban Cruiser Taisor",
+  "slug": "urban-cruiser-taisor",
+  "official_page": "https://www.toyotabharat.com/showroom/urbancruiser-taisor/",
+  "brochure_pdf": "https://www.toyotabharat.com/documents/brochures/urban-cruiser-taisor/e-brochure-uc-taisor.pdf",
+  "price_city": "Surat, Gujarat (dealer: Munjani Toyota; effective 20th Jan 2026)",
+  "ex_showroom_min": 743000,
+  "ex_showroom_max": 1294000,
+  "fuel_types": [
+    "CNG",
+    "Petrol"
+  ],
+  "transmissions": [
+    "Automatic",
+    "Manual"
+  ],
+  "colours": [],
+  "official_tables": [],
+  "variants": [
+    {
+      "code": "D27TS",
+      "name": "Urban Cruiser Taisor E MT",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 743000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "D27TR",
+      "name": "Urban Cruiser Taisor S MT",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 833000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "D27T3",
+      "name": "Urban Cruiser Taisor E MT (CNG)",
+      "fuel": "CNG",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 845000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "D27TP",
+      "name": "Urban Cruiser Taisor S+ MT",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 868000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "D27TQ",
+      "name": "Urban Cruiser Taisor S AMT",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 894000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "D27TO",
+      "name": "Urban Cruiser Taisor S+ AMT",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 929000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "D27TN",
+      "name": "Urban Cruiser Taisor G 1.0L Turbo MT",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 1045000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "D27TL",
+      "name": "Urban Cruiser Taisor V 1.0L Turbo MT",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 1136000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "D27TL",
+      "name": "Urban Cruiser Taisor V 1.0L Turbo MT[Cafe White Dual Tone]",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 1152000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "D27TL",
+      "name": "Urban Cruiser Taisor V 1.0L Turbo MT[Enticing Silver Dual Tone]",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 1152000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "D27TL",
+      "name": "Urban Cruiser Taisor V 1.0L Turbo MT[Sportin Red Dual Tone]",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 1152000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "D27TM",
+      "name": "Urban Cruiser Taisor G 1.0L Turbo AT",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 1186000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "D27TK",
+      "name": "Urban Cruiser Taisor V 1.0L Turbo AT",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 1278000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "D27TK",
+      "name": "Urban Cruiser Taisor V 1.0L Turbo AT[Cafe White Dual Tone]",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 1294000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "D27TK",
+      "name": "Urban Cruiser Taisor V 1.0L Turbo AT[Enticing Silver Dual Tone]",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 1294000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "D27TK",
+      "name": "Urban Cruiser Taisor V 1.0L Turbo AT[Sportin Red Dual Tone]",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 1294000
+      },
+      "specifications": {},
+      "features": {}
+    }
+  ],
+  "notes": [
+    "The model page publishes no feature/spec tables in HTML (brochure is an image flipbook)."
+  ],
+  "fetched_on": "2026-10-30"
+}
