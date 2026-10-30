@@ -1,0 +1,142 @@
+{
+  "brand": "Citroën",
+  "model": "AircrossX",
+  "slug": "aircrossx",
+  "official_page": "https://www.citroen.in/",
+  "brochure_pdf": "https://citroenstorageprod.blob.core.windows.net/citroen-assets/brochures/e7a46f26-259a-4fa2-9bf3-17a11faf4369.pdf",
+  "price_city": "Surat, Gujarat (Citroën publishes one national ex-showroom price list)",
+  "ex_showroom_min": 889000,
+  "ex_showroom_max": 1451600,
+  "fuel_types": [
+    "Petrol"
+  ],
+  "transmissions": [
+    "Automatic",
+    "MT"
+  ],
+  "colours": [],
+  "variants": [
+    {
+      "name": "AircrossX You",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 889000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "AircrossX Comfort Edition - You",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 909000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "AircrossX Plus",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 999000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "AircrossX Comfort Edition - Plus",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 999000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "AircrossX Comfort Edition - Turbo You - 7s",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 1069500
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "AircrossX Na Max - 5s",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 1162000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "AircrossX Turbo Plus",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 1199000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "AircrossX Comfort Edition - Turbo Plus",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 1199000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "AircrossX Turbo Max - 5s",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 1297000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "AircrossX Turbo Max - 7s",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 1334600
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "AircrossX Turbo AT Max - 5s",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 1414000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "AircrossX Turbo AT Max - 7s",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 1451600
+      },
+      "specifications": {},
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}

@@ -1,0 +1,85 @@
+[
+  {
+    "model": "C3X",
+    "slug": "c3x",
+    "channel": "SUV",
+    "variants": 8,
+    "colours": 0,
+    "ex_showroom_min": 499000,
+    "ex_showroom_max": 968000,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Automatic",
+      "MT"
+    ],
+    "brochure_pdf": "https://citroenstorageprod.blob.core.windows.net/citroen-assets/brochures/02b3616f-b2c1-448e-8147-3181953eed8f.pdf"
+  },
+  {
+    "model": "BasaltX",
+    "slug": "basaltx",
+    "channel": "SUV Coupe",
+    "variants": 12,
+    "colours": 0,
+    "ex_showroom_min": 855000,
+    "ex_showroom_max": 1389500,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Automatic",
+      "MT"
+    ],
+    "brochure_pdf": "https://citroenstorageprod.blob.core.windows.net/citroen-assets/brochures/f2a3c6f3-b737-4a4a-9aa6-9c157c88ec0c.pdf"
+  },
+  {
+    "model": "AircrossX",
+    "slug": "aircrossx",
+    "channel": "SUV",
+    "variants": 12,
+    "colours": 0,
+    "ex_showroom_min": 889000,
+    "ex_showroom_max": 1451600,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Automatic",
+      "MT"
+    ],
+    "brochure_pdf": "https://citroenstorageprod.blob.core.windows.net/citroen-assets/brochures/e7a46f26-259a-4fa2-9bf3-17a11faf4369.pdf"
+  },
+  {
+    "model": "ë-C3X",
+    "slug": "e-c3x",
+    "channel": "SUV",
+    "variants": 3,
+    "colours": 0,
+    "ex_showroom_min": 1209000,
+    "ex_showroom_max": 1336300,
+    "fuel_types": [
+      "Electric"
+    ],
+    "transmissions": [
+      "Automatic"
+    ],
+    "brochure_pdf": "https://citroenstorageprod.blob.core.windows.net/citroen-assets/brochures/705dc82f-9709-4967-9ded-3da530171f68.pdf"
+  },
+  {
+    "model": "C5 Aircross",
+    "slug": "c5-aircross",
+    "channel": "SUV",
+    "variants": 1,
+    "colours": 0,
+    "ex_showroom_min": 3732400,
+    "ex_showroom_max": 3732400,
+    "fuel_types": [
+      "Diesel"
+    ],
+    "transmissions": [
+      "Automatic"
+    ],
+    "brochure_pdf": "https://citroenstorageprod.blob.core.windows.net/citroen-assets/brochures/320446c3-11fb-4cd4-8b96-92ec091259ee.pdf"
+  }
+]

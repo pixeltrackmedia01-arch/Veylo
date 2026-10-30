@@ -1,0 +1,31 @@
+{
+  "brand": "Citroën",
+  "model": "C5 Aircross",
+  "slug": "c5-aircross",
+  "official_page": "https://www.citroen.in/",
+  "brochure_pdf": "https://citroenstorageprod.blob.core.windows.net/citroen-assets/brochures/320446c3-11fb-4cd4-8b96-92ec091259ee.pdf",
+  "price_city": "Surat, Gujarat (Citroën publishes one national ex-showroom price list)",
+  "ex_showroom_min": 3732400,
+  "ex_showroom_max": 3732400,
+  "fuel_types": [
+    "Diesel"
+  ],
+  "transmissions": [
+    "Automatic"
+  ],
+  "colours": [],
+  "variants": [
+    {
+      "name": "C5 Aircross Shine",
+      "fuel": "Diesel",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 3732400
+      },
+      "specifications": {},
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}

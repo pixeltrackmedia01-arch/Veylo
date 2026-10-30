@@ -1,0 +1,51 @@
+{
+  "brand": "Citroën",
+  "model": "ë-C3X",
+  "slug": "e-c3x",
+  "official_page": "https://www.citroen.in/",
+  "brochure_pdf": "https://citroenstorageprod.blob.core.windows.net/citroen-assets/brochures/705dc82f-9709-4967-9ded-3da530171f68.pdf",
+  "price_city": "Surat, Gujarat (Citroën publishes one national ex-showroom price list)",
+  "ex_showroom_min": 1209000,
+  "ex_showroom_max": 1336300,
+  "fuel_types": [
+    "Electric"
+  ],
+  "transmissions": [
+    "Automatic"
+  ],
+  "colours": [],
+  "variants": [
+    {
+      "name": "ë-C3X Live",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 1209000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "ë-C3X Live (O)",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 1245000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "ë-C3X Shine",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 1336300
+      },
+      "specifications": {},
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}
