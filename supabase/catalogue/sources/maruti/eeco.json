@@ -1,0 +1,728 @@
+{
+  "brand": "Maruti Suzuki",
+  "model": "Eeco",
+  "slug": "eeco",
+  "model_code": "VR",
+  "channel": "Arena",
+  "official_page": "https://www.marutisuzuki.com/arena/eeco",
+  "brochure_pdf": "https://www.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/eeco/document/Arena-Eeco-Brochure.pdf",
+  "price_city": "Surat, Gujarat",
+  "ex_showroom_min": 528353,
+  "ex_showroom_max": 808952,
+  "fuel_types": [
+    "CNG",
+    "Petrol"
+  ],
+  "transmissions": [
+    "Manual"
+  ],
+  "colours": [
+    {
+      "name": "Bluish Black",
+      "hex": [
+        "#141414"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Eeco 5 Seater AC",
+        "Eeco 5 Seater AC CNG",
+        "Eeco 5 Seater Standard",
+        "Eeco 6 Seater Standard"
+      ]
+    },
+    {
+      "name": "Metallic Brisk Blue",
+      "hex": [
+        "#0d6dc3"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Eeco 5 Seater AC",
+        "Eeco 5 Seater AC CNG",
+        "Eeco 5 Seater Standard",
+        "Eeco 6 Seater Standard"
+      ]
+    },
+    {
+      "name": "Metallic Silky Silver",
+      "hex": [
+        "#737373"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Eeco 5 Seater AC",
+        "Eeco 5 Seater AC CNG",
+        "Eeco 5 Seater Standard",
+        "Eeco 6 Seater Standard"
+      ]
+    },
+    {
+      "name": "Solid White",
+      "hex": [
+        "#B7B7B7"
+      ],
+      "paint": "non_metallic",
+      "variants": [
+        "Eeco 5 Seater AC",
+        "Eeco 5 Seater AC CNG",
+        "Eeco 5 Seater Standard",
+        "Eeco 6 Seater Standard",
+        "Eeco Ambulance Shell",
+        "Eeco Ambulance"
+      ]
+    },
+    {
+      "name": "Metallic Glistening Grey",
+      "hex": [
+        "#4a4a4a"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Eeco 5 Seater AC",
+        "Eeco 5 Seater AC CNG",
+        "Eeco 5 Seater Standard",
+        "Eeco 6 Seater Standard"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "code": "VRRPIHF",
+      "name": "Eeco 5 Seater Standard",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": 4,
+      "ex_showroom_surat": {
+        "metallic": 528353,
+        "non_metallic": 528353
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Efficiency (km/l)*": "19.71 (km/l)*"
+        },
+        "Dimensions": {
+          "Length (mm)": "3675",
+          "Width (mm)": "1475",
+          "Height (mm)": "1825",
+          "Wheelbase (mm)": "2350",
+          "Turning Radius (m)": "4.5",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "970",
+          "Fuel Tank Capacity (L)": "32"
+        },
+        "Transmission": {
+          "Transmission Type": "5MT"
+        },
+        "Engine": {
+          "Engine Type": "K12N",
+          "Capacity (cc)": "1197 cc",
+          "Max Power (1 KW =1.35962 PS)": "60.5/6000",
+          "Max Torque (Nm @ rpm)": "105.5/3000"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "155R13C 8PR"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Full Wheel Covers: centre cap",
+          "Front Mud Flaps",
+          "Outside Rear View Mirror (Left and Right)"
+        ],
+        "Interior": [
+          "Dual Tone Interior",
+          "Assist Grip (Co-Driver + Rear)",
+          "Molded Roof Lining",
+          "Molded Floor Carpet",
+          "Seat Matching Interior Color",
+          "Rear cabin lamp",
+          "Steering lock",
+          "Front cabin lamp",
+          "Both Side Sunvisor"
+        ],
+        "Safety & Security": [
+          "ABS with EBD",
+          "Side & Curtain Airbags",
+          "Reverse Parking Sensors",
+          "High-Speed Alert System",
+          "Immobilizer (Anti-Theft Security System)",
+          "Headlamp Leveling",
+          "Side Impact Beams",
+          "Offset Crash Compliance (as per AIS 098)",
+          "Front Seat Belts with Pre-Tensioner and Force Limiter",
+          "Electronic Stability Program",
+          "Seat belt reminder with buzzer front rear seat",
+          "Dual Front Airbags (Driver and Co-Driver)",
+          "3 Point ELR Seat Belts for all Rear Seats ",
+          "Seat Belt Reminder with Buzzer (Front & Rear Seat) ",
+          "Child Lock for Sliding Doors & Windows",
+          "High Mount Stop Lamp"
+        ],
+        "Comfort & Convenience": [
+          "Heater",
+          "Reclining Front Seats",
+          "Sliding Driver Seat",
+          "Head Rest-Front Row: Integrated",
+          "Head Rest-Second Row: Fixed, Pillow",
+          "Power Steering"
+        ],
+        "Instrument Panel": [
+          "Illuminated Hazard Switch",
+          "Digital Display in Instrument Cluster",
+          "12 Volt Accessory Socket",
+          "Multitrip Meter",
+          "Digital Speedo Meter",
+          "Dome Lamp Battery Saver Function"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/eeco/images/spinset360/metallic-_brisk_blue_v1/2025.06.21_12.18.21_Eeco_360_Blue_PathTracer_0054.png"
+    },
+    {
+      "code": "VRRPIHS",
+      "name": "Eeco 6 Seater Standard",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": 4,
+      "ex_showroom_surat": {
+        "metallic": 554852,
+        "non_metallic": 554852
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Efficiency (km/l)*": "19.71 (km/l)*"
+        },
+        "Dimensions": {
+          "Length (mm)": "3675",
+          "Width (mm)": "1475",
+          "Height (mm)": "1825",
+          "Wheelbase (mm)": "2350",
+          "Turning Radius (m)": "4.5",
+          "Seating Capacity (nos.)": "6",
+          "Kerb Weight (Kg)": "970",
+          "Fuel Tank Capacity (L)": "32"
+        },
+        "Transmission": {
+          "Transmission Type": "5MT"
+        },
+        "Engine": {
+          "Engine Type": "K12N",
+          "Capacity (cc)": "1197 cc",
+          "Max Power (1 KW =1.35962 PS)": "60.5/6000",
+          "Max Torque (Nm @ rpm)": "105.5/3000"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "155 R13C 8PR"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Full Wheel Covers: centre cap",
+          "Front Mud Flaps",
+          "Outside Rear View Mirror (Left and Right)"
+        ],
+        "Interior": [
+          "Dual Tone Interior",
+          "Assist Grip (Co-Driver + Rear)",
+          "Molded Roof Lining",
+          "Molded Floor Carpet",
+          "Seat Matching Interior Color",
+          "Rear cabin lamp",
+          "Steering lock",
+          "Front cabin lamp",
+          "Both Side Sunvisor"
+        ],
+        "Safety & Security": [
+          "ABS with EBD",
+          "Side & Curtain Airbags",
+          "Reverse Parking Sensors",
+          "High-Speed Alert System",
+          "Immobilizer (Anti-Theft Security System)",
+          "Headlamp Leveling",
+          "Side Impact Beams",
+          "Offset Crash Compliance (as per AIS 098)",
+          "Front Seat Belts with Pre-Tensioner and Force Limiter",
+          "Electronic Stability Program",
+          "Seat belt reminder with buzzer front rear seat",
+          "Dual Front Airbags (Driver and Co-Driver)",
+          "3 Point ELR Seat Belts for all Rear Seats ",
+          "Seat Belt Reminder with Buzzer (Front & Rear Seat) ",
+          "Child Lock for Sliding Doors & Windows",
+          "High Mount Stop Lamp"
+        ],
+        "Comfort & Convenience": [
+          "Heater",
+          "Reclining Front Seats",
+          "Sliding Driver Seat",
+          "Head Rest-Front Row: Integrated",
+          "Head Rest-Second Row: Fixed, Pillow",
+          "Head Rest-Third Row: Fixed, Pillow",
+          "Power Steering"
+        ],
+        "Instrument Panel": [
+          "Illuminated Hazard Switch",
+          "Digital Display in Instrument Cluster",
+          "12 Volt Accessory Socket",
+          "Multitrip Meter",
+          "Digital Speedo Meter",
+          "Dome Lamp Battery Saver Function"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/eeco/images/spinset360/metallic-_brisk_blue_v1/2025.06.21_12.18.21_Eeco_360_Blue_PathTracer_0054.png"
+    },
+    {
+      "code": "VRRPIAF",
+      "name": "Eeco 5 Seater AC",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": 4,
+      "ex_showroom_surat": {
+        "metallic": 561252,
+        "non_metallic": 561252
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Efficiency (km/l)*": "19.71 (km/l)*"
+        },
+        "Dimensions": {
+          "Length (mm)": "3675",
+          "Width (mm)": "1475",
+          "Height (mm)": "1825",
+          "Wheelbase (mm)": "2350",
+          "Turning Radius (m)": "4.5",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "970",
+          "Fuel Tank Capacity (L)": "32"
+        },
+        "Transmission": {
+          "Transmission Type": "5MT"
+        },
+        "Engine": {
+          "Engine Type": "K12N",
+          "Capacity (cc)": "1197 cc",
+          "Max Power (1 KW =1.35962 PS)": "60.5/6000",
+          "Max Torque (Nm @ rpm)": "105.5/3000"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "155R13C 8PR"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Full Wheel Covers: centre cap",
+          "Front Mud Flaps",
+          "Outside Rear View Mirror (Left and Right)"
+        ],
+        "Interior": [
+          "Dual Tone Interior",
+          "Cabin Air Filter",
+          "Assist Grip (Co-Driver + Rear)",
+          "Molded Roof Lining",
+          "Molded Floor Carpet",
+          "Seat Matching Interior Color",
+          "Rear cabin lamp",
+          "Steering lock",
+          "Front cabin lamp",
+          "Both Side Sunvisor"
+        ],
+        "Safety & Security": [
+          "ABS with EBD",
+          "Side & Curtain Airbags",
+          "Reverse Parking Sensors",
+          "High-Speed Alert System",
+          "Immobilizer (Anti-Theft Security System)",
+          "Headlamp Leveling",
+          "Side Impact Beams",
+          "Offset Crash Compliance (as per AIS 098)",
+          "Front Seat Belts with Pre-Tensioner and Force Limiter",
+          "Electronic Stability Program",
+          "Seat belt reminder with buzzer front rear seat",
+          "Dual Front Airbags (Driver and Co-Driver)",
+          "3 Point ELR Seat Belts for all Rear Seats ",
+          "Seat Belt Reminder with Buzzer (Front & Rear Seat) ",
+          "Child Lock for Sliding Doors & Windows",
+          "High Mount Stop Lamp"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Heater",
+          "Reclining Front Seats",
+          "Sliding Driver Seat",
+          "Head Rest-Front Row: Integrated",
+          "Head Rest-Second Row: Fixed, Pillow",
+          "Seat Back Pocket (Co-Driver Seat)",
+          "Power Steering"
+        ],
+        "Instrument Panel": [
+          "Illuminated Hazard Switch",
+          "Digital Display in Instrument Cluster",
+          "12 Volt Accessory Socket",
+          "Multitrip Meter",
+          "Digital Speedo Meter",
+          "Dome Lamp Battery Saver Function"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/eeco/images/spinset360/metallic-_brisk_blue_v1/2025.06.21_12.18.21_Eeco_360_Blue_PathTracer_0054.png"
+    },
+    {
+      "code": "VRMPIA1",
+      "name": "Eeco Ambulance Shell",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": 4,
+      "ex_showroom_surat": {
+        "metallic": 644553,
+        "non_metallic": 644553
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Efficiency (km/l)*": "19.71 (km/l)*"
+        },
+        "Dimensions": {
+          "Length (mm)": "3675",
+          "Width (mm)": "1475",
+          "Height (mm)": "1930",
+          "Wheelbase (mm)": "2350",
+          "Turning Radius (m)": "4.5",
+          "Seating Capacity (nos.)": "3 + 1 (Patient)",
+          "Kerb Weight (Kg)": "955",
+          "Fuel Tank Capacity (L)": "32"
+        },
+        "Transmission": {
+          "Transmission Type": "5MT"
+        },
+        "Engine": {
+          "Engine Type": "K12N",
+          "Capacity (cc)": "1197 cc",
+          "Max Power (1 KW =1.35962 PS)": "60.5/6000",
+          "Max Torque (Nm @ rpm)": "105.5/3000"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "155R13C 8PR"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Full Wheel Covers: centre cap",
+          "Front Mud Flaps",
+          "Outside Rear View Mirror (Left and Right)",
+          "Ambulance Decal - Front & Rear",
+          "Partly Frosted Rear side windows",
+          "Partly Frosted Back Door windows"
+        ],
+        "Interior": [
+          "Dual Tone Interior",
+          "Cabin Air Filter",
+          "Assist Grip (Co-Driver + Rear)",
+          "Molded Roof Lining",
+          "Molded Floor Carpet",
+          "Steering lock",
+          "Front cabin lamp",
+          "Both Side Sunvisor"
+        ],
+        "Safety & Security": [
+          "ABS with EBD",
+          "Reverse Parking Sensors",
+          "Immobilizer (Anti-Theft Security System)",
+          "Headlamp Leveling",
+          "Side Impact Beams",
+          "Offset Crash Compliance (as per AIS 098)",
+          "Front Seat Belts with Pre-Tensioner and Force Limiter",
+          "Electronic Stability Program",
+          "Seat belt reminder with buzzer front rear seat",
+          "Dual Front Airbags (Driver and Co-Driver)",
+          "Seat Belt Reminder (Dr + Co-Dr)",
+          "Seat Belts for All Seats",
+          "High Mount Stop Lamp"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Heater",
+          "Sliding Driver Seat",
+          "Head Rest-Front Row: Integrated",
+          "Power Steering"
+        ],
+        "Facilities on Board": [
+          "Revolving Roof Lamp",
+          "Molded Rubber Matting in Rear Cabin",
+          "Siren",
+          "Public Address System (Amplifier, Mike and Speaker)",
+          "Two LED lights inside Rear Cabin for Illuminated",
+          "Attendant's Seat",
+          "Space for First Aid and Nursing Kit",
+          "Hook for Infusion Mounting"
+        ],
+        "Instrument Panel": [
+          "Illuminated Hazard Switch",
+          "Digital Display in Instrument Cluster",
+          "12 Volt Accessory Socket",
+          "Multitrip Meter",
+          "Digital Speedo Meter",
+          "Dome Lamp Battery Saver Function"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/eeco/images/variants/thumbnails/Maruti-ecco-Ambulance-front-3-4-shot1.png"
+    },
+    {
+      "code": "VRRCIAS",
+      "name": "Eeco 5 Seater AC CNG",
+      "fuel": "CNG",
+      "transmission": "Manual",
+      "technology": [
+        "S-CNG"
+      ],
+      "airbags": 4,
+      "ex_showroom_surat": {
+        "metallic": 645752,
+        "non_metallic": 645752
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "CNG",
+          "Fuel Efficiency (km/l)*": "26.78 (km/l)*"
+        },
+        "Dimensions": {
+          "Length (mm)": "3675",
+          "Width (mm)": "1475",
+          "Height (mm)": "1825",
+          "Wheelbase (mm)": "2350",
+          "Turning Radius (m)": "4.5",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "1085",
+          "Fuel Tank Capacity (L)": "65"
+        },
+        "Transmission": {
+          "Transmission Type": "5MT"
+        },
+        "Engine": {
+          "Engine Type": "K12N",
+          "Capacity (cc)": "1197 cc",
+          "Max Power (1 KW =1.35962 PS)": "52.7/6000",
+          "Max Torque (Nm @ rpm)": "95/3000"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "155R13C 8PR"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Full Wheel Covers: centre cap",
+          "Front Mud Flaps",
+          "Outside Rear View Mirror (Left and Right)"
+        ],
+        "Interior": [
+          "Dual Tone Interior",
+          "Cabin Air Filter",
+          "Assist Grip (Co-Driver + Rear)",
+          "Molded Roof Lining",
+          "Molded Floor Carpet",
+          "Seat Matching Interior Color",
+          "Rear cabin lamp",
+          "Steering lock",
+          "Front cabin lamp",
+          "Both Side Sunvisor"
+        ],
+        "Safety & Security": [
+          "ABS with EBD",
+          "Side & Curtain Airbags",
+          "Reverse Parking Sensors",
+          "High-Speed Alert System",
+          "Immobilizer (Anti-Theft Security System)",
+          "Headlamp Leveling",
+          "Side Impact Beams",
+          "Offset Crash Compliance (as per AIS 098)",
+          "Front Seat Belts with Pre-Tensioner and Force Limiter",
+          "Electronic Stability Program",
+          "Seat belt reminder with buzzer front rear seat",
+          "Dual Front Airbags (Driver and Co-Driver)",
+          "3 Point ELR Seat Belts for all Rear Seats ",
+          "Seat Belt Reminder with Buzzer (Front & Rear Seat) ",
+          "Child Lock for Sliding Doors & Windows",
+          "High Mount Stop Lamp"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Heater",
+          "Reclining Front Seats",
+          "Sliding Driver Seat",
+          "Head Rest-Front Row: Integrated",
+          "Head Rest-Second Row: Fixed, Pillow",
+          "Seat Back Pocket (Co-Driver Seat)",
+          "Power Steering"
+        ],
+        "Instrument Panel": [
+          "Illuminated Hazard Switch",
+          "Digital Display in Instrument Cluster",
+          "12 Volt Accessory Socket",
+          "Multitrip Meter",
+          "Digital Speedo Meter",
+          "Dome Lamp Battery Saver Function"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/eeco/images/spinset360/metallic-_brisk_blue_v1/2025.06.21_12.18.21_Eeco_360_Blue_PathTracer_0054.png"
+    },
+    {
+      "code": "VRMPIA2",
+      "name": "Eeco Ambulance",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": 4,
+      "ex_showroom_surat": {
+        "metallic": 808952,
+        "non_metallic": 808952
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Efficiency (km/l)*": "19.71 (km/l)*"
+        },
+        "Dimensions": {
+          "Length (mm)": "3675",
+          "Width (mm)": "1475",
+          "Height (mm)": "1930",
+          "Wheelbase (mm)": "2350",
+          "Turning Radius (m)": "4.5",
+          "Seating Capacity (nos.)": "3 + 1 (Patient)",
+          "Kerb Weight (Kg)": "1035",
+          "Fuel Tank Capacity (L)": "32"
+        },
+        "Transmission": {
+          "Transmission Type": "5MT"
+        },
+        "Engine": {
+          "Engine Type": "K12N",
+          "Capacity (cc)": "1197 cc",
+          "Max Power (1 KW =1.35962 PS)": "60.5/6000",
+          "Max Torque (Nm @ rpm)": "105.5/3000"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "155R13C 8PR"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Full Wheel Covers: centre cap",
+          "Front Mud Flaps",
+          "Outside Rear View Mirror (Left and Right)",
+          "Ambulance Decal - Front & Rear",
+          "Partly Frosted Rear side windows",
+          "Partly Frosted Back Door windows"
+        ],
+        "Interior": [
+          "Dual Tone Interior",
+          "Cabin Air Filter",
+          "Assist Grip (Co-Driver + Rear)",
+          "Molded Roof Lining",
+          "Molded Floor Carpet",
+          "Steering lock",
+          "Front cabin lamp",
+          "Both Side Sunvisor"
+        ],
+        "Safety & Security": [
+          "ABS with EBD",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "Reverse Parking Sensors",
+          "Immobilizer (Anti-Theft Security System)",
+          "Headlamp Leveling",
+          "Side Impact Beams",
+          "Offset Crash Compliance (as per AIS 098)",
+          "Front Seat Belts with Pre-Tensioner and Force Limiter",
+          "Electronic Stability Program",
+          "Dual Front Airbags (Driver and Co-Driver)",
+          "Seat Belt Reminder (Dr + Co-Dr)",
+          "Seat Belts for All Seats",
+          "High Mount Stop Lamp"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Heater",
+          "Sliding Driver Seat",
+          "Head Rest-Front Row: Integrated",
+          "Power Steering"
+        ],
+        "Facilities on Board": [
+          "Revolving Roof Lamp",
+          "Molded Rubber Matting in Rear Cabin",
+          "Siren",
+          "Public Address System (Amplifier, Mike and Speaker)",
+          "Two LED lights inside Rear Cabin for Illuminated",
+          "Stretcher Assembly (Monoblock Stretcher)",
+          "Attendant's Seat",
+          "Space for First Aid and Nursing Kit",
+          "Oxygen Cylinder Clamp",
+          "Hook for Infusion Mounting"
+        ],
+        "Instrument Panel": [
+          "Illuminated Hazard Switch",
+          "Digital Display in Instrument Cluster",
+          "12 Volt Accessory Socket",
+          "Multitrip Meter",
+          "Digital Speedo Meter",
+          "Dome Lamp Battery Saver Function"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/eeco/images/variants/thumbnails/Maruti-ecco-Ambulance-front-3-4-shot1.png"
+    }
+  ],
+  "fetched_on": "2026-10-30"
+}

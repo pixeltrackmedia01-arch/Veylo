@@ -1,0 +1,2248 @@
+{
+  "brand": "Maruti Suzuki",
+  "model": "Baleno",
+  "slug": "baleno",
+  "model_code": "BZ",
+  "channel": "Nexa",
+  "official_page": "https://www.nexaexperience.com/baleno",
+  "brochure_pdf": "https://www.nexaexperience.com/content/dam/msil/nexa/in/en/assets/cars/newbaleno/download-brochure/The-Stunning-New-Baleno-Brochure.pdf",
+  "price_city": "Surat, Gujarat",
+  "ex_showroom_min": 610090,
+  "ex_showroom_max": 999190,
+  "fuel_types": [
+    "CNG",
+    "Petrol"
+  ],
+  "transmissions": [
+    "Automatic",
+    "Manual"
+  ],
+  "colours": [
+    {
+      "name": "Nexa Blue",
+      "hex": [
+        "#001E5B"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Alpha MT",
+        "Alpha AGS",
+        "Alpha (O) AGS",
+        "Alpha (O) MT",
+        "Delta MT",
+        "Delta AGS",
+        "Delta CNG",
+        "Sigma MT",
+        "Zeta MT",
+        "Zeta AGS",
+        "Zeta CNG MT",
+        "Delta CNG + AGS",
+        "Zeta CNG + AGS"
+      ]
+    },
+    {
+      "name": "Bluish Black",
+      "hex": [
+        "#181c28"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Alpha MT",
+        "Alpha AGS",
+        "Alpha (O) AGS",
+        "Alpha (O) MT",
+        "Delta MT",
+        "Delta AGS",
+        "Delta CNG",
+        "Zeta MT",
+        "Zeta AGS",
+        "Zeta CNG MT",
+        "Delta CNG + AGS",
+        "Zeta CNG + AGS"
+      ]
+    },
+    {
+      "name": "Splendid Silver",
+      "hex": [
+        "#464D50"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Alpha MT",
+        "Alpha AGS",
+        "Alpha (O) AGS",
+        "Alpha (O) MT",
+        "Delta MT",
+        "Delta AGS",
+        "Delta CNG",
+        "Sigma MT",
+        "Zeta MT",
+        "Zeta AGS",
+        "Zeta CNG MT",
+        "Delta CNG + AGS",
+        "Zeta CNG + AGS"
+      ]
+    },
+    {
+      "name": "Grandeur Grey",
+      "hex": [
+        "#303030"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Alpha MT",
+        "Alpha AGS",
+        "Alpha (O) AGS",
+        "Alpha (O) MT",
+        "Delta MT",
+        "Delta AGS",
+        "Delta CNG",
+        "Sigma MT",
+        "Zeta MT",
+        "Zeta AGS",
+        "Zeta CNG MT",
+        "Delta CNG + AGS",
+        "Zeta CNG + AGS"
+      ]
+    },
+    {
+      "name": "Opulent Red",
+      "hex": [
+        "#870001"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Alpha MT",
+        "Alpha AGS",
+        "Alpha (O) AGS",
+        "Alpha (O) MT",
+        "Delta MT",
+        "Delta AGS",
+        "Delta CNG",
+        "Zeta MT",
+        "Zeta AGS",
+        "Zeta CNG MT",
+        "Delta CNG + AGS",
+        "Zeta CNG + AGS"
+      ]
+    },
+    {
+      "name": "Enigmatic Teal Green",
+      "hex": [
+        "#069494"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Alpha MT",
+        "Alpha AGS",
+        "Alpha (O) AGS",
+        "Alpha (O) MT",
+        "Zeta MT",
+        "Zeta AGS",
+        "Zeta CNG MT",
+        "Zeta CNG + AGS"
+      ]
+    },
+    {
+      "name": "Arctic White",
+      "hex": [
+        "#f9f9f9"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Alpha MT",
+        "Alpha AGS",
+        "Alpha (O) AGS",
+        "Alpha (O) MT",
+        "Delta MT",
+        "Delta AGS",
+        "Delta CNG",
+        "Sigma MT",
+        "Zeta MT",
+        "Zeta AGS",
+        "Zeta CNG MT",
+        "Delta CNG + AGS",
+        "Zeta CNG + AGS"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "code": "BZR4ML1",
+      "name": "Sigma MT",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": 6,
+      "ex_showroom_surat": {
+        "metallic": 610090,
+        "non_metallic": 610090
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel-Efficiency (km/l)*": "23.80 km/l*",
+          "Fuel Tank Capacity (L)": "37"
+        },
+        "Dimensions": {
+          "Length (mm)": "3990",
+          "Width (mm)": "1745",
+          "Height (mm)": "1530",
+          "Wheelbase (mm)": "2520",
+          "Turning Radius (m)": "4.85",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "950-985",
+          "Gross Vehicle Weight (Kg)": "1410",
+          "Boot Space (L)": "318*"
+        },
+        "Engine": {
+          "Engine Type": "Z12 Engine",
+          "Displacement (cc)": "1197 cc",
+          "Max Power (1 KW =1.35962 PS)": "61 kW@5700 rpm or 82.93 PS@5700 rpm",
+          "Max Torque (Nm @ rpm)": "112.4@4500",
+          "No.of Cylinders": 3.0
+        },
+        "Transmission": {
+          "Transmission Type": "Manual",
+          "Drive Type": "5MT"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut",
+          "Rear Suspension": "Torsion Beam"
+        },
+        "Tyre": {
+          "Tyre": "185/65 R15 (Steel)"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Roof Spoiler",
+          "Antenna: Shark Fin Antenna",
+          "Door Handles: Black",
+          "Full Wheel Covers: Full Wheel Cover",
+          "Fender Chrome Garnish",
+          "Body coloured bumpers",
+          "NEXTre Signature LED Tail Lamps",
+          "Projector Headlamps: Halogen",
+          "Signature NEXWave Grille: Material"
+        ],
+        "Interior": [
+          "MID Display: MID (Segment Display)",
+          "Dual Tone Interior",
+          "Cup Holders",
+          "Adjustable Headrest",
+          "Rear Seat Adjustable Headrest",
+          "60:40 Split Rear Seat",
+          "Seat Upholstery: Fabric"
+        ],
+        "Safety": [
+          "6 Airbags",
+          "ABS with EBD",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "ISOFIX Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "High-Speed Alert System",
+          "Rear Window Defogger",
+          "Adjustable Front Seatbelt Height Anchors",
+          "Front Ventilated Disc Brakes: Disc",
+          "Warning Lamps for Low Fuel & Door Ajar",
+          "Brake Assist Function",
+          "Emergency Stop Signal [LED]",
+          "Front Seat Belt Pretensioner with Force Limiter & Height Adjuster",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "All Seat Belts – 3 Point ELR"
+        ],
+        "Comfort & Convenience": [
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Auto Up/Down Power Window",
+          "Rear Defogger",
+          "Gear Shift Indicator",
+          "Automatic Climate Control: Digital Manual AC",
+          "Central Locking",
+          "Keyless Entry",
+          "Power Windows (Auto Up/Down)",
+          "Digital Air Conditioner with Panel Illumination: Yes(Manual)",
+          "Driver side power window auto up / down with pitch guard",
+          "Power-Steering: Tilt"
+        ],
+        "Infotainment": [
+          "Speedometer with Tachometer",
+          "Gear Shift Indicator",
+          "Rear Seatbelt Reminder Warning Indicator"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/nexa/in/en/assets/cars/baleno/images/front-tilted-view/Suzuki_Baleno_3-4th_(Co_Dr)_Low_Angle_left_CMYK_1.png"
+    },
+    {
+      "code": "BZR4MV1",
+      "name": "Delta MT",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": 6,
+      "ex_showroom_surat": {
+        "metallic": 700090,
+        "non_metallic": 700090
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel-Efficiency (km/l)*": "23.80 km/l*",
+          "Fuel Tank Capacity (L)": "37"
+        },
+        "Dimensions": {
+          "Length (mm)": "3990",
+          "Width (mm)": "1745",
+          "Height (mm)": "1530",
+          "Wheelbase (mm)": "2520",
+          "Turning Radius (m)": "4.85",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "950-985",
+          "Gross Vehicle Weight (Kg)": "1410",
+          "Boot Space (L)": "318*"
+        },
+        "Engine": {
+          "Engine Type": "Z12 Engine",
+          "Displacement (cc)": "1197 cc",
+          "Max Power (1 KW =1.35962 PS)": "61 kW@5700 rpm or 82.93 PS@5700 rpm",
+          "Max Torque (Nm @ rpm)": "112.4@4500",
+          "No.of Cylinders": 3.0
+        },
+        "Transmission": {
+          "Transmission Type": "Manual",
+          "Drive Type": "5MT"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut",
+          "Rear Suspension": "Torsion Beam"
+        },
+        "Tyre": {
+          "Tyre": "185/65 R15 (Steel)",
+          "Wheel Type": "Full Wheel Cover"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Roof Spoiler",
+          "ORVM with Turn Indicator",
+          "Antenna: Shark Fin Antenna",
+          "Door Handles: Body coloured door handles",
+          "Full Wheel Covers: Full Wheel Cover",
+          "Fender Chrome Garnish",
+          "Body coloured bumpers",
+          "NEXTre Signature LED Tail Lamps",
+          "Projector Headlamps: Halogen",
+          "Signature NEXWave Grille: Material + Chrome Detailing"
+        ],
+        "Interior": [
+          "MID Display: MID (Segment Display)",
+          "Dual Tone Interior",
+          "Cup Holders",
+          "Adjustable Headrest",
+          "Rear Seat Adjustable Headrest",
+          "Rear Parcel Tray",
+          "60:40 Split Rear Seat",
+          "Seat Upholstery: Fabric",
+          "Front Center Arm Rest"
+        ],
+        "Safety": [
+          "6 Airbags",
+          "ABS with EBD",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "ISOFIX Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "Tyre-Pressure Monitoring System (TPMS)",
+          "High-Speed Alert System",
+          "Rear Window Defogger",
+          "Adjustable Front Seatbelt Height Anchors",
+          "Front Ventilated Disc Brakes: Disc",
+          "Warning Lamps for Low Fuel & Door Ajar",
+          "Brake Assist Function",
+          "Emergency Stop Signal [LED]",
+          "Front Seat Belt Pretensioner with Force Limiter & Height Adjuster",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "All Seat Belts – 3 Point ELR"
+        ],
+        "Comfort & Convenience": [
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Steering-Mounted Audio Controls",
+          "Auto Up/Down Power Window",
+          "Rear Defogger",
+          "Gear Shift Indicator",
+          "Rear AC Vents",
+          "Automatic Climate Control: Digital Manual AC",
+          "Central Locking",
+          "Rear Charging USB Port (A & C Type)",
+          "Electrically Adjustable ORVMs",
+          "Security Alarm",
+          "Digital Air Conditioner with Panel Illumination: Yes(Manual)",
+          "Driver side power window auto up / down with pitch guard",
+          "Power-Steering: Tilt"
+        ],
+        "Infotainment": [
+          "Speedometer with Tachometer",
+          "Gear Shift Indicator",
+          "Touch Screen Audio",
+          "Android Auto and Apple CarPlay: Wireless",
+          "Steering Mounted Controls: Audio and Bluetooth",
+          "Rear Seatbelt Reminder Warning Indicator",
+          "Steering Mounted Controls: Audio and Bluetooth"
+        ],
+        "Audio & Entertainment": [
+          "SmartPlay Pro: 17.78 cm touch-screen",
+          "Number of Speakers: 4.0",
+          "Wireless Android Auto & Apple CarPlay: Wireless"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/nexa/in/en/assets/cars/baleno/images/front-tilted-view/Suzuki_Baleno_3-4th_(Co_Dr)_Low_Angle_left_CMYK_1.png"
+    },
+    {
+      "code": "BZA4MV1",
+      "name": "Delta AGS",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": 6,
+      "ex_showroom_surat": {
+        "metallic": 750090,
+        "non_metallic": 750090
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel-Efficiency (km/l)*": "24.77 km/l*",
+          "Fuel Tank Capacity (L)": "37"
+        },
+        "Dimensions": {
+          "Length (mm)": "3990",
+          "Width (mm)": "1745",
+          "Height (mm)": "1530",
+          "Wheelbase (mm)": "2520",
+          "Turning Radius (m)": "4.85",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "965-990",
+          "Gross Vehicle Weight (Kg)": "1410",
+          "Boot Space (L)": "318*"
+        },
+        "Engine": {
+          "Engine Type": "Z12 Engine",
+          "Displacement (cc)": "1197 cc",
+          "Max Power (1 KW =1.35962 PS)": "61 kW@5700 rpm or 82.93 PS@5700 rpm",
+          "Max Torque (Nm @ rpm)": "112.4@4500",
+          "No.of Cylinders": 3.0
+        },
+        "Transmission": {
+          "Transmission Type": "Automatic",
+          "Drive Type": "5AMT"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut",
+          "Rear Suspension": "Torsion Beam"
+        },
+        "Tyre": {
+          "Tyre": "185/65 R15 (Steel)",
+          "Wheel Type": "Full Wheel Cover"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Roof Spoiler",
+          "ORVM with Turn Indicator",
+          "Antenna: Shark Fin Antenna",
+          "Door Handles: Body coloured door handles",
+          "Full Wheel Covers: Full Wheel Cover",
+          "Fender Chrome Garnish",
+          "Body coloured bumpers",
+          "NEXTre Signature LED Tail Lamps",
+          "Projector Headlamps: Halogen",
+          "Signature NEXWave Grille: Material + Chrome Detailing"
+        ],
+        "Interior": [
+          "MID Display: MID (Segment Display)",
+          "Dual Tone Interior",
+          "Cup Holders",
+          "Adjustable Headrest",
+          "Rear Seat Adjustable Headrest",
+          "Rear Parcel Tray",
+          "60:40 Split Rear Seat",
+          "Seat Upholstery: Fabric",
+          "Front Center Arm Rest"
+        ],
+        "Safety": [
+          "6 Airbags",
+          "ABS with EBD",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "ISOFIX Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "Tyre-Pressure Monitoring System (TPMS)",
+          "High-Speed Alert System",
+          "Rear Window Defogger",
+          "Adjustable Front Seatbelt Height Anchors",
+          "Front Ventilated Disc Brakes: Disc",
+          "Warning Lamps for Low Fuel & Door Ajar",
+          "Brake Assist Function",
+          "Emergency Stop Signal [LED]",
+          "Front Seat Belt Pretensioner with Force Limiter & Height Adjuster",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "All Seat Belts – 3 Point ELR"
+        ],
+        "Comfort & Convenience": [
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Steering-Mounted Audio Controls",
+          "Auto Up/Down Power Window",
+          "Rear Defogger",
+          "Gear Shift Indicator",
+          "Driver Side Foot Rest",
+          "Rear AC Vents",
+          "Automatic Climate Control: Digital Manual AC",
+          "Central Locking",
+          "Rear Charging USB Port (A & C Type)",
+          "Electrically Adjustable ORVMs",
+          "Security Alarm",
+          "Digital Air Conditioner with Panel Illumination: Yes(Manual)",
+          "Driver side power window auto up / down with pitch guard",
+          "Power-Steering: Tilt"
+        ],
+        "Infotainment": [
+          "Speedometer with Tachometer",
+          "Gear Shift Indicator",
+          "Touch Screen Audio",
+          "Android Auto and Apple CarPlay: Wireless",
+          "Steering Mounted Controls: Audio and Bluetooth",
+          "Rear Seatbelt Reminder Warning Indicator",
+          "Steering Mounted Controls: Audio and Bluetooth"
+        ],
+        "Audio & Entertainment": [
+          "SmartPlay Pro: 17.78 cm touch-screen",
+          "Number of Speakers: 4.0",
+          "Wireless Android Auto & Apple CarPlay: Wireless"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/nexa/in/en/assets/cars/baleno/images/front-tilted-view/Suzuki_Baleno_3-4th_(Co_Dr)_Low_Angle_left_CMYK_1.png"
+    },
+    {
+      "code": "BZRCMV1",
+      "name": "Delta CNG",
+      "fuel": "CNG",
+      "transmission": "Manual",
+      "technology": [
+        "S-CNG"
+      ],
+      "airbags": 6,
+      "ex_showroom_surat": {
+        "metallic": 792590,
+        "non_metallic": 792590
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol-CNG",
+          "Fuel-Efficiency (km/l)*": "33.61 km/kg*",
+          "Fuel Tank Capacity (L)": "Petrol: 37, CNG: 55 (Water Equivalent)"
+        },
+        "Dimensions": {
+          "Length (mm)": "3990",
+          "Width (mm)": "1745",
+          "Height (mm)": "1530",
+          "Wheelbase (mm)": "2520",
+          "Turning Radius (m)": "4.85",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "1045-1055",
+          "Gross Vehicle Weight (Kg)": "1480",
+          "Boot Space (L)": "NA"
+        },
+        "Engine": {
+          "Engine Type": "Z12 Engine",
+          "Displacement (cc)": "1197 cc",
+          "Max Power (1 KW =1.35962 PS)": "61 kW@5700 rpm or 82.93 PS@5700 rpm (Petrol Mode) and 51.3kW@ 5700 rpm (69.75 PS@ 5700rpm) (CNG Mode)",
+          "Max Torque (Nm @ rpm)": "112.4@4500 (Gas Mode), 101.8@2900 (CNG Mode)",
+          "No.of Cylinders": 3.0
+        },
+        "Transmission": {
+          "Transmission Type": "Manual",
+          "Drive Type": "5MT"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut",
+          "Rear Suspension": "Torsion Beam"
+        },
+        "Tyre": {
+          "Tyre": "185/65 R15 (Steel)",
+          "Wheel Type": "Full Wheel Cover"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Roof Spoiler",
+          "ORVM with Turn Indicator",
+          "Antenna: Shark Fin Antenna",
+          "Door Handles: Body coloured door handles",
+          "Full Wheel Covers: Full Wheel Cover",
+          "Fender Chrome Garnish",
+          "Body coloured bumpers",
+          "NEXTre Signature LED Tail Lamps",
+          "Projector Headlamps: Halogen",
+          "Signature NEXWave Grille: Material + Chrome Detailing"
+        ],
+        "Interior": [
+          "MID Display: MID (Segment Display)",
+          "Dual Tone Interior",
+          "Cup Holders",
+          "Adjustable Headrest",
+          "Rear Seat Adjustable Headrest",
+          "Rear Parcel Tray",
+          "60:40 Split Rear Seat",
+          "Seat Upholstery: Fabric",
+          "Front Center Arm Rest"
+        ],
+        "Safety": [
+          "6 Airbags",
+          "ABS with EBD",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "ISOFIX Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "Tyre-Pressure Monitoring System (TPMS)",
+          "High-Speed Alert System",
+          "Rear Window Defogger",
+          "Adjustable Front Seatbelt Height Anchors",
+          "Front Ventilated Disc Brakes: Disc",
+          "Warning Lamps for Low Fuel & Door Ajar",
+          "Brake Assist Function",
+          "Emergency Stop Signal [LED]",
+          "Front Seat Belt Pretensioner with Force Limiter & Height Adjuster",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "All Seat Belts – 3 Point ELR"
+        ],
+        "Comfort & Convenience": [
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Steering-Mounted Audio Controls",
+          "Auto Up/Down Power Window",
+          "Rear Defogger",
+          "Gear Shift Indicator",
+          "Rear AC Vents",
+          "Automatic Climate Control: Digital Manual AC",
+          "Central Locking",
+          "Rear Charging USB Port (A & C Type)",
+          "Electrically Adjustable ORVMs",
+          "Security Alarm",
+          "Digital Air Conditioner with Panel Illumination: Yes(Manual)",
+          "Driver side power window auto up / down with pitch guard",
+          "Power-Steering: Tilt"
+        ],
+        "Infotainment": [
+          "Speedometer with Tachometer",
+          "Gear Shift Indicator",
+          "Touch Screen Audio",
+          "Android Auto and Apple CarPlay: Wireless",
+          "Steering Mounted Controls: Audio and Bluetooth",
+          "Rear Seatbelt Reminder Warning Indicator",
+          "Steering Mounted Controls: Audio and Bluetooth"
+        ],
+        "Audio & Entertainment": [
+          "SmartPlay Pro: 17.78 cm touch-screen",
+          "Number of Speakers: 4.0",
+          "Wireless Android Auto & Apple CarPlay: Wireless"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/nexa/in/en/assets/cars/baleno/images/front-tilted-view/Suzuki_Baleno_3-4th_(Co_Dr)_Low_Angle_left_CMYK_1.png"
+    },
+    {
+      "code": "BZR4MZ1",
+      "name": "Zeta MT",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": 6,
+      "ex_showroom_surat": {
+        "metallic": 800090,
+        "non_metallic": 800090
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel-Efficiency (km/l)*": "23.80 km/l*",
+          "Fuel Tank Capacity (L)": "37"
+        },
+        "Dimensions": {
+          "Length (mm)": "3990",
+          "Width (mm)": "1745",
+          "Height (mm)": "1530",
+          "Wheelbase (mm)": "2520",
+          "Turning Radius (m)": "4.85",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "950-985",
+          "Gross Vehicle Weight (Kg)": "1410",
+          "Boot Space (L)": "318*"
+        },
+        "Engine": {
+          "Engine Type": "Z12 Engine",
+          "Displacement (cc)": "1197 cc",
+          "Max Power (1 KW =1.35962 PS)": "61 kW@5700 rpm or 82.93 PS@5700 rpm",
+          "Max Torque (Nm @ rpm)": "112.4@4500",
+          "No.of Cylinders": 3.0
+        },
+        "Transmission": {
+          "Transmission Type": "Manual",
+          "Drive Type": "5MT"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut",
+          "Rear Suspension": "Torsion Beam"
+        },
+        "Tyre": {
+          "Tyre": "195/55 R16 (Alloy)",
+          "Wheel Type": "Painted Alloy wheels"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Roof Spoiler",
+          "Follow-Me Home Headlamp",
+          "ORVM with Turn Indicator",
+          "Antenna: Shark Fin Antenna",
+          "Rear Window Wiper & Washer",
+          "Door Handles: Chrome plated door handles",
+          "Full Wheel Covers: Painted Alloy wheels",
+          "Back door chrome garnish",
+          "Fender Chrome Garnish",
+          "Body coloured bumpers",
+          "NEXTre LED DRL",
+          "NEXTre Signature LED Tail Lamps",
+          "Projector Headlamps: LED",
+          "Signature NEXWave Grille: Material + Chrome Detailing"
+        ],
+        "Interior": [
+          "MID Display: MID (TFT Colour Display)",
+          "Dual Tone Interior",
+          "Cup Holders",
+          "Adjustable Headrest",
+          "Rear Seat Adjustable Headrest",
+          "Height Adjustable Driver Seat",
+          "Rear Parcel Tray",
+          "Front Footwell Light ",
+          "60:40 Split Rear Seat",
+          "Seat Upholstery: Fabric",
+          "Front Center Arm Rest"
+        ],
+        "Safety": [
+          "6 Airbags",
+          "ABS with EBD",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Side & Curtain Airbags",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "ISOFIX Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "Rear Parking Camera",
+          "Tyre-Pressure Monitoring System (TPMS)",
+          "High-Speed Alert System",
+          "Rear Window Defogger",
+          "Adjustable Front Seatbelt Height Anchors",
+          "Front Ventilated Disc Brakes: Disc",
+          "Warning Lamps for Low Fuel & Door Ajar",
+          "Brake Assist Function",
+          "Emergency Stop Signal [LED]",
+          "Front Seat Belt Pretensioner with Force Limiter & Height Adjuster",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "All Seat Belts – 3 Point ELR"
+        ],
+        "Comfort & Convenience": [
+          "Engine Push Start/Stop with Smart Key",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Steering-Mounted Audio Controls",
+          "Auto Up/Down Power Window",
+          "Rear Defogger",
+          "Gear Shift Indicator",
+          "Rear AC Vents",
+          "Automatic Climate Control",
+          "Central Locking",
+          "Rear Charging USB Port (A & C Type)",
+          "Onboard Voice Assistant (Hi Suzuki with Barge-In)",
+          "Electrically Adjustable ORVMs",
+          "Security Alarm",
+          "Digital Air Conditioner with Panel Illumination: Yes(Auto)",
+          "Wireless Charging Dock with Active Cooling",
+          "Driver side power window auto up / down with pitch guard",
+          "Power-Steering: Tilt & Telescopic"
+        ],
+        "Suzuki Connect": [
+          "Emergency Alerts",
+          "Breakdown Notification",
+          "Stolen Vehicle Notification and Tracking",
+          "Immobilizer Request",
+          "Tow Away Alert and Tracking",
+          "Geofence",
+          "Valet Alert",
+          "Door Lock/Cancel Lock",
+          "Headlight Off",
+          "Hazard Lights On/Off",
+          "Alarm On/Off",
+          "Smartwatch Connectivity",
+          "Suzuki Connect Skills for Amazon Alexa",
+          "Low Fuel & Low Range Alert",
+          "Over Speed Alert",
+          "AC Idling",
+          "Seat Belt Alert",
+          "Battery Status",
+          "Trip (Start & End)",
+          "Live Vehicle Tracking & Location sharing",
+          "Driving Score & Behaviour",
+          "View & Share Trip History",
+          "Guidance Around Destination",
+          "Time Fence",
+          "Trip Summary",
+          "Dashboard View"
+        ],
+        "Infotainment": [
+          "Speedometer with Tachometer",
+          "Gear Shift Indicator",
+          "Touch Screen Audio",
+          "Android Auto and Apple CarPlay: Wireless",
+          "Steering Mounted Controls: Audio and Bluetooth",
+          "Rear Seatbelt Reminder Warning Indicator",
+          "Steering Mounted Controls: Audio and Bluetooth"
+        ],
+        "Audio & Entertainment": [
+          "SmartPlay Pro: 22.86 cm touch-screen",
+          "Surround Sense Powered by ARKAMYS",
+          "Number of Speakers: 4.0",
+          "Wireless Android Auto & Apple CarPlay: Wireless",
+          "Tweeters: 2"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/nexa/in/en/assets/cars/baleno/images/front-tilted-view/Suzuki_Baleno_3-4th_(Co_Dr)_Low_Angle_left_CMYK_1.png"
+    },
+    {
+      "code": "BZACMV1",
+      "name": "Delta CNG + AGS",
+      "fuel": "CNG",
+      "transmission": "Automatic",
+      "technology": [
+        "S-CNG"
+      ],
+      "airbags": null,
+      "ex_showroom_surat": {
+        "metallic": 832590,
+        "non_metallic": 832590
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol-CNG",
+          "Fuel-Efficiency (km/l)*": "34.47km/kg*",
+          "Fuel Tank Capacity (L)": "Petrol: 37, CNG: 55 (Water Equivalent)"
+        },
+        "Dimensions": {
+          "Length (mm)": "3990",
+          "Width (mm)": "1745",
+          "Height (mm)": "1530",
+          "Wheelbase (mm)": "2520",
+          "Turning Radius (m)": "4.85",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "1050",
+          "Gross Vehicle Weight (Kg)": "1480",
+          "Boot Space (L)": "NA"
+        },
+        "Transmission": {
+          "Transmission Type": "Automatic",
+          "Drive Type": "2WD"
+        },
+        "Engine": {
+          "Engine Type": "Z12 E Series Engine",
+          "Displacement (cc)": "1197 cc",
+          "Max Power (1 KW =1.35962 PS)": "Gas Mode: 61kW @ 5700 rpm (82.93 PS@5700 rpm)\r\nCNG Mode: 51.3kW@ 5700 rpm (69.75 PS@ 5700rpm)",
+          "Max Torque (Nm @ rpm)": "Gas Mode: 112.4Nm @ 4500 rpm\r\nCNG Mode: 101.8Nm @ 2900 rpm",
+          "No.of Cylinders": 3.0
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut",
+          "Rear Suspension": "Torsion Beam"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Drum"
+        },
+        "Tyre": {
+          "Tyre": "185/65 R15 (Steel)"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "ORVM with Turn Indicator",
+          "Antenna: Shark Fin Antenna",
+          "Door Handles: Body coloured door handles",
+          "Full Wheel Covers: Full Wheel Cover",
+          "Back Door Spoiler",
+          "Fender Chrome Garnish",
+          "Body coloured bumpers",
+          "NEXTre Signature LED Tail Lamps",
+          "Projector Headlamps: Halogen",
+          "Signature NEXWave Grille: Material + Chrome Detailing"
+        ],
+        "Interior": [
+          "MID Display: MID (Segment Display)",
+          "Dual Tone Interior",
+          "Cup Holders",
+          "Adjustable Headrest",
+          "Rear Seat Adjustable Headrest",
+          "Rear Parcel Tray",
+          "60:40 Split Rear Seat",
+          "Seat Upholstery: Fabric",
+          "Front Center Arm Rest"
+        ],
+        "Safety": [
+          "6 Airbags",
+          "ABS with EBD",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "ISOFIX Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "Tyre-Pressure Monitoring System (TPMS)",
+          "High-Speed Alert System",
+          "Rear Window Defogger",
+          "Front Ventilated Disc Brakes: Disc",
+          "Warning Lamps for Low Fuel & Door Ajar",
+          "Brake Assist Function",
+          "Emergency Stop Signal [LED]",
+          "Front Seat Belt Pretensioner with Force Limiter & Height Adjuster",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "All Seat Belts – 3 Point ELR"
+        ],
+        "Comfort & Convenience": [
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Idle Start Stop (ISS)",
+          "Rear Defogger",
+          "Gear Shift Indicator",
+          "Driver Side Foot Rest",
+          "Rear AC Vents",
+          "Automatic Climate Control: Digital Manual AC",
+          "Central Locking",
+          "Rear Charging USB Port (A & C Type)",
+          "Steering Mounted Controls",
+          "Electrically Adjustable ORVMs",
+          "Security Alarm",
+          "Digital Air Conditioner with Panel Illumination: Yes(Manual)",
+          "Driver side power window auto up / down with pitch guard",
+          "Power-Steering: Tilt"
+        ],
+        "Infotainment": [
+          "Speedometer with Tachometer",
+          "Touch Screen Audio",
+          "Android Auto and Apple CarPlay: Yes (Wireless)",
+          "Rear Seatbelt Reminder Warning Indicator"
+        ],
+        "Audio & Entertainment": [
+          "SmartPlay Pro: 17.78 cm touch-screen",
+          "Number of Speakers: 4.0"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/nexa/in/en/assets/cars/baleno/images/front-tilted-view/Suzuki_Baleno_3-4th_(Co_Dr)_Low_Angle_left_CMYK_1.png"
+    },
+    {
+      "code": "BZA4MZ1",
+      "name": "Zeta AGS",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": 6,
+      "ex_showroom_surat": {
+        "metallic": 850090,
+        "non_metallic": 850090
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel-Efficiency (km/l)*": "24.77 km/l*",
+          "Fuel Tank Capacity (L)": "37"
+        },
+        "Dimensions": {
+          "Length (mm)": "3990",
+          "Width (mm)": "1745",
+          "Height (mm)": "1530",
+          "Wheelbase (mm)": "2520",
+          "Turning Radius (m)": "4.85",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "965-990",
+          "Gross Vehicle Weight (Kg)": "1410",
+          "Boot Space (L)": "318*"
+        },
+        "Engine": {
+          "Engine Type": "Z12 Engine",
+          "Displacement (cc)": "1197 cc",
+          "Max Power (1 KW =1.35962 PS)": "61 kW@5700 rpm or 82.93 PS@5700 rpm",
+          "Max Torque (Nm @ rpm)": "112.4@4500",
+          "No.of Cylinders": 3.0
+        },
+        "Transmission": {
+          "Transmission Type": "Automatic",
+          "Drive Type": "5AMT"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut",
+          "Rear Suspension": "Torsion Beam"
+        },
+        "Tyre": {
+          "Tyre": "195/55 R16 (Alloy)",
+          "Wheel Type": "Painted Alloy wheels"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Roof Spoiler",
+          "Follow-Me Home Headlamp",
+          "ORVM with Turn Indicator",
+          "Antenna: Shark Fin Antenna",
+          "Rear Window Wiper & Washer",
+          "Door Handles: Chrome plated door handles",
+          "Full Wheel Covers: Painted Alloy wheels",
+          "Back door chrome garnish",
+          "Fender Chrome Garnish",
+          "Body coloured bumpers",
+          "NEXTre LED DRL",
+          "NEXTre Signature LED Tail Lamps",
+          "Projector Headlamps: LED",
+          "Signature NEXWave Grille: Material + Chrome Detailing"
+        ],
+        "Interior": [
+          "MID Display: MID (TFT Colour Display)",
+          "Dual Tone Interior",
+          "Cup Holders",
+          "Adjustable Headrest",
+          "Rear Seat Adjustable Headrest",
+          "Height Adjustable Driver Seat",
+          "Rear Parcel Tray",
+          "Front Footwell Light ",
+          "60:40 Split Rear Seat",
+          "Seat Upholstery: Fabric",
+          "Front Center Arm Rest"
+        ],
+        "Safety": [
+          "6 Airbags",
+          "ABS with EBD",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Side & Curtain Airbags",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "ISOFIX Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "Rear Parking Camera",
+          "Tyre-Pressure Monitoring System (TPMS)",
+          "High-Speed Alert System",
+          "Rear Window Defogger",
+          "Adjustable Front Seatbelt Height Anchors",
+          "Front Ventilated Disc Brakes: Disc",
+          "Warning Lamps for Low Fuel & Door Ajar",
+          "Brake Assist Function",
+          "Emergency Stop Signal [LED]",
+          "Front Seat Belt Pretensioner with Force Limiter & Height Adjuster",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "All Seat Belts – 3 Point ELR"
+        ],
+        "Comfort & Convenience": [
+          "Engine Push Start/Stop with Smart Key",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Steering-Mounted Audio Controls",
+          "Auto Up/Down Power Window",
+          "Rear Defogger",
+          "Gear Shift Indicator",
+          "Driver Side Foot Rest",
+          "Rear AC Vents",
+          "Automatic Climate Control",
+          "Central Locking",
+          "Rear Charging USB Port (A & C Type)",
+          "Onboard Voice Assistant (Hi Suzuki with Barge-In)",
+          "Electrically Adjustable ORVMs",
+          "Security Alarm",
+          "Digital Air Conditioner with Panel Illumination: Yes(Auto)",
+          "Wireless Charging Dock with Active Cooling",
+          "Driver side power window auto up / down with pitch guard",
+          "Power-Steering: Tilt & Telescopic"
+        ],
+        "Suzuki Connect": [
+          "Emergency Alerts",
+          "Breakdown Notification",
+          "Stolen Vehicle Notification and Tracking",
+          "Immobilizer Request",
+          "Tow Away Alert and Tracking",
+          "Geofence",
+          "Safe Time Alert",
+          "Valet Alert",
+          "Door Lock/Cancel Lock",
+          "Headlight Off",
+          "Hazard Lights On/Off",
+          "Alarm On/Off",
+          "Smartwatch Connectivity",
+          "Suzuki Connect Skills for Amazon Alexa",
+          "Low Fuel & Low Range Alert",
+          "Over Speed Alert",
+          "AC Idling",
+          "Seat Belt Alert",
+          "Battery Status",
+          "Trip (Start & End)",
+          "Live Vehicle Tracking & Location sharing",
+          "Driving Score & Behaviour",
+          "Navigate to Car",
+          "View & Share Trip History",
+          "Guidance Around Destination",
+          "Time Fence",
+          "Trip Summary",
+          "Dashboard View"
+        ],
+        "Infotainment": [
+          "Speedometer with Tachometer",
+          "Gear Shift Indicator",
+          "Touch Screen Audio",
+          "Android Auto and Apple CarPlay: Wireless",
+          "Steering Mounted Controls: Audio and Bluetooth",
+          "Rear Seatbelt Reminder Warning Indicator",
+          "Steering Mounted Controls: Audio and Bluetooth"
+        ],
+        "Audio & Entertainment": [
+          "SmartPlay Pro: 22.86 cm touch-screen",
+          "Surround Sense Powered by ARKAMYS",
+          "Number of Speakers: 4.0",
+          "Wireless Android Auto & Apple CarPlay: Wireless",
+          "Tweeters: 2"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/nexa/in/en/assets/cars/baleno/images/front-tilted-view/Suzuki_Baleno_3-4th_(Co_Dr)_Low_Angle_left_CMYK_1.png"
+    },
+    {
+      "code": "BZRCMZ1",
+      "name": "Zeta CNG MT",
+      "fuel": "CNG",
+      "transmission": "Manual",
+      "technology": [
+        "S-CNG"
+      ],
+      "airbags": 6,
+      "ex_showroom_surat": {
+        "metallic": 892590,
+        "non_metallic": 892590
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol-CNG",
+          "Fuel-Efficiency (km/l)*": "33.61 km/kg*",
+          "Fuel Tank Capacity (L)": "Petrol: 37, CNG: 55 (Water Equivalent)"
+        },
+        "Dimensions": {
+          "Length (mm)": "3990",
+          "Width (mm)": "1745",
+          "Height (mm)": "1530",
+          "Wheelbase (mm)": "2520",
+          "Turning Radius (m)": "4.85",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "1045-1055",
+          "Gross Vehicle Weight (Kg)": "1480",
+          "Boot Space (L)": "NA"
+        },
+        "Engine": {
+          "Engine Type": "Z12 Engine",
+          "Displacement (cc)": "1197 cc",
+          "Max Power (1 KW =1.35962 PS)": "61 kW@5700 rpm or 82.93 PS@5700 rpm (Petrol Mode) and 51.3kW@ 5700 rpm (69.75 PS@ 5700rpm) (CNG Mode)",
+          "Max Torque (Nm @ rpm)": "112.4@4500 (Gas Mode), 101.8@2900 (CNG Mode)",
+          "No.of Cylinders": 3.0
+        },
+        "Transmission": {
+          "Transmission Type": "Manual",
+          "Drive Type": "5MT"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut",
+          "Rear Suspension": "Torsion Beam"
+        },
+        "Tyre": {
+          "Tyre": "195/55 R16 (Alloy)",
+          "Wheel Type": "Painted Alloy wheels"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Roof Spoiler",
+          "Follow-Me Home Headlamp",
+          "ORVM with Turn Indicator",
+          "Antenna: Shark Fin Antenna",
+          "Rear Window Wiper & Washer",
+          "Door Handles: Chrome plated door handles",
+          "Full Wheel Covers: Painted Alloy wheels",
+          "Back door chrome garnish",
+          "Fender Chrome Garnish",
+          "Body coloured bumpers",
+          "NEXTre LED DRL",
+          "NEXTre Signature LED Tail Lamps",
+          "Projector Headlamps: LED",
+          "Signature NEXWave Grille: Material + Chrome Detailing"
+        ],
+        "Interior": [
+          "MID Display: MID (TFT Colour Display)",
+          "Dual Tone Interior",
+          "Cup Holders",
+          "Adjustable Headrest",
+          "Rear Seat Adjustable Headrest",
+          "Height Adjustable Driver Seat",
+          "Rear Parcel Tray",
+          "Front Footwell Light ",
+          "60:40 Split Rear Seat",
+          "Seat Upholstery: Fabric",
+          "Front Center Arm Rest"
+        ],
+        "Safety": [
+          "6 Airbags",
+          "ABS with EBD",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Side & Curtain Airbags",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "ISOFIX Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "Rear Parking Camera",
+          "Tyre-Pressure Monitoring System (TPMS)",
+          "High-Speed Alert System",
+          "Rear Window Defogger",
+          "Adjustable Front Seatbelt Height Anchors",
+          "Front Ventilated Disc Brakes: Disc",
+          "Warning Lamps for Low Fuel & Door Ajar",
+          "Brake Assist Function",
+          "Emergency Stop Signal [LED]",
+          "Front Seat Belt Pretensioner with Force Limiter & Height Adjuster",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "All Seat Belts – 3 Point ELR"
+        ],
+        "Comfort & Convenience": [
+          "Engine Push Start/Stop with Smart Key",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Steering-Mounted Audio Controls",
+          "Auto Up/Down Power Window",
+          "Rear Defogger",
+          "Gear Shift Indicator",
+          "Rear AC Vents",
+          "Automatic Climate Control",
+          "Central Locking",
+          "Rear Charging USB Port (A & C Type)",
+          "Onboard Voice Assistant (Hi Suzuki with Barge-In)",
+          "Electrically Adjustable ORVMs",
+          "Security Alarm",
+          "Digital Air Conditioner with Panel Illumination: Yes(Auto)",
+          "Wireless Charging Dock with Active Cooling",
+          "Driver side power window auto up / down with pitch guard",
+          "Power-Steering: Tilt & Telescopic"
+        ],
+        "Suzuki Connect": [
+          "Emergency Alerts",
+          "Breakdown Notification",
+          "Stolen Vehicle Notification and Tracking",
+          "Immobilizer Request",
+          "Tow Away Alert and Tracking",
+          "Geofence",
+          "Safe Time Alert",
+          "Valet Alert",
+          "Door Lock/Cancel Lock",
+          "Headlight Off",
+          "Hazard Lights On/Off",
+          "Alarm On/Off",
+          "Smartwatch Connectivity",
+          "Suzuki Connect Skills for Amazon Alexa",
+          "Over Speed Alert",
+          "AC Idling",
+          "Seat Belt Alert",
+          "Battery Status",
+          "Trip (Start & End)",
+          "Live Vehicle Tracking & Location sharing",
+          "Driving Score & Behaviour",
+          "Navigate to Car",
+          "View & Share Trip History",
+          "Guidance Around Destination",
+          "Time Fence",
+          "Trip Summary",
+          "Dashboard View"
+        ],
+        "Infotainment": [
+          "Speedometer with Tachometer",
+          "Gear Shift Indicator",
+          "Touch Screen Audio",
+          "Android Auto and Apple CarPlay: Wireless",
+          "Steering Mounted Controls: Audio and Bluetooth",
+          "Rear Seatbelt Reminder Warning Indicator",
+          "Steering Mounted Controls: Audio and Bluetooth"
+        ],
+        "Audio & Entertainment": [
+          "SmartPlay Pro: 22.86 cm touch-screen",
+          "Surround Sense Powered by ARKAMYS",
+          "Number of Speakers: 4.0",
+          "Wireless Android Auto & Apple CarPlay: Wireless",
+          "Tweeters: 2"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/nexa/in/en/assets/cars/baleno/images/front-tilted-view/Suzuki_Baleno_3-4th_(Co_Dr)_Low_Angle_left_CMYK_1.png"
+    },
+    {
+      "code": "BZR4MZ2",
+      "name": "Alpha MT",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": 6,
+      "ex_showroom_surat": {
+        "metallic": 910090,
+        "non_metallic": 910090
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel-Efficiency (km/l)*": "23.80 km/l*",
+          "Fuel Tank Capacity (L)": "37"
+        },
+        "Dimensions": {
+          "Length (mm)": "3990",
+          "Width (mm)": "1745",
+          "Height (mm)": "1530",
+          "Wheelbase (mm)": "2520",
+          "Turning Radius (m)": "4.85",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "950-985",
+          "Gross Vehicle Weight (Kg)": "1410",
+          "Boot Space (L)": "318*"
+        },
+        "Engine": {
+          "Engine Type": "Z12 Engine",
+          "Displacement (cc)": "1197 cc",
+          "Max Power (1 KW =1.35962 PS)": "61 kW@5700 rpm or 82.93 PS@5700 rpm",
+          "Max Torque (Nm @ rpm)": "112.4@4500",
+          "No.of Cylinders": 3.0
+        },
+        "Transmission": {
+          "Transmission Type": "Manual",
+          "Drive Type": "5MT"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut",
+          "Rear Suspension": "Torsion Beam"
+        },
+        "Tyre": {
+          "Tyre": "195/55 R16 (Alloy)",
+          "Wheel Type": "Precision cut Alloy wheels"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Roof Spoiler",
+          "Follow-Me Home Headlamp",
+          "Fog Lamps: LED",
+          "ORVM with Turn Indicator",
+          "Antenna: Shark Fin Antenna",
+          "Rear Window Wiper & Washer",
+          "UV Cut Glass",
+          "Door Handles: Chrome plated door handles",
+          "Full Wheel Covers: Precision cut Alloy wheels",
+          "Back door chrome garnish",
+          "Fender Chrome Garnish",
+          "Body coloured bumpers",
+          "NEXTre LED DRL",
+          "NEXTre Signature LED Tail Lamps",
+          "Projector Headlamps: LED",
+          "Signature NEXWave Grille: Material + Chrome Detailing"
+        ],
+        "Interior": [
+          "Leatherette Steering Wheel",
+          "MID Display: MID (TFT Colour Display)",
+          "Dual Tone Interior",
+          "Cup Holders",
+          "Adjustable Headrest",
+          "Rear Seat Adjustable Headrest",
+          "Height Adjustable Driver Seat",
+          "Rear Parcel Tray",
+          "Head Up Display",
+          "Front Footwell Light ",
+          "60:40 Split Rear Seat",
+          "Seat Upholstery: Fabric + artificial leather",
+          "Front Center Arm Rest",
+          "Co-Driver Side Vanity Lamp"
+        ],
+        "Safety": [
+          "6 Airbags",
+          "ABS with EBD",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Side & Curtain Airbags",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "ISOFIX Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "Rear Parking Camera",
+          "Tyre-Pressure Monitoring System (TPMS)",
+          "High-Speed Alert System",
+          "Rear Window Defogger",
+          "Adjustable Front Seatbelt Height Anchors",
+          "Front Ventilated Disc Brakes: Disc",
+          "Warning Lamps for Low Fuel & Door Ajar",
+          "Brake Assist Function",
+          "360 View Camera",
+          "Emergency Stop Signal [LED]",
+          "Front Seat Belt Pretensioner with Force Limiter & Height Adjuster",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "All Seat Belts – 3 Point ELR"
+        ],
+        "Comfort & Convenience": [
+          "Engine Push Start/Stop with Smart Key",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Steering-Mounted Audio Controls",
+          "Auto Up/Down Power Window",
+          "Rear Defogger",
+          "Gear Shift Indicator",
+          "Rear AC Vents",
+          "Cruise Control",
+          "Automatic Climate Control",
+          "Central Locking",
+          "Front Ventilated Seats (Driver & Co-driver)",
+          "Manual Day/Night IRVM",
+          "Rear Charging USB Port (A & C Type)",
+          "Auto Folding ORVMs",
+          "Onboard Voice Assistant (Hi Suzuki with Barge-In)",
+          "Electrically Adjustable ORVMs",
+          "Security Alarm",
+          "Digital Air Conditioner with Panel Illumination: Yes(Auto)",
+          "Wireless Charging Dock with Active Cooling",
+          "Auto Dimming IRVM",
+          "Driver side power window auto up / down with pitch guard",
+          "Power-Steering: Tilt & Telescopic"
+        ],
+        "Suzuki Connect": [
+          "Emergency Alerts",
+          "Breakdown Notification",
+          "Stolen Vehicle Notification and Tracking",
+          "Immobilizer Request",
+          "Tow Away Alert and Tracking",
+          "Geofence",
+          "Safe Time Alert",
+          "Valet Alert",
+          "Door Lock/Cancel Lock",
+          "Headlight Off",
+          "Hazard Lights On/Off",
+          "Alarm On/Off",
+          "Smartwatch Connectivity",
+          "Suzuki Connect Skills for Amazon Alexa",
+          "Low Fuel & Low Range Alert",
+          "Over Speed Alert",
+          "AC Idling",
+          "Seat Belt Alert",
+          "Battery Status",
+          "Trip (Start & End)",
+          "Live Vehicle Tracking & Location sharing",
+          "Driving Score & Behaviour",
+          "Navigate to Car",
+          "View & Share Trip History",
+          "Guidance Around Destination",
+          "Time Fence",
+          "Trip Summary",
+          "Dashboard View"
+        ],
+        "Infotainment": [
+          "Speedometer with Tachometer",
+          "Gear Shift Indicator",
+          "Touch Screen Audio",
+          "Android Auto and Apple CarPlay: Wireless",
+          "Steering Mounted Controls: Audio and Bluetooth",
+          "Rear Seatbelt Reminder Warning Indicator",
+          "Steering Mounted Controls: Audio and Bluetooth"
+        ],
+        "Audio & Entertainment": [
+          "SmartPlay Pro: 22.86 cm touch-screen",
+          "Number of Speakers: 4.0",
+          "Wireless Android Auto & Apple CarPlay: Wireless",
+          "Tweeters: 2",
+          "Premium Sound System by Clarion"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/nexa/in/en/assets/cars/baleno/images/front-tilted-view/Suzuki_Baleno_3-4th_(Co_Dr)_Low_Angle_left_CMYK_1.png"
+    },
+    {
+      "code": "BZACMZ1",
+      "name": "Zeta CNG + AGS",
+      "fuel": "CNG",
+      "transmission": "Automatic",
+      "technology": [
+        "S-CNG"
+      ],
+      "airbags": null,
+      "ex_showroom_surat": {
+        "metallic": 932590,
+        "non_metallic": 932590
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol-CNG",
+          "Fuel-Efficiency (km/l)*": "34.47km/kg*",
+          "Fuel Tank Capacity (L)": "Petrol: 37, CNG: 55 (Water Equivalent)"
+        },
+        "Dimensions": {
+          "Length (mm)": "3990",
+          "Width (mm)": "1745",
+          "Height (mm)": "1530",
+          "Wheelbase (mm)": "2520",
+          "Turning Radius (m)": "4.85",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "1060",
+          "Gross Vehicle Weight (Kg)": "1480",
+          "Boot Space (L)": "NA"
+        },
+        "Transmission": {
+          "Transmission Type": "Automatic",
+          "Drive Type": "2WD"
+        },
+        "Engine": {
+          "Engine Type": "Z12 E Series Engine",
+          "Displacement (cc)": "1197 cc",
+          "Max Power (1 KW =1.35962 PS)": "Gas Mode: 61kW @ 5700 rpm (82.93 PS@5700 rpm)CNG Mode: 51.3kW@ 5700 rpm (69.75 PS@ 5700rpm)",
+          "Max Torque (Nm @ rpm)": "Gas Mode: 112.4Nm @ 4500 rpmCNG Mode: 101.8Nm @ 2900 rpm",
+          "No.of Cylinders": 3.0
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut",
+          "Rear Suspension": "Torsion Beam"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Drum"
+        },
+        "Tyre": {
+          "Tyre": "195/55 R16 (Alloy)"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Follow-me Home Headlamps",
+          "ORVM with Turn Indicator",
+          "Antenna: Shark Fin Antenna",
+          "Rear Window Wiper & Washer",
+          "Door Handles: Chrome plated door handles",
+          "Full Wheel Covers: Painted Alloy wheels",
+          "Back door chrome garnish",
+          "Back Door Spoiler",
+          "Fender Chrome Garnish",
+          "Body coloured bumpers",
+          "NEXTre LED DRL",
+          "NEXTre Signature LED Tail Lamps",
+          "Projector Headlamps: LED",
+          "Signature NEXWave Grille: Material + Chrome Detailing"
+        ],
+        "Interior": [
+          "MID Display: MID (TFT Colour Display)",
+          "Dual Tone Interior",
+          "Cup Holders",
+          "Adjustable Headrest",
+          "Rear Seat Adjustable Headrest",
+          "Height Adjustable Driver Seat",
+          "Rear Parcel Tray",
+          "Front Footwell Light ",
+          "60:40 Split Rear Seat",
+          "Seat Upholstery: Fabric",
+          "Front Center Arm Rest"
+        ],
+        "Safety": [
+          "6 Airbags",
+          "ABS with EBD",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "ISOFIX Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "Rear Parking Camera",
+          "Tyre-Pressure Monitoring System (TPMS)",
+          "High-Speed Alert System",
+          "Rear Window Defogger",
+          "Front Ventilated Disc Brakes: Disc",
+          "Warning Lamps for Low Fuel & Door Ajar",
+          "Brake Assist Function",
+          "Emergency Stop Signal [LED]",
+          "Front Seat Belt Pretensioner with Force Limiter & Height Adjuster",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "All Seat Belts – 3 Point ELR"
+        ],
+        "Comfort & Convenience": [
+          "Engine Push Start/Stop with Smart Key",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Idle Start Stop (ISS)",
+          "Rear Defogger",
+          "Gear Shift Indicator",
+          "Driver Side Foot Rest",
+          "Rear AC Vents",
+          "Automatic Climate Control",
+          "Central Locking",
+          "Rear Charging USB Port (A & C Type)",
+          "Steering Mounted Controls",
+          "Onboard Voice Assistant (Hi Suzuki with Barge-In)",
+          "Connected Services – Suzuki Connect",
+          "Electrically Adjustable ORVMs",
+          "Security Alarm",
+          "Digital Air Conditioner with Panel Illumination: Yes(Auto)",
+          "Wireless Charging Dock with Active Cooling",
+          "Driver side power window auto up / down with pitch guard",
+          "Power-Steering: Tilt & Telescopic"
+        ],
+        "Suzuki Connect": [
+          "Emergency Alerts",
+          "Breakdown Notification",
+          "Stolen Vehicle Notification and Tracking",
+          "Immobilizer Request",
+          "Tow Away Alert and Tracking",
+          "Geofence",
+          "Valet Alert",
+          "Door Lock/Cancel Lock",
+          "Headlight Off",
+          "Hazard Lights On/Off",
+          "Alarm On/Off",
+          "Smartwatch Connectivity",
+          "Suzuki Connect Skills for Amazon Alexa",
+          "Over Speed Alert",
+          "AC Idling",
+          "Seat Belt Alert",
+          "Battery Status",
+          "Trip (Start & End)",
+          "Live Vehicle Tracking & Location sharing",
+          "Driving Score & Behaviour",
+          "View & Share Trip History",
+          "Time Fence",
+          "Area Guidance",
+          "Dashboard View"
+        ],
+        "Infotainment": [
+          "Speedometer with Tachometer",
+          "Touch Screen Audio",
+          "Android Auto and Apple CarPlay: Yes (Wireless)",
+          "Rear Seatbelt Reminder Warning Indicator"
+        ],
+        "Audio & Entertainment": [
+          "SmartPlay Pro: 22.86 cm touch-screen",
+          "Surround Sense Powered by ARKAMYS",
+          "Number of Speakers: 4.0",
+          "Tweeters: 2"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/nexa/in/en/assets/cars/baleno/images/front-tilted-view/Suzuki_Baleno_3-4th_(Co_Dr)_Low_Angle_left_CMYK_1.png"
+    },
+    {
+      "code": "BZR4MZB",
+      "name": "Alpha (O) MT",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": 6,
+      "ex_showroom_surat": {
+        "metallic": 950090,
+        "non_metallic": 950090
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel-Efficiency (km/l)*": "23.80 km/l*",
+          "Fuel Tank Capacity (L)": "37"
+        },
+        "Dimensions": {
+          "Length (mm)": "3990",
+          "Width (mm)": "1745",
+          "Height (mm)": "1530",
+          "Wheelbase (mm)": "2520",
+          "Turning Radius (m)": "4.85",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "950-985",
+          "Gross Vehicle Weight (Kg)": "1410",
+          "Boot Space (L)": "318*"
+        },
+        "Transmission": {
+          "Transmission Type": "Manual",
+          "Drive Type": "5MT"
+        },
+        "Engine": {
+          "Engine Type": "Z12 Engine",
+          "Displacement (cc)": "1197 cc",
+          "Max Power (1 KW =1.35962 PS)": "61 kW@5700 rpm or 82.93 PS@5700 rpm",
+          "Max Torque (Nm @ rpm)": "112.4@4500",
+          "No.of Cylinders": 3.0
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut",
+          "Rear Suspension": "Torsion Beam"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Drum"
+        },
+        "Tyre": {
+          "Tyre": "195/55 R16 (Alloy)",
+          "Wheel Type": "Precision cut Alloy wheels"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Roof Spoiler",
+          "Follow-Me Home Headlamp",
+          "Fog Lamps: LED",
+          "ORVM with Turn Indicator",
+          "Antenna: Shark Fin Antenna",
+          "Rear Window Wiper & Washer",
+          "UV Cut Glass",
+          "Door Handles: Chrome plated door handles",
+          "Full Wheel Covers: Precision cut Alloy wheels",
+          "Back door chrome garnish",
+          "Fender Chrome Garnish",
+          "Body coloured bumpers",
+          "NEXTre LED DRL",
+          "NEXTre Signature LED Tail Lamps",
+          "Projector Headlamps: LED",
+          "Signature NEXWave Grille: Painting + Chrome Detailing"
+        ],
+        "Interior": [
+          "Leatherette Steering Wheel",
+          "MID Display: MID (TFT Colour Display)",
+          "Dual Tone Interior",
+          "Cup Holders",
+          "Adjustable Headrest",
+          "Rear Seat Adjustable Headrest",
+          "Height Adjustable Driver Seat",
+          "Rear Parcel Tray",
+          "Head Up Display",
+          "Front Footwell Light ",
+          "60:40 Split Rear Seat",
+          "Seat Upholstery: Fabric + artificial leather",
+          "Front Center Arm Rest",
+          "Co-Driver Side Vanity Lamp"
+        ],
+        "Safety": [
+          "6 Airbags",
+          "ABS with EBD",
+          "Side & Curtain Airbags",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "ISOFIX Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "Rear Parking Camera",
+          "Tyre-Pressure Monitoring System (TPMS)",
+          "High-Speed Alert System",
+          "Rear Window Defogger",
+          "Adjustable Front Seatbelt Height Anchors",
+          "Front Ventilated Disc Brakes: Disc",
+          "Warning Lamps for Low Fuel & Door Ajar",
+          "Brake Assist Function",
+          "360 View Camera",
+          "Emergency Stop Signal [LED]",
+          "Front Seat Belt Pretensioner with Force Limiter & Height Adjuster",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "All Seat Belts – 3 Point ELR"
+        ],
+        "ADAS": [
+          "Lane Keep Assist",
+          "Lane Departure Prevention",
+          "Adaptive Cruise Control",
+          "Adaptive High-Beam System",
+          "Lane Departure Warning (LDW)",
+          "Vehicle Sway Warning",
+          "Forward Collision Warning (FCW)",
+          "Advanced Emergency Braking (AEB)"
+        ],
+        "Comfort & Convenience": [
+          "Engine Push Start/Stop with Smart Key",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Steering-Mounted Audio Controls",
+          "Auto Up/Down Power Window",
+          "Rear Defogger",
+          "Gear Shift Indicator",
+          "Driver Side Foot Rest",
+          "Rear AC Vents",
+          "Cruise Control: Yes (ACC)",
+          "Automatic Climate Control",
+          "Central Locking",
+          "Front Ventilated Seats (Driver & Co-driver)",
+          "Manual Day/Night IRVM",
+          "Rear Charging USB Port (A & C Type)",
+          "Auto Folding ORVMs",
+          "Onboard Voice Assistant (Hi Suzuki with Barge-In)",
+          "Electrically Adjustable ORVMs",
+          "Security Alarm",
+          "Digital Air Conditioner with Panel Illumination: Yes(Auto)",
+          "Wireless Charging Dock with Active Cooling",
+          "Auto Dimming IRVM",
+          "Driver side power window auto up / down with pitch guard",
+          "Power-Steering: Tilt & Telescopic"
+        ],
+        "Suzuki Connect": [
+          "Emergency Alerts",
+          "Breakdown Notification",
+          "Stolen Vehicle Notification and Tracking",
+          "Immobilizer Request",
+          "Tow Away Alert and Tracking",
+          "Geofence",
+          "Safe Time Alert",
+          "Valet Alert",
+          "Door Lock/Cancel Lock",
+          "Headlight Off",
+          "Hazard Lights On/Off",
+          "Alarm On/Off",
+          "Smartwatch Connectivity",
+          "Suzuki Connect Skills for Amazon Alexa",
+          "Low Fuel & Low Range Alert",
+          "Over Speed Alert",
+          "AC Idling",
+          "Seat Belt Alert",
+          "Battery Status",
+          "Trip (Start & End)",
+          "Live Vehicle Tracking & Location sharing",
+          "Driving Score & Behaviour",
+          "Navigate to Car",
+          "View & Share Trip History",
+          "Guidance Around Destination",
+          "Time Fence",
+          "Trip Summary",
+          "Dashboard View"
+        ],
+        "Infotainment": [
+          "Speedometer with Tachometer",
+          "Gear Shift Indicator",
+          "Touch Screen Audio",
+          "Android Auto and Apple CarPlay: Wireless",
+          "Rear Seatbelt Reminder Warning Indicator",
+          "Steering Mounted Controls: Audio and Bluetooth"
+        ],
+        "Audio & Entertainment": [
+          "SmartPlay Pro: 22.86 cm touch-screen",
+          "Number of Speakers: 4.0",
+          "Wireless Android Auto & Apple CarPlay: Wireless",
+          "Tweeters: 2",
+          "Premium Sound System by Clarion"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/nexa/in/en/assets/cars/baleno/images/front-tilted-view/Suzuki_Baleno_3-4th_(Co_Dr)_Low_Angle_left_CMYK_1.png"
+    },
+    {
+      "code": "BZA4MZ2",
+      "name": "Alpha AGS",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": 6,
+      "ex_showroom_surat": {
+        "metallic": 960090,
+        "non_metallic": 960090
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel-Efficiency (km/l)*": "24.77 km/l*",
+          "Fuel Tank Capacity (L)": "37"
+        },
+        "Dimensions": {
+          "Length (mm)": "3990",
+          "Width (mm)": "1745",
+          "Height (mm)": "1530",
+          "Wheelbase (mm)": "2520",
+          "Turning Radius (m)": "4.85",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "965-990",
+          "Gross Vehicle Weight (Kg)": "1410",
+          "Boot Space (L)": "318*"
+        },
+        "Engine": {
+          "Engine Type": "Z12 Engine",
+          "Displacement (cc)": "1197 cc",
+          "Max Power (1 KW =1.35962 PS)": "61 kW@5700 rpm or 82.93 PS@5700 rpm",
+          "Max Torque (Nm @ rpm)": "112.4@4500",
+          "No.of Cylinders": 3.0
+        },
+        "Transmission": {
+          "Transmission Type": "Automatic",
+          "Drive Type": "5AMT"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut",
+          "Rear Suspension": "Torsion Beam"
+        },
+        "Tyre": {
+          "Tyre": "195/55 R16 (Alloy)",
+          "Wheel Type": "Precision cut Alloy wheels"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Roof Spoiler",
+          "Follow-Me Home Headlamp",
+          "Fog Lamps: LED",
+          "ORVM with Turn Indicator",
+          "Antenna: Shark Fin Antenna",
+          "Rear Window Wiper & Washer",
+          "UV Cut Glass",
+          "Door Handles: Chrome plated door handles",
+          "Full Wheel Covers: Precision cut Alloy wheels",
+          "Back door chrome garnish",
+          "Fender Chrome Garnish",
+          "Body coloured bumpers",
+          "NEXTre LED DRL",
+          "NEXTre Signature LED Tail Lamps",
+          "Projector Headlamps: LED",
+          "Signature NEXWave Grille: Material + Chrome Detailing"
+        ],
+        "Interior": [
+          "Leatherette Steering Wheel",
+          "MID Display: MID (TFT Colour Display)",
+          "Dual Tone Interior",
+          "Cup Holders",
+          "Adjustable Headrest",
+          "Rear Seat Adjustable Headrest",
+          "Height Adjustable Driver Seat",
+          "Rear Parcel Tray",
+          "Head Up Display",
+          "Front Footwell Light ",
+          "60:40 Split Rear Seat",
+          "Seat Upholstery: Fabric + artificial leather",
+          "Front Center Arm Rest",
+          "Co-Driver Side Vanity Lamp"
+        ],
+        "Safety": [
+          "6 Airbags",
+          "ABS with EBD",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Side & Curtain Airbags",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "ISOFIX Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "Rear Parking Camera",
+          "Tyre-Pressure Monitoring System (TPMS)",
+          "High-Speed Alert System",
+          "Rear Window Defogger",
+          "Adjustable Front Seatbelt Height Anchors",
+          "Front Ventilated Disc Brakes: Disc",
+          "Warning Lamps for Low Fuel & Door Ajar",
+          "Brake Assist Function",
+          "360 View Camera",
+          "Emergency Stop Signal [LED]",
+          "Front Seat Belt Pretensioner with Force Limiter & Height Adjuster",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "All Seat Belts – 3 Point ELR"
+        ],
+        "Comfort & Convenience": [
+          "Engine Push Start/Stop with Smart Key",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Steering-Mounted Audio Controls",
+          "Auto Up/Down Power Window",
+          "Rear Defogger",
+          "Gear Shift Indicator",
+          "Driver Side Foot Rest",
+          "Rear AC Vents",
+          "Cruise Control",
+          "Automatic Climate Control",
+          "Central Locking",
+          "Front Ventilated Seats (Driver & Co-driver)",
+          "Manual Day/Night IRVM",
+          "Rear Charging USB Port (A & C Type)",
+          "Auto Folding ORVMs",
+          "Onboard Voice Assistant (Hi Suzuki with Barge-In)",
+          "Electrically Adjustable ORVMs",
+          "Security Alarm",
+          "Digital Air Conditioner with Panel Illumination: Yes(Auto)",
+          "Wireless Charging Dock with Active Cooling",
+          "Auto Dimming IRVM",
+          "Driver side power window auto up / down with pitch guard",
+          "Power-Steering: Tilt & Telescopic"
+        ],
+        "Suzuki Connect": [
+          "Emergency Alerts",
+          "Breakdown Notification",
+          "Stolen Vehicle Notification and Tracking",
+          "Immobilizer Request",
+          "Tow Away Alert and Tracking",
+          "Geofence",
+          "Safe Time Alert",
+          "Valet Alert",
+          "Door Lock/Cancel Lock",
+          "Headlight Off",
+          "Hazard Lights On/Off",
+          "Alarm On/Off",
+          "Smartwatch Connectivity",
+          "Suzuki Connect Skills for Amazon Alexa",
+          "Low Fuel & Low Range Alert",
+          "Over Speed Alert",
+          "AC Idling",
+          "Seat Belt Alert",
+          "Battery Status",
+          "Trip (Start & End)",
+          "Live Vehicle Tracking & Location sharing",
+          "Driving Score & Behaviour",
+          "Navigate to Car",
+          "View & Share Trip History",
+          "Guidance Around Destination",
+          "Time Fence",
+          "Trip Summary",
+          "Dashboard View"
+        ],
+        "Infotainment": [
+          "Speedometer with Tachometer",
+          "Gear Shift Indicator",
+          "Touch Screen Audio",
+          "Android Auto and Apple CarPlay: Wireless",
+          "Steering Mounted Controls: Audio and Bluetooth",
+          "Rear Seatbelt Reminder Warning Indicator",
+          "Steering Mounted Controls: Audio and Bluetooth"
+        ],
+        "Audio & Entertainment": [
+          "SmartPlay Pro: 22.86 cm touch-screen",
+          "Number of Speakers: 4.0",
+          "Wireless Android Auto & Apple CarPlay: Wireless",
+          "Tweeters: 2",
+          "Premium Sound System by Clarion"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/nexa/in/en/assets/cars/baleno/images/front-tilted-view/Suzuki_Baleno_3-4th_(Co_Dr)_Low_Angle_left_CMYK_1.png"
+    },
+    {
+      "code": "BZA4MZB",
+      "name": "Alpha (O) AGS",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": 6,
+      "ex_showroom_surat": {
+        "metallic": 999190,
+        "non_metallic": 999190
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel-Efficiency (km/l)*": "24.77 km/l*",
+          "Fuel Tank Capacity (L)": "37"
+        },
+        "Dimensions": {
+          "Length (mm)": "3990",
+          "Width (mm)": "1745",
+          "Height (mm)": "1530",
+          "Wheelbase (mm)": "2520",
+          "Turning Radius (m)": "4.85",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "965-990",
+          "Gross Vehicle Weight (Kg)": "1410",
+          "Boot Space (L)": "318*"
+        },
+        "Transmission": {
+          "Transmission Type": "Automatic",
+          "Drive Type": "5AMT"
+        },
+        "Engine": {
+          "Engine Type": "Z12 Engine",
+          "Displacement (cc)": "1197 cc",
+          "Max Power (1 KW =1.35962 PS)": "61 kW@5700 rpm or 82.93 PS@5700 rpm",
+          "Max Torque (Nm @ rpm)": "112.4@4500",
+          "No.of Cylinders": 3.0
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut",
+          "Rear Suspension": "Torsion Beam"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Drum"
+        },
+        "Tyre": {
+          "Tyre": "195/55 R16 (Alloy)",
+          "Wheel Type": "Precision cut Alloy wheels"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Roof Spoiler",
+          "Follow-Me Home Headlamp",
+          "Fog Lamps: LED",
+          "ORVM with Turn Indicator",
+          "Antenna: Shark Fin Antenna",
+          "Rear Window Wiper & Washer",
+          "UV Cut Glass",
+          "Door Handles: Chrome plated door handles",
+          "Full Wheel Covers: Precision cut Alloy wheels",
+          "Back door chrome garnish",
+          "Fender Chrome Garnish",
+          "Body coloured bumpers",
+          "NEXTre LED DRL",
+          "NEXTre Signature LED Tail Lamps",
+          "Projector Headlamps: LED",
+          "Signature NEXWave Grille: Painting + Chrome Detailing"
+        ],
+        "Interior": [
+          "Leatherette Steering Wheel",
+          "MID Display: MID (TFT Colour Display)",
+          "Dual Tone Interior",
+          "Cup Holders",
+          "Adjustable Headrest",
+          "Rear Seat Adjustable Headrest",
+          "Height Adjustable Driver Seat",
+          "Rear Parcel Tray",
+          "Head Up Display",
+          "Front Footwell Light ",
+          "60:40 Split Rear Seat",
+          "Seat Upholstery: Fabric + artificial leather",
+          "Front Center Arm Rest",
+          "Co-Driver Side Vanity Lamp"
+        ],
+        "Safety": [
+          "6 Airbags",
+          "ABS with EBD",
+          "Side & Curtain Airbags",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "ISOFIX Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "Rear Parking Camera",
+          "Tyre-Pressure Monitoring System (TPMS)",
+          "High-Speed Alert System",
+          "Rear Window Defogger",
+          "Adjustable Front Seatbelt Height Anchors",
+          "Front Ventilated Disc Brakes: Disc",
+          "Warning Lamps for Low Fuel & Door Ajar",
+          "Brake Assist Function",
+          "360 View Camera",
+          "Emergency Stop Signal [LED]",
+          "Front Seat Belt Pretensioner with Force Limiter & Height Adjuster",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "All Seat Belts – 3 Point ELR"
+        ],
+        "ADAS": [
+          "Lane Keep Assist",
+          "Lane Departure Prevention",
+          "Adaptive Cruise Control",
+          "Adaptive High-Beam System",
+          "Lane Departure Warning (LDW)",
+          "Vehicle Sway Warning",
+          "Forward Collision Warning (FCW)",
+          "Advanced Emergency Braking (AEB)"
+        ],
+        "Suzuki Connect": [
+          "Emergency Alerts",
+          "Breakdown Notification",
+          "Stolen Vehicle Notification and Tracking",
+          "Immobilizer Request",
+          "Tow Away Alert and Tracking",
+          "Geofence",
+          "Safe Time Alert",
+          "Valet Alert",
+          "Door Lock/Cancel Lock",
+          "Headlight Off",
+          "Hazard Lights On/Off",
+          "Alarm On/Off",
+          "Smartwatch Connectivity",
+          "Suzuki Connect Skills for Amazon Alexa",
+          "Low Fuel & Low Range Alert",
+          "Over Speed Alert",
+          "AC Idling",
+          "Seat Belt Alert",
+          "Battery Status",
+          "Trip (Start & End)",
+          "Live Vehicle Tracking & Location sharing",
+          "Driving Score & Behaviour",
+          "Navigate to Car",
+          "View & Share Trip History",
+          "Guidance Around Destination",
+          "Time Fence",
+          "Trip Summary",
+          "Dashboard View"
+        ],
+        "Infotainment": [
+          "Speedometer with Tachometer",
+          "Gear Shift Indicator",
+          "Touch Screen Audio",
+          "Android Auto and Apple CarPlay: Wireless",
+          "Rear Seatbelt Reminder Warning Indicator",
+          "Steering Mounted Controls: Audio and Bluetooth"
+        ],
+        "Audio & Entertainment": [
+          "SmartPlay Pro: 22.86 cm touch-screen",
+          "Number of Speakers: 4.0",
+          "Wireless Android Auto & Apple CarPlay: Wireless",
+          "Tweeters: 2",
+          "Premium Sound System by Clarion"
+        ],
+        "Comfort & Convenience": [
+          "Engine Push Start/Stop with Smart Key",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Steering-Mounted Audio Controls",
+          "Auto Up/Down Power Window",
+          "Rear Defogger",
+          "Gear Shift Indicator",
+          "Driver Side Foot Rest",
+          "Rear AC Vents",
+          "Cruise Control: Yes (ACC)",
+          "Automatic Climate Control",
+          "Central Locking",
+          "Front Ventilated Seats (Driver & Co-driver)",
+          "Manual Day/Night IRVM",
+          "Rear Charging USB Port (A & C Type)",
+          "Auto Folding ORVMs",
+          "Onboard Voice Assistant (Hi Suzuki with Barge-In)",
+          "Electrically Adjustable ORVMs",
+          "Security Alarm",
+          "Digital Air Conditioner with Panel Illumination: Yes(Auto)",
+          "Wireless Charging Dock with Active Cooling",
+          "Auto Dimming IRVM",
+          "Driver side power window auto up / down with pitch guard",
+          "Power-Steering: Tilt & Telescopic"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/nexa/in/en/assets/cars/baleno/images/front-tilted-view/Suzuki_Baleno_3-4th_(Co_Dr)_Low_Angle_left_CMYK_1.png"
+    }
+  ],
+  "fetched_on": "2026-10-30"
+}

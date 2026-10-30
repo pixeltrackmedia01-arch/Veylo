@@ -1,0 +1,3414 @@
+{
+  "brand": "Maruti Suzuki",
+  "model": "Victoris",
+  "slug": "victoris",
+  "model_code": "EC",
+  "channel": "Arena",
+  "official_page": "https://www.marutisuzuki.com/arena/victoris",
+  "brochure_pdf": "https://www.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/Victoris/brochures/Victoris_Brochure_Vertical_Aug-26.pdf",
+  "price_city": "Surat, Gujarat",
+  "ex_showroom_min": 1049844,
+  "ex_showroom_max": 1998844,
+  "fuel_types": [
+    "CNG",
+    "Petrol",
+    "Strong Hybrid"
+  ],
+  "transmissions": [
+    "Automatic",
+    "Manual"
+  ],
+  "colours": [
+    {
+      "name": "Pearl Arctic White",
+      "hex": [
+        "#F3F3F3"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Victoris LXI CNG MT",
+        "Victoris LXI MT 2W",
+        "Victoris VXI AT 2W",
+        "Victoris VXI CNG MT 2W",
+        "Victoris VXI MT 2W",
+        "Victoris VXI THS 2W",
+        "Victoris ZXI AT",
+        "Victoris ZXI CNG MT",
+        "Victoris ZXI MT",
+        "Victoris ZXI (O) AT",
+        "Victoris ZXI (O) MT",
+        "Victoris ZXI (O) STRONG HYBRID",
+        "Victoris ZXI+ AT 2W (ADAS)",
+        "Victoris ZXI+ AT 4W (All Grip)",
+        "Victoris ZXI+ MT",
+        "Victoris ZXI+ (O) AT 2W (ADAS)",
+        "Victoris ZXI+ (O) AT 4W (AllGrip)",
+        "Victoris ZXI+ (O) MT",
+        "Victoris ZXI+ (O) STRONG HYBRID",
+        "Victoris ZXI+ STRONG HYBRID",
+        "Victoris ZXI STRONG HYBRID"
+      ]
+    },
+    {
+      "name": "Splendid Silver",
+      "hex": [
+        "#737373"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Victoris LXI CNG MT",
+        "Victoris LXI MT 2W",
+        "Victoris VXI AT 2W",
+        "Victoris VXI CNG MT 2W",
+        "Victoris VXI MT 2W",
+        "Victoris VXI THS 2W",
+        "Victoris ZXI AT",
+        "Victoris ZXI CNG MT",
+        "Victoris ZXI MT",
+        "Victoris ZXI (O) AT",
+        "Victoris ZXI (O) MT",
+        "Victoris ZXI (O) STRONG HYBRID",
+        "Victoris ZXI+ AT 2W (ADAS)",
+        "Victoris ZXI+ AT 4W (All Grip)",
+        "Victoris ZXI+ MT",
+        "Victoris ZXI+ (O) AT 2W (ADAS)",
+        "Victoris ZXI+ (O) AT 4W (AllGrip)",
+        "Victoris ZXI+ (O) MT",
+        "Victoris ZXI+ (O) STRONG HYBRID",
+        "Victoris ZXI+ STRONG HYBRID",
+        "Victoris ZXI STRONG HYBRID"
+      ]
+    },
+    {
+      "name": "Magma Grey",
+      "hex": [
+        "#2B2C31"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Victoris LXI CNG MT",
+        "Victoris LXI MT 2W",
+        "Victoris VXI AT 2W",
+        "Victoris VXI CNG MT 2W",
+        "Victoris VXI MT 2W",
+        "Victoris VXI THS 2W",
+        "Victoris ZXI AT",
+        "Victoris ZXI CNG MT",
+        "Victoris ZXI MT",
+        "Victoris ZXI (O) AT",
+        "Victoris ZXI (O) MT",
+        "Victoris ZXI (O) STRONG HYBRID",
+        "Victoris ZXI+ AT 2W (ADAS)",
+        "Victoris ZXI+ AT 4W (All Grip)",
+        "Victoris ZXI+ MT",
+        "Victoris ZXI+ (O) AT 2W (ADAS)",
+        "Victoris ZXI+ (O) AT 4W (AllGrip)",
+        "Victoris ZXI+ (O) MT",
+        "Victoris ZXI+ (O) STRONG HYBRID",
+        "Victoris ZXI+ STRONG HYBRID",
+        "Victoris ZXI STRONG HYBRID"
+      ]
+    },
+    {
+      "name": "Eternal Blue",
+      "hex": [
+        "#24475b"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Victoris VXI AT 2W",
+        "Victoris VXI CNG MT 2W",
+        "Victoris VXI MT 2W",
+        "Victoris VXI THS 2W",
+        "Victoris ZXI+ AT 2W (ADAS)",
+        "Victoris ZXI+ (O) MT"
+      ]
+    },
+    {
+      "name": "Sizzling Red",
+      "hex": [
+        "#A10000"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Victoris VXI AT 2W",
+        "Victoris VXI CNG MT 2W",
+        "Victoris VXI MT 2W",
+        "Victoris VXI THS 2W"
+      ]
+    },
+    {
+      "name": "Eternal Blue with Bluish Black Roof",
+      "hex": [
+        "#24475b",
+        "#141414"
+      ],
+      "paint": "dual_tone",
+      "variants": [
+        "Victoris ZXI AT",
+        "Victoris ZXI CNG MT",
+        "Victoris ZXI MT",
+        "Victoris ZXI (O) AT",
+        "Victoris ZXI (O) MT",
+        "Victoris ZXI (O) STRONG HYBRID",
+        "Victoris ZXI+ AT 2W (ADAS)",
+        "Victoris ZXI+ AT 4W (All Grip)",
+        "Victoris ZXI+ MT",
+        "Victoris ZXI+ (O) AT 2W (ADAS)",
+        "Victoris ZXI+ (O) AT 4W (AllGrip)",
+        "Victoris ZXI+ (O) MT",
+        "Victoris ZXI+ (O) STRONG HYBRID",
+        "Victoris ZXI+ STRONG HYBRID",
+        "Victoris ZXI STRONG HYBRID"
+      ]
+    },
+    {
+      "name": "Splendid Silver With Bluish Black Roof",
+      "hex": [
+        "#050505",
+        "#EDEDF2"
+      ],
+      "paint": "dual_tone",
+      "variants": [
+        "Victoris ZXI AT",
+        "Victoris ZXI CNG MT",
+        "Victoris ZXI MT",
+        "Victoris ZXI (O) AT",
+        "Victoris ZXI (O) MT",
+        "Victoris ZXI (O) STRONG HYBRID",
+        "Victoris ZXI+ AT 2W (ADAS)",
+        "Victoris ZXI+ AT 4W (All Grip)",
+        "Victoris ZXI+ MT",
+        "Victoris ZXI+ (O) AT 2W (ADAS)",
+        "Victoris ZXI+ (O) AT 4W (AllGrip)",
+        "Victoris ZXI+ (O) MT",
+        "Victoris ZXI+ (O) STRONG HYBRID",
+        "Victoris ZXI+ STRONG HYBRID",
+        "Victoris ZXI STRONG HYBRID"
+      ]
+    },
+    {
+      "name": "Bluish Black",
+      "hex": [
+        "#141414"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Victoris ZXI AT",
+        "Victoris ZXI CNG MT",
+        "Victoris ZXI MT",
+        "Victoris ZXI (O) AT",
+        "Victoris ZXI (O) MT",
+        "Victoris ZXI (O) STRONG HYBRID",
+        "Victoris ZXI+ AT 4W (All Grip)",
+        "Victoris ZXI+ MT",
+        "Victoris ZXI+ (O) AT 2W (ADAS)",
+        "Victoris ZXI+ (O) AT 4W (AllGrip)",
+        "Victoris ZXI+ (O) STRONG HYBRID",
+        "Victoris ZXI+ STRONG HYBRID",
+        "Victoris ZXI STRONG HYBRID"
+      ]
+    },
+    {
+      "name": "Sizzling Red With Bluish Black Roof",
+      "hex": [
+        "#050505",
+        "#A10000"
+      ],
+      "paint": "dual_tone",
+      "variants": [
+        "Victoris ZXI AT",
+        "Victoris ZXI CNG MT",
+        "Victoris ZXI MT",
+        "Victoris ZXI (O) AT",
+        "Victoris ZXI (O) MT",
+        "Victoris ZXI (O) STRONG HYBRID",
+        "Victoris ZXI+ AT 2W (ADAS)",
+        "Victoris ZXI+ AT 4W (All Grip)",
+        "Victoris ZXI+ MT",
+        "Victoris ZXI+ (O) AT 2W (ADAS)",
+        "Victoris ZXI+ (O) AT 4W (AllGrip)",
+        "Victoris ZXI+ (O) MT",
+        "Victoris ZXI+ (O) STRONG HYBRID",
+        "Victoris ZXI+ STRONG HYBRID",
+        "Victoris ZXI STRONG HYBRID"
+      ]
+    },
+    {
+      "name": "Mystic Green",
+      "hex": [
+        "#233b47"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Victoris ZXI AT",
+        "Victoris ZXI CNG MT",
+        "Victoris ZXI MT",
+        "Victoris ZXI (O) AT",
+        "Victoris ZXI (O) MT",
+        "Victoris ZXI (O) STRONG HYBRID",
+        "Victoris ZXI+ AT 4W (All Grip)",
+        "Victoris ZXI+ MT",
+        "Victoris ZXI+ (O) AT 2W (ADAS)",
+        "Victoris ZXI+ (O) AT 4W (AllGrip)",
+        "Victoris ZXI+ (O) STRONG HYBRID",
+        "Victoris ZXI+ STRONG HYBRID",
+        "Victoris ZXI STRONG HYBRID"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "code": "ECR4AL1",
+      "name": "Victoris LXI MT 2W",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": 6,
+      "ex_showroom_surat": {
+        "metallic": 1049844,
+        "non_metallic": 1049844
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Efficiency (km/l)*": "21.18 (km/l)"
+        },
+        "Dimensions": {
+          "Length (mm)": "4360",
+          "Width (mm)": "1795",
+          "Height (mm)": "1655",
+          "Wheelbase (mm)": "2600",
+          "Turning Radius (m)": "5.4",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "1145-1195*",
+          "Gross Vehicle Weight (Kg)": "1655",
+          "Fuel Tank Capacity (L)": "45"
+        },
+        "Transmission": {
+          "Transmission Type": "5MT",
+          "Drive Type": "2WD"
+        },
+        "Engine": {
+          "Engine Type": "K15C Smart Hybrid",
+          "Capacity (cc)": "1462 cc",
+          "Max Power (1 KW =1.35962 PS)": "75.8 kW (103.06 Ps) @ 6000 rpm",
+          "Max Torque (Nm @ rpm)": "139 Nm @ 4300 rpm"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Disc"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut",
+          "Rear Suspension": "Torsion Beam"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "215/60 R17",
+          "Wheel Type": "Steel Wheels with Full Wheel Covers"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Skid Plate (Front & Rear): Silver",
+          "LED Tail Stop Lamp",
+          "ORVM with Turn Indicator",
+          "Antenna: Shark Fin Antenna",
+          "Front Grille: Chrome",
+          "Outside door handles and orvms: Black"
+        ],
+        "Interior": [
+          "Multi information instrument cluster: 10.66 cm (4.2\") TFT"
+        ],
+        "Safety & Security": [
+          "6 Airbags",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "ISOFIX with Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "Day/Night Adjustable IRVM: Manual",
+          "Engine Immobilizer"
+        ],
+        "Comfort & Convenience": [
+          "Engine Push Start/Stop with Smart Key",
+          "Remote Keyless Entry",
+          "Steering-Mounted Audio Controls",
+          "Rear Defogger",
+          "USB Ports: (Type A)",
+          "Rear AC Vents",
+          "Automatic Climate Control",
+          "Rear Centre Armrest",
+          "Adjustable tilt telescopic steering",
+          "Power Steering"
+        ],
+        "Infotainment": [
+          "Wireless android auto apple car play",
+          "Ota updates",
+          "Door speakers: 2",
+          "AC temperature Display & Control On Screen "
+        ],
+        "Audio & Entertainment": [
+          "Android Auto and Apple CarPlay: Wireless",
+          "Bluetooth",
+          "Number of Speakers: 2.0",
+          "Over the Air (OTA) System Upgrades",
+          "Wireless Android Auto & Apple CarPlay",
+          "Steering Mounted Audio & Calling Controls",
+          "Tweeters: 0",
+          "Infotainment and sound: SmartPlay Pro 17.78cm (7\") Touch Screen"
+        ],
+        "Level 2 ADAS": [
+          "Tyre repair kit"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/saber/images/spinset/blue-with-black/saber_360_V4_blue_dt_00054.png"
+    },
+    {
+      "code": "ECRCAL1",
+      "name": "Victoris LXI CNG MT",
+      "fuel": "CNG",
+      "transmission": "Manual",
+      "technology": [
+        "S-CNG"
+      ],
+      "airbags": 6,
+      "ex_showroom_surat": {
+        "metallic": 1154844,
+        "non_metallic": 1154844
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol-CNG",
+          "Fuel Efficiency (km/l)*": "27.02 (km/kg)"
+        },
+        "Dimensions": {
+          "Length (mm)": "4360",
+          "Width (mm)": "1795",
+          "Height (mm)": "1685",
+          "Wheelbase (mm)": "2600",
+          "Turning Radius (m)": "5.4",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "1230-1245*",
+          "Gross Vehicle Weight (Kg)": "1695",
+          "Fuel Tank Capacity (L)": "Petrol: 45 CNG: 55 (water Eqvt) "
+        },
+        "Transmission": {
+          "Transmission Type": "5MT",
+          "Drive Type": "2WD"
+        },
+        "Engine": {
+          "Engine Type": "K15C",
+          "Capacity (cc)": "1462 cc",
+          "Max Power (1 KW =1.35962 PS)": "74 kW (100.6 Ps) @ 6000 rpm (Petrol Mode), 64.6 kW (87.8 Ps) @ 5500 rpm (CNG Mode)",
+          "Max Torque (Nm @ rpm)": "137.1 Nm @ 4300 rpm (Petrol Mode), 121.5 Nm @ 4200 rpm (CNG Mode)"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Disc"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut",
+          "Rear Suspension": "Torsion Beam"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "215/60 R17",
+          "Wheel Type": "Steel Wheels with Full Wheel Covers"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Skid Plate (Front & Rear): Silver",
+          "LED Tail Stop Lamp",
+          "ORVM with Turn Indicator",
+          "Antenna: Shark Fin Antenna",
+          "Front Grille: Chrome",
+          "Outside door handles and orvms: Black"
+        ],
+        "Interior": [
+          "Multi information instrument cluster: 10.66 cm (4.2\") TFT"
+        ],
+        "Safety & Security": [
+          "6 Airbags",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "ISOFIX with Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "Day/Night Adjustable IRVM: Manual",
+          "Engine Immobilizer"
+        ],
+        "Comfort & Convenience": [
+          "Engine Push Start/Stop with Smart Key",
+          "Remote Keyless Entry",
+          "Steering-Mounted Audio Controls",
+          "Rear Defogger",
+          "USB Ports: (Type A)",
+          "Rear AC Vents",
+          "Automatic Climate Control",
+          "Rear Centre Armrest",
+          "Adjustable tilt telescopic steering",
+          "Power Steering"
+        ],
+        "Audio & Entertainment": [
+          "Android Auto and Apple CarPlay: Wireless",
+          "Bluetooth",
+          "Number of Speakers: 2.0",
+          "Over the Air (OTA) System Upgrades",
+          "Wireless Android Auto & Apple CarPlay",
+          "Steering Mounted Audio & Calling Controls",
+          "Tweeters: 0",
+          "Infotainment and sound: SmartPlay Pro 17.78cm (7\") Touch Screen"
+        ],
+        "Level 2 ADAS": [
+          "Tyre repair kit"
+        ],
+        "Infotainment": [
+          "Wireless android auto apple car play",
+          "Ota updates",
+          "Door speakers: 2",
+          "AC temperature Display & Control On Screen "
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/saber/images/spinset/blue-with-black/saber_360_V4_blue_dt_00054.png"
+    },
+    {
+      "code": "ECR4AV1",
+      "name": "Victoris VXI MT 2W",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": 6,
+      "ex_showroom_surat": {
+        "metallic": 1184844,
+        "non_metallic": 1184844
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Efficiency (km/l)*": "21.18 (km/l)"
+        },
+        "Dimensions": {
+          "Length (mm)": "4360",
+          "Width (mm)": "1795",
+          "Height (mm)": "1655",
+          "Wheelbase (mm)": "2600",
+          "Turning Radius (m)": "5.4",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "1145-1195*",
+          "Gross Vehicle Weight (Kg)": "1655",
+          "Fuel Tank Capacity (L)": "45"
+        },
+        "Transmission": {
+          "Transmission Type": "5MT",
+          "Drive Type": "2WD"
+        },
+        "Engine": {
+          "Engine Type": "K15C Smart Hybrid",
+          "Capacity (cc)": "1462 cc",
+          "Max Power (1 KW =1.35962 PS)": "75.8 kW (103.06 Ps) @ 6000 rpm",
+          "Max Torque (Nm @ rpm)": "139 Nm @ 4300 rpm"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Disc"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut",
+          "Rear Suspension": "Torsion Beam"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "215/60 R17",
+          "Wheel Type": "Steel Wheels with Full Wheel Covers"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Skid Plate (Front & Rear): Silver",
+          "LED Tail Stop Lamp: Yes(Connected)",
+          "ORVM with Turn Indicator",
+          "Antenna: Shark Fin Antenna",
+          "Front Grille: Chrome",
+          "Outside door handles and orvms: Body Coloured"
+        ],
+        "Interior": [
+          "Front footwell light driver and co driver side",
+          "Multi information instrument cluster: 10.66 cm (4.2\") TFT"
+        ],
+        "Safety & Security": [
+          "6 Airbags",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "ISOFIX with Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "Rear Parking Camera",
+          "Tyre Pressure Monitoring System (TPMS)",
+          "Day/Night Adjustable IRVM: Manual",
+          "Engine Immobilizer"
+        ],
+        "Comfort & Convenience": [
+          "Engine Push Start/Stop with Smart Key",
+          "Remote Keyless Entry",
+          "Steering-Mounted Audio Controls",
+          "Rear Defogger",
+          "USB Ports: (Type A) + (Type C-15W + Type C-45W)",
+          "Rear AC Vents",
+          "Cruise Control",
+          "Automatic Climate Control",
+          "Rear Centre Armrest",
+          "Adjustable tilt telescopic steering",
+          "Power Steering"
+        ],
+        "Infotainment": [
+          "Wireless android auto apple car play",
+          "Ota updates",
+          "Door speakers: 2",
+          "Front tweeters: 2",
+          "AC temperature Display & Control On Screen "
+        ],
+        "Audio & Entertainment": [
+          "Android Auto and Apple CarPlay: Wireless",
+          "Bluetooth",
+          "Number of Speakers: 2.0",
+          "Over the Air (OTA) System Upgrades",
+          "Wireless Android Auto & Apple CarPlay",
+          "Steering Mounted Audio & Calling Controls",
+          "Tweeters: 2",
+          "Infotainment and sound: SmartPlay Pro 17.78cm (7\") Touch Screen"
+        ],
+        "Suzuki Connect": [
+          "Emergency Alerts",
+          "Breakdown notification",
+          "Stolen Vehicle Notification and Tracking",
+          "Immobilizer Request",
+          "Tow Away Alert and Tracking",
+          "Geofence",
+          "Valet Alert",
+          "Door Lock/Cancel Lock",
+          "Headlight Off",
+          "Hazard Lights On/Off ",
+          "Smartwatch Connectivity",
+          "Low Fuel & Low Range Alert",
+          "AC Idling",
+          "Trip (Start & End)",
+          "View & Share Trip History",
+          "Driving behaviour score",
+          "Vehicle servicing-related",
+          "Dashboard View",
+          "Time Fence",
+          "Trip Summary"
+        ],
+        "Level 2 ADAS": [
+          "Tyre repair kit"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/saber/images/spinset/blue-with-black/saber_360_V4_blue_dt_00054.png"
+    },
+    {
+      "code": "ECRCAV1",
+      "name": "Victoris VXI CNG MT 2W",
+      "fuel": "CNG",
+      "transmission": "Manual",
+      "technology": [
+        "S-CNG"
+      ],
+      "airbags": 6,
+      "ex_showroom_surat": {
+        "metallic": 1289844,
+        "non_metallic": 1289844
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol-CNG",
+          "Fuel Efficiency (km/l)*": "27.02 (km/kg)"
+        },
+        "Dimensions": {
+          "Length (mm)": "4360",
+          "Width (mm)": "1795",
+          "Height (mm)": "1655",
+          "Wheelbase (mm)": "2600",
+          "Turning Radius (m)": "5.4",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "1230-1245*",
+          "Gross Vehicle Weight (Kg)": "1695",
+          "Fuel Tank Capacity (L)": "Petrol: 45 CNG: 55 (water Eqvt)"
+        },
+        "Transmission": {
+          "Transmission Type": "5MT",
+          "Drive Type": "2WD"
+        },
+        "Engine": {
+          "Engine Type": "K15C",
+          "Capacity (cc)": "1462 cc",
+          "Max Power (1 KW =1.35962 PS)": "74 kW (100.6 Ps) @ 6000 rpm (Petrol Mode), 64.6 kW (87.8 Ps) @ 5500 rpm (CNG Mode)",
+          "Max Torque (Nm @ rpm)": "137.1 Nm @ 4300 rpm (Petrol Mode), 121.5 Nm @ 4200 rpm (CNG Mode)"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Disc"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut",
+          "Rear Suspension": "Torsion Beam"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "215/60 R17",
+          "Wheel Type": "Steel Wheels with Full Wheel Covers"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Skid Plate (Front & Rear): Silver",
+          "LED Tail Stop Lamp: Yes(Connected)",
+          "ORVM with Turn Indicator",
+          "Antenna: Shark Fin Antenna ",
+          "Front Grille: Chrome ",
+          "Outside door handles and orvms: Body Coloured ",
+          "Halogen projector headlamp"
+        ],
+        "Interior": [
+          "Front footwell light driver and co driver side",
+          "Multi information instrument cluster: 10.66 cm (4.2\") TFT "
+        ],
+        "Safety & Security": [
+          "6 Airbags",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "ISOFIX with Child Seat Anchorages",
+          "Rear Parking Camera",
+          "Tyre Pressure Monitoring System (TPMS)",
+          "Day/Night Adjustable IRVM: Manual",
+          "Engine Immobilizer"
+        ],
+        "Comfort & Convenience": [
+          "Engine Push Start/Stop with Smart Key",
+          "Remote Keyless Entry",
+          "Steering-Mounted Audio Controls",
+          "Rear Defogger",
+          "USB Ports: (Type A) + (Type C-15W + Type C-45W) ",
+          "Rear AC Vents",
+          "Cruise Control",
+          "Automatic Climate Control",
+          "Rear Centre Armrest",
+          "Adjustable tilt telescopic steering",
+          "Power Steering"
+        ],
+        "Audio & Entertainment": [
+          "Android Auto and Apple CarPlay: Wireless",
+          "Bluetooth",
+          "Number of Speakers: 2.0",
+          "Over the Air (OTA) System Upgrades",
+          "Steering Mounted Audio & Calling Controls",
+          "Tweeters: 2",
+          "Infotainment and sound: SmartPlay Pro 17.78cm (7\") Touch Screen "
+        ],
+        "Suzuki Connect": [
+          "Emergency Alerts",
+          "Breakdown notification",
+          "Stolen Vehicle Notification and Tracking",
+          "Immobilizer Request",
+          "Tow Away Alert and Tracking",
+          "Geofence",
+          "Valet Alert",
+          "Door Lock/Cancel Lock",
+          "Headlight Off",
+          "Hazard Lights On/Off ",
+          "Smartwatch Connectivity",
+          "Suzuki Connect Skills for Amazon Alexa",
+          "Low Fuel & Low Range Alert",
+          "Over Speed Alert",
+          "AC Idling",
+          "Seat Belt Alert",
+          "Trip (Start & End)",
+          "Headlamp & Hazard Lights",
+          "Driving Score",
+          "View & Share Trip History",
+          "Vehicle servicing-related",
+          "Dashboard View",
+          "Time Fence",
+          "Trip Summary",
+          "Vehicle health"
+        ],
+        "Level 2 ADAS": [
+          "Tyre repair kit"
+        ],
+        "Infotainment": [
+          "Wireless android auto apple car play",
+          "Ota updates",
+          "Door speakers: 2",
+          "Front tweeters: 2",
+          "AC temperature Display & Control On Screen "
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/saber/images/spinset/blue-with-black/saber_360_V4_blue_dt_00054.png"
+    },
+    {
+      "code": "ECA4AV1",
+      "name": "Victoris VXI AT 2W",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": 6,
+      "ex_showroom_surat": {
+        "metallic": 1340844,
+        "non_metallic": 1340844
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Efficiency (km/l)*": "21.06 (km/l)"
+        },
+        "Dimensions": {
+          "Length (mm)": "4360",
+          "Width (mm)": "1795",
+          "Height (mm)": "1655",
+          "Wheelbase (mm)": "2600",
+          "Turning Radius (m)": "5.4",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "1185-1225*",
+          "Gross Vehicle Weight (Kg)": "1685",
+          "Fuel Tank Capacity (L)": "45"
+        },
+        "Transmission": {
+          "Transmission Type": "6AT",
+          "Drive Type": "2WD"
+        },
+        "Engine": {
+          "Engine Type": "K15C Smart Hybrid",
+          "Capacity (cc)": "1462 cc",
+          "Max Power (1 KW =1.35962 PS)": "75.8 kW (103.06 Ps) @ 6000 rpm",
+          "Max Torque (Nm @ rpm)": "139 Nm @ 4300 rpm"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Disc"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut",
+          "Rear Suspension": "Torsion Beam"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "215/60 R17",
+          "Wheel Type": "Steel Wheels with Full Wheel Covers"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Skid Plate (Front & Rear): Silver",
+          "LED Tail Stop Lamp: Yes(Connected)",
+          "ORVM with Turn Indicator",
+          "Antenna: Shark Fin Antenna",
+          "Front Grille: Chrome",
+          "Outside door handles and orvms: Body Coloured",
+          "Halogen projector headlamp"
+        ],
+        "Interior": [
+          "Front footwell light driver and co driver side",
+          "Multi information instrument cluster: 10.66 cm (4.2\") TFT"
+        ],
+        "Safety & Security": [
+          "6 Airbags",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "ISOFIX with Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "Rear Parking Camera",
+          "Tyre Pressure Monitoring System (TPMS)",
+          "Day/Night Adjustable IRVM: Manual",
+          "Engine Immobilizer"
+        ],
+        "Comfort & Convenience": [
+          "Engine Push Start/Stop with Smart Key",
+          "Remote Keyless Entry",
+          "Rear Defogger",
+          "USB Ports: (Type A) + (Type C-15W + Type C-45W)",
+          "Rear AC Vents",
+          "Cruise Control",
+          "Automatic Climate Control",
+          "Rear Centre Armrest",
+          "Paddle shifters",
+          "Adjustable tilt telescopic steering",
+          "Power Steering"
+        ],
+        "Audio & Entertainment": [
+          "Android Auto and Apple CarPlay: Wireless",
+          "Bluetooth",
+          "Number of Speakers: 2.0",
+          "Over the Air (OTA) System Upgrades",
+          "Wireless Android Auto & Apple CarPlay",
+          "Steering Mounted Audio & Calling Controls",
+          "Tweeters: 2",
+          "Infotainment and sound: SmartPlay Pro 17.78cm (7\") Touch Screen"
+        ],
+        "Suzuki Connect": [
+          "Emergency Alerts",
+          "Breakdown notification",
+          "Stolen Vehicle Notification and Tracking",
+          "Immobilizer Request",
+          "Tow Away Alert and Tracking",
+          "Geofence",
+          "Valet Alert",
+          "Door Lock/Cancel Lock",
+          "Headlight Off",
+          "Hazard Lights On/Off ",
+          "Smartwatch Connectivity",
+          "Low Fuel & Low Range Alert",
+          "AC Idling",
+          "Trip (Start & End)",
+          "View & Share Trip History",
+          "Driving behaviour score",
+          "Vehicle servicing-related",
+          "Dashboard View",
+          "Schedule AC ",
+          "Time Fence",
+          "Trip Summary",
+          "Vehicle health"
+        ],
+        "Infotainment": [
+          "Wireless android auto apple car play",
+          "Ota updates",
+          "Door speakers: 2",
+          "Front tweeters: 2",
+          "AC temperature Display & Control On Screen "
+        ],
+        "Level 2 ADAS": [
+          "Electronic parking brake with auto break",
+          "Tyre repair kit"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/saber/images/spinset/blue-with-black/saber_360_V4_blue_dt_00054.png"
+    },
+    {
+      "code": "ECR4AZ1",
+      "name": "Victoris ZXI MT",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": 6,
+      "ex_showroom_surat": {
+        "metallic": 1361844,
+        "non_metallic": 1361844,
+        "dual_tone": 1377244
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Efficiency (km/l)*": "21.18 (km/l)"
+        },
+        "Dimensions": {
+          "Length (mm)": "4360",
+          "Width (mm)": "1795",
+          "Height (mm)": "1655",
+          "Wheelbase (mm)": "2600",
+          "Turning Radius (m)": "5.4",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "1145-1195*",
+          "Gross Vehicle Weight (Kg)": "1655",
+          "Fuel Tank Capacity (L)": "45"
+        },
+        "Transmission": {
+          "Transmission Type": "5MT",
+          "Drive Type": "2WD"
+        },
+        "Engine": {
+          "Engine Type": "K15C Smart Hybrid",
+          "Capacity (cc)": "1462 cc",
+          "Max Power (1 KW =1.35962 PS)": "75.8 kW (103.06 Ps) @ 6000 rpm",
+          "Max Torque (Nm @ rpm)": "139 Nm @ 4300 rpm"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Disc"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut",
+          "Rear Suspension": "Torsion Beam"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "215/60 R17",
+          "Wheel Type": "Painted Black Alloy Wheels"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Skid Plate (Front & Rear): Silver",
+          "LED Daytime Running Lamps (DRL)",
+          "LED Tail Stop Lamp: Yes(Connected)",
+          "Follow-Me Home Headlamp",
+          "ORVM with Turn Indicator",
+          "Antenna: Shark Fin Antenna",
+          "Rear Window Wiper & Washer",
+          "Fog Lamps: Yes(LED, With Extended Lighting)",
+          "Front Grille: Satin Chrome",
+          "Led daytime running lamps dual function",
+          "Led front fog lamps with extended lighting",
+          "Outside door handles and orvms: Body Coloured",
+          "Led projector headlamps"
+        ],
+        "Interior": [
+          "Front footwell light driver and co driver side",
+          "Soft touch i p",
+          "Multi information instrument cluster: Fully digital 26.03 cm (10.25\") TFT"
+        ],
+        "Safety & Security": [
+          "6 Airbags",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "ISOFIX with Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "Rear Parking Camera",
+          "Tyre Pressure Monitoring System (TPMS)",
+          "Day/Night Adjustable IRVM: Auto",
+          "Engine Immobilizer"
+        ],
+        "Comfort & Convenience": [
+          "Engine Push Start/Stop with Smart Key",
+          "Remote Keyless Entry",
+          "Steering-Mounted Audio Controls",
+          "Rear Defogger",
+          "USB Ports: (Type A) + (Type C-15W + Type C-45W)",
+          "Wireless Charger",
+          "Rear AC Vents",
+          "Cruise Control",
+          "Automatic Climate Control",
+          "Rear Centre Armrest",
+          "Smart powered tailgate with gesture control",
+          "Adjustable tilt telescopic steering",
+          "Power Steering"
+        ],
+        "Infotainment": [
+          "Wireless android auto apple car play",
+          "Ota updates",
+          "Door speakers: 2",
+          "Front tweeters: 2",
+          "AC temperature Display & Control On Screen "
+        ],
+        "Audio & Entertainment": [
+          "Android Auto and Apple CarPlay: Wireless",
+          "Bluetooth",
+          "Number of Speakers: 2.0",
+          "Over the Air (OTA) System Upgrades",
+          "Wireless Android Auto & Apple CarPlay",
+          "Steering Mounted Audio & Calling Controls",
+          "Tweeters: 2",
+          "Infotainment and sound: SmartPlay Pro 17.78cm (7\") Touch Screen"
+        ],
+        "Suzuki Connect": [
+          "Emergency Alerts",
+          "Breakdown notification",
+          "Stolen Vehicle Notification and Tracking",
+          "Immobilizer Request",
+          "Tow Away Alert and Tracking",
+          "Geofence",
+          "Valet Alert",
+          "Remote AC Control ",
+          "Door Lock/Cancel Lock",
+          "Headlight Off",
+          "Hazard Lights On/Off ",
+          "Smartwatch Connectivity",
+          "Suzuki Connect Skills for Amazon Alexa",
+          "Low Fuel & Low Range Alert",
+          "Over Speed Alert",
+          "AC Idling",
+          "Door & Lock Status",
+          "Seat Belt Alert",
+          "Trip (Start & End)",
+          "Headlamp & Hazard Lights",
+          "View & Share Trip History",
+          "Driving behaviour score",
+          "Vehicle servicing-related",
+          "Dashboard View",
+          "Time Fence",
+          "Trip Summary",
+          "Vehicle health"
+        ],
+        "Level 2 ADAS": [
+          "Tyre repair kit"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/saber/images/spinset/blue-with-black/saber_360_V4_blue_dt_00054.png"
+    },
+    {
+      "code": "ECR4BZ1",
+      "name": "Victoris ZXI (O) MT",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": 6,
+      "ex_showroom_surat": {
+        "metallic": 1368944,
+        "non_metallic": 1368944,
+        "dual_tone": 1384344
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Efficiency (km/l)*": "21.18 (km/l)"
+        },
+        "Dimensions": {
+          "Length (mm)": "4360",
+          "Width (mm)": "1795",
+          "Height (mm)": "1655",
+          "Wheelbase (mm)": "2600",
+          "Turning Radius (m)": "5.4",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "1145-1195*",
+          "Gross Vehicle Weight (Kg)": "1655",
+          "Fuel Tank Capacity (L)": "45"
+        },
+        "Transmission": {
+          "Transmission Type": "5MT",
+          "Drive Type": "2WD"
+        },
+        "Engine": {
+          "Engine Type": "K15C Smart Hybrid",
+          "Capacity (cc)": "1462 cc",
+          "Max Power (1 KW =1.35962 PS)": "75.8 kW (103.06 Ps) @ 6000 rpm",
+          "Max Torque (Nm @ rpm)": "139 Nm @ 4300 rpm"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Disc"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut",
+          "Rear Suspension": "Torsion Beam"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "215/60 R17",
+          "Wheel Type": "Painted Black Alloy Wheels"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Skid Plate (Front & Rear): Silver",
+          "LED Daytime Running Lamps (DRL)",
+          "LED Tail Stop Lamp: Yes(Connected)",
+          "Follow-Me Home Headlamp",
+          "ORVM with Turn Indicator",
+          "Antenna: Shark Fin Antenna",
+          "Rear Window Wiper & Washer",
+          "Fog Lamps: Yes(LED, With Extended Lighting)",
+          "Front Grille: Satin Chrome",
+          "Led daytime running lamps dual function",
+          "Led front fog lamps with extended lighting",
+          "Outside door handles and orvms: Body Coloured ",
+          "Led projector headlamps"
+        ],
+        "Interior": [
+          "Front footwell light driver and co driver side",
+          "Soft touch i p",
+          "Multi information instrument cluster: Fully digital 26.03 cm (10.25\") TFT "
+        ],
+        "Safety & Security": [
+          "6 Airbags",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "ISOFIX with Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "Rear Parking Camera",
+          "Tyre Pressure Monitoring System (TPMS)",
+          "Day/Night Adjustable IRVM: Auto",
+          "Engine Immobilizer"
+        ],
+        "Comfort & Convenience": [
+          "Engine Push Start/Stop with Smart Key",
+          "Remote Keyless Entry",
+          "Steering-Mounted Audio Controls",
+          "Rear Defogger",
+          "USB Ports: (Type A) + (Type C-15W + Type C-45W) ",
+          "Wireless Charger",
+          "Rear AC Vents",
+          "Cruise Control",
+          "Automatic Climate Control",
+          "Rear Centre Armrest",
+          "Smart powered tailgate with gesture control",
+          "Panoramic sunroof",
+          "Adjustable tilt telescopic steering",
+          "Power Steering"
+        ],
+        "Infotainment": [
+          "Wireless android auto apple car play",
+          "Ota updates",
+          "Door speakers: 2",
+          "Front tweeters: 2",
+          "AC temperature Display & Control On Screen "
+        ],
+        "Audio & Entertainment": [
+          "Android Auto and Apple CarPlay: Wireless",
+          "Bluetooth",
+          "Number of Speakers: 2.0",
+          "Over the Air (OTA) System Upgrades",
+          "Wireless Android Auto & Apple CarPlay",
+          "Steering Mounted Audio & Calling Controls",
+          "Tweeters: 2",
+          "Infotainment and sound: SmartPlay Pro 17.78cm (7\") Touch Screen "
+        ],
+        "Suzuki Connect": [
+          "Emergency Alerts",
+          "Breakdown notification",
+          "Stolen Vehicle Notification and Tracking",
+          "Immobilizer Request",
+          "Tow Away Alert and Tracking",
+          "Geofence",
+          "Valet Alert",
+          "Door Lock/Cancel Lock",
+          "Headlight Off",
+          "Hazard Lights On/Off ",
+          "Smartwatch Connectivity",
+          "Low Fuel & Low Range Alert",
+          "AC Idling",
+          "Trip (Start & End)",
+          "Driving Score",
+          "View & Share Trip History",
+          "Driving behaviour score",
+          "Vehicle servicing-related",
+          "Dashboard View",
+          "Time Fence",
+          "Trip Summary"
+        ],
+        "Level 2 ADAS": [
+          "Tyre repair kit"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/saber/images/spinset/blue-with-black/saber_360_V4_blue_dt_00054.png"
+    },
+    {
+      "code": "ECRCAZ1",
+      "name": "Victoris ZXI CNG MT",
+      "fuel": "CNG",
+      "transmission": "Manual",
+      "technology": [
+        "S-CNG"
+      ],
+      "airbags": 6,
+      "ex_showroom_surat": {
+        "metallic": 1466844,
+        "non_metallic": 1466844,
+        "dual_tone": 1482244
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol-CNG",
+          "Fuel Efficiency (km/l)*": "27.02 (km/kg)"
+        },
+        "Dimensions": {
+          "Length (mm)": "4360",
+          "Width (mm)": "1795",
+          "Height (mm)": "1655",
+          "Wheelbase (mm)": "2600",
+          "Turning Radius (m)": "5.4",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "1230-1245*",
+          "Gross Vehicle Weight (Kg)": "1695",
+          "Fuel Tank Capacity (L)": "Petrol: 45 CNG: 55 (water Eqvt)"
+        },
+        "Transmission": {
+          "Transmission Type": "5MT",
+          "Drive Type": "2WD"
+        },
+        "Engine": {
+          "Engine Type": "K15C",
+          "Capacity (cc)": "1462 cc",
+          "Max Power (1 KW =1.35962 PS)": "74 kW (100.6 Ps) @ 6000 rpm  (Petrol Mode) 64.6 kW (87.8 Ps) @ 5500 rpm (CNG Mode)",
+          "Max Torque (Nm @ rpm)": "137.1 Nm @ 4300 rpm (Petrol Mode), 121.5 Nm @ 4200 rpm (CNG Mode)"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Disc"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut",
+          "Rear Suspension": "Torsion Beam"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "215/60 R17",
+          "Wheel Type": "Painted Black Alloy Wheels"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Skid Plate (Front & Rear): Silver",
+          "LED Daytime Running Lamps (DRL)",
+          "LED Tail Stop Lamp: Yes(Connected)",
+          "Follow-Me Home Headlamp",
+          "ORVM with Turn Indicator",
+          "Antenna: Shark Fin Antenna",
+          "Rear Window Wiper & Washer",
+          "Fog Lamps: Yes(LED, With Extended Lighting)",
+          "Front Grille: Satin Chrome",
+          "Led daytime running lamps dual function",
+          "Led front fog lamps with extended lighting",
+          "Outside door handles and orvms: Body Coloured",
+          "Led projector headlamps"
+        ],
+        "Interior": [
+          "Front footwell light driver and co driver side",
+          "Soft touch i p",
+          "Multi information instrument cluster: Fully digital 26.03 cm (10.25\") TFT"
+        ],
+        "Safety & Security": [
+          "6 Airbags",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "ISOFIX with Child Seat Anchorages",
+          "Tyre Pressure Monitoring System (TPMS)",
+          "Day/Night Adjustable IRVM: Auto",
+          "Engine Immobilizer"
+        ],
+        "Comfort & Convenience": [
+          "Engine Push Start/Stop with Smart Key",
+          "Remote Keyless Entry",
+          "Steering-Mounted Audio Controls",
+          "Rear Defogger",
+          "USB Ports: (Type A) + (Type C-15W + Type C-45W)",
+          "Wireless Charger",
+          "Rear AC Vents",
+          "Cruise Control",
+          "Automatic Climate Control",
+          "Rear Centre Armrest",
+          "Smart powered tailgate with gesture control",
+          "Adjustable tilt telescopic steering",
+          "Power Steering"
+        ],
+        "Audio & Entertainment": [
+          "Android Auto and Apple CarPlay: Wireless",
+          "Bluetooth",
+          "Number of Speakers: 2.0",
+          "Over the Air (OTA) System Upgrades",
+          "Wireless Android Auto & Apple CarPlay",
+          "Steering Mounted Audio & Calling Controls",
+          "Tweeters: 2",
+          "Infotainment and sound: SmartPlay Pro 17.78cm (7\") Touch Screen"
+        ],
+        "Suzuki Connect": [
+          "Emergency Alerts",
+          "Breakdown notification",
+          "Stolen Vehicle Notification and Tracking",
+          "Immobilizer Request",
+          "Tow Away Alert and Tracking",
+          "Geofence",
+          "Valet Alert",
+          "Door Lock/Cancel Lock",
+          "Headlight Off",
+          "Hazard Lights On/Off ",
+          "Smartwatch Connectivity",
+          "Low Fuel & Low Range Alert",
+          "AC Idling",
+          "Trip (Start & End)",
+          "Driving Score",
+          "View & Share Trip History",
+          "Driving behaviour score",
+          "Vehicle servicing-related",
+          "Dashboard View",
+          "Time Fence",
+          "Trip Summary",
+          "Vehicle health"
+        ],
+        "Level 2 ADAS": [
+          "Tyre repair kit"
+        ],
+        "Infotainment": [
+          "Wireless android auto apple car play",
+          "Ota updates",
+          "Door speakers: 2",
+          "Front tweeters: 2",
+          "AC temperature Display & Control On Screen "
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/saber/images/spinset/blue-with-black/saber_360_V4_blue_dt_00054.png"
+    },
+    {
+      "code": "ECA4AZ1",
+      "name": "Victoris ZXI AT",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": 6,
+      "ex_showroom_surat": {
+        "metallic": 1517844,
+        "non_metallic": 1517844,
+        "dual_tone": 1533244
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Efficiency (km/l)*": "21.06 (km/l) "
+        },
+        "Dimensions": {
+          "Length (mm)": "4360",
+          "Width (mm)": "1795",
+          "Height (mm)": "1655",
+          "Wheelbase (mm)": "2600",
+          "Turning Radius (m)": "5.4",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "1185-1225*",
+          "Gross Vehicle Weight (Kg)": "1685",
+          "Fuel Tank Capacity (L)": "45"
+        },
+        "Transmission": {
+          "Transmission Type": "6AT",
+          "Drive Type": "2WD"
+        },
+        "Engine": {
+          "Engine Type": "K15C Smart Hybrid",
+          "Capacity (cc)": "1462 cc",
+          "Max Power (1 KW =1.35962 PS)": "75.8 kW (103.06 Ps) @ 6000 rpm",
+          "Max Torque (Nm @ rpm)": "139 Nm @ 4300 rpm"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Disc"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut",
+          "Rear Suspension": "Torsion Beam"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "215/60 R17",
+          "Wheel Type": "Painted Black Alloy Wheels"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Skid Plate (Front & Rear): Sliver",
+          "LED Daytime Running Lamps (DRL)",
+          "LED Tail Stop Lamp: Yes(Connected) ",
+          "Follow-Me Home Headlamp",
+          "ORVM with Turn Indicator",
+          "Antenna: Shark Fin Antenna ",
+          "Rear Window Wiper & Washer",
+          "Fog Lamps: Yes(LED, With Extended Lighting)",
+          "Front Grille: Satin Chrome ",
+          "Led daytime running lamps dual function",
+          "Led front fog lamps with extended lighting",
+          "Outside door handles and orvms: Body Coloured ",
+          "Led projector headlamps"
+        ],
+        "Interior": [
+          "Front footwell light driver and co driver side",
+          "Soft touch i p",
+          "Multi information instrument cluster: Fully digital 26.03 cm (10.25\") TFT "
+        ],
+        "Safety & Security": [
+          "6 Airbags",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "ISOFIX with Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "Rear Parking Camera",
+          "Tyre Pressure Monitoring System (TPMS)",
+          "Day/Night Adjustable IRVM: Auto",
+          "Engine Immobilizer"
+        ],
+        "Comfort & Convenience": [
+          "Engine Push Start/Stop with Smart Key",
+          "Remote Keyless Entry",
+          "Steering-Mounted Audio Controls",
+          "Rear Defogger",
+          "USB Ports: (Type A) + (Type C-15W + Type C-45W) ",
+          "Wireless Charger",
+          "Rear AC Vents",
+          "Cruise Control",
+          "Automatic Climate Control",
+          "Rear Centre Armrest",
+          "Smart powered tailgate with gesture control",
+          "Paddle shifters",
+          "Adjustable tilt telescopic steering",
+          "Power Steering"
+        ],
+        "Infotainment": [
+          "Wireless android auto apple car play",
+          "Ota updates",
+          "Door speakers: 2",
+          "Front tweeters: 2",
+          "AC temperature Display & Control On Screen "
+        ],
+        "Audio & Entertainment": [
+          "Android Auto and Apple CarPlay: Wireless",
+          "Bluetooth",
+          "Number of Speakers: 2.0",
+          "Over the Air (OTA) System Upgrades",
+          "Wireless Android Auto & Apple CarPlay",
+          "Steering Mounted Audio & Calling Controls",
+          "Tweeters: 2",
+          "Infotainment and sound: SmartPlay Pro 17.78cm (7\") Touch Screen "
+        ],
+        "Suzuki Connect": [
+          "Emergency Alerts",
+          "Breakdown notification",
+          "Stolen Vehicle Notification and Tracking",
+          "Immobilizer Request",
+          "Tow Away Alert and Tracking",
+          "Geofence",
+          "Valet Alert",
+          "Remote AC Control ",
+          "Door Lock/Cancel Lock",
+          "Headlight Off",
+          "Hazard Lights On/Off ",
+          "Alarm On/Off",
+          "Smartwatch Connectivity",
+          "Suzuki Connect Skills for Amazon Alexa",
+          "Low Fuel & Low Range Alert",
+          "Over Speed Alert",
+          "AC Idling",
+          "Door & Lock Status",
+          "Seat Belt Alert",
+          "Trip (Start & End)",
+          "Live Vehicle Tracking & Location sharing",
+          "Driving Score",
+          "View & Share Trip History",
+          "Driving behaviour score",
+          "Vehicle servicing-related",
+          "Dashboard View",
+          "Schedule AC ",
+          "Time Fence",
+          "Trip Summary"
+        ],
+        "Level 2 ADAS": [
+          "Electronic parking brake with auto break",
+          "Tyre repair kit"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/saber/images/spinset/blue-with-black/saber_360_V4_blue_dt_00054.png"
+    },
+    {
+      "code": "ECA4BZ1",
+      "name": "Victoris ZXI (O) AT",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": 6,
+      "ex_showroom_surat": {
+        "metallic": 1524944,
+        "non_metallic": 1524944,
+        "dual_tone": 1540344
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Efficiency (km/l)*": "21.06 (km/l) "
+        },
+        "Dimensions": {
+          "Length (mm)": "4360",
+          "Width (mm)": "1795",
+          "Height (mm)": "1655",
+          "Wheelbase (mm)": "2600",
+          "Turning Radius (m)": "5.4",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "1185-1225*",
+          "Gross Vehicle Weight (Kg)": "1685",
+          "Fuel Tank Capacity (L)": "45"
+        },
+        "Transmission": {
+          "Transmission Type": "6AT",
+          "Drive Type": "2WD"
+        },
+        "Engine": {
+          "Engine Type": "K15C Smart Hybrid",
+          "Capacity (cc)": "1462 cc",
+          "Max Power (1 KW =1.35962 PS)": "75.8 kW (103.06 Ps) @ 6000 rpm",
+          "Max Torque (Nm @ rpm)": "139 Nm @ 4300 rpm"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Disc"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut",
+          "Rear Suspension": "Torsion Beam"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "215/60 R17",
+          "Wheel Type": "Painted Black Alloy Wheels"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Skid Plate (Front & Rear): Silver",
+          "LED Daytime Running Lamps (DRL)",
+          "LED Tail Stop Lamp: Yes(Connected)",
+          "Follow-Me Home Headlamp",
+          "ORVM with Turn Indicator",
+          "Antenna: Shark Fin Antenna",
+          "Rear Window Wiper & Washer",
+          "Fog Lamps: Yes(LED, With Extended Lighting)",
+          "Front Grille: Satin Chrome ",
+          "Led daytime running lamps dual function",
+          "Led front fog lamps with extended lighting",
+          "Outside door handles and orvms: Body Coloured ",
+          "Led projector headlamps"
+        ],
+        "Interior": [
+          "Front Footwell Light (Driver & Co-driver Side)",
+          "Front footwell light driver and co driver side",
+          "Soft touch i p",
+          "Multi information instrument cluster: Fully digital 26.03 cm (10.25\") TFT "
+        ],
+        "Safety & Security": [
+          "6 Airbags",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "ISOFIX with Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "Rear Parking Camera",
+          "Tyre Pressure Monitoring System (TPMS)",
+          "Day/Night Adjustable IRVM: Auto",
+          "Engine Immobilizer"
+        ],
+        "Comfort & Convenience": [
+          "Engine Push Start/Stop with Smart Key",
+          "Remote Keyless Entry",
+          "Steering-Mounted Audio Controls",
+          "Rear Defogger",
+          "USB Ports: (Type A) + (Type C-15W + Type C-45W) ",
+          "Wireless Charger",
+          "Rear AC Vents",
+          "Cruise Control",
+          "Automatic Climate Control",
+          "Rear Centre Armrest",
+          "Smart powered tailgate with gesture control",
+          "Panoramic sunroof",
+          "Paddle shifters",
+          "Adjustable tilt telescopic steering",
+          "Power Steering"
+        ],
+        "Infotainment": [
+          "Wireless android auto apple car play",
+          "Ota updates",
+          "Door speakers: 2",
+          "Front tweeters: 2",
+          "AC temperature Display & Control On Screen "
+        ],
+        "Audio & Entertainment": [
+          "Android Auto and Apple CarPlay: Wireless",
+          "Bluetooth",
+          "Number of Speakers: 2.0",
+          "Over the Air (OTA) System Upgrades",
+          "Wireless Android Auto & Apple CarPlay",
+          "Steering Mounted Audio & Calling Controls",
+          "Tweeters: 2",
+          "Infotainment and sound: SmartPlay Pro 17.78cm (7\") Touch Screen"
+        ],
+        "Suzuki Connect": [
+          "Emergency Alerts",
+          "Breakdown notification",
+          "Stolen Vehicle Notification and Tracking",
+          "Immobilizer Request",
+          "Tow Away Alert and Tracking",
+          "Geofence",
+          "Valet Alert",
+          "Remote AC Control ",
+          "Door Lock/Cancel Lock",
+          "Headlight Off",
+          "Hazard Lights On/Off ",
+          "Smartwatch Connectivity",
+          "Suzuki Connect Skills for Amazon Alexa",
+          "Low Fuel & Low Range Alert",
+          "Over Speed Alert",
+          "AC Idling",
+          "Door & Lock Status",
+          "Seat Belt Alert",
+          "Trip (Start & End)",
+          "Headlamp & Hazard Lights",
+          "Live Vehicle Tracking & Location sharing",
+          "View & Share Trip History",
+          "Driving behaviour score",
+          "Vehicle servicing-related",
+          "Dashboard View",
+          "Schedule AC ",
+          "Time Fence",
+          "Trip Summary"
+        ],
+        "Level 2 ADAS": [
+          "Electronic parking brake with auto break",
+          "Tyre repair kit"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/saber/images/spinset/blue-with-black/saber_360_V4_blue_dt_00054.png"
+    },
+    {
+      "code": "ECR4AZ2",
+      "name": "Victoris ZXI+ MT",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": 6,
+      "ex_showroom_surat": {
+        "metallic": 1538844,
+        "non_metallic": 1538844,
+        "dual_tone": 1554244
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Efficiency (km/l)*": "21.18 (km/l)"
+        },
+        "Dimensions": {
+          "Length (mm)": "4360",
+          "Width (mm)": "1795",
+          "Height (mm)": "1655",
+          "Wheelbase (mm)": "2600",
+          "Turning Radius (m)": "5.4",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "1145-1195*",
+          "Gross Vehicle Weight (Kg)": "1655",
+          "Fuel Tank Capacity (L)": "45"
+        },
+        "Transmission": {
+          "Transmission Type": "5MT",
+          "Drive Type": "2WD"
+        },
+        "Engine": {
+          "Engine Type": "K15C SMART HYBRID",
+          "Capacity (cc)": "1462 cc",
+          "Max Power (1 KW =1.35962 PS)": "75.8 kW (103.06 Ps) @ 6000 rpm",
+          "Max Torque (Nm @ rpm)": "139 Nm @ 4300 rpm"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Disc"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut",
+          "Rear Suspension": "Torsion Beam"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "215/60 R17",
+          "Wheel Type": "Machined Alloy Wheels"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Skid Plate (Front & Rear): Sliver",
+          "LED Daytime Running Lamps (DRL)",
+          "LED Tail Stop Lamp: Yes(Connected)",
+          "Follow-Me Home Headlamp",
+          "ORVM with Turn Indicator",
+          "Antenna: Shark Fin Antenna",
+          "Rear Window Wiper & Washer",
+          "Fog Lamps: Yes(LED, With Extended Lighting)",
+          "Front Grille: Satin Chrome",
+          "Led daytime running lamps dual function",
+          "Led front fog lamps with extended lighting",
+          "Outside door handles and orvms: Body Coloured",
+          "Led projector headlamps"
+        ],
+        "Interior": [
+          "Dual Tone Interior:   ",
+          "Front footwell light driver and co driver side",
+          "Sixty four color custom ambient light: Backlit IP+ Door Spot",
+          "Soft touch i p",
+          "Semi leatherette seats",
+          "Multi information instrument cluster: Fully digital 26.03 cm (10.25\") TFT"
+        ],
+        "Safety & Security": [
+          "6 Airbags",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "ISOFIX with Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "Rear Parking Camera",
+          "Day/Night Adjustable IRVM: Auto",
+          "Three sixty h d view camera with eleven views",
+          "Engine Immobilizer"
+        ],
+        "Comfort & Convenience": [
+          "Engine Push Start/Stop with Smart Key",
+          "Remote Keyless Entry",
+          "Steering-Mounted Audio Controls",
+          "Rear Defogger",
+          "USB Ports: (Type A) + (Type C-15W + Type C-45W)",
+          "Wireless Charger",
+          "Rear AC Vents",
+          "Cruise Control",
+          "Automatic Climate Control",
+          "Rear Centre Armrest",
+          "Smart powered tailgate with gesture control",
+          "Eight way driver powered seat",
+          "Head up display comfort",
+          "Auto purify with pm display",
+          "Adjustable tilt telescopic steering",
+          "Power Steering",
+          "Front ventilated seats"
+        ],
+        "Infotainment": [
+          "Dolby atmos spatial sound experience",
+          "Alexa auto cloud assistant",
+          "App store with ott apps",
+          "Wireless android auto apple car play",
+          "Ota updates",
+          "Door speakers: 4",
+          "Front tweeters: 2",
+          "AC temperature Display & Control On Screen ",
+          "Internet Connectivity",
+          "Infinity premium audio"
+        ],
+        "Audio & Entertainment": [
+          "Android Auto and Apple CarPlay: Wireless",
+          "Bluetooth",
+          "Number of Speakers: 4.0",
+          "Over the Air (OTA) System Upgrades",
+          "Wireless Android Auto & Apple CarPlay",
+          "Steering Mounted Audio & Calling Controls",
+          "Tweeters: 2",
+          "Infotainment and sound: SmartPlay Pro X 25.65cm (10.1\") HD Touch Screen"
+        ],
+        "Suzuki Connect": [
+          "Emergency Alerts",
+          "Breakdown notification",
+          "Stolen Vehicle Notification and Tracking",
+          "Immobilizer Request",
+          "Tow Away Alert and Tracking",
+          "Geofence",
+          "Valet Alert",
+          "Remote AC Control ",
+          "Door Lock/Cancel Lock",
+          "Headlight Off",
+          "Hazard Lights On/Off ",
+          "Smartwatch Connectivity",
+          "Suzuki Connect Skills for Amazon Alexa",
+          "Low Fuel & Low Range Alert",
+          "Over Speed Alert",
+          "AC Idling",
+          "Door & Lock Status",
+          "Seat Belt Alert",
+          "Trip (Start & End)",
+          "Headlamp & Hazard Lights",
+          "Driving Score",
+          "View & Share Trip History",
+          "Driving behaviour score",
+          "PM 2.5 Monitoring",
+          "Vehicle servicing-related",
+          " Send Coordinates & Trip to Car ",
+          "Dashboard View",
+          "Schedule AC ",
+          "Time Fence",
+          "Trip Summary",
+          "Vehicle health"
+        ],
+        "Level 2 ADAS": [
+          "Tyre repair kit"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/saber/images/spinset/blue-with-black/saber_360_V4_blue_dt_00054.png"
+    },
+    {
+      "code": "ECR4BZ2",
+      "name": "Victoris ZXI+ (O) MT",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": 6,
+      "ex_showroom_surat": {
+        "metallic": 1547944,
+        "non_metallic": 1547944,
+        "dual_tone": 1563344
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Efficiency (km/l)*": "21.18 (km/l)"
+        },
+        "Dimensions": {
+          "Length (mm)": "4360",
+          "Width (mm)": "1795",
+          "Height (mm)": "1655",
+          "Wheelbase (mm)": "2600",
+          "Turning Radius (m)": "5.4",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "1145-1195*",
+          "Gross Vehicle Weight (Kg)": "1655",
+          "Fuel Tank Capacity (L)": "45"
+        },
+        "Transmission": {
+          "Transmission Type": "5MT",
+          "Drive Type": "2WD"
+        },
+        "Engine": {
+          "Engine Type": "K15C Smart Hybrid",
+          "Capacity (cc)": "1462 cc",
+          "Max Power (1 KW =1.35962 PS)": "75.8 kW (103.06 Ps) @ 6000 rpm",
+          "Max Torque (Nm @ rpm)": "139 Nm @ 4300 rpm"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Disc"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut",
+          "Rear Suspension": "Torsion Beam"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "215/60 R17",
+          "Wheel Type": "Machined Alloy Wheels"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Skid Plate (Front & Rear): Silver",
+          "LED Daytime Running Lamps (DRL)",
+          "LED Tail Stop Lamp: Yes(Connected)",
+          "Follow-Me Home Headlamp",
+          "ORVM with Turn Indicator",
+          "Antenna: Shark Fin Antenna",
+          "Rear Window Wiper & Washer",
+          "Fog Lamps: Yes(LED, With Extended Lighting)",
+          "Front Grille: Satin Chrome",
+          "Led daytime running lamps dual function",
+          "Led front fog lamps with extended lighting",
+          "Outside door handles and orvms: Body Coloured",
+          "Led projector headlamps"
+        ],
+        "Interior": [
+          "Front footwell light driver and co driver side",
+          "Sixty four color custom ambient light: Backlit IP+ Door Spot",
+          "Soft touch i p",
+          "Semi leatherette seats",
+          "Multi information instrument cluster: Fully digital 26.03 cm (10.25\") TFT"
+        ],
+        "Safety & Security": [
+          "6 Airbags",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "ISOFIX with Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "Rear Parking Camera",
+          "Tyre Pressure Monitoring System (TPMS)",
+          "Day/Night Adjustable IRVM: Auto",
+          "Three sixty h d view camera with eleven views",
+          "Engine Immobilizer"
+        ],
+        "Comfort & Convenience": [
+          "Engine Push Start/Stop with Smart Key",
+          "Remote Keyless Entry",
+          "Steering-Mounted Audio Controls",
+          "Rear Defogger",
+          "USB Ports: (Type A) + (Type C-15W + Type C-45W)",
+          "Wireless Charger",
+          "Rear AC Vents",
+          "Cruise Control",
+          "Automatic Climate Control",
+          "Rear Centre Armrest",
+          "Smart powered tailgate with gesture control",
+          "Panoramic sunroof",
+          "Eight way driver powered seat",
+          "Head up display comfort",
+          "Auto purify with pm display",
+          "Adjustable tilt telescopic steering",
+          "Power Steering",
+          "Front ventilated seats"
+        ],
+        "Infotainment": [
+          "Dolby atmos spatial sound experience",
+          "Alexa auto cloud assistant",
+          "App store with ott apps",
+          "Wireless android auto apple car play",
+          "Ota updates",
+          "Door speakers: 4",
+          "Front tweeters: 2",
+          "AC temperature Display & Control On Screen ",
+          "Internet Connectivity",
+          "Infinity premium audio"
+        ],
+        "Audio & Entertainment": [
+          "Android Auto and Apple CarPlay: Wireless",
+          "Bluetooth",
+          "Number of Speakers: 4.0",
+          "Over the Air (OTA) System Upgrades",
+          "Wireless Android Auto & Apple CarPlay",
+          "Steering Mounted Audio & Calling Controls",
+          "Tweeters: 2",
+          "Infotainment and sound: SmartPlay Pro X 25.65cm (10.1\") HD Touch Screen"
+        ],
+        "Suzuki Connect": [
+          "Emergency Alerts",
+          "Breakdown notification",
+          "Stolen Vehicle Notification and Tracking",
+          "Immobilizer Request",
+          "Tow Away Alert and Tracking",
+          "Geofence",
+          "Valet Alert",
+          "Door Lock/Cancel Lock",
+          "Headlight Off",
+          "Hazard Lights On/Off ",
+          "Smartwatch Connectivity",
+          "Low Fuel & Low Range Alert",
+          "AC Idling",
+          "Trip (Start & End)",
+          "View & Share Trip History",
+          "Driving behaviour score",
+          "PM 2.5 Monitoring",
+          "Vehicle servicing-related",
+          " Send Coordinates & Trip to Car ",
+          "Dashboard View",
+          "Time Fence",
+          "Trip Summary",
+          "Vehicle health"
+        ],
+        "Level 2 ADAS": [
+          "Front parking sensors with auto camera activation",
+          "Tyre repair kit"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/saber/images/spinset/blue-with-black/saber_360_V4_blue_dt_00054.png"
+    },
+    {
+      "code": "ECAHAV1",
+      "name": "Victoris VXI THS 2W",
+      "fuel": "Strong Hybrid",
+      "transmission": "Automatic",
+      "technology": [
+        "Strong Hybrid"
+      ],
+      "airbags": 6,
+      "ex_showroom_surat": {
+        "metallic": 1642844,
+        "non_metallic": 1642844
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol/Hybrid",
+          "Fuel Efficiency (km/l)*": "28.65 (km/l)"
+        },
+        "Dimensions": {
+          "Length (mm)": "4360",
+          "Width (mm)": "1795",
+          "Height (mm)": "1655",
+          "Wheelbase (mm)": "2600",
+          "Turning Radius (m)": "5.4",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "1250-1295*",
+          "Gross Vehicle Weight (Kg)": "1755",
+          "Fuel Tank Capacity (L)": "45"
+        },
+        "Transmission": {
+          "Transmission Type": "e-CVT",
+          "Drive Type": "2WD"
+        },
+        "Engine": {
+          "Engine Type": "M15D",
+          "Capacity (cc)": "1490 cc",
+          "Max Power (1 KW =1.35962 PS)": "68kW (92.45 Ps) @ 5500 rpm",
+          "Max Torque (Nm @ rpm)": "122 Nm @ 3800-4800 rpm"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Disc"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut",
+          "Rear Suspension": "Torsion Beam"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "215/60 R17",
+          "Wheel Type": "Steel Wheels with Full Wheel Covers"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Skid Plate (Front & Rear): Silver",
+          "LED Tail Stop Lamp: Yes(Connected)",
+          "ORVM with Turn Indicator",
+          "Antenna: Shark Fin Antenna",
+          "Front Grille: Chrome",
+          "Outside door handles and orvms: Body Coloured",
+          "Halogen projector headlamp"
+        ],
+        "Interior": [
+          "Front footwell light driver and co driver side",
+          "Multi information instrument cluster: Fully digital 26.03 cm (10.25\") TFT"
+        ],
+        "Safety & Security": [
+          "6 Airbags",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "ISOFIX with Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "Rear Parking Camera",
+          "Tyre Pressure Monitoring System (TPMS)",
+          "Day/Night Adjustable IRVM: Manual",
+          "Engine Immobilizer"
+        ],
+        "Comfort & Convenience": [
+          "Engine Push Start/Stop with Smart Key",
+          "Remote Keyless Entry",
+          "Steering-Mounted Audio Controls",
+          "Rear Defogger",
+          "USB Ports: (Type A) + (Type C-15W + Type C-45W)",
+          "Rear AC Vents",
+          "Cruise Control",
+          "Automatic Climate Control",
+          "Rear Centre Armrest",
+          "Engine drive modes",
+          "Adjustable tilt telescopic steering",
+          "Power Steering"
+        ],
+        "Audio & Entertainment": [
+          "Android Auto and Apple CarPlay: Wireless",
+          "Bluetooth",
+          "Number of Speakers: 2.0",
+          "Over the Air (OTA) System Upgrades",
+          "Wireless Android Auto & Apple CarPlay",
+          "Steering Mounted Audio & Calling Controls",
+          "Tweeters: 2",
+          "Infotainment and sound: SmartPlay Pro 17.78cm (7\") Touch Screen"
+        ],
+        "Suzuki Connect": [
+          "Emergency Alerts",
+          "Breakdown notification",
+          "Stolen Vehicle Notification and Tracking",
+          "Immobilizer Request",
+          "Tow Away Alert and Tracking",
+          "Geofence",
+          "Valet Alert",
+          "Door Lock/Cancel Lock",
+          "Headlight Off",
+          "Hazard Lights On/Off ",
+          "Smartwatch Connectivity",
+          "Low Fuel & Low Range Alert",
+          "AC Idling",
+          "Trip (Start & End)",
+          "Driving behaviour score",
+          "Vehicle servicing-related",
+          "Schedule AC ",
+          "Time Fence",
+          "Trip Summary",
+          "Vehicle health"
+        ],
+        "Level 2 ADAS": [
+          "Tyre repair kit"
+        ],
+        "Infotainment": [
+          "Wireless android auto apple car play",
+          "Ota updates",
+          "Door speakers: 2",
+          "Front tweeters: 2",
+          "AC temperature Display & Control On Screen "
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/saber/images/spinset/blue-with-black/saber_360_V4_blue_dt_00054.png"
+    },
+    {
+      "code": "ECA4CZ2",
+      "name": "Victoris ZXI+ AT 2W (ADAS)",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": 6,
+      "ex_showroom_surat": {
+        "metallic": 1733844,
+        "non_metallic": 1733844,
+        "dual_tone": 1749244
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Efficiency (km/l)*": "21.06 (km/l)"
+        },
+        "Dimensions": {
+          "Length (mm)": "4360",
+          "Width (mm)": "1795",
+          "Height (mm)": "1655",
+          "Wheelbase (mm)": "2600",
+          "Turning Radius (m)": "5.4",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "1185-1225*",
+          "Gross Vehicle Weight (Kg)": "1685",
+          "Fuel Tank Capacity (L)": "45"
+        },
+        "Transmission": {
+          "Transmission Type": "6AT",
+          "Drive Type": "2WD"
+        },
+        "Engine": {
+          "Engine Type": "K15C Smart Hybrid",
+          "Capacity (cc)": "1462 cc",
+          "Max Power (1 KW =1.35962 PS)": "75.8 kW (103.06 Ps) @ 6000 rpm",
+          "Max Torque (Nm @ rpm)": "139 Nm @ 4300 rpm"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Disc"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut",
+          "Rear Suspension": "Torsion Beam"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "215/60 R17",
+          "Wheel Type": "Machined Alloy Wheels"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Skid Plate (Front & Rear): Silver",
+          "LED Daytime Running Lamps (DRL)",
+          "LED Tail Stop Lamp: Yes(Connected)",
+          "Follow-Me Home Headlamp",
+          "ORVM with Turn Indicator",
+          "Antenna: Shark Fin Antenna",
+          "Rear Window Wiper & Washer",
+          "Fog Lamps: Yes(LED, With Extended Lighting)",
+          "Front Grille: Satin Chrome",
+          "Led daytime running lamps dual function",
+          "Led front fog lamps with extended lighting",
+          "Outside door handles and orvms: Body Coloured",
+          "Led projector headlamps"
+        ],
+        "Interior": [
+          "Front footwell light driver and co driver side",
+          "Sixty four color custom ambient light: Backlit IP+ Door Spot",
+          "Soft touch i p",
+          "Semi leatherette seats",
+          "Multi information instrument cluster: Fully digital 26.03 cm (10.25\") TFT"
+        ],
+        "Safety & Security": [
+          "6 Airbags",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "ISOFIX with Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "Rear Parking Camera",
+          "Tyre Pressure Monitoring System (TPMS)",
+          "Day/Night Adjustable IRVM: Auto",
+          "Three sixty h d view camera with eleven views",
+          "Engine Immobilizer"
+        ],
+        "Comfort & Convenience": [
+          "Engine Push Start/Stop with Smart Key",
+          "Remote Keyless Entry",
+          "Steering-Mounted Audio Controls",
+          "Rear Defogger",
+          "USB Ports: (Type A) + (Type C-15W + Type C-45W)",
+          "Wireless Charger",
+          "Rear AC Vents",
+          "Automatic Climate Control",
+          "Rear Centre Armrest",
+          "Smart powered tailgate with gesture control",
+          "Eight way driver powered seat",
+          "Head up display comfort",
+          "Auto purify with pm display",
+          "Paddle shifters",
+          "Adjustable tilt telescopic steering",
+          "Power Steering",
+          "Front ventilated seats"
+        ],
+        "Audio & Entertainment": [
+          "Android Auto and Apple CarPlay: Wireless",
+          "Bluetooth",
+          "Number of Speakers: 4.0",
+          "Over the Air (OTA) System Upgrades",
+          "Wireless Android Auto & Apple CarPlay",
+          "Steering Mounted Audio & Calling Controls",
+          "Tweeters: 2",
+          "Infotainment and sound: SmartPlay Pro X 25.65cm (10.1\") HD Touch Screen"
+        ],
+        "Suzuki Connect": [
+          "Emergency Alerts",
+          "Breakdown notification",
+          "Stolen Vehicle Notification and Tracking",
+          "Immobilizer Request",
+          "Tow Away Alert and Tracking",
+          "Geofence",
+          "Valet Alert",
+          "Door Lock/Cancel Lock",
+          "Headlight Off",
+          "Hazard Lights On/Off ",
+          "Smartwatch Connectivity",
+          "Low Fuel & Low Range Alert",
+          "Over Speed Alert",
+          "AC Idling",
+          "Trip (Start & End)",
+          "View & Share Trip History",
+          "Driving behaviour score",
+          "PM 2.5 Monitoring",
+          "Vehicle servicing-related",
+          " Send Coordinates & Trip to Car ",
+          "Dashboard View",
+          "Schedule AC ",
+          "Time Fence",
+          "Trip Summary",
+          "Vehicle health"
+        ],
+        "Level 2 ADAS": [
+          "Adaptive cruise control",
+          "Lane keep assist",
+          "Lane departure prevention",
+          "Automatic emergency braking",
+          "Rear cross traffic alert",
+          "Blind spot monitoring",
+          "Vehicle sway warning",
+          "High beam assist",
+          "Forward collision warning",
+          "Electronic parking brake with auto break",
+          "Front parking sensors with auto camera activation",
+          "Tyre repair kit"
+        ],
+        "Infotainment": [
+          "Dolby atmos spatial sound experience",
+          "Alexa auto cloud assistant",
+          "App store with ott apps",
+          "Wireless android auto apple car play",
+          "Ota updates",
+          "Door speakers: 4",
+          "Front tweeters: 2",
+          "AC temperature Display & Control On Screen ",
+          "Internet Connectivity",
+          "Infinity premium audio"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/saber/images/spinset/blue-with-black/saber_360_V4_blue_dt_00054.png"
+    },
+    {
+      "code": "ECA4DZ2",
+      "name": "Victoris ZXI+ (O) AT 2W (ADAS)",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": 6,
+      "ex_showroom_surat": {
+        "metallic": 1742944,
+        "non_metallic": 1742944,
+        "dual_tone": 1758344
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Efficiency (km/l)*": "21.06 (km/l)"
+        },
+        "Dimensions": {
+          "Length (mm)": "4360",
+          "Width (mm)": "1795",
+          "Height (mm)": "1655",
+          "Wheelbase (mm)": "2600",
+          "Turning Radius (m)": "5.4",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "1185-1225*",
+          "Gross Vehicle Weight (Kg)": "1685",
+          "Fuel Tank Capacity (L)": "45"
+        },
+        "Transmission": {
+          "Transmission Type": "6AT",
+          "Drive Type": "2WD"
+        },
+        "Engine": {
+          "Engine Type": "K15C SMART HYBRID",
+          "Capacity (cc)": "1462 cc",
+          "Max Power (1 KW =1.35962 PS)": "75.8 kW (103.06 Ps) @ 6000 rpm",
+          "Max Torque (Nm @ rpm)": "139 Nm @ 4300 rpm"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Disc"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut",
+          "Rear Suspension": "Torsion Beam"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "215/60 R17",
+          "Wheel Type": "Machined Alloy Wheels"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Skid Plate (Front & Rear): Sliver",
+          "LED Daytime Running Lamps (DRL)",
+          "LED Tail Stop Lamp: Yes(Connected)",
+          "Follow-Me Home Headlamp",
+          "ORVM with Turn Indicator",
+          "Antenna: Shark Fin Antenna ",
+          "Rear Window Wiper & Washer",
+          "Fog Lamps: Yes(LED, With Extended Lighting) ",
+          "Front Grille: Satin Chrome ",
+          "Led daytime running lamps dual function",
+          "Led front fog lamps with extended lighting",
+          "Outside door handles and orvms: Body Coloured ",
+          "Led projector headlamps"
+        ],
+        "Interior": [
+          "Front footwell light driver and co driver side",
+          "Sixty four color custom ambient light: Backlit IP+ Door Spot ",
+          "Soft touch i p",
+          "Semi leatherette seats",
+          "Multi information instrument cluster: Fully digital 26.03 cm (10.25\") TFT "
+        ],
+        "Safety & Security": [
+          "6 Airbags",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "ISOFIX with Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "Tyre Pressure Monitoring System (TPMS)",
+          "Day/Night Adjustable IRVM: Auto",
+          "Three sixty h d view camera with eleven views",
+          "Engine Immobilizer"
+        ],
+        "Comfort & Convenience": [
+          "Engine Push Start/Stop with Smart Key",
+          "Remote Keyless Entry",
+          "Steering-Mounted Audio Controls",
+          "Rear Defogger",
+          "USB Ports: (Type A) + (Type C-15W + Type C-45W) ",
+          "Wireless Charger",
+          "Rear AC Vents",
+          "Automatic Climate Control",
+          "Rear Centre Armrest",
+          "Smart powered tailgate with gesture control",
+          "Panoramic sunroof",
+          "Eight way driver powered seat",
+          "Head up display comfort",
+          "Auto purify with pm display",
+          "Paddle shifters",
+          "Adjustable tilt telescopic steering",
+          "Power Steering",
+          "Front ventilated seats"
+        ],
+        "Audio & Entertainment": [
+          "Android Auto and Apple CarPlay: Wireless",
+          "Bluetooth",
+          "Number of Speakers: 4.0",
+          "Over the Air (OTA) System Upgrades",
+          "Wireless Android Auto & Apple CarPlay",
+          "Steering Mounted Audio & Calling Controls",
+          "Tweeters: 2",
+          "Infotainment and sound: SmartPlay Pro X 25.65cm (10.1\") HD Touch Screen "
+        ],
+        "Suzuki Connect": [
+          "Emergency Alerts",
+          "Breakdown notification",
+          "Stolen Vehicle Notification and Tracking",
+          "Immobilizer Request",
+          "Tow Away Alert and Tracking",
+          "Geofence",
+          "Valet Alert",
+          "Door Lock/Cancel Lock",
+          "Headlight Off",
+          "Hazard Lights On/Off ",
+          "Smartwatch Connectivity",
+          "Low Fuel & Low Range Alert",
+          "AC Idling",
+          "Trip (Start & End)",
+          "View & Share Trip History",
+          "Driving behaviour score",
+          "PM 2.5 Monitoring",
+          "Vehicle servicing-related",
+          " Send Coordinates & Trip to Car ",
+          "Dashboard View",
+          "Schedule AC ",
+          "Time Fence",
+          "Trip Summary"
+        ],
+        "Level 2 ADAS": [
+          "Adaptive cruise control",
+          "Lane keep assist",
+          "Lane departure prevention",
+          "Automatic emergency braking",
+          "Rear cross traffic alert",
+          "Blind spot monitoring",
+          "Lane departure warning",
+          "Vehicle sway warning",
+          "High beam assist",
+          "Forward collision warning",
+          "Electronic parking brake with auto break",
+          "Front parking sensors with auto camera activation",
+          "Tyre repair kit"
+        ],
+        "Infotainment": [
+          "Dolby atmos spatial sound experience",
+          "Alexa auto cloud assistant",
+          "App store with ott apps",
+          "Wireless android auto apple car play",
+          "Ota updates",
+          "Door speakers: 4",
+          "Front tweeters: 2",
+          "AC temperature Display & Control On Screen ",
+          "Internet Connectivity",
+          "Infinity premium audio"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/saber/images/spinset/blue-with-black/saber_360_V4_blue_dt_00054.png"
+    },
+    {
+      "code": "ECAHAZ1",
+      "name": "Victoris ZXI STRONG HYBRID",
+      "fuel": "Strong Hybrid",
+      "transmission": "Automatic",
+      "technology": [
+        "Strong Hybrid"
+      ],
+      "airbags": 6,
+      "ex_showroom_surat": {
+        "metallic": 1784844,
+        "non_metallic": 1784844,
+        "dual_tone": 1800244
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol/Hybrid",
+          "Fuel Efficiency (km/l)*": "28.65 (km/l)"
+        },
+        "Dimensions": {
+          "Length (mm)": "4360",
+          "Width (mm)": "1795",
+          "Height (mm)": "1655",
+          "Wheelbase (mm)": "2600",
+          "Turning Radius (m)": "5.4",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "1250-1295*",
+          "Gross Vehicle Weight (Kg)": "1755",
+          "Fuel Tank Capacity (L)": "45"
+        },
+        "Transmission": {
+          "Transmission Type": "e-CVT",
+          "Drive Type": "2WD"
+        },
+        "Engine": {
+          "Engine Type": "M15D",
+          "Capacity (cc)": "1490 cc",
+          "Max Power (1 KW =1.35962 PS)": "68kW (92.45 Ps) @ 5500 rpm",
+          "Max Torque (Nm @ rpm)": "122 Nm @ 3800-4800 rpm"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Disc"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut",
+          "Rear Suspension": "Torsion Beam"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "215/60 R17",
+          "Wheel Type": "Painted Black Alloy Wheels"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Skid Plate (Front & Rear): Grey",
+          "LED Daytime Running Lamps (DRL)",
+          "LED Tail Stop Lamp: Yes(Connected) ",
+          "Follow-Me Home Headlamp",
+          "ORVM with Turn Indicator",
+          "Antenna: Shark Fin Antenna ",
+          "Rear Window Wiper & Washer",
+          "Fog Lamps: Yes(LED, With Extended Lighting) ",
+          "Front Grille: Satin Chrome ",
+          "Led daytime running lamps dual function",
+          "Led front fog lamps with extended lighting",
+          "Outside door handles and orvms: Body Coloured ",
+          "Led projector headlamps"
+        ],
+        "Interior": [
+          "Front footwell light driver and co driver side",
+          "Soft touch i p",
+          "Multi information instrument cluster: Fully digital 26.03 cm (10.25\") TFT "
+        ],
+        "Safety & Security": [
+          "6 Airbags",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "ISOFIX with Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "Rear Parking Camera",
+          "Tyre Pressure Monitoring System (TPMS)",
+          "Immobilizer (Anti-Theft Security System)",
+          "Day/Night Adjustable IRVM: Auto",
+          "Engine Immobilizer"
+        ],
+        "Comfort & Convenience": [
+          "Engine Push Start/Stop with Smart Key",
+          "Remote Keyless Entry",
+          "Steering-Mounted Audio Controls",
+          "Rear Defogger",
+          "USB Ports: (Type A) + (Type C-15W + Type C-45W) ",
+          "Wireless Charger",
+          "Rear AC Vents",
+          "Cruise Control",
+          "Automatic Climate Control",
+          "Rear Centre Armrest",
+          "Smart powered tailgate with gesture control",
+          "Engine drive modes",
+          "Power Steering"
+        ],
+        "Audio & Entertainment": [
+          "Android Auto and Apple CarPlay: Wireless",
+          "Bluetooth",
+          "Number of Speakers: 2.0",
+          "Over the Air (OTA) System Upgrades",
+          "Wireless Android Auto & Apple CarPlay",
+          "Tweeters: 2",
+          "Infotainment and sound: SmartPlay Pro 17.78cm (7\") Touch Screen "
+        ],
+        "Suzuki Connect": [
+          "Emergency Alerts",
+          "Breakdown notification",
+          "Stolen Vehicle Notification and Tracking",
+          "Immobilizer Request",
+          "Tow Away Alert and Tracking",
+          "Geofence",
+          "Valet Alert",
+          "Remote AC Control ",
+          "Door Lock/Cancel Lock",
+          "Headlight Off",
+          "Hazard Lights On/Off ",
+          "Smartwatch Connectivity",
+          "Suzuki Connect Skills for Amazon Alexa",
+          "Low Fuel & Low Range Alert",
+          "AC Idling",
+          "Door & Lock Status",
+          "Seat Belt Alert",
+          "Trip (Start & End)",
+          "Headlamp & Hazard Lights",
+          "Live Vehicle Tracking & Location sharing",
+          "View & Share Trip History",
+          "Driving behaviour score",
+          "Vehicle servicing-related",
+          " Send Coordinates & Trip to Car ",
+          "Dashboard View",
+          "Schedule AC ",
+          "Time Fence",
+          "Trip Summary",
+          "Vehicle health"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/saber/images/spinset/blue-with-black/saber_360_V4_blue_dt_00054.png"
+    },
+    {
+      "code": "ECAHBZ1",
+      "name": "Victoris ZXI (O) STRONG HYBRID",
+      "fuel": "Strong Hybrid",
+      "transmission": "Automatic",
+      "technology": [
+        "Strong Hybrid"
+      ],
+      "airbags": 6,
+      "ex_showroom_surat": {
+        "metallic": 1843844,
+        "non_metallic": 1843844,
+        "dual_tone": 1859244
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol/Hybrid",
+          "Fuel Efficiency (km/l)*": "28.65 (km/l)"
+        },
+        "Dimensions": {
+          "Length (mm)": "4360",
+          "Width (mm)": "1795",
+          "Height (mm)": "1655",
+          "Wheelbase (mm)": "2600",
+          "Turning Radius (m)": "5.4",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "1250-1295*",
+          "Gross Vehicle Weight (Kg)": "1755",
+          "Fuel Tank Capacity (L)": "45"
+        },
+        "Transmission": {
+          "Transmission Type": "e-CVT",
+          "Drive Type": "2WD"
+        },
+        "Engine": {
+          "Engine Type": "M15D",
+          "Capacity (cc)": "1490 cc",
+          "Max Power (1 KW =1.35962 PS)": "68kW (92.45 Ps) @ 5500 rpm",
+          "Max Torque (Nm @ rpm)": "122 Nm @ 3800-4800 rpm"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Disc"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut",
+          "Rear Suspension": "Torsion Beam"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "215/60 R17",
+          "Wheel Type": "Painted Black Alloy Wheels"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Skid Plate (Front & Rear): Grey",
+          "LED Daytime Running Lamps (DRL)",
+          "LED Tail Stop Lamp: Yes(Connected) ",
+          "Follow-Me Home Headlamp",
+          "ORVM with Turn Indicator",
+          "Antenna: Shark Fin Antenna ",
+          "Rear Window Wiper & Washer",
+          "Fog Lamps: Yes(LED, With Extended Lighting) ",
+          "Front Grille: Satin Chrome ",
+          "Led daytime running lamps dual function",
+          "Led front fog lamps with extended lighting",
+          "Outside door handles and orvms: Body Coloured ",
+          "Led projector headlamps"
+        ],
+        "Interior": [
+          "Front footwell light driver and co driver side",
+          "Soft touch i p",
+          "Multi information instrument cluster: Fully digital 26.03 cm (10.25\") TFT "
+        ],
+        "Safety & Security": [
+          "6 Airbags",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Reverse Parking Sensors",
+          "Rear Parking Camera",
+          "Tyre Pressure Monitoring System (TPMS)",
+          "Day/Night Adjustable IRVM: Auto",
+          "Dual Front Airbags (Driver and Co-Driver)",
+          "Engine Immobilizer"
+        ],
+        "Comfort & Convenience": [
+          "Remote Keyless Entry",
+          "Steering-Mounted Audio Controls",
+          "Rear Defogger",
+          "USB Ports: (Type A) + (Type C-15W + Type C-45W) ",
+          "Cruise Control",
+          "Automatic Climate Control",
+          "Rear Centre Armrest",
+          "Smart powered tailgate with gesture control",
+          "Panoramic sunroof",
+          "Engine drive modes",
+          "Adjustable tilt telescopic steering",
+          "Power Steering"
+        ],
+        "Audio & Entertainment": [
+          "Android Auto and Apple CarPlay: Wireless",
+          "Bluetooth",
+          "Number of Speakers: 4.0",
+          "Over the Air (OTA) System Upgrades",
+          "Wireless Android Auto & Apple CarPlay",
+          "Steering Mounted Audio & Calling Controls",
+          "Tweeters: 2",
+          "Infotainment and sound: SmartPlay Pro 17.78cm (7\") Touch Screen "
+        ],
+        "Suzuki Connect": [
+          "Emergency Alerts",
+          "Breakdown notification",
+          "Stolen Vehicle Notification and Tracking",
+          "Immobilizer Request",
+          "Tow Away Alert and Tracking",
+          "Geofence",
+          "Valet Alert",
+          "Remote AC Control ",
+          "Door Lock/Cancel Lock",
+          "Headlight Off",
+          "Hazard Lights On/Off ",
+          "Smartwatch Connectivity",
+          "Suzuki Connect Skills for Amazon Alexa",
+          "Low Fuel & Low Range Alert",
+          "Over Speed Alert",
+          "AC Idling",
+          "Door & Lock Status",
+          "Seat Belt Alert",
+          "Trip (Start & End)",
+          "Headlamp & Hazard Lights",
+          "Live Vehicle Tracking & Location sharing",
+          "Driving Score",
+          "View & Share Trip History",
+          "Driving behaviour score",
+          "Vehicle servicing-related",
+          "Dashboard View",
+          "Schedule AC ",
+          "Time Fence",
+          "Trip Summary"
+        ],
+        "Level 2 ADAS": [
+          "Tyre repair kit"
+        ],
+        "Infotainment": [
+          "Wireless android auto apple car play",
+          "Ota updates",
+          "Door speakers: 2",
+          "Front tweeters: 2",
+          "AC temperature Display & Control On Screen "
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/saber/images/spinset/blue-with-black/saber_360_V4_blue_dt_00054.png"
+    },
+    {
+      "code": "ECA4CZW",
+      "name": "Victoris ZXI+ AT 4W (All Grip)",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": 6,
+      "ex_showroom_surat": {
+        "metallic": 1868844,
+        "non_metallic": 1868844,
+        "dual_tone": 1884244
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Efficiency (km/l)*": "19.07 (km/l)"
+        },
+        "Dimensions": {
+          "Length (mm)": "4360",
+          "Width (mm)": "1795",
+          "Height (mm)": "1655",
+          "Wheelbase (mm)": "2600",
+          "Turning Radius (m)": "5.4",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "1285-1305*",
+          "Gross Vehicle Weight (Kg)": "1765",
+          "Fuel Tank Capacity (L)": "45"
+        },
+        "Transmission": {
+          "Transmission Type": "6AT(AllGrip)",
+          "Drive Type": "AWD (ALLGRIP SELECT) "
+        },
+        "Engine": {
+          "Engine Type": "K15C Smart Hybrid",
+          "Capacity (cc)": "1462 cc",
+          "Max Power (1 KW =1.35962 PS)": "75.8 kW (103.06 Ps) @ 6000 rpm",
+          "Max Torque (Nm @ rpm)": "139 Nm @ 4300 rpm"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Disc"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut",
+          "Rear Suspension": "Torsion Beam"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "215/60 R17",
+          "Wheel Type": "Machined Alloy Wheels"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Skid Plate (Front & Rear): Silver",
+          "LED Daytime Running Lamps (DRL)",
+          "LED Tail Stop Lamp: Yes(Connected) ",
+          "Follow-Me Home Headlamp",
+          "ORVM with Turn Indicator",
+          "Antenna: Shark Fin Antenna",
+          "Rear Window Wiper & Washer",
+          "Fog Lamps: Yes(LED, With Extended Lighting) ",
+          "Front Grille: Satin Chrome ",
+          "Led daytime running lamps dual function",
+          "Led front fog lamps with extended lighting",
+          "Outside door handles and orvms: Body Coloured ",
+          "Led projector headlamps"
+        ],
+        "Interior": [
+          "Front footwell light driver and co driver side",
+          "Sixty four color custom ambient light: Backlit IP+ Door Spot ",
+          "Soft touch i p",
+          "Semi leatherette seats",
+          "Multi information instrument cluster: Fully digital 26.03 cm (10.25\") TFT "
+        ],
+        "Safety & Security": [
+          "6 Airbags",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "ISOFIX with Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "Rear Parking Camera",
+          "Hill Descent Control",
+          "Day/Night Adjustable IRVM: Auto",
+          "Three sixty h d view camera with eleven views",
+          "Engine Immobilizer"
+        ],
+        "Comfort & Convenience": [
+          "Engine Push Start/Stop with Smart Key",
+          "Remote Keyless Entry",
+          "Steering-Mounted Audio Controls",
+          "Rear Defogger",
+          "USB Ports: (Type A) + (Type C-15W + Type C-45W) ",
+          "Automatic Climate Control",
+          "Rear Centre Armrest",
+          "Smart powered tailgate with gesture control",
+          "Eight way driver powered seat",
+          "Head up display comfort",
+          "Auto purify with pm display",
+          "Paddle shifters",
+          "Terrain modes",
+          "Adjustable tilt telescopic steering",
+          "Power Steering",
+          "Front ventilated seats"
+        ],
+        "Audio & Entertainment": [
+          "Android Auto and Apple CarPlay: Wireless",
+          "Bluetooth",
+          "Number of Speakers: 4.0",
+          "Over the Air (OTA) System Upgrades",
+          "Wireless Android Auto & Apple CarPlay",
+          "Steering Mounted Audio & Calling Controls",
+          "Tweeters: 2",
+          "Infotainment and sound: SmartPlay Pro X 25.65cm (10.1\") HD Touch Screen "
+        ],
+        "Suzuki Connect": [
+          "Emergency Alerts",
+          "Breakdown notification",
+          "Stolen Vehicle Notification and Tracking",
+          "Immobilizer Request",
+          "Tow Away Alert and Tracking",
+          "Geofence",
+          "Valet Alert",
+          "Remote AC Control ",
+          "Door Lock/Cancel Lock",
+          "Headlight Off",
+          "Hazard Lights On/Off ",
+          "Smartwatch Connectivity",
+          "Suzuki Connect Skills for Amazon Alexa",
+          "Low Fuel & Low Range Alert",
+          "Over Speed Alert",
+          "AC Idling",
+          "Door & Lock Status",
+          "Seat Belt Alert",
+          "Trip (Start & End)",
+          "Live Vehicle Tracking & Location sharing",
+          "View & Share Trip History",
+          "Driving behaviour score",
+          "PM 2.5 Monitoring",
+          "Vehicle servicing-related",
+          " Send Coordinates & Trip to Car ",
+          "Dashboard View",
+          "Schedule AC ",
+          "Time Fence",
+          "Trip Summary"
+        ],
+        "Level 2 ADAS": [
+          "Adaptive cruise control",
+          "Lane keep assist",
+          "Lane departure prevention",
+          "Automatic emergency braking",
+          "Rear cross traffic alert",
+          "Blind spot monitoring",
+          "Lane departure warning",
+          "Vehicle sway warning",
+          "High beam assist",
+          "Forward collision warning",
+          "Electronic parking brake with auto break",
+          "Front parking sensors with auto camera activation",
+          "Tyre repair kit"
+        ],
+        "Infotainment": [
+          "Dolby atmos spatial sound experience",
+          "Alexa auto cloud assistant",
+          "App store with ott apps",
+          "Wireless android auto apple car play",
+          "Ota updates",
+          "Door speakers: 2",
+          "Front tweeters: 2",
+          "AC temperature Display & Control On Screen ",
+          "Internet Connectivity",
+          "Infinity premium audio"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/saber/images/spinset/blue-with-black/saber_360_V4_blue_dt_00054.png"
+    },
+    {
+      "code": "ECA4DZW",
+      "name": "Victoris ZXI+ (O) AT 4W (AllGrip)",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": 6,
+      "ex_showroom_surat": {
+        "metallic": 1926844,
+        "non_metallic": 1926844,
+        "dual_tone": 1942244
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Efficiency (km/l)*": "19.07 (km/l)"
+        },
+        "Dimensions": {
+          "Length (mm)": "4360",
+          "Width (mm)": "1795",
+          "Height (mm)": "1655",
+          "Wheelbase (mm)": "2600",
+          "Turning Radius (m)": "5.4",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "1285-1305*",
+          "Gross Vehicle Weight (Kg)": "1765",
+          "Fuel Tank Capacity (L)": "45"
+        },
+        "Transmission": {
+          "Transmission Type": "6AT",
+          "Drive Type": "AWD (ALLGRIP SELECT) "
+        },
+        "Engine": {
+          "Engine Type": "K15C Smart Hybrid",
+          "Capacity (cc)": "1462 cc",
+          "Max Power (1 KW =1.35962 PS)": "75.8 kW (103.06 Ps) @ 6000 rpm",
+          "Max Torque (Nm @ rpm)": "139 Nm @ 4300 rpm"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Disc"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut",
+          "Rear Suspension": "Torsion Beam"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "215/60 R17",
+          "Wheel Type": "Machined Alloy Wheels"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Skid Plate (Front & Rear): Silver",
+          "LED Daytime Running Lamps (DRL)",
+          "LED Tail Stop Lamp: Yes(Connected)",
+          "Follow-Me Home Headlamp",
+          "ORVM with Turn Indicator",
+          "Antenna: Shark Fin Antenna",
+          "Rear Window Wiper & Washer",
+          "Front Grille: Satin Chrome",
+          "Led daytime running lamps dual function",
+          "Led front fog lamps with extended lighting",
+          "Outside door handles and orvms: Body Coloured ",
+          "Led projector headlamps"
+        ],
+        "Interior": [
+          "Front footwell light driver and co driver side",
+          "Sixty four color custom ambient light: Backlit IP+ Door Spot ",
+          "Soft touch i p",
+          "Semi leatherette seats",
+          "Multi information instrument cluster: Fully digital 26.03 cm (10.25\") TFT "
+        ],
+        "Safety & Security": [
+          "6 Airbags",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "ISOFIX with Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "Rear Parking Camera",
+          "Tyre Pressure Monitoring System (TPMS)",
+          "Hill Descent Control",
+          "Day/Night Adjustable IRVM: Auto",
+          "Three sixty h d view camera with eleven views",
+          "Engine Immobilizer"
+        ],
+        "Comfort & Convenience": [
+          "Engine Push Start/Stop with Smart Key",
+          "Remote Keyless Entry",
+          "Steering-Mounted Audio Controls",
+          "Rear Defogger",
+          "USB Ports: (Type A) + (Type C-15W + Type C-45W) ",
+          "Automatic Climate Control",
+          "Rear Centre Armrest",
+          "Smart powered tailgate with gesture control",
+          "Panoramic sunroof",
+          "Eight way driver powered seat",
+          "Head up display comfort",
+          "Auto purify with pm display",
+          "Paddle shifters",
+          "Terrain modes",
+          "Adjustable tilt telescopic steering",
+          "Power Steering",
+          "Front ventilated seats"
+        ],
+        "Audio & Entertainment": [
+          "Android Auto and Apple CarPlay: Wireless",
+          "Bluetooth",
+          "Number of Speakers: 4.0",
+          "Over the Air (OTA) System Upgrades",
+          "Wireless Android Auto & Apple CarPlay",
+          "Steering Mounted Audio & Calling Controls",
+          "Tweeters: 2",
+          "Infotainment and sound: SmartPlay Pro X 25.65cm (10.1\") HD Touch Screen "
+        ],
+        "Suzuki Connect": [
+          "Emergency Alerts",
+          "Breakdown notification",
+          "Stolen Vehicle Notification and Tracking",
+          "Immobilizer Request",
+          "Tow Away Alert and Tracking",
+          "Geofence",
+          "Valet Alert",
+          "Remote AC Control ",
+          "Door Lock/Cancel Lock",
+          "Headlight Off",
+          "Hazard Lights On/Off ",
+          "Smartwatch Connectivity",
+          "Suzuki Connect Skills for Amazon Alexa",
+          "Low Fuel & Low Range Alert",
+          "AC Idling",
+          "Trip (Start & End)",
+          "Driving Score",
+          "View & Share Trip History",
+          "Driving behaviour score",
+          "PM 2.5 Monitoring",
+          "Vehicle servicing-related",
+          " Send Coordinates & Trip to Car ",
+          "Dashboard View",
+          "Schedule AC ",
+          "Time Fence",
+          "Trip Summary",
+          "Vehicle health"
+        ],
+        "Level 2 ADAS": [
+          "Adaptive cruise control",
+          "Lane keep assist",
+          "Lane departure prevention",
+          "Automatic emergency braking",
+          "Rear cross traffic alert",
+          "Blind spot monitoring",
+          "Lane departure warning",
+          "Vehicle sway warning",
+          "High beam assist",
+          "Forward collision warning",
+          "Electronic parking brake with auto break",
+          "Front parking sensors with auto camera activation",
+          "Tyre repair kit"
+        ],
+        "Infotainment": [
+          "Dolby atmos spatial sound experience",
+          "Alexa auto cloud assistant",
+          "App store with ott apps",
+          "Wireless android auto apple car play",
+          "Ota updates",
+          "Door speakers: 4",
+          "Front tweeters: 2",
+          "AC temperature Display & Control On Screen ",
+          "Internet Connectivity",
+          "Infinity premium audio"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/saber/images/spinset/blue-with-black/saber_360_V4_blue_dt_00054.png"
+    },
+    {
+      "code": "ECAHAZ2",
+      "name": "Victoris ZXI+ STRONG HYBRID",
+      "fuel": "Strong Hybrid",
+      "transmission": "Automatic",
+      "technology": [
+        "Strong Hybrid"
+      ],
+      "airbags": 6,
+      "ex_showroom_surat": {
+        "metallic": 1951844,
+        "non_metallic": 1951844,
+        "dual_tone": 1967244
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol/Hybrid",
+          "Fuel Efficiency (km/l)*": "28.65 (km/l) "
+        },
+        "Dimensions": {
+          "Length (mm)": "4360",
+          "Width (mm)": "1795",
+          "Height (mm)": "1655",
+          "Wheelbase (mm)": "2600",
+          "Turning Radius (m)": "5.4",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "1250-1295*",
+          "Gross Vehicle Weight (Kg)": "1755",
+          "Fuel Tank Capacity (L)": "45"
+        },
+        "Transmission": {
+          "Transmission Type": "e-CVT",
+          "Drive Type": "2WD"
+        },
+        "Engine": {
+          "Engine Type": "M15D",
+          "Capacity (cc)": "1490 cc",
+          "Max Power (1 KW =1.35962 PS)": "68kW (92.45 Ps) @ 5500 rpm",
+          "Max Torque (Nm @ rpm)": "122 Nm @ 3800-4800 rpm"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Disc"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut",
+          "Rear Suspension": "Torsion Beam"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "215/60 R17",
+          "Wheel Type": "Machined Alloy Wheels"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Skid Plate (Front & Rear): Grey",
+          "LED Daytime Running Lamps (DRL)",
+          "LED Tail Stop Lamp: Yes(Connected)",
+          "Follow-Me Home Headlamp",
+          "ORVM with Turn Indicator",
+          "Antenna: Shark Fin Antenna",
+          "Rear Window Wiper & Washer",
+          "Fog Lamps: Yes(LED, With Extended Lighting)",
+          "Front Grille: Satin Chrome",
+          "Led daytime running lamps dual function",
+          "Led front fog lamps with extended lighting",
+          "Outside door handles and orvms: Body Coloured",
+          "Led projector headlamps"
+        ],
+        "Interior": [
+          "Front footwell light driver and co driver side",
+          "Sixty four color custom ambient light: Backlit IP+ Door Spot",
+          "Soft touch i p",
+          "Semi leatherette seats",
+          "Multi information instrument cluster: Fully digital 26.03 cm (10.25\") TFT"
+        ],
+        "Safety & Security": [
+          "6 Airbags",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "ISOFIX with Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "Rear Parking Camera",
+          "Tyre Pressure Monitoring System (TPMS)",
+          "Day/Night Adjustable IRVM: Auto",
+          "Three sixty h d view camera with eleven views",
+          "Engine Immobilizer"
+        ],
+        "Comfort & Convenience": [
+          "Engine Push Start/Stop with Smart Key",
+          "Remote Keyless Entry",
+          "Steering-Mounted Audio Controls",
+          "Rear Defogger",
+          "USB Ports: (Type A) + (Type C-15W + Type C-45W)",
+          "Wireless Charger",
+          "Rear AC Vents",
+          "Cruise Control",
+          "Automatic Climate Control",
+          "Rear Centre Armrest",
+          "Smart powered tailgate with gesture control",
+          "Eight way driver powered seat",
+          "Head up display comfort",
+          "Auto purify with pm display",
+          "Engine drive modes",
+          "Adjustable tilt telescopic steering",
+          "Power Steering",
+          "Front ventilated seats"
+        ],
+        "Audio & Entertainment": [
+          "Android Auto and Apple CarPlay: Wireless",
+          "Bluetooth",
+          "Number of Speakers: 4.0",
+          "Over the Air (OTA) System Upgrades",
+          "Wireless Android Auto & Apple CarPlay",
+          "Steering Mounted Audio & Calling Controls",
+          "Tweeters: 2",
+          "Infotainment and sound: SmartPlay Pro X 25.65cm (10.1\") HD Touch Screen"
+        ],
+        "Suzuki Connect": [
+          "Emergency Alerts",
+          "Breakdown notification",
+          "Stolen Vehicle Notification and Tracking",
+          "Immobilizer Request",
+          "Tow Away Alert and Tracking",
+          "Geofence",
+          "Valet Alert",
+          "Door Lock/Cancel Lock",
+          "Headlight Off",
+          "Hazard Lights On/Off ",
+          "Smartwatch Connectivity",
+          "Low Fuel & Low Range Alert",
+          "AC Idling",
+          "Trip (Start & End)",
+          "View & Share Trip History",
+          "Driving behaviour score",
+          "PM 2.5 Monitoring",
+          "Vehicle servicing-related",
+          " Send Coordinates & Trip to Car ",
+          "Dashboard View",
+          "Schedule AC ",
+          "Time Fence",
+          "Trip Summary",
+          "Vehicle health"
+        ],
+        "Level 2 ADAS": [
+          "Front parking sensors with auto camera activation",
+          "Tyre repair kit"
+        ],
+        "Infotainment": [
+          "Dolby atmos spatial sound experience",
+          "Alexa auto cloud assistant",
+          "App store with ott apps",
+          "Wireless android auto apple car play",
+          "Ota updates",
+          "Door speakers: 4",
+          "Front tweeters: 2",
+          "AC temperature Display & Control On Screen ",
+          "Internet Connectivity",
+          "Infinity premium audio"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/saber/images/spinset/blue-with-black/saber_360_V4_blue_dt_00054.png"
+    },
+    {
+      "code": "ECAHBZ2",
+      "name": "Victoris ZXI+ (O) STRONG HYBRID",
+      "fuel": "Strong Hybrid",
+      "transmission": "Automatic",
+      "technology": [
+        "Strong Hybrid"
+      ],
+      "airbags": 6,
+      "ex_showroom_surat": {
+        "dual_tone": 1998844,
+        "metallic": 1998844,
+        "non_metallic": 1998844
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol/Hybrid",
+          "Fuel Efficiency (km/l)*": "28.65 (km/l) "
+        },
+        "Dimensions": {
+          "Length (mm)": "4360",
+          "Width (mm)": "1795",
+          "Height (mm)": "1655",
+          "Wheelbase (mm)": "2600",
+          "Turning Radius (m)": "5.4",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "1250-1295*",
+          "Gross Vehicle Weight (Kg)": "1755",
+          "Fuel Tank Capacity (L)": "45"
+        },
+        "Transmission": {
+          "Transmission Type": "e-CVT",
+          "Drive Type": "2WD"
+        },
+        "Engine": {
+          "Engine Type": "M15D",
+          "Capacity (cc)": "1490 cc",
+          "Max Power (1 KW =1.35962 PS)": "68kW (92.45 Ps) @ 5500 rpm",
+          "Max Torque (Nm @ rpm)": "122 Nm @ 3800-4800 rpm"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Disc"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut",
+          "Rear Suspension": "Torsion Beam"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "215/60 R17",
+          "Wheel Type": "Machined Alloy Wheels"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Skid Plate (Front & Rear): Grey",
+          "LED Daytime Running Lamps (DRL)",
+          "LED Tail Stop Lamp: Yes(Connected)",
+          "Follow-Me Home Headlamp",
+          "ORVM with Turn Indicator",
+          "Antenna: Shark Fin Antenna",
+          "Rear Window Wiper & Washer",
+          "Fog Lamps: Yes(LED, With Extended Lighting)",
+          "Front Grille: Satin Chrome",
+          "Led daytime running lamps dual function",
+          "Led front fog lamps with extended lighting",
+          "Outside door handles and orvms: Body Coloured",
+          "Led projector headlamps"
+        ],
+        "Interior": [
+          "Front footwell light driver and co driver side",
+          "Sixty four color custom ambient light: Backlit IP+ Door Spot",
+          "Soft touch i p",
+          "Semi leatherette seats",
+          "Multi information instrument cluster: Fully digital 26.03 cm (10.25\") TFT"
+        ],
+        "Safety & Security": [
+          "6 Airbags",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "ISOFIX with Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "Rear Parking Camera",
+          "Tyre Pressure Monitoring System (TPMS)",
+          "Day/Night Adjustable IRVM: Auto",
+          "Three sixty h d view camera with eleven views",
+          "Hill Hold Assist",
+          "Engine Immobilizer"
+        ],
+        "Comfort & Convenience": [
+          "Engine Push Start/Stop with Smart Key",
+          "Remote Keyless Entry",
+          "Steering-Mounted Audio Controls",
+          "Rear Defogger",
+          "USB Ports: (Type A) + (Type C-15W + Type C-45W)",
+          "Wireless Charger",
+          "Rear AC Vents",
+          "Cruise Control",
+          "Automatic Climate Control",
+          "Rear Centre Armrest",
+          "Smart powered tailgate with gesture control",
+          "Panoramic sunroof",
+          "Eight way driver powered seat",
+          "Head up display comfort",
+          "Auto purify with pm display",
+          "Engine drive modes",
+          "Adjustable tilt telescopic steering",
+          "Power Steering",
+          "Front ventilated seats"
+        ],
+        "Audio & Entertainment": [
+          "Android Auto and Apple CarPlay: Wireless",
+          "Bluetooth",
+          "Number of Speakers: 4.0",
+          "Over the Air (OTA) System Upgrades",
+          "Wireless Android Auto & Apple CarPlay",
+          "Steering Mounted Audio & Calling Controls",
+          "Tweeters: 2",
+          "Infotainment and sound: SmartPlay Pro X 25.65cm (10.1\") HD Touch Screen"
+        ],
+        "Suzuki Connect": [
+          "Emergency Alerts",
+          "Breakdown notification",
+          "Stolen Vehicle Notification and Tracking",
+          "Immobilizer Request",
+          "Tow Away Alert and Tracking",
+          "Geofence",
+          "Valet Alert",
+          "Door Lock/Cancel Lock",
+          "Headlight Off",
+          "Hazard Lights On/Off ",
+          "Smartwatch Connectivity",
+          "Low Fuel & Low Range Alert",
+          "AC Idling",
+          "Trip (Start & End)",
+          "View & Share Trip History",
+          "Driving behaviour score",
+          "PM 2.5 Monitoring",
+          "Vehicle servicing-related",
+          " Send Coordinates & Trip to Car ",
+          "Dashboard View",
+          "Schedule AC ",
+          "Time Fence",
+          "Trip Summary",
+          "Vehicle health"
+        ],
+        "Infotainment": [
+          "Remote Control App for Infotainment",
+          "Steering Mounted Controls: Audio and Bluetooth",
+          "Dolby atmos spatial sound experience",
+          "Alexa auto cloud assistant",
+          "App store with ott apps",
+          "Wireless android auto apple car play",
+          "Ota updates",
+          "Door speakers: 4",
+          "Front tweeters: 2",
+          "AC temperature Display & Control On Screen ",
+          "Internet Connectivity",
+          "Infinity premium audio"
+        ],
+        "Level 2 ADAS": [
+          "Front parking sensors with auto camera activation",
+          "Tyre repair kit"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/saber/images/spinset/blue-with-black/saber_360_V4_blue_dt_00054.png"
+    }
+  ],
+  "fetched_on": "2026-10-30"
+}

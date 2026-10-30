@@ -1,0 +1,1496 @@
+{
+  "brand": "Maruti Suzuki",
+  "model": "Ertiga",
+  "slug": "ertiga",
+  "model_code": "ER",
+  "channel": "Arena",
+  "official_page": "https://www.marutisuzuki.com/arena/ertiga",
+  "brochure_pdf": "https://www.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/ertiga/document/Arena-Ertiga-Brochure.pdf",
+  "price_city": "Surat, Gujarat",
+  "ex_showroom_min": 889944,
+  "ex_showroom_max": 1314044,
+  "fuel_types": [
+    "CNG",
+    "Petrol"
+  ],
+  "transmissions": [
+    "Automatic",
+    "Manual"
+  ],
+  "colours": [
+    {
+      "name": "Pearl Metallic Dignity Brown",
+      "hex": [
+        "#1F1412"
+      ],
+      "paint": "non_metallic",
+      "variants": [
+        "Ertiga LXi MT",
+        "Ertiga VXi AT",
+        "Ertiga VXi CNG",
+        "Ertiga VXi MT",
+        "Ertiga ZXi+ AT",
+        "Ertiga ZXi+ MT",
+        "Ertiga ZXi AT",
+        "Ertiga ZXi CNG",
+        "Ertiga ZXi MT"
+      ]
+    },
+    {
+      "name": "Magma Grey",
+      "hex": [
+        "#2B2C31"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Ertiga LXi MT",
+        "Ertiga VXi AT",
+        "Ertiga VXi CNG",
+        "Ertiga VXi MT",
+        "Ertiga ZXi+ AT",
+        "Ertiga ZXi+ MT",
+        "Ertiga ZXi AT",
+        "Ertiga ZXi CNG",
+        "Ertiga ZXi MT"
+      ]
+    },
+    {
+      "name": "Arctic White",
+      "hex": [
+        "#F3F3F3"
+      ],
+      "paint": "non_metallic",
+      "variants": [
+        "Ertiga LXi MT",
+        "Ertiga VXi AT",
+        "Ertiga VXi CNG",
+        "Ertiga VXi MT",
+        "Ertiga ZXi+ AT",
+        "Ertiga ZXi+ MT",
+        "Ertiga ZXi AT",
+        "Ertiga ZXi CNG",
+        "Ertiga ZXi MT"
+      ]
+    },
+    {
+      "name": "Prime Oxford Blue",
+      "hex": [
+        "#40519c"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Ertiga LXi MT",
+        "Ertiga VXi AT",
+        "Ertiga VXi CNG",
+        "Ertiga VXi MT",
+        "Ertiga ZXi+ AT",
+        "Ertiga ZXi+ MT",
+        "Ertiga ZXi AT",
+        "Ertiga ZXi CNG",
+        "Ertiga ZXi MT"
+      ]
+    },
+    {
+      "name": "Auburn Red",
+      "hex": [
+        "#732112"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Ertiga LXi MT",
+        "Ertiga VXi AT",
+        "Ertiga VXi CNG",
+        "Ertiga VXi MT",
+        "Ertiga ZXi+ AT",
+        "Ertiga ZXi+ MT",
+        "Ertiga ZXi AT",
+        "Ertiga ZXi CNG",
+        "Ertiga ZXi MT"
+      ]
+    },
+    {
+      "name": "Splendid Silver",
+      "hex": [
+        "#737373"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Ertiga LXi MT",
+        "Ertiga VXi AT",
+        "Ertiga VXi CNG",
+        "Ertiga VXi MT",
+        "Ertiga ZXi+ AT",
+        "Ertiga ZXi+ MT",
+        "Ertiga ZXi AT",
+        "Ertiga ZXi CNG",
+        "Ertiga ZXi MT"
+      ]
+    },
+    {
+      "name": "Bluish Black",
+      "hex": [
+        "#141414"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Ertiga VXi AT",
+        "Ertiga VXi CNG",
+        "Ertiga VXi MT",
+        "Ertiga ZXi+ AT",
+        "Ertiga ZXi+ MT",
+        "Ertiga ZXi AT",
+        "Ertiga ZXi CNG",
+        "Ertiga ZXi MT"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "code": "ERR4IL1",
+      "name": "Ertiga LXi MT",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "technology": [
+        "Smart Hybrid"
+      ],
+      "airbags": 2,
+      "ex_showroom_surat": {
+        "metallic": 889944,
+        "non_metallic": 889944
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Efficiency (km/l)*": "20.51 (km/l)"
+        },
+        "Dimensions": {
+          "Length (mm)": "4395",
+          "Width (mm)": "1735",
+          "Height (mm)": "1690",
+          "Wheelbase (mm)": "2740",
+          "Turning Radius (m)": "5.2",
+          "Seating Capacity (nos.)": "7",
+          "Kerb Weight (Kg)": "1150-1205",
+          "Gross Vehicle Weight (Kg)": "1760",
+          "Fuel Tank Capacity (L)": "45"
+        },
+        "Transmission": {
+          "Transmission Type": "5MT",
+          "Drive Type": "2WD, FF"
+        },
+        "Engine": {
+          "Engine Type": "K15C SMART HYBRID",
+          "Capacity (cc)": "1462 cc",
+          "Max Power (1 KW =1.35962 PS)": "75.8 kW @ 6000 rpm",
+          "Max Torque (Nm @ rpm)": "136.8 Nm @ 4400 rpm"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "Mac Pherson Strut & Coil Spring",
+          "Rear Suspension": "Torsion Beam & Coil Spring"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "185/65 R15",
+          "Wheel Type": "Steel"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Headlamps: Projector Headlamp Halogen",
+          "LED Tail Stop Lamp",
+          "Door Handles: Body Coloured Door Handles",
+          "Front Grille: Painted",
+          "Full Wheel Covers"
+        ],
+        "Interior": [
+          "MID Display",
+          "Dual Tone Interior",
+          "Adjustable Headrest",
+          "Rear Seat Adjustable Headrest",
+          "Flexible Luggage Space with Flat Fold (3rd Row)",
+          "60:40 Folding Rear Seats",
+          "3rd Row 50:50 Split Seats with Recline Function"
+        ],
+        "Safety & Security": [
+          "Driver Airbag",
+          "6 Airbags",
+          "ABS with EBD",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "ISOFIX with Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "High-Speed Alert System",
+          "Immobilizer (Anti-Theft Security System)",
+          "Speed-Sensitive Auto Door Lock",
+          "Hill Descent Control",
+          "Warning Lamps for Low Fuel & Door Ajar",
+          "Brake Assist Function"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Power Windows (Fr/Rr)",
+          "Idle Start Stop (ISS)",
+          "Accessory Socket",
+          "Gear Shift Indicator",
+          "Driver Side Foot Rest",
+          "USB Ports",
+          "Central Locking",
+          "Rear Centre Armrest: Without Cupholder",
+          "Power Steering"
+        ],
+        "Infotainment": [
+          "Tachometer",
+          "Gear Shift Indicator",
+          "Fuel Consumption (Instantaneous and Average)",
+          "Distance to Empty",
+          "Digital Clock",
+          "Headlamp on Warning",
+          "Door Ajar Warning Lamp"
+        ],
+        "Audio & Entertainment": [
+          "Number of Speakers: 0.0",
+          "Tweeters: 0"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/ertiga/images/spinset360/pearl-metallic-auburn-red/2025.04.17_17.41.15_Ertiga_360_Red_PathTracer_0054.png"
+    },
+    {
+      "code": "ERR4IV1",
+      "name": "Ertiga VXi MT",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "technology": [
+        "Smart Hybrid"
+      ],
+      "airbags": 3,
+      "ex_showroom_surat": {
+        "metallic": 995244,
+        "non_metallic": 995244
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Efficiency (km/l)*": "20.51 (km/l)"
+        },
+        "Dimensions": {
+          "Length (mm)": "4395",
+          "Width (mm)": "1735",
+          "Height (mm)": "1690",
+          "Wheelbase (mm)": "2740",
+          "Turning Radius (m)": "5.2",
+          "Seating Capacity (nos.)": "7",
+          "Kerb Weight (Kg)": "1150-1205",
+          "Gross Vehicle Weight (Kg)": "1760",
+          "Fuel Tank Capacity (L)": "45"
+        },
+        "Transmission": {
+          "Transmission Type": "5MT",
+          "Drive Type": "2WD, FF"
+        },
+        "Engine": {
+          "Engine Type": "K15C SMART HYBRID",
+          "Capacity (cc)": "1462 cc",
+          "Max Power (1 KW =1.35962 PS)": "75.8 kW @ 6000 rpm",
+          "Max Torque (Nm @ rpm)": "136.8 Nm @ 4400 rpm"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "Mac Pherson Strut & Coil Spring",
+          "Rear Suspension": "Torsion Beam & Coil Spring"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "185/65 R15",
+          "Wheel Type": "Steel"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Headlamps: Projector Headlamp Halogen",
+          "LED Tail Stop Lamp",
+          "ORVM with Turn Indicator",
+          "Door Handles: Body Coloured Door Handles",
+          "Front Grille: Dynamic Chrome Winged Front Grille",
+          "Full Wheel Covers"
+        ],
+        "Interior": [
+          "MID Display",
+          "Dual Tone Interior",
+          "Adjustable Headrest",
+          "Rear Seat Adjustable Headrest",
+          "Flexible Luggage Space with Flat Fold (3rd Row)",
+          "60:40 Folding Rear Seats",
+          "3rd Row 50:50 Split Seats with Recline Function",
+          "Passenger Side Sunvisor with Vanity Mirror"
+        ],
+        "Safety & Security": [
+          "Driver Airbag",
+          "6 Airbags",
+          "ABS with EBD",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "ISOFIX with Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "High-Speed Alert System",
+          "Immobilizer (Anti-Theft Security System)",
+          "Speed-Sensitive Auto Door Lock",
+          "Hill Descent Control",
+          "Warning Lamps for Low Fuel & Door Ajar",
+          "Brake Assist Function"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Electrically-Foldable ORVMs: Electrically Adjustable & Foldable, With Turn Indicator",
+          "Steering-Mounted Audio Controls",
+          "Idle Start Stop (ISS)",
+          "Accessory Socket",
+          "Power Windows (Fr/Rr) with Dr. Side Auto Down Function",
+          "Gear Shift Indicator",
+          "Driver Side Foot Rest",
+          "USB Ports",
+          "Rear AC Vents",
+          "Central Locking",
+          "Rear Centre Armrest: Without Cupholder",
+          "Power Steering"
+        ],
+        "Infotainment": [
+          "Tachometer",
+          "Gear Shift Indicator",
+          "Touch Screen Audio: Audio System with Electrostatic Touch Buttons",
+          "Steering Mounted Controls: Audio and Bluetooth",
+          "Fuel Consumption (Instantaneous and Average)",
+          "Distance to Empty",
+          "Digital Clock",
+          "Headlamp on Warning",
+          "Door Ajar Warning Lamp",
+          "Media Receiver (AM/FM/Bluetooth)"
+        ],
+        "Audio & Entertainment": [
+          "Bluetooth",
+          "Number of Speakers: 4.0",
+          "USB Connectivity/AUX",
+          "Steering Mounted Audio & Calling Controls",
+          "Tweeters: 0"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/ertiga/images/spinset360/pearl-metallic-auburn-red/2025.04.17_17.41.15_Ertiga_360_Red_PathTracer_0054.png"
+    },
+    {
+      "code": "ERRCIV1",
+      "name": "Ertiga VXi CNG",
+      "fuel": "CNG",
+      "transmission": "Manual",
+      "technology": [
+        "S-CNG"
+      ],
+      "airbags": 2,
+      "ex_showroom_surat": {
+        "metallic": 1093744,
+        "non_metallic": 1093744
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "CNG",
+          "Fuel Efficiency (km/l)*": "26.11 (km/kg)"
+        },
+        "Dimensions": {
+          "Length (mm)": "4395",
+          "Width (mm)": "1735",
+          "Height (mm)": "1690",
+          "Wheelbase (mm)": "2740",
+          "Turning Radius (m)": "5.2",
+          "Seating Capacity (nos.)": "7",
+          "Kerb Weight (Kg)": "1250-1255",
+          "Gross Vehicle Weight (Kg)": "1820",
+          "Fuel Tank Capacity (L)": "Petrol: 45; CNG: 60"
+        },
+        "Transmission": {
+          "Transmission Type": "5MT",
+          "Drive Type": "2WD, FF"
+        },
+        "Engine": {
+          "Engine Type": "K15C",
+          "Capacity (cc)": "1462 cc",
+          "Max Power (1 KW =1.35962 PS)": "CNG Mode: 64.6 kW @ 5500 rpm; Gasoline Mode: 74.0 kW @ 6000 rpm",
+          "Max Torque (Nm @ rpm)": "CNG Mode: 121.5 Nm @ 4200 rpm; Gasoline Mode: 136.0 Nm @ 4400 rpm"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "Mac Pherson Strut & Coil Spring",
+          "Rear Suspension": "Torsion Beam & Coil Spring"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "185/65 R15",
+          "Wheel Type": "Steel"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Headlamps: Projector Headlamp Halogen",
+          "LED Tail Stop Lamp",
+          "ORVM with Turn Indicator",
+          "Door Handles: Body Coloured Door Handles",
+          "Front Grille: Dynamic Chrome Winged Front Grille",
+          "Full Wheel Covers"
+        ],
+        "Interior": [
+          "MID Display",
+          "Dual Tone Interior",
+          "Adjustable Headrest",
+          "Rear Seat Adjustable Headrest",
+          "Flexible Luggage Space with Flat Fold (3rd Row)",
+          "60:40 Folding Rear Seats",
+          "3rd Row 50:50 Split Seats with Recline Function",
+          "Passenger Side Sunvisor with Vanity Mirror"
+        ],
+        "Safety & Security": [
+          "Driver Airbag",
+          "6 Airbags",
+          "ABS with EBD",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "ISOFIX with Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "High-Speed Alert System",
+          "Immobilizer (Anti-Theft Security System)",
+          "Speed-Sensitive Auto Door Lock",
+          "Hill Descent Control",
+          "Warning Lamps for Low Fuel & Door Ajar",
+          "Brake Assist Function"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Electrically-Foldable ORVMs: Electrically Adjustable & Foldable, With Turn Indicator",
+          "Steering-Mounted Audio Controls",
+          "Accessory Socket",
+          "Power Windows (Fr/Rr) with Dr. Side Auto Down Function",
+          "Gear Shift Indicator",
+          "Driver Side Foot Rest",
+          "USB Ports",
+          "Rear AC Vents",
+          "Central Locking",
+          "Rear Centre Armrest: Without Cupholder",
+          "Power Steering"
+        ],
+        "Infotainment": [
+          "Tachometer",
+          "Gear Shift Indicator",
+          "Touch Screen Audio: Audio System with Electrostatic Touch Buttons",
+          "Steering Mounted Controls: Audio and Bluetooth",
+          "Fuel Consumption (Instantaneous and Average)",
+          "Distance to Empty",
+          "Digital Clock",
+          "Headlamp on Warning",
+          "Door Ajar Warning Lamp",
+          "Media Receiver (AM/FM/Bluetooth)"
+        ],
+        "Audio & Entertainment": [
+          "Bluetooth",
+          "Number of Speakers: 4.0",
+          "USB Connectivity/AUX",
+          "Steering Mounted Audio & Calling Controls",
+          "Tweeters: 0"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/ertiga/images/spinset360/pearl-metallic-auburn-red/2025.04.17_17.41.15_Ertiga_360_Red_PathTracer_0054.png"
+    },
+    {
+      "code": "ERR4IZ1",
+      "name": "Ertiga ZXi MT",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "technology": [
+        "Smart Hybrid"
+      ],
+      "airbags": 2,
+      "ex_showroom_surat": {
+        "metallic": 1101444,
+        "non_metallic": 1101444
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Efficiency (km/l)*": "20.51 (km/l)"
+        },
+        "Dimensions": {
+          "Length (mm)": "4395",
+          "Width (mm)": "1735",
+          "Height (mm)": "1690",
+          "Wheelbase (mm)": "2740",
+          "Turning Radius (m)": "5.2",
+          "Seating Capacity (nos.)": "7",
+          "Kerb Weight (Kg)": "1150-1205",
+          "Gross Vehicle Weight (Kg)": "1760",
+          "Fuel Tank Capacity (L)": "45"
+        },
+        "Transmission": {
+          "Transmission Type": "5MT",
+          "Drive Type": "2WD, FF"
+        },
+        "Engine": {
+          "Engine Type": "K15C SMART HYBRID",
+          "Capacity (cc)": "1462 cc",
+          "Max Power (1 KW =1.35962 PS)": "75.8 kW @ 6000 rpm",
+          "Max Torque (Nm @ rpm)": "136.8 Nm @ 4400 rpm"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "Mac Pherson Strut & Coil Spring",
+          "Rear Suspension": "Torsion Beam & Coil Spring"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "185/65 R15",
+          "Wheel Type": "Machined Two-tone Alloy Wheels"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Headlamps: Projector Headlamp Halogen",
+          "LED Tail Stop Lamp",
+          "ORVM with Turn Indicator",
+          "Rear Window Wiper & Washer",
+          "Fog Lamps",
+          "Door Handles: New Back Door Garnish with Chrome Insert",
+          "Front Grille: Dynamic Chrome Winged Front Grille",
+          "Bumper: Body Colored"
+        ],
+        "Interior": [
+          "MID Display",
+          "Dual Tone Interior",
+          "Adjustable Headrest",
+          "Rear Seat Adjustable Headrest",
+          "Height Adjustable Driver Seat",
+          "Flexible Luggage Space with Flat Fold (3rd Row)",
+          "60:40 Folding Rear Seats",
+          "3rd Row 50:50 Split Seats with Recline Function",
+          "Dashboard Finish: Sculpted Dashboard with Metallic Teak-Wooden Finish",
+          "Sliding Armrest with Utility Box (Front Row)",
+          "Passenger Side Sunvisor with Vanity Mirror"
+        ],
+        "Safety & Security": [
+          "Driver Airbag",
+          "6 Airbags",
+          "ABS with EBD",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "ISOFIX with Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "High-Speed Alert System",
+          "Immobilizer (Anti-Theft Security System)",
+          "Rear Window Defogger",
+          "Speed-Sensitive Auto Door Lock",
+          "Hill Descent Control",
+          "Adjustable Front Seatbelt Height Anchors",
+          "Warning Lamps for Low Fuel & Door Ajar",
+          "Brake Assist Function"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Engine Push Start/Stop with Smart Key",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Electrically-Foldable ORVMs: Electrically Adjustable & Foldable, With Turn Indicator",
+          "Steering-Mounted Audio Controls",
+          "Idle Start Stop (ISS)",
+          "Accessory Socket",
+          "Power Windows (Fr/Rr) with Dr. Side Auto Down Function",
+          "Rear Defogger",
+          "Gear Shift Indicator",
+          "Driver Side Foot Rest",
+          "USB Ports",
+          "Rear AC Vents",
+          "Central Locking",
+          "Use Front Center Arm Rest",
+          "Rear Centre Armrest: Without Cupholder",
+          "Power Steering"
+        ],
+        "Infotainment": [
+          "Tachometer",
+          "Gear Shift Indicator",
+          "Steering Mounted Controls: Audio and Bluetooth",
+          "Fuel Consumption (Instantaneous and Average)",
+          "Distance to Empty",
+          "Digital Clock",
+          "Low Fuel Warning Light",
+          "Headlamp on Warning",
+          "Door Ajar Warning Lamp",
+          "Media Receiver (AM/FM/Bluetooth)"
+        ],
+        "Audio & Entertainment": [
+          "SmartPlay Pro: 17.78 cm Smartplay Studio Touchscreen infotainment system",
+          "Android Auto and Apple CarPlay",
+          "Bluetooth",
+          "Number of Speakers: 4.0",
+          "USB Connectivity/AUX",
+          "Steering Mounted Audio & Calling Controls",
+          "Tweeters: 2"
+        ],
+        "Suzuki Connect": [
+          "Emergency Alerts",
+          "Breakdown notification",
+          "Stolen Vehicle Notification and Tracking",
+          "Immobilizer Request",
+          "Tow Away Alert and Tracking",
+          "Geofence",
+          "Safe Time Alert",
+          "Valet Alert",
+          "Remote AC Control ",
+          "Door Lock/Cancel Lock",
+          "Headlight Off",
+          "Hazard Lights On/Off ",
+          "Alarm On/Off",
+          "Smartwatch Connectivity",
+          "Suzuki Connect Skills for Amazon Alexa",
+          "Low Fuel & Low Range Alert",
+          "Over Speed Alert",
+          "AC Idling",
+          "Door & Lock Status",
+          "Seat Belt Alert",
+          "Battery Status",
+          "Trip (Start & End)",
+          "Headlamp & Hazard Lights",
+          "Live Vehicle Tracking & Location sharing",
+          "Driving Score",
+          "Navigate to Car",
+          "View & Share Trip History",
+          "Guidance Around Destination",
+          "Dashboard View",
+          "Time Fence",
+          "Trip Summary"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/ertiga/images/spinset360/pearl-metallic-auburn-red/2025.04.17_17.41.15_Ertiga_360_Red_PathTracer_0054.png"
+    },
+    {
+      "code": "ERA4IV1",
+      "name": "Ertiga VXi AT",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "technology": [
+        "Smart Hybrid"
+      ],
+      "airbags": 2,
+      "ex_showroom_surat": {
+        "metallic": 1130244,
+        "non_metallic": 1130244
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Efficiency (km/l)*": "20.30 (km/l)"
+        },
+        "Dimensions": {
+          "Length (mm)": "4395",
+          "Width (mm)": "1735",
+          "Height (mm)": "1690",
+          "Wheelbase (mm)": "2740",
+          "Turning Radius (m)": "5.2",
+          "Seating Capacity (nos.)": "7",
+          "Kerb Weight (Kg)": "1150-1205",
+          "Gross Vehicle Weight (Kg)": "1785",
+          "Fuel Tank Capacity (L)": "45"
+        },
+        "Transmission": {
+          "Transmission Type": "6AT",
+          "Drive Type": "2WD, FF"
+        },
+        "Engine": {
+          "Engine Type": "K15C SMART HYBRID",
+          "Capacity (cc)": "1462 cc",
+          "Max Power (1 KW =1.35962 PS)": "75.8 kW @ 6000 rpm",
+          "Max Torque (Nm @ rpm)": "136.8 Nm @ 4400 rpm"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "Mac Pherson Strut & Coil Spring",
+          "Rear Suspension": "Torsion Beam & Coil Spring"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "185/65 R15",
+          "Wheel Type": "Steel"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Headlamps: Projector Headlamp Halogen",
+          "LED Tail Stop Lamp",
+          "ORVM with Turn Indicator",
+          "Door Handles: Body Coloured Door Handles",
+          "Front Grille: Dynamic Chrome Winged Front Grille",
+          "Full Wheel Covers"
+        ],
+        "Interior": [
+          "MID Display",
+          "Dual Tone Interior",
+          "Adjustable Headrest",
+          "Rear Seat Adjustable Headrest",
+          "Flexible Luggage Space with Flat Fold (3rd Row)",
+          "60:40 Folding Rear Seats",
+          "3rd Row 50:50 Split Seats with Recline Function",
+          "Passenger Side Sunvisor with Vanity Mirror"
+        ],
+        "Safety & Security": [
+          "Driver Airbag",
+          "6 Airbags",
+          "ABS with EBD",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "ISOFIX with Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "High-Speed Alert System",
+          "Immobilizer (Anti-Theft Security System)",
+          "Speed-Sensitive Auto Door Lock",
+          "Hill Descent Control",
+          "Warning Lamps for Low Fuel & Door Ajar",
+          "Brake Assist Function"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Electrically-Foldable ORVMs: Electrically Adjustable & Foldable, With Turn Indicator",
+          "Steering-Mounted Audio Controls",
+          "Idle Start Stop (ISS)",
+          "Accessory Socket",
+          "Power Windows (Fr/Rr) with Dr. Side Auto Down Function",
+          "Gear Shift Indicator",
+          "Driver Side Foot Rest",
+          "USB Ports",
+          "Rear AC Vents",
+          "Central Locking",
+          "Rear Centre Armrest: Without Cupholder",
+          "Power Steering"
+        ],
+        "Infotainment": [
+          "Tachometer",
+          "Touch Screen Audio: Audio System with Electrostatic Touch Buttons",
+          "Steering Mounted Controls: Audio and Bluetooth",
+          "Fuel Consumption (Instantaneous and Average)",
+          "Distance to Empty",
+          "Digital Clock",
+          "Headlamp on Warning",
+          "Door Ajar Warning Lamp",
+          "Media Receiver (AM/FM/Bluetooth)"
+        ],
+        "Audio & Entertainment": [
+          "Bluetooth",
+          "Number of Speakers: 4.0",
+          "USB Connectivity/AUX",
+          "Steering Mounted Audio & Calling Controls",
+          "Tweeters: 0"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/ertiga/images/spinset360/pearl-metallic-auburn-red/2025.04.17_17.41.15_Ertiga_360_Red_PathTracer_0054.png"
+    },
+    {
+      "code": "ERR4IZ2",
+      "name": "Ertiga ZXi+ MT",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "technology": [
+        "Smart Hybrid"
+      ],
+      "airbags": 4,
+      "ex_showroom_surat": {
+        "metallic": 1179044,
+        "non_metallic": 1179044
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Efficiency (km/l)*": "20.51 (km/l)"
+        },
+        "Dimensions": {
+          "Length (mm)": "4395",
+          "Width (mm)": "1735",
+          "Height (mm)": "1690",
+          "Wheelbase (mm)": "2740",
+          "Turning Radius (m)": "5.2",
+          "Seating Capacity (nos.)": "7",
+          "Kerb Weight (Kg)": "1150-1205",
+          "Gross Vehicle Weight (Kg)": "1760",
+          "Fuel Tank Capacity (L)": "45"
+        },
+        "Transmission": {
+          "Transmission Type": "5MT",
+          "Drive Type": "2WD, FF"
+        },
+        "Engine": {
+          "Engine Type": "K15C SMART HYBRID",
+          "Capacity (cc)": "1462 cc",
+          "Max Power (1 KW =1.35962 PS)": "75.8 kW @ 6000 RPM",
+          "Max Torque (Nm @ rpm)": "136.8 Nm @ 4400 RPM"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "Mac Pherson Strut & Coil Spring",
+          "Rear Suspension": "Torsion Beam & Coil Spring"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "185/65 R15",
+          "Wheel Type": "Machined Two-tone Alloy Wheels"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Headlamps: Projector Headlamp Halogen",
+          "LED Tail Stop Lamp",
+          "Follow-Me Home Headlamp",
+          "ORVM with Turn Indicator",
+          "Rear Window Wiper & Washer",
+          "Fog Lamps",
+          "Door Handles: New Back Door Garnish with Chrome Insert",
+          "Front Grille: Dynamic Chrome Winged Front Grille",
+          "Bumper: Body Colored"
+        ],
+        "Interior": [
+          "Leather Wrapped Steering Wheel",
+          "MID Display",
+          "Dual Tone Interior",
+          "Adjustable Headrest",
+          "Rear Seat Adjustable Headrest",
+          "Height Adjustable Driver Seat",
+          "Flexible Luggage Space with Flat Fold (3rd Row)",
+          "60:40 Folding Rear Seats",
+          "3rd Row 50:50 Split Seats with Recline Function",
+          "Dashboard Finish: Sculpted Dashboard with Metallic Teak-Wooden Finish",
+          "Sliding Armrest with Utility Box (Front Row)",
+          "Passenger Side Sunvisor with Vanity Mirror"
+        ],
+        "Safety & Security": [
+          "Driver Airbag",
+          "6 Airbags",
+          "ABS with EBD",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Side & Curtain Airbags",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "ISOFIX with Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "Rear Parking Camera",
+          "High-Speed Alert System",
+          "Immobilizer (Anti-Theft Security System)",
+          "Rear Window Defogger",
+          "Speed-Sensitive Auto Door Lock",
+          "Hill Descent Control",
+          "Adjustable Front Seatbelt Height Anchors",
+          "Warning Lamps for Low Fuel & Door Ajar",
+          "Brake Assist Function"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Engine Push Start/Stop with Smart Key",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Electrically-Foldable ORVMs: Electrically Adjustable & Foldable, With Turn Indicator and Retractable with Key",
+          "Steering-Mounted Audio Controls",
+          "Idle Start Stop (ISS)",
+          "Accessory Socket",
+          "Power Windows (Fr/Rr) with Dr. Side Auto Down Function",
+          "Rear Defogger",
+          "Gear Shift Indicator",
+          "Driver Side Foot Rest",
+          "USB Ports",
+          "Rear AC Vents",
+          "Cruise Control",
+          "Central Locking",
+          "Use Front Center Arm Rest",
+          "Rear Centre Armrest: Without Cupholder",
+          "Power Steering"
+        ],
+        "Infotainment": [
+          "Tachometer",
+          "Gear Shift Indicator",
+          "Steering Mounted Controls: Audio and Bluetooth",
+          "Fuel Consumption (Instantaneous and Average)",
+          "Distance to Empty",
+          "Digital Clock",
+          "Low Fuel Warning Light",
+          "Headlamp on Warning",
+          "Door Ajar Warning Lamp",
+          "Media Receiver (AM/FM/Bluetooth)"
+        ],
+        "Audio & Entertainment": [
+          "SmartPlay Pro: 17.78 cm Smartplay Pro touch screen infotainment system",
+          "Surround Sense Powered by ARKAMYS",
+          "Android Auto and Apple CarPlay",
+          "Bluetooth",
+          "Number of Speakers: 4.0",
+          "USB Connectivity/AUX",
+          "Wireless Android Auto & Apple CarPlay",
+          "Steering Mounted Audio & Calling Controls",
+          "Tweeters: 2"
+        ],
+        "Suzuki Connect": [
+          "Emergency Alerts",
+          "Breakdown notification",
+          "Stolen Vehicle Notification and Tracking",
+          "Immobilizer Request",
+          "Tow Away Alert and Tracking",
+          "Geofence",
+          "Safe Time Alert",
+          "Valet Alert",
+          "Remote AC Control ",
+          "Door Lock/Cancel Lock",
+          "Headlight Off",
+          "Hazard Lights On/Off ",
+          "Alarm On/Off",
+          "Smartwatch Connectivity",
+          "Suzuki Connect Skills for Amazon Alexa",
+          "Low Fuel & Low Range Alert",
+          "Over Speed Alert",
+          "AC Idling",
+          "Door & Lock Status",
+          "Seat Belt Alert",
+          "Battery Status",
+          "Trip (Start & End)",
+          "Headlamp & Hazard Lights",
+          "Live Vehicle Tracking & Location sharing",
+          "Driving Score",
+          "Navigate to Car",
+          "View & Share Trip History",
+          "Guidance Around Destination",
+          "Dashboard View",
+          "Time Fence",
+          "Trip Summary"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/ertiga/images/spinset360/pearl-metallic-auburn-red/2025.04.17_17.41.15_Ertiga_360_Red_PathTracer_0054.png"
+    },
+    {
+      "code": "ERRCIZ1",
+      "name": "Ertiga ZXi CNG",
+      "fuel": "CNG",
+      "transmission": "Manual",
+      "technology": [
+        "S-CNG"
+      ],
+      "airbags": 2,
+      "ex_showroom_surat": {
+        "metallic": 1199944,
+        "non_metallic": 1199944
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "CNG",
+          "Fuel Efficiency (km/l)*": "26.11 (km/kg)"
+        },
+        "Dimensions": {
+          "Length (mm)": "4395",
+          "Width (mm)": "1735",
+          "Height (mm)": "1690",
+          "Wheelbase (mm)": "2740",
+          "Turning Radius (m)": "5.2",
+          "Seating Capacity (nos.)": "7",
+          "Kerb Weight (Kg)": "1250-1255",
+          "Gross Vehicle Weight (Kg)": "1820",
+          "Fuel Tank Capacity (L)": "Petrol: 45; CNG: 60"
+        },
+        "Transmission": {
+          "Transmission Type": "5MT",
+          "Drive Type": "2WD, FF"
+        },
+        "Engine": {
+          "Engine Type": "K15C",
+          "Capacity (cc)": "1462 cc",
+          "Max Power (1 KW =1.35962 PS)": "CNG Mode: 64.6 kW @ 5500 rpm; Gasoline Mode: 74.0 kW @ 6000 rpm",
+          "Max Torque (Nm @ rpm)": "CNG Mode: 121.5 Nm @ 4200 rpm; Gasoline Mode: 136.0 Nm @ 4400 rpm"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "Mac Pherson Strut & Coil Spring",
+          "Rear Suspension": "Torsion Beam & Coil Spring"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "185/65 R15",
+          "Wheel Type": "Machined Two-tone Alloy Wheels"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Headlamps: Projector Headlamp Halogen",
+          "LED Tail Stop Lamp",
+          "ORVM with Turn Indicator",
+          "Rear Window Wiper & Washer",
+          "Fog Lamps",
+          "Door Handles: New Back Door Garnish with Chrome Insert",
+          "Front Grille: Dynamic Chrome Winged Front Grille",
+          "Bumper: Body Colored"
+        ],
+        "Interior": [
+          "MID Display",
+          "Dual Tone Interior",
+          "Adjustable Headrest",
+          "Rear Seat Adjustable Headrest",
+          "Height Adjustable Driver Seat",
+          "Flexible Luggage Space with Flat Fold (3rd Row)",
+          "60:40 Folding Rear Seats",
+          "3rd Row 50:50 Split Seats with Recline Function",
+          "Dashboard Finish: Sculpted Dashboard with Metallic Teak-Wooden Finish",
+          "Sliding Armrest with Utility Box (Front Row)",
+          "Passenger Side Sunvisor with Vanity Mirror"
+        ],
+        "Safety & Security": [
+          "Driver Airbag",
+          "6 Airbags",
+          "ABS with EBD",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "ISOFIX with Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "High-Speed Alert System",
+          "Immobilizer (Anti-Theft Security System)",
+          "Rear Window Defogger",
+          "Speed-Sensitive Auto Door Lock",
+          "Hill Descent Control",
+          "Adjustable Front Seatbelt Height Anchors",
+          "Warning Lamps for Low Fuel & Door Ajar",
+          "Brake Assist Function"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Engine Push Start/Stop with Smart Key",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Electrically-Foldable ORVMs: Electrically Adjustable & Foldable, With Turn Indicator",
+          "Steering-Mounted Audio Controls",
+          "Accessory Socket",
+          "Power Windows (Fr/Rr) with Dr. Side Auto Down Function",
+          "Rear Defogger",
+          "Gear Shift Indicator",
+          "Driver Side Foot Rest",
+          "USB Ports",
+          "Rear AC Vents",
+          "Central Locking",
+          "Use Front Center Arm Rest",
+          "Rear Centre Armrest: Without Cupholder",
+          "Power Steering"
+        ],
+        "Infotainment": [
+          "Tachometer",
+          "Gear Shift Indicator",
+          "Steering Mounted Controls: Audio and Bluetooth",
+          "Fuel Consumption (Instantaneous and Average)",
+          "Distance to Empty",
+          "Digital Clock",
+          "Low Fuel Warning Light",
+          "Headlamp on Warning",
+          "Door Ajar Warning Lamp",
+          "Media Receiver (AM/FM/Bluetooth)"
+        ],
+        "Audio & Entertainment": [
+          "SmartPlay Pro: 17.78 cm Smartplay Studio Touchscreen infotainment system",
+          "Android Auto and Apple CarPlay",
+          "Bluetooth",
+          "Number of Speakers: 4.0",
+          "USB Connectivity/AUX",
+          "Steering Mounted Audio & Calling Controls",
+          "Tweeters: 2"
+        ],
+        "Suzuki Connect": [
+          "Emergency Alerts",
+          "Breakdown notification",
+          "Stolen Vehicle Notification and Tracking",
+          "Immobilizer Request",
+          "Tow Away Alert and Tracking",
+          "Geofence",
+          "Safe Time Alert",
+          "Valet Alert",
+          "Remote AC Control ",
+          "Door Lock/Cancel Lock",
+          "Headlight Off",
+          "Hazard Lights On/Off ",
+          "Alarm On/Off",
+          "Smartwatch Connectivity",
+          "Suzuki Connect Skills for Amazon Alexa",
+          "Low Fuel & Low Range Alert",
+          "Over Speed Alert",
+          "AC Idling",
+          "Door & Lock Status",
+          "Seat Belt Alert",
+          "Battery Status",
+          "Trip (Start & End)",
+          "Headlamp & Hazard Lights",
+          "Live Vehicle Tracking & Location sharing",
+          "Driving Score",
+          "Navigate to Car",
+          "View & Share Trip History",
+          "Guidance Around Destination",
+          "Dashboard View",
+          "Time Fence",
+          "Trip Summary"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/ertiga/images/spinset360/pearl-metallic-auburn-red/2025.04.17_17.41.15_Ertiga_360_Red_PathTracer_0054.png"
+    },
+    {
+      "code": "ERA4IZ1",
+      "name": "Ertiga ZXi AT",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "technology": [
+        "Smart Hybrid"
+      ],
+      "airbags": 2,
+      "ex_showroom_surat": {
+        "metallic": 1236444,
+        "non_metallic": 1236444
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Efficiency (km/l)*": "20.30 (km/l)"
+        },
+        "Dimensions": {
+          "Length (mm)": "4395",
+          "Width (mm)": "1735",
+          "Height (mm)": "1690",
+          "Wheelbase (mm)": "2740",
+          "Turning Radius (m)": "5.2",
+          "Seating Capacity (nos.)": "7",
+          "Kerb Weight (Kg)": "1150-1205",
+          "Gross Vehicle Weight (Kg)": "1785",
+          "Fuel Tank Capacity (L)": "45"
+        },
+        "Transmission": {
+          "Transmission Type": "6AT",
+          "Drive Type": "2WD, FF"
+        },
+        "Engine": {
+          "Engine Type": "K15C SMART HYBRID",
+          "Capacity (cc)": "1462 cc",
+          "Max Power (1 KW =1.35962 PS)": "75.8 kW @ 6000 rpm",
+          "Max Torque (Nm @ rpm)": "136.8 Nm @ 4400 rpm"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "Mac Pherson Strut & Coil Spring",
+          "Rear Suspension": "Torsion Beam & Coil Spring"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "185/65 R15",
+          "Wheel Type": "Machined Two-tone Alloy Wheels"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Headlamps: Projector Headlamp Halogen",
+          "LED Tail Stop Lamp",
+          "ORVM with Turn Indicator",
+          "Rear Window Wiper & Washer",
+          "Fog Lamps",
+          "Door Handles: New Back Door Garnish with Chrome Insert",
+          "Front Grille: Dynamic Chrome Winged Front Grille",
+          "Bumper: Body Colored"
+        ],
+        "Interior": [
+          "MID Display",
+          "Dual Tone Interior",
+          "Adjustable Headrest",
+          "Rear Seat Adjustable Headrest",
+          "Height Adjustable Driver Seat",
+          "Flexible Luggage Space with Flat Fold (3rd Row)",
+          "60:40 Folding Rear Seats",
+          "3rd Row 50:50 Split Seats with Recline Function",
+          "Dashboard Finish: Sculpted Dashboard with Metallic Teak-Wooden Finish",
+          "Sliding Armrest with Utility Box (Front Row)",
+          "Passenger Side Sunvisor with Vanity Mirror"
+        ],
+        "Safety & Security": [
+          "Driver Airbag",
+          "6 Airbags",
+          "ABS with EBD",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "ISOFIX with Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "High-Speed Alert System",
+          "Immobilizer (Anti-Theft Security System)",
+          "Rear Window Defogger",
+          "Speed-Sensitive Auto Door Lock",
+          "Hill Descent Control",
+          "Adjustable Front Seatbelt Height Anchors",
+          "Warning Lamps for Low Fuel & Door Ajar",
+          "Brake Assist Function"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Engine Push Start/Stop with Smart Key",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Electrically-Foldable ORVMs: Electrically Adjustable & Foldable, With Turn Indicator",
+          "Steering-Mounted Audio Controls",
+          "Idle Start Stop (ISS)",
+          "Accessory Socket",
+          "Power Windows (Fr/Rr) with Dr. Side Auto Down Function",
+          "Rear Defogger",
+          "Gear Shift Indicator",
+          "Driver Side Foot Rest",
+          "USB Ports",
+          "Rear AC Vents",
+          "Central Locking",
+          "Use Front Center Arm Rest",
+          "Rear Centre Armrest: Without Cupholder",
+          "Power Steering"
+        ],
+        "Infotainment": [
+          "Tachometer",
+          "Steering Mounted Controls: Audio and Bluetooth",
+          "Fuel Consumption (Instantaneous and Average)",
+          "Distance to Empty",
+          "Digital Clock",
+          "Low Fuel Warning Light",
+          "Headlamp on Warning",
+          "Door Ajar Warning Lamp",
+          "Media Receiver (AM/FM/Bluetooth)"
+        ],
+        "Audio & Entertainment": [
+          "SmartPlay Pro: 17.78 cm Smartplay Studio Touchscreen infotainment system",
+          "Android Auto and Apple CarPlay",
+          "Bluetooth",
+          "Number of Speakers: 4.0",
+          "USB Connectivity/AUX",
+          "Steering Mounted Audio & Calling Controls",
+          "Tweeters: 2"
+        ],
+        "Suzuki Connect": [
+          "Emergency Alerts",
+          "Breakdown notification",
+          "Stolen Vehicle Notification and Tracking",
+          "Immobilizer Request",
+          "Tow Away Alert and Tracking",
+          "Geofence",
+          "Safe Time Alert",
+          "Valet Alert",
+          "Remote AC Control ",
+          "Door Lock/Cancel Lock",
+          "Headlight Off",
+          "Hazard Lights On/Off ",
+          "Alarm On/Off",
+          "Smartwatch Connectivity",
+          "Suzuki Connect Skills for Amazon Alexa",
+          "Low Fuel & Low Range Alert",
+          "Over Speed Alert",
+          "AC Idling",
+          "Door & Lock Status",
+          "Seat Belt Alert",
+          "Battery Status",
+          "Trip (Start & End)",
+          "Headlamp & Hazard Lights",
+          "Live Vehicle Tracking & Location sharing",
+          "Driving Score",
+          "Navigate to Car",
+          "View & Share Trip History",
+          "Guidance Around Destination",
+          "Dashboard View",
+          "Time Fence",
+          "Trip Summary"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/ertiga/images/spinset360/pearl-metallic-auburn-red/2025.04.17_17.41.15_Ertiga_360_Red_PathTracer_0054.png"
+    },
+    {
+      "code": "ERA4IZ2",
+      "name": "Ertiga ZXi+ AT",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "technology": [
+        "Smart Hybrid"
+      ],
+      "airbags": 4,
+      "ex_showroom_surat": {
+        "metallic": 1314044,
+        "non_metallic": 1314044
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Efficiency (km/l)*": "20.30 (km/l)"
+        },
+        "Dimensions": {
+          "Length (mm)": "4395",
+          "Width (mm)": "1735",
+          "Height (mm)": "1690",
+          "Wheelbase (mm)": "2740",
+          "Turning Radius (m)": "5.2",
+          "Seating Capacity (nos.)": "7",
+          "Kerb Weight (Kg)": "1150-1205",
+          "Gross Vehicle Weight (Kg)": "1785",
+          "Fuel Tank Capacity (L)": "45"
+        },
+        "Transmission": {
+          "Transmission Type": "6AT",
+          "Drive Type": "2WD, FF"
+        },
+        "Engine": {
+          "Engine Type": "K15C SMART HYBRID",
+          "Capacity (cc)": "1462 cc",
+          "Max Power (1 KW =1.35962 PS)": "75.8 kW @ 6000 RPM",
+          "Max Torque (Nm @ rpm)": "136.8 Nm @ 4400 RPM"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "Mac Pherson Strut & Coil Spring",
+          "Rear Suspension": "Torsion Beam & Coil Spring"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "185/65 R15",
+          "Wheel Type": "Machined Two-tone Alloy Wheels"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Headlamps: Projector Headlamp Halogen",
+          "LED Tail Stop Lamp",
+          "Follow-Me Home Headlamp",
+          "ORVM with Turn Indicator",
+          "Rear Window Wiper & Washer",
+          "Fog Lamps",
+          "Door Handles: New Back Door Garnish with Chrome Insert",
+          "Front Grille: Dynamic Chrome Winged Front Grille",
+          "Bumper: Body Colored"
+        ],
+        "Interior": [
+          "Leather Wrapped Steering Wheel",
+          "MID Display",
+          "Dual Tone Interior",
+          "Adjustable Headrest",
+          "Rear Seat Adjustable Headrest",
+          "Height Adjustable Driver Seat",
+          "Flexible Luggage Space with Flat Fold (3rd Row)",
+          "60:40 Folding Rear Seats",
+          "3rd Row 50:50 Split Seats with Recline Function",
+          "Dashboard Finish: Sculpted Dashboard with Metallic Teak-Wooden Finish",
+          "Sliding Armrest with Utility Box (Front Row)",
+          "Passenger Side Sunvisor with Vanity Mirror"
+        ],
+        "Safety & Security": [
+          "Driver Airbag",
+          "6 Airbags",
+          "ABS with EBD",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Side & Curtain Airbags",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "ISOFIX with Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "Rear Parking Camera",
+          "High-Speed Alert System",
+          "Immobilizer (Anti-Theft Security System)",
+          "Rear Window Defogger",
+          "Speed-Sensitive Auto Door Lock",
+          "Hill Descent Control",
+          "Adjustable Front Seatbelt Height Anchors",
+          "Warning Lamps for Low Fuel & Door Ajar",
+          "Brake Assist Function"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Engine Push Start/Stop with Smart Key",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Electrically-Foldable ORVMs: Electrically Adjustable & Foldable, With Turn Indicator and Retractable with Key",
+          "Steering-Mounted Audio Controls",
+          "Idle Start Stop (ISS)",
+          "Accessory Socket",
+          "Power Windows (Fr/Rr) with Dr. Side Auto Down Function",
+          "Rear Defogger",
+          "Gear Shift Indicator",
+          "Driver Side Foot Rest",
+          "USB Ports",
+          "Rear AC Vents",
+          "Cruise Control",
+          "Central Locking",
+          "Use Front Center Arm Rest",
+          "Rear Centre Armrest: Without Cupholder",
+          "Power Steering"
+        ],
+        "Infotainment": [
+          "Tachometer",
+          "Steering Mounted Controls: Audio and Bluetooth",
+          "Fuel Consumption (Instantaneous and Average)",
+          "Distance to Empty",
+          "Digital Clock",
+          "Low Fuel Warning Light",
+          "Headlamp on Warning",
+          "Door Ajar Warning Lamp",
+          "Media Receiver (AM/FM/Bluetooth)"
+        ],
+        "Audio & Entertainment": [
+          "SmartPlay Pro: 17.78 cm Smartplay Pro touch screen infotainment system",
+          "Surround Sense Powered by ARKAMYS",
+          "Android Auto and Apple CarPlay",
+          "Bluetooth",
+          "Number of Speakers: 4.0",
+          "USB Connectivity/AUX",
+          "Wireless Android Auto & Apple CarPlay",
+          "Steering Mounted Audio & Calling Controls",
+          "Tweeters: 2"
+        ],
+        "Suzuki Connect": [
+          "Emergency Alerts",
+          "Breakdown notification",
+          "Stolen Vehicle Notification and Tracking",
+          "Immobilizer Request",
+          "Tow Away Alert and Tracking",
+          "Geofence",
+          "Safe Time Alert",
+          "Valet Alert",
+          "Remote AC Control ",
+          "Door Lock/Cancel Lock",
+          "Headlight Off",
+          "Hazard Lights On/Off ",
+          "Alarm On/Off",
+          "Smartwatch Connectivity",
+          "Suzuki Connect Skills for Amazon Alexa",
+          "Low Fuel & Low Range Alert",
+          "Over Speed Alert",
+          "AC Idling",
+          "Door & Lock Status",
+          "Seat Belt Alert",
+          "Battery Status",
+          "Trip (Start & End)",
+          "Headlamp & Hazard Lights",
+          "Live Vehicle Tracking & Location sharing",
+          "Driving Score",
+          "Navigate to Car",
+          "View & Share Trip History",
+          "Guidance Around Destination",
+          "Dashboard View",
+          "Time Fence",
+          "Trip Summary"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/ertiga/images/spinset360/pearl-metallic-auburn-red/2025.04.17_17.41.15_Ertiga_360_Red_PathTracer_0054.png"
+    }
+  ],
+  "fetched_on": "2026-10-30"
+}

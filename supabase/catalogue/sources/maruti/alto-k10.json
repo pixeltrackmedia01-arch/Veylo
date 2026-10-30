@@ -1,0 +1,932 @@
+{
+  "brand": "Maruti Suzuki",
+  "model": "Alto K10",
+  "slug": "alto-k10",
+  "model_code": "AT",
+  "channel": "Arena",
+  "official_page": "https://www.marutisuzuki.com/arena/alto-k10",
+  "brochure_pdf": "https://www.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/alto-k10/documents/AltoK10-KV-Brochure.pdf",
+  "price_city": "Surat, Gujarat",
+  "ex_showroom_min": 369853,
+  "ex_showroom_max": 544853,
+  "fuel_types": [
+    "CNG",
+    "Petrol"
+  ],
+  "transmissions": [
+    "Automatic",
+    "Manual"
+  ],
+  "colours": [
+    {
+      "name": "Metallic Granite Grey",
+      "hex": [
+        "#222526"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Alto K10 LXi (O) MT",
+        "Alto K10 Std (O)",
+        "Alto K10 VXi (O) MT",
+        "Alto K10 VXi (O) CNG",
+        "Alto K10 VXi+ (O) MT",
+        "Alto K10 VXi (O) AGS",
+        "Alto K10 VXi+ (O) AGS",
+        "Alto K10 LXi (O) CNG"
+      ]
+    },
+    {
+      "name": "Metallic Silky Silver",
+      "hex": [
+        "#737373"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Alto K10 LXi (O) MT",
+        "Alto K10 Std (O)",
+        "Alto K10 VXi (O) MT",
+        "Alto K10 VXi (O) CNG",
+        "Alto K10 VXi+ (O) MT",
+        "Alto K10 VXi (O) AGS",
+        "Alto K10 VXi+ (O) AGS",
+        "Alto K10 LXi (O) CNG"
+      ]
+    },
+    {
+      "name": "Solid White",
+      "hex": [
+        "#B7B7B7"
+      ],
+      "paint": "non_metallic",
+      "variants": [
+        "Alto K10 LXi (O) MT",
+        "Alto K10 Std (O)",
+        "Alto K10 VXi (O) MT",
+        "Alto K10 VXi (O) CNG",
+        "Alto K10 VXi+ (O) MT",
+        "Alto K10 VXi (O) AGS",
+        "Alto K10 VXi+ (O) AGS",
+        "Alto K10 LXi (O) CNG"
+      ]
+    },
+    {
+      "name": "Metallic Sizzling Red",
+      "hex": [
+        "#A10000"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Alto K10 LXi (O) MT",
+        "Alto K10 Std (O)",
+        "Alto K10 VXi (O) MT",
+        "Alto K10 VXi (O) CNG",
+        "Alto K10 VXi+ (O) MT",
+        "Alto K10 VXi (O) AGS",
+        "Alto K10 VXi+ (O) AGS",
+        "Alto K10 LXi (O) CNG"
+      ]
+    },
+    {
+      "name": "Metallic Speedy Blue",
+      "hex": [
+        "#1F47C2"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Alto K10 LXi (O) MT",
+        "Alto K10 Std (O)",
+        "Alto K10 VXi (O) MT",
+        "Alto K10 VXi (O) CNG",
+        "Alto K10 VXi+ (O) MT",
+        "Alto K10 VXi (O) AGS",
+        "Alto K10 VXi+ (O) AGS",
+        "Alto K10 LXi (O) CNG"
+      ]
+    },
+    {
+      "name": "Premium Earth Gold",
+      "hex": [
+        "#976c2d"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Alto K10 LXi (O) MT",
+        "Alto K10 Std (O)",
+        "Alto K10 VXi (O) MT",
+        "Alto K10 VXi (O) CNG",
+        "Alto K10 VXi+ (O) MT",
+        "Alto K10 VXi (O) AGS",
+        "Alto K10 VXi+ (O) AGS",
+        "Alto K10 LXi (O) CNG"
+      ]
+    },
+    {
+      "name": "Pearl Bluish Black",
+      "hex": [
+        "#141414"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Alto K10 VXi (O) MT",
+        "Alto K10 VXi (O) CNG",
+        "Alto K10 VXi+ (O) MT",
+        "Alto K10 VXi (O) AGS",
+        "Alto K10 VXi+ (O) AGS"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "code": "ATR4HS1",
+      "name": "Alto K10 Std (O)",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": 4,
+      "ex_showroom_surat": {
+        "metallic": 369853,
+        "non_metallic": 369853
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Efficiency (km/l)*": "24.39 kmpl"
+        },
+        "Dimensions": {
+          "Length (mm)": "3530",
+          "Width (mm)": "1490",
+          "Height (mm)": "1520",
+          "Wheelbase (mm)": "2380",
+          "Turning Radius (m)": "4.5",
+          "Seating Capacity (nos.)": "5",
+          "Fuel Tank Capacity (L)": "27",
+          "Boot Space (L)": "214*"
+        },
+        "Transmission": {
+          "Transmission Type": "5MT"
+        },
+        "Engine": {
+          "Engine Type": "K10C",
+          "Capacity (cc)": "998 cc",
+          "Max Power (1 KW =1.35962 PS)": "50.4 kW @ 5600 rpm",
+          "Max Torque (Nm @ rpm)": "91.1 Nm @ 3400 rpm"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "Mac Pherson Strut with Coil Spring",
+          "Rear Suspension": "Torsion Beam with Coil Spring"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "145/80 R13",
+          "Wheel Type": "Steel"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Full Wheel Covers: Centre Cap"
+        ],
+        "Interior": [
+          "Driver Side Sunvisor with Ticket Holder",
+          "Passenger Side Sunvisor with Vanity Mirror"
+        ],
+        "Safety & Security": [
+          "6 Airbags",
+          "ABS with EBD",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Side & Curtain Airbags",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "Reverse Parking Sensors",
+          "High-Speed Alert System",
+          "Child-Proof Rear Door Locks",
+          "Immobilizer (Anti-Theft Security System)",
+          "LED High-Mounted Stop Lamp",
+          "Warning Lamps for Low Fuel & Door Ajar",
+          "Engine Immobilizer"
+        ],
+        "Comfort & Convenience": [
+          "Power Steering"
+        ],
+        "Infotainment": [
+          "Tachometer: Digital Speedometer",
+          "Digital Speedometer"
+        ],
+        "Audio & Entertainment": [
+          "Number of Speakers: 0.0"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/alto-k10/images/spinset360/metallic-sizzling-red/2025.05.01_17.40.36_Alto_360_Red_PathTracer_0054.png"
+    },
+    {
+      "code": "ATR4HL1",
+      "name": "Alto K10 LXi (O) MT",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": 4,
+      "ex_showroom_surat": {
+        "metallic": 399852,
+        "non_metallic": 399852
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Efficiency (km/l)*": "24.39 kmpl"
+        },
+        "Dimensions": {
+          "Length (mm)": "3995",
+          "Width (mm)": "1735",
+          "Height (mm)": "1515 (unladen)",
+          "Wheelbase (mm)": "2450",
+          "Turning Radius (m)": "4.8",
+          "Seating Capacity (nos.)": "5",
+          "Fuel Tank Capacity (L)": "27",
+          "Boot Space (L)": "214*"
+        },
+        "Transmission": {
+          "Transmission Type": "5MT"
+        },
+        "Engine": {
+          "Engine Type": "K10C",
+          "Capacity (cc)": "998 cc",
+          "Max Power (1 KW =1.35962 PS)": "50.4 kW @ 5600 rpm",
+          "Max Torque (Nm @ rpm)": "91.1 Nm @ 3400 rpm"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "Mac Pherson Strut with Coil Spring",
+          "Rear Suspension": "Torsion Beam with Coil Spring"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "145/80 R13",
+          "Wheel Type": "Steel"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Full Wheel Covers: Centre Cap",
+          "Bumper: Body Colored"
+        ],
+        "Interior": [
+          "Driver Side Sunvisor with Ticket Holder",
+          "Passenger Side Sunvisor with Vanity Mirror"
+        ],
+        "Safety & Security": [
+          "6 Airbags",
+          "ABS with EBD",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Side & Curtain Airbags",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "Reverse Parking Sensors",
+          "High-Speed Alert System",
+          "Child-Proof Rear Door Locks",
+          "Immobilizer (Anti-Theft Security System)",
+          "LED High-Mounted Stop Lamp",
+          "Warning Lamps for Low Fuel & Door Ajar",
+          "Engine Immobilizer"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Power Steering"
+        ],
+        "Infotainment": [
+          "Tachometer: Digital Speedometer",
+          "Digital Speedometer"
+        ],
+        "Audio & Entertainment": [
+          "Number of Speakers: 0.0"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/alto-k10/images/spinset360/metallic-sizzling-red/2025.05.01_17.40.36_Alto_360_Red_PathTracer_0054.png"
+    },
+    {
+      "code": "ATR4HV1",
+      "name": "Alto K10 VXi (O) MT",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": 4,
+      "ex_showroom_surat": {
+        "metallic": 452353,
+        "non_metallic": 452353
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Efficiency (km/l)*": "24.39 kmpl"
+        },
+        "Dimensions": {
+          "Length (mm)": "3530",
+          "Width (mm)": "1490",
+          "Height (mm)": "1520",
+          "Wheelbase (mm)": "2380",
+          "Turning Radius (m)": "4.5",
+          "Seating Capacity (nos.)": "5",
+          "Fuel Tank Capacity (L)": "27",
+          "Boot Space (L)": "214*"
+        },
+        "Transmission": {
+          "Transmission Type": "5MT"
+        },
+        "Engine": {
+          "Engine Type": "K10C",
+          "Capacity (cc)": "998 cc",
+          "Max Power (1 KW =1.35962 PS)": "50.4 kW @ 5600 rpm",
+          "Max Torque (Nm @ rpm)": "91.1 Nm @ 3400 rpm"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "Mac Pherson Strut with Coil Spring",
+          "Rear Suspension": "Torsion Beam with Coil Spring"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "145/80 R13",
+          "Wheel Type": "Steel"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Antenna: Rooftop",
+          "Door Handles: Body colored",
+          "Full Wheel Covers: Centre Cap"
+        ],
+        "Interior": [
+          "Driver Side Sunvisor with Ticket Holder",
+          "Passenger Side Sunvisor with Vanity Mirror"
+        ],
+        "Safety & Security": [
+          "6 Airbags",
+          "ABS with EBD",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Side & Curtain Airbags",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "Reverse Parking Sensors",
+          "High-Speed Alert System",
+          "Child-Proof Rear Door Locks",
+          "Immobilizer (Anti-Theft Security System)",
+          "LED High-Mounted Stop Lamp",
+          "Speed-Sensitive Auto Door Lock",
+          "Impact-Sensing Auto Door Unlock",
+          "Warning Lamps for Low Fuel & Door Ajar",
+          "Engine Immobilizer"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Power Windows (Fr/Rr)",
+          "Electrically-Foldable ORVMs: Internally Ajustable",
+          "Accessory Socket",
+          "USB Ports",
+          "Central Locking",
+          "Power Steering"
+        ],
+        "Infotainment": [
+          "Tachometer: Digital Speedometer",
+          "Fuel Consumption (Instantaneous and Average)",
+          "Distance to Empty",
+          "Low Fuel Warning Light",
+          "Headlamp on Warning",
+          "Door Ajar Warning Lamp: SmartPlay Dock",
+          "Media Receiver (AM/FM/Bluetooth): SmartPlay Dock",
+          "Digital Speedometer"
+        ],
+        "Audio & Entertainment": [
+          "Bluetooth",
+          "Number of Speakers: 2.0",
+          "USB Connectivity/AUX"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/alto-k10/images/spinset360/metallic-sizzling-red/2025.05.01_17.40.36_Alto_360_Red_PathTracer_0054.png"
+    },
+    {
+      "code": "ATRCHL1",
+      "name": "Alto K10 LXi (O) CNG",
+      "fuel": "CNG",
+      "transmission": "Manual",
+      "technology": [
+        "S-CNG"
+      ],
+      "airbags": 4,
+      "ex_showroom_surat": {
+        "metallic": 484353,
+        "non_metallic": 484353
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol-CNG",
+          "Fuel Efficiency (km/l)*": "33.40 kmpl"
+        },
+        "Dimensions": {
+          "Length (mm)": "3530",
+          "Width (mm)": "1490",
+          "Height (mm)": "1520",
+          "Wheelbase (mm)": "2380",
+          "Turning Radius (m)": "4.5",
+          "Seating Capacity (nos.)": "5",
+          "Fuel Tank Capacity (L)": "Petrol: 27; CNG: 55",
+          "Boot Space (L)": "NA"
+        },
+        "Transmission": {
+          "Transmission Type": "5MT"
+        },
+        "Engine": {
+          "Engine Type": "K10C CNG",
+          "Capacity (cc)": "998 cc",
+          "Max Power (1 KW =1.35962 PS)": "CNG Mode: 41.7 kW @ 5300 rpm; Petrol Mode: 49.8 kW @ 5600 rpm",
+          "Max Torque (Nm @ rpm)": "CNG Mode: 82.1 Nm @ 3400 rpm; Petrol Mode: 91.1 Nm @ 3400 rpm"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "Mac Pherson Strut with Coil Spring",
+          "Rear Suspension": "Torsion Beam with Coil Spring"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "145/80 R13",
+          "Wheel Type": "Steel"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Full Wheel Covers: Centre Cap",
+          "Bumper: Body Colored"
+        ],
+        "Interior": [
+          "Driver Side Sunvisor with Ticket Holder",
+          "Passenger Side Sunvisor with Vanity Mirror"
+        ],
+        "Safety & Security": [
+          "6 Airbags",
+          "ABS with EBD",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Side & Curtain Airbags",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "Reverse Parking Sensors",
+          "High-Speed Alert System",
+          "Child-Proof Rear Door Locks",
+          "Immobilizer (Anti-Theft Security System)",
+          "LED High-Mounted Stop Lamp",
+          "Warning Lamps for Low Fuel & Door Ajar",
+          "Engine Immobilizer"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Power Steering"
+        ],
+        "Infotainment": [
+          "Tachometer: Digital Speedometer",
+          "Digital Speedometer"
+        ],
+        "Audio & Entertainment": [
+          "Number of Speakers: 0.0"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/alto-k10/images/spinset360/metallic-sizzling-red/2025.05.01_17.40.36_Alto_360_Red_PathTracer_0054.png"
+    },
+    {
+      "code": "ATA4HV1",
+      "name": "Alto K10 VXi (O) AGS",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": 4,
+      "ex_showroom_surat": {
+        "metallic": 497353,
+        "non_metallic": 497353
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Efficiency (km/l)*": "24.90 kmpl"
+        },
+        "Dimensions": {
+          "Length (mm)": "3530",
+          "Width (mm)": "1490",
+          "Height (mm)": "1520",
+          "Wheelbase (mm)": "2380",
+          "Turning Radius (m)": "4.5",
+          "Seating Capacity (nos.)": "5",
+          "Fuel Tank Capacity (L)": "27",
+          "Boot Space (L)": "214*"
+        },
+        "Transmission": {
+          "Transmission Type": "AGS"
+        },
+        "Engine": {
+          "Engine Type": "K10C",
+          "Capacity (cc)": "998 cc",
+          "Max Power (1 KW =1.35962 PS)": "50.4 kW @ 5600 rpm",
+          "Max Torque (Nm @ rpm)": "91.1 Nm @ 3400 rpm"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "Mac Pherson Strut with Coil Spring",
+          "Rear Suspension": "Torsion Beam with Coil Spring"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "145/80 R13",
+          "Wheel Type": "Steel"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Antenna: Rooftop",
+          "Door Handles: Body colored",
+          "Full Wheel Covers: Centre Cap"
+        ],
+        "Interior": [
+          "Driver Side Sunvisor with Ticket Holder",
+          "Passenger Side Sunvisor with Vanity Mirror"
+        ],
+        "Safety & Security": [
+          "6 Airbags",
+          "ABS with EBD",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Side & Curtain Airbags",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "Reverse Parking Sensors",
+          "High-Speed Alert System",
+          "Child-Proof Rear Door Locks",
+          "Immobilizer (Anti-Theft Security System)",
+          "LED High-Mounted Stop Lamp",
+          "Speed-Sensitive Auto Door Lock",
+          "Impact-Sensing Auto Door Unlock",
+          "Warning Lamps for Low Fuel & Door Ajar",
+          "Engine Immobilizer"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Power Windows (Fr/Rr)",
+          "Electrically-Foldable ORVMs: Internally Ajustable",
+          "USB Ports",
+          "Central Locking",
+          "Power Steering"
+        ],
+        "Infotainment": [
+          "Tachometer: Digital Speedometer",
+          "Fuel Consumption (Instantaneous and Average)",
+          "Distance to Empty",
+          "Low Fuel Warning Light",
+          "Headlamp on Warning",
+          "Door Ajar Warning Lamp: SmartPlay Dock",
+          "Media Receiver (AM/FM/Bluetooth): SmartPlay Dock",
+          "Digital Speedometer"
+        ],
+        "Audio & Entertainment": [
+          "Bluetooth",
+          "Number of Speakers: 2.0",
+          "USB Connectivity/AUX"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/alto-k10/images/spinset360/metallic-sizzling-red/2025.05.01_17.40.36_Alto_360_Red_PathTracer_0054.png"
+    },
+    {
+      "code": "ATR4HV2",
+      "name": "Alto K10 VXi+ (O) MT",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": 4,
+      "ex_showroom_surat": {
+        "metallic": 499852,
+        "non_metallic": 499852
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Efficiency (km/l)*": "24.39 kmpl"
+        },
+        "Dimensions": {
+          "Length (mm)": "3530",
+          "Width (mm)": "1490",
+          "Height (mm)": "1520",
+          "Wheelbase (mm)": "2380",
+          "Turning Radius (m)": "4.5",
+          "Seating Capacity (nos.)": "5",
+          "Fuel Tank Capacity (L)": "27",
+          "Boot Space (L)": "214*"
+        },
+        "Transmission": {
+          "Transmission Type": "5MT"
+        },
+        "Engine": {
+          "Engine Type": "K10C",
+          "Capacity (cc)": "998 cc",
+          "Max Power (1 KW =1.35962 PS)": "50.4 kW @ 5600 rpm",
+          "Max Torque (Nm @ rpm)": "91.1 Nm @ 3400 rpm"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "Mac Pherson Strut with Coil Spring",
+          "Rear Suspension": "Torsion Beam with Coil Spring"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "145/80 R13",
+          "Wheel Type": "Steel"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Antenna: Rooftop",
+          "Door Handles: Body colored",
+          "Full Wheel Covers: Centre Cap"
+        ],
+        "Interior": [
+          "Leather Wrapped Steering Wheel: Silver Accent on Steering Wheel",
+          "Driver Side Sunvisor with Ticket Holder",
+          "Passenger Side Sunvisor with Vanity Mirror",
+          "Rear Parcel Tray"
+        ],
+        "Safety & Security": [
+          "6 Airbags",
+          "ABS with EBD",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Side & Curtain Airbags",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "Reverse Parking Sensors",
+          "High-Speed Alert System",
+          "Child-Proof Rear Door Locks",
+          "Immobilizer (Anti-Theft Security System)",
+          "LED High-Mounted Stop Lamp",
+          "Speed-Sensitive Auto Door Lock",
+          "Impact-Sensing Auto Door Unlock",
+          "Warning Lamps for Low Fuel & Door Ajar",
+          "Engine Immobilizer"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Electrically-Foldable ORVMs: Internally Ajustable",
+          "Steering-Mounted Audio Controls",
+          "Accessory Socket",
+          "USB Ports",
+          "Central Locking",
+          "Power Steering"
+        ],
+        "Infotainment": [
+          "Tachometer: Digital Speedometer",
+          "Touch Screen Audio: 17.78 cm (SmartPlay Studio)",
+          "Remote Control App for Infotainment",
+          "Steering Mounted Controls: Audio and Bluetooth",
+          "Fuel Consumption (Instantaneous and Average)",
+          "Distance to Empty",
+          "Low Fuel Warning Light",
+          "Headlamp on Warning",
+          "Door Ajar Warning Lamp: SmartPlay Studio",
+          "Media Receiver (AM/FM/Bluetooth): SmartPlay Studio",
+          "Digital Speedometer"
+        ],
+        "Audio & Entertainment": [
+          "Android Auto and Apple CarPlay",
+          "Bluetooth",
+          "Number of Speakers: 4.0",
+          "USB Connectivity/AUX",
+          "Steering Mounted Audio & Calling Controls"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/alto-k10/images/spinset360/metallic-sizzling-red/2025.05.01_17.40.36_Alto_360_Red_PathTracer_0054.png"
+    },
+    {
+      "code": "ATRCHV1",
+      "name": "Alto K10 VXi (O) CNG",
+      "fuel": "CNG",
+      "transmission": "Manual",
+      "technology": [
+        "S-CNG"
+      ],
+      "airbags": 4,
+      "ex_showroom_surat": {
+        "metallic": 534350,
+        "non_metallic": 534350
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol-CNG",
+          "Fuel Efficiency (km/l)*": "33.85 kmpl"
+        },
+        "Dimensions": {
+          "Length (mm)": "3530",
+          "Width (mm)": "1490",
+          "Height (mm)": "1520",
+          "Wheelbase (mm)": "2380",
+          "Turning Radius (m)": "4.5",
+          "Seating Capacity (nos.)": "5",
+          "Fuel Tank Capacity (L)": "Petrol: 27; CNG: 55",
+          "Boot Space (L)": "NA"
+        },
+        "Transmission": {
+          "Transmission Type": "5MT"
+        },
+        "Engine": {
+          "Engine Type": "K10C CNG",
+          "Capacity (cc)": "998 cc",
+          "Max Power (1 KW =1.35962 PS)": "CNG Mode: 41.7 kW @ 5300 rpm; Petrol Mode: 49.8 kW @ 5600 rpm",
+          "Max Torque (Nm @ rpm)": "CNG Mode: 82.1 Nm @ 3400 rpm; Petrol Mode: 91.1 Nm @ 3400 rpm"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "Mac Pherson Strut with Coil Spring",
+          "Rear Suspension": "Torsion Beam with Coil Spring"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "145/80 R13",
+          "Wheel Type": "Steel"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Antenna: Rooftop",
+          "Door Handles: Body colored",
+          "Full Wheel Covers: Centre Cap"
+        ],
+        "Interior": [
+          "Driver Side Sunvisor with Ticket Holder",
+          "Passenger Side Sunvisor with Vanity Mirror"
+        ],
+        "Safety & Security": [
+          "6 Airbags",
+          "ABS with EBD",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Side & Curtain Airbags",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "Reverse Parking Sensors",
+          "High-Speed Alert System",
+          "Child-Proof Rear Door Locks",
+          "Immobilizer (Anti-Theft Security System)",
+          "LED High-Mounted Stop Lamp",
+          "Speed-Sensitive Auto Door Lock",
+          "Impact-Sensing Auto Door Unlock",
+          "Warning Lamps for Low Fuel & Door Ajar",
+          "Engine Immobilizer"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Power Windows (Fr/Rr)",
+          "Electrically-Foldable ORVMs: Internally Ajustable",
+          "Accessory Socket",
+          "USB Ports",
+          "Central Locking",
+          "Power Steering"
+        ],
+        "Infotainment": [
+          "Tachometer: Digital Speedometer",
+          "Fuel Consumption (Instantaneous and Average)",
+          "Distance to Empty",
+          "Low Fuel Warning Light",
+          "Headlamp on Warning",
+          "Door Ajar Warning Lamp: SmartPlay Dock",
+          "Media Receiver (AM/FM/Bluetooth): SmartPlay Dock",
+          "Digital Speedometer"
+        ],
+        "Audio & Entertainment": [
+          "Bluetooth",
+          "Number of Speakers: 2.0",
+          "USB Connectivity/AUX"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/alto-k10/images/spinset360/metallic-sizzling-red/2025.05.01_17.40.36_Alto_360_Red_PathTracer_0054.png"
+    },
+    {
+      "code": "ATA4HV2",
+      "name": "Alto K10 VXi+ (O) AGS",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": 4,
+      "ex_showroom_surat": {
+        "metallic": 544853,
+        "non_metallic": 544853
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Efficiency (km/l)*": "24.90 kmpl"
+        },
+        "Dimensions": {
+          "Length (mm)": "3530",
+          "Width (mm)": "1490",
+          "Height (mm)": "1520",
+          "Wheelbase (mm)": "2380",
+          "Turning Radius (m)": "4.5",
+          "Seating Capacity (nos.)": "5",
+          "Fuel Tank Capacity (L)": "27",
+          "Boot Space (L)": "214*"
+        },
+        "Transmission": {
+          "Transmission Type": "AGS"
+        },
+        "Engine": {
+          "Engine Type": "K10C",
+          "Capacity (cc)": "998 cc",
+          "Max Power (1 KW =1.35962 PS)": "50.4 kW @ 5600 rpm",
+          "Max Torque (Nm @ rpm)": "91.1 Nm @ 3400 rpm"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "Mac Pherson Strut with Coil Spring",
+          "Rear Suspension": "Torsion Beam with Coil Spring"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "145/80 R13",
+          "Wheel Type": "Steel"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Antenna: Rooftop",
+          "Door Handles: Body colored",
+          "Full Wheel Covers: Centre Cap"
+        ],
+        "Interior": [
+          "Leather Wrapped Steering Wheel: Silver Accent on Steering Wheel",
+          "Driver Side Sunvisor with Ticket Holder",
+          "Passenger Side Sunvisor with Vanity Mirror",
+          "Rear Parcel Tray"
+        ],
+        "Safety & Security": [
+          "6 Airbags",
+          "ABS with EBD",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Side & Curtain Airbags",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "Reverse Parking Sensors",
+          "High-Speed Alert System",
+          "Child-Proof Rear Door Locks",
+          "Immobilizer (Anti-Theft Security System)",
+          "LED High-Mounted Stop Lamp",
+          "Speed-Sensitive Auto Door Lock",
+          "Impact-Sensing Auto Door Unlock",
+          "Warning Lamps for Low Fuel & Door Ajar",
+          "Engine Immobilizer"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Electrically-Foldable ORVMs: Internally Ajustable",
+          "Steering-Mounted Audio Controls",
+          "Accessory Socket",
+          "USB Ports",
+          "Central Locking",
+          "Power Steering"
+        ],
+        "Infotainment": [
+          "Tachometer: Digital Speedometer",
+          "Touch Screen Audio: 17.78 cm (SmartPlay Studio)",
+          "Remote Control App for Infotainment",
+          "Steering Mounted Controls: Audio and Bluetooth",
+          "Fuel Consumption (Instantaneous and Average)",
+          "Distance to Empty",
+          "Low Fuel Warning Light",
+          "Headlamp on Warning",
+          "Door Ajar Warning Lamp: SmartPlay Studio",
+          "Media Receiver (AM/FM/Bluetooth): SmartPlay Studio",
+          "Digital Speedometer"
+        ],
+        "Audio & Entertainment": [
+          "Android Auto and Apple CarPlay",
+          "Bluetooth",
+          "Number of Speakers: 4.0",
+          "USB Connectivity/AUX",
+          "Steering Mounted Audio & Calling Controls"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/alto-k10/images/spinset360/metallic-sizzling-red/2025.05.01_17.40.36_Alto_360_Red_PathTracer_0054.png"
+    }
+  ],
+  "fetched_on": "2026-10-30"
+}

@@ -1,0 +1,2169 @@
+{
+  "brand": "Maruti Suzuki",
+  "model": "Brezza",
+  "slug": "brezza",
+  "model_code": "VZ",
+  "channel": "Arena",
+  "official_page": "https://www.marutisuzuki.com/arena/brezza",
+  "brochure_pdf": "https://www.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/brezza/brochures/Brezza%20Brochure.pdf",
+  "price_city": "Surat, Gujarat",
+  "ex_showroom_min": 749852,
+  "ex_showroom_max": 1370444,
+  "fuel_types": [
+    "CNG",
+    "Petrol"
+  ],
+  "transmissions": [
+    "Automatic",
+    "Manual"
+  ],
+  "colours": [
+    {
+      "name": "Lustrous Beige with Bluish Black 4 roof",
+      "hex": [
+        "#9F957A",
+        "#323232"
+      ],
+      "paint": "dual_tone",
+      "variants": [
+        "Brezza ZXI CNG MT",
+        "Brezza ZXI+ AT",
+        "Brezza ZXI AT",
+        "Brezza ZXI MT",
+        "Brezza ZXI+ Turbo MT",
+        "Brezza ZXI Turbo MT"
+      ]
+    },
+    {
+      "name": "Pearl Arctic White with Bluish Black 4 Roof",
+      "hex": [
+        "#A0A19B",
+        "#323232"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Brezza ZXI CNG MT",
+        "Brezza ZXI+ AT",
+        "Brezza ZXI AT",
+        "Brezza ZXI MT",
+        "Brezza ZXI+ Turbo MT",
+        "Brezza ZXI Turbo MT"
+      ]
+    },
+    {
+      "name": "Sizzling Red with Bluish Black 4 roof",
+      "hex": [
+        "#990000",
+        "#323232"
+      ],
+      "paint": "dual_tone",
+      "variants": [
+        "Brezza ZXI CNG MT",
+        "Brezza ZXI+ AT",
+        "Brezza ZXI AT",
+        "Brezza ZXI MT",
+        "Brezza ZXI+ Turbo MT",
+        "Brezza ZXI Turbo MT"
+      ]
+    },
+    {
+      "name": "Pearl Arctic White",
+      "hex": [
+        "#F3F3F3"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Brezza ZXI CNG MT",
+        "Brezza VXI CNG MT",
+        "Brezza LXI CNG MT",
+        "Brezza ZXI+ AT",
+        "Brezza ZXI AT",
+        "Brezza VXI AT",
+        "Brezza ZXI MT",
+        "Brezza VXI MT",
+        "Brezza LXI MT",
+        "Brezza ZXI+ Turbo MT",
+        "Brezza ZXI Turbo MT",
+        "Brezza VXI Turbo MT",
+        "Brezza LXI Turbo MT"
+      ]
+    },
+    {
+      "name": "Pearl Bluish Black 4",
+      "hex": [
+        "#0C0D11"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Brezza ZXI CNG MT",
+        "Brezza ZXI+ AT",
+        "Brezza ZXI AT",
+        "Brezza ZXI MT",
+        "Brezza ZXI+ Turbo MT",
+        "Brezza ZXI Turbo MT",
+        "Brezza VXI Turbo MT"
+      ]
+    },
+    {
+      "name": "Vivacious Orange",
+      "hex": [
+        "#732708"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Brezza ZXI CNG MT",
+        "Brezza VXI CNG MT",
+        "Brezza ZXI+ AT",
+        "Brezza ZXI AT",
+        "Brezza VXI AT",
+        "Brezza ZXI MT",
+        "Brezza VXI MT",
+        "Brezza ZXI+ Turbo MT",
+        "Brezza ZXI Turbo MT",
+        "Brezza VXI Turbo MT"
+      ]
+    },
+    {
+      "name": "Splendid Silver",
+      "hex": [
+        "#A5AFB1"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Brezza ZXI CNG MT",
+        "Brezza VXI CNG MT",
+        "Brezza LXI CNG MT",
+        "Brezza ZXI+ AT",
+        "Brezza ZXI AT",
+        "Brezza VXI AT",
+        "Brezza ZXI MT",
+        "Brezza VXI MT",
+        "Brezza LXI MT",
+        "Brezza ZXI+ Turbo MT",
+        "Brezza ZXI Turbo MT",
+        "Brezza VXI Turbo MT",
+        "Brezza LXI Turbo MT"
+      ]
+    },
+    {
+      "name": "Lustrous Beige",
+      "hex": [
+        "#9F957A"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Brezza ZXI CNG MT",
+        "Brezza VXI CNG MT",
+        "Brezza ZXI+ AT",
+        "Brezza ZXI AT",
+        "Brezza VXI AT",
+        "Brezza ZXI MT",
+        "Brezza VXI MT",
+        "Brezza ZXI+ Turbo MT",
+        "Brezza ZXI Turbo MT",
+        "Brezza VXI Turbo MT"
+      ]
+    },
+    {
+      "name": "Magma Gray",
+      "hex": [
+        "#555347"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Brezza ZXI CNG MT",
+        "Brezza VXI CNG MT",
+        "Brezza LXI CNG MT",
+        "Brezza ZXI+ AT",
+        "Brezza ZXI AT",
+        "Brezza VXI AT",
+        "Brezza ZXI MT",
+        "Brezza VXI MT",
+        "Brezza LXI MT",
+        "Brezza ZXI+ Turbo MT",
+        "Brezza ZXI Turbo MT",
+        "Brezza VXI Turbo MT",
+        "Brezza LXI Turbo MT"
+      ]
+    },
+    {
+      "name": "Sizzling Red",
+      "hex": [
+        "#990000"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Brezza VXI CNG MT",
+        "Brezza LXI CNG MT",
+        "Brezza VXI AT",
+        "Brezza VXI MT",
+        "Brezza LXI MT",
+        "Brezza VXI Turbo MT",
+        "Brezza LXI Turbo MT"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "code": "VZR4IL1",
+      "name": "Brezza LXI Turbo MT",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "technology": [
+        "Turbo"
+      ],
+      "airbags": 6,
+      "ex_showroom_surat": {
+        "metallic": 749852,
+        "non_metallic": 749852
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Efficiency (km/l)*": "20.47"
+        },
+        "Dimensions": {
+          "Length (mm)": "3995",
+          "Width (mm)": "1790",
+          "Height (mm)": "1685",
+          "Wheelbase (mm)": "2500",
+          "Seating Capacity (nos.)": "5",
+          "Fuel Tank Capacity (L)": "48"
+        },
+        "Transmission": {
+          "Transmission Type": "6MT"
+        },
+        "Engine": {
+          "Engine Type": "K10C DiTC Smart Hybrid",
+          "Capacity (cc)": "998 cc",
+          "Max Power (1 KW =1.35962 PS)": "81 kW (110.12 Ps) @ 5500 rpm ",
+          "Max Torque (Nm @ rpm)": "170 Nm @ 2000-3500 rpm"
+        },
+        "Brakes": {
+          "Front": "Ventilated Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "Mac Pherson Strut & Coil",
+          "Rear Suspension": "Torsion Beam & Coil Spring",
+          "Torque Assist During Acceleration": "Yes",
+          "Brake Energy Regeneration": "Yes",
+          "Idle Start Stop": "Yes"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "215/60 R16",
+          "Wheel Type": "Steel (with covers)"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Roof Spoiler",
+          "Skid Plate (Front & Rear): Grey",
+          "Headlamps: Halogen Projector Headlamp",
+          "LED Rear Combination Lamps",
+          "Antenna: Shark Fin Antenna",
+          "Front Grille: Painted",
+          "Full Wheel Covers",
+          "Turbo Emblem",
+          "Aero Vents",
+          "Wheel Arch Cladding",
+          "Side Under Body Cladding",
+          "Dual-Tone Side Door Cladding"
+        ],
+        "Interior": [
+          "Dual Tone Interior",
+          "Cabin Lamp",
+          "Flat Bottom Steering Wheel",
+          "IP Ornament: Black"
+        ],
+        "Safety & Security": [
+          "6 Airbags",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "ISOFIX with Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "Immobilizer (Anti-Theft Security System)",
+          "Day/Night Adjustable IRVM: Manual ",
+          "Front Seat Belts with Pre-Tensioner and Force Limiter",
+          "Hill Hold Assist",
+          "High-Speed Warning Alert ",
+          "Engine Immobilizer",
+          "3 Point Seat Belt ELR (All Occupants)",
+          "Suzuki TECT Body",
+          "Emergency Stop Signal",
+          "Dual Horn",
+          "Tyre Repair Kit with Jack"
+        ],
+        "Comfort & Convenience": [
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Accessory Socket",
+          "Rear Defogger",
+          "Rear AC Vents",
+          "Automatic Climate Control",
+          "Central Locking",
+          "Cabin Air Filter: Pollen",
+          "Steering Column Adjustment: Tilt",
+          "Driver Side Front Window (Auto Up/Down)",
+          "Electrically Adjustable ORVMs"
+        ],
+        "Infotainment": [
+          "Tachometer",
+          "Gear Shift Indicator",
+          "Low Fuel Warning Light",
+          "Door Ajar Warning Lamp",
+          "Audible Headlight On Reminder",
+          "MID with Segment Display"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/brezza/images/spinset360/sizzling_red---bluish-black-v2/BB_0054.png"
+    },
+    {
+      "code": "VZR4HL1",
+      "name": "Brezza LXI MT",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": 6,
+      "ex_showroom_surat": {
+        "metallic": 834844,
+        "non_metallic": 834844
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Efficiency (km/l)*": "21.09"
+        },
+        "Dimensions": {
+          "Length (mm)": "3995",
+          "Width (mm)": "1790",
+          "Height (mm)": "1685",
+          "Wheelbase (mm)": "2500",
+          "Seating Capacity (nos.)": "5",
+          "Fuel Tank Capacity (L)": "48"
+        },
+        "Transmission": {
+          "Transmission Type": "6MT"
+        },
+        "Engine": {
+          "Engine Type": "K15C Smart Hybrid",
+          "Capacity (cc)": "1462 cc",
+          "Max Power (1 KW =1.35962 PS)": "75.8 kW (103.05 PS) @ 6000 rpm",
+          "Max Torque (Nm @ rpm)": "139 Nm @ 4400 rpm"
+        },
+        "Brakes": {
+          "Front": "Ventilated Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "Mac Pherson Strut & Coil",
+          "Rear Suspension": "Torsion Beam & Coil Spring",
+          "Torque Assist During Acceleration": "Yes",
+          "Brake Energy Regeneration": "Yes",
+          "Idle Start Stop": "Yes"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "215/60 R16",
+          "Wheel Type": "Steel (with covers)"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Roof Spoiler",
+          "Skid Plate (Front & Rear): Black",
+          "Headlamps: Halogen Projector Headlamp",
+          "LED Rear Combination Lamps",
+          "Antenna: Shark Fin Antenna",
+          "Front Grille: Painted",
+          "Full Wheel Covers",
+          "Aero Vents",
+          "Wheel Arch Cladding",
+          "Side Under Body Cladding",
+          "Dual-Tone Side Door Cladding"
+        ],
+        "Interior": [
+          "Dual Tone Interior",
+          "Cabin Lamp",
+          "Flat Bottom Steering Wheel",
+          "IP Ornament: Black"
+        ],
+        "Infotainment": [
+          "Tachometer",
+          "Gear Shift Indicator",
+          "Low Fuel Warning Light",
+          "Door Ajar Warning Lamp",
+          "Rear Seatbelt Reminder Warning Indicator",
+          "Audible Headlight On Reminder",
+          "MID with Segment Display"
+        ],
+        "Safety & Security": [
+          "6 Airbags",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "ISOFIX with Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "Immobilizer (Anti-Theft Security System)",
+          "Day/Night Adjustable IRVM: Manual",
+          "Front Seat Belts with Pre-Tensioner and Force Limiter",
+          "Hill Hold Assist",
+          "High-Speed Warning Alert ",
+          "Engine Immobilizer",
+          "3 Point Seat Belt ELR (All Occupants)",
+          "Suzuki TECT Body",
+          "Emergency Stop Signal",
+          "Dual Horn",
+          "Tyre Repair Kit with Jack"
+        ],
+        "Comfort & Convenience": [
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Accessory Socket",
+          "Rear AC Vents",
+          "Central Locking",
+          "Cabin Air Filter: Pollen",
+          "Steering Column Adjustment: Tilt",
+          "Driver Side Front Window (Auto Up/Down)",
+          "Electrically Adjustable ORVMs"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/brezza/images/spinset360/sizzling_red---bluish-black-v2/BB_0054.png"
+    },
+    {
+      "code": "VZR4IV1",
+      "name": "Brezza VXI Turbo MT",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "technology": [
+        "Turbo"
+      ],
+      "airbags": 6,
+      "ex_showroom_surat": {
+        "metallic": 864852,
+        "non_metallic": 864852
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Efficiency (km/l)*": "20.47 (km/l)"
+        },
+        "Dimensions": {
+          "Length (mm)": "3995",
+          "Width (mm)": "1790",
+          "Height (mm)": "1685",
+          "Wheelbase (mm)": "2500",
+          "Seating Capacity (nos.)": "5",
+          "Fuel Tank Capacity (L)": "48"
+        },
+        "Transmission": {
+          "Transmission Type": "6MT"
+        },
+        "Engine": {
+          "Engine Type": " K10C DiTC Smart Hybrid",
+          "Capacity (cc)": "998 cc",
+          "Max Power (1 KW =1.35962 PS)": " 81 kW (110.12 Ps) @ 5500 rpm",
+          "Max Torque (Nm @ rpm)": " 170 Nm @ 2000-3500 rpm"
+        },
+        "Brakes": {
+          "Front": "Ventilated Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "Mac Pherson Strut & Coil",
+          "Rear Suspension": "Torsion Beam & Coil Spring",
+          "Torque Assist During Acceleration": "Yes",
+          "Brake Energy Regeneration": "Yes",
+          "Idle Start Stop": "Yes"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "215/60 R16",
+          "Wheel Type": " Painted Alloy Wheels"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Roof Spoiler",
+          "Skid Plate (Front & Rear): Grey",
+          "Headlamps: Halogen Projector Headlamp",
+          "LED Rear Combination Lamps",
+          "Antenna: Shark Fin Antenna",
+          "Front Grille: Painted",
+          "Turbo Emblem",
+          "Aero Vents",
+          "Wheel Arch Cladding",
+          "Side Under Body Cladding",
+          "Dual-Tone Side Door Cladding",
+          "Alloy Wheels: Painted"
+        ],
+        "Interior": [
+          "Dual Tone Interior",
+          "Rear Seat Adjustable Headrest",
+          "Cabin Lamp",
+          "Flat Bottom Steering Wheel",
+          "IP Ornament: Black"
+        ],
+        "Safety & Security": [
+          "6 Airbags",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "ISOFIX with Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "Rear Parking Camera",
+          "Immobilizer (Anti-Theft Security System)",
+          "Day/Night Adjustable IRVM: Manual",
+          "Front Seat Belts with Pre-Tensioner and Force Limiter",
+          "Electronic Stability Program",
+          "Seat belt reminder with buzzer front rear seat",
+          "Hill Hold Assist",
+          "High-Speed Warning Alert ",
+          "Engine Immobilizer",
+          "3 Point Seat Belt ELR (All Occupants)",
+          "Suzuki TECT Body",
+          "Emergency Stop Signal",
+          "Dual Horn",
+          "Tyre Repair Kit with Jack"
+        ],
+        "Comfort & Convenience": [
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Electrically-Foldable ORVMs",
+          "Accessory Socket",
+          "Rear Defogger",
+          "Rear AC Vents",
+          "Automatic Climate Control",
+          "Central Locking",
+          "Cabin Air Filter: Pollen",
+          "Seat Back Pocket: Dr+ Co Dr",
+          "Steering Column Adjustment: Tilt",
+          "Driver Side Front Window (Auto Up/Down)",
+          "Electrically Adjustable ORVMs"
+        ],
+        "Infotainment": [
+          "Tachometer",
+          "Gear Shift Indicator",
+          "Touch Screen Audio: 17.78cm (7\")",
+          "Remote Control App for Infotainment",
+          "Steering Mounted Controls: Audio and Bluetooth",
+          "Low Fuel Warning Light",
+          "Door Ajar Warning Lamp",
+          "Rear Seatbelt Reminder Warning Indicator",
+          "Wireless android auto apple car play",
+          "Premium Sound System: ARKAMYS",
+          "Audible Headlight On Reminder",
+          "MID with Segment Display",
+          "Onboard Voice Assistant (Wake up through Hi Suzuki with Barge in Feature)"
+        ],
+        "Audio & Entertainment": [
+          "Surround Sense Powered by ARKAMYS: ARKAMYS (Surround Sense)",
+          "Bluetooth",
+          "Number of Speakers: 4.0",
+          "USB Connectivity/AUX",
+          "Wireless Android Auto & Apple CarPlay",
+          "Steering Mounted Audio & Calling Controls"
+        ],
+        "Suzuki Connect": [
+          "Safe Time Alert",
+          "Remote AC Control ",
+          "Headlight Off",
+          "Door & Lock Status",
+          "Battery Status",
+          "Headlamp & Hazard Lights",
+          "Navigate to Car"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/brezza/images/spinset360/sizzling_red---bluish-black-v2/BB_0054.png"
+    },
+    {
+      "code": "VZR4HV1",
+      "name": "Brezza VXI MT",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": 6,
+      "ex_showroom_surat": {
+        "metallic": 930844,
+        "non_metallic": 930844
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Efficiency (km/l)*": "21.09"
+        },
+        "Dimensions": {
+          "Length (mm)": "3995",
+          "Width (mm)": "1790",
+          "Height (mm)": "1685",
+          "Wheelbase (mm)": "2500",
+          "Seating Capacity (nos.)": "5",
+          "Fuel Tank Capacity (L)": "48"
+        },
+        "Transmission": {
+          "Transmission Type": "6MT"
+        },
+        "Engine": {
+          "Engine Type": "K15C Smart Hybrid",
+          "Capacity (cc)": "1462 cc",
+          "Max Power (1 KW =1.35962 PS)": " 75.8 kW (103.05 PS) @ 6000 rpm",
+          "Max Torque (Nm @ rpm)": " 139 Nm @ 4400 rpm"
+        },
+        "Brakes": {
+          "Front": "Ventilated Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "Mac Pherson Strut & Coil",
+          "Rear Suspension": "Torsion Beam & Coil Spring",
+          "Torque Assist During Acceleration": "Yes",
+          "Brake Energy Regeneration": "Yes",
+          "Idle Start Stop": "Yes"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "215/60 R16",
+          "Wheel Type": " Steel (with covers)"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Roof Spoiler",
+          "Skid Plate (Front & Rear): Grey",
+          "Headlamps: Halogen Projector Headlamp",
+          "LED Rear Combination Lamps",
+          "Antenna: Shark Fin Antenna",
+          "Front Grille: Painted",
+          "Full Wheel Covers",
+          "Aero Vents",
+          "Wheel Arch Cladding",
+          "Side Under Body Cladding",
+          "Dual-Tone Side Door Cladding"
+        ],
+        "Interior": [
+          "Dual Tone Interior",
+          "Cabin Lamp",
+          "Flat Bottom Steering Wheel",
+          "IP Ornament: Black"
+        ],
+        "Safety & Security": [
+          "Driver Airbag",
+          "6 Airbags",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Side & Curtain Airbags",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "ISOFIX with Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "Rear Parking Camera",
+          "High-Speed Alert System",
+          "Immobilizer (Anti-Theft Security System)",
+          "Rear Window Defogger",
+          "Impact-Sensing Auto Door Unlock",
+          "Hill Descent Control",
+          "Front Ventilated Disc Brakes",
+          "Day/Night Adjustable IRVM: Manual",
+          "Warning Lamps for Low Fuel & Door Ajar",
+          "360 View Camera",
+          "Front Seat Belts with Pre-Tensioner and Force Limiter",
+          "High-Speed Warning Alert ",
+          "Engine Immobilizer",
+          "3 Point Seat Belt ELR (All Occupants)",
+          "Suzuki TECT Body",
+          "Emergency Stop Signal",
+          "Dual Horn",
+          "Tyre Repair Kit with Jack"
+        ],
+        "Comfort & Convenience": [
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Accessory Socket",
+          "Rear Defogger",
+          "Rear AC Vents",
+          "Automatic Climate Control",
+          "Central Locking",
+          "Cabin Air Filter: Pollen",
+          "Seat Back Pocket: Dr+ Co Dr",
+          "Steering Column Adjustment: Tilt",
+          "Driver Side Front Window (Auto Up/Down)",
+          "Electrically Adjustable ORVMs"
+        ],
+        "Audio & Entertainment": [
+          "Surround Sense Powered by ARKAMYS: ARKAMYS",
+          "Bluetooth",
+          "Number of Speakers: 4.0",
+          "USB Connectivity/AUX",
+          "Wireless Android Auto & Apple CarPlay",
+          "Steering Mounted Audio & Calling Controls"
+        ],
+        "Infotainment": [
+          "Tachometer",
+          "Gear Shift Indicator",
+          "Touch Screen Audio: 17.78cm (7\")",
+          "Remote Control App for Infotainment",
+          "Steering Mounted Controls: Audio and Bluetooth",
+          "Low Fuel Warning Light",
+          "Door Ajar Warning Lamp",
+          "Rear Seatbelt Reminder Warning Indicator",
+          "Wireless android auto apple car play",
+          "Premium Sound System: ARKAMYS",
+          "Audible Headlight On Reminder",
+          "MID with Segment Display",
+          "Onboard Voice Assistant (Wake up through Hi Suzuki with Barge in Feature)"
+        ],
+        "Suzuki Connect": [
+          "Safe Time Alert",
+          "Remote AC Control ",
+          "Headlight Off",
+          "Suzuki Connect Skills for Amazon Alexa",
+          "Over Speed Alert",
+          "Door & Lock Status",
+          "Seat Belt Alert",
+          "Battery Status",
+          "Headlamp & Hazard Lights",
+          "Live Vehicle Tracking & Location sharing",
+          "Driving Score",
+          "Navigate to Car",
+          "View & Share Trip History",
+          "Guidance Around Destination"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/brezza/images/spinset360/sizzling_red---bluish-black-v2/BB_0054.png"
+    },
+    {
+      "code": "VZRCHL1",
+      "name": "Brezza LXI CNG MT",
+      "fuel": "CNG",
+      "transmission": "Manual",
+      "technology": [
+        "S-CNG"
+      ],
+      "airbags": 6,
+      "ex_showroom_surat": {
+        "metallic": 939844,
+        "non_metallic": 939844
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol-CNG",
+          "Fuel Efficiency (km/l)*": "26.9"
+        },
+        "Dimensions": {
+          "Length (mm)": "3995",
+          "Width (mm)": "1790",
+          "Height (mm)": "1685",
+          "Wheelbase (mm)": "2500",
+          "Seating Capacity (nos.)": "5",
+          "Fuel Tank Capacity (L)": "Petrol: 48; CNG: 55"
+        },
+        "Transmission": {
+          "Transmission Type": "6MT"
+        },
+        "Engine": {
+          "Engine Type": "K15C ISS",
+          "Capacity (cc)": "1462 cc",
+          "Max Power (1 KW =1.35962 PS)": "CNG Mode: 64.6 kW (87.8 PS) @ 5500 rpm; Gasoline Mode: 75.8 kW (103.05 PS) @ 6000 rpm",
+          "Max Torque (Nm @ rpm)": "CNG Mode: 121.5 Nm @ 4200 rpm; Gasoline Mode: 139 Nm @ 4400 rpm"
+        },
+        "Brakes": {
+          "Front": "Ventilated Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "Mac Pherson Strut & Coil",
+          "Rear Suspension": "Torsion Beam & Coil Spring",
+          "Idle Start Stop": "Yes"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "215/60 R16",
+          "Wheel Type": "Steel (with covers)"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Roof Spoiler",
+          "Skid Plate (Front & Rear): Grey",
+          "Headlamps: Halogen Projector Headlamp",
+          "LED Rear Combination Lamps",
+          "Antenna: Shark Fin Antenna",
+          "Front Grille: Painted",
+          "Full Wheel Covers",
+          "Aero Vents",
+          "Wheel Arch Cladding",
+          "Side Under Body Cladding",
+          "Dual-Tone Side Door Cladding"
+        ],
+        "Interior": [
+          "Dual Tone Interior",
+          "Cabin Lamp",
+          "Flat Bottom Steering Wheel",
+          "IP Ornament: Black"
+        ],
+        "Infotainment": [
+          "Tachometer",
+          "Gear Shift Indicator",
+          "Low Fuel Warning Light",
+          "Door Ajar Warning Lamp",
+          "Rear Seatbelt Reminder Warning Indicator",
+          "Audible Headlight On Reminder",
+          "MID with Segment Display"
+        ],
+        "Safety & Security": [
+          "Driver Airbag",
+          "6 Airbags",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Side & Curtain Airbags",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "ISOFIX with Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "High-Speed Alert System",
+          "Immobilizer (Anti-Theft Security System)",
+          "Rear Window Defogger",
+          "Impact-Sensing Auto Door Unlock",
+          "Hill Descent Control",
+          "Front Ventilated Disc Brakes",
+          "Day/Night Adjustable IRVM: Manual",
+          "Warning Lamps for Low Fuel & Door Ajar",
+          "Front Seat Belts with Pre-Tensioner and Force Limiter",
+          "Electronic Stability Program",
+          "Hill Hold Assist",
+          "High-Speed Warning Alert ",
+          "Engine Immobilizer",
+          "3 Point Seat Belt ELR (All Occupants)",
+          "Suzuki TECT Body",
+          "Emergency Stop Signal",
+          "Dual Horn",
+          "Tyre Repair Kit with Jack"
+        ],
+        "Audio & Entertainment": [
+          "SmartPlay Pro: 22.86cm (SmartPlay Pro+)",
+          "Surround Sense Powered by ARKAMYS: ARKAMYS (Surround Sense)",
+          "Android Auto and Apple CarPlay: Wireless",
+          "Number of Speakers: 4.0",
+          "Over the Air (OTA) System Upgrades",
+          "Wireless Android Auto & Apple CarPlay: Wireless",
+          "Steering Mounted Audio & Calling Controls"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Steering-Mounted Audio Controls",
+          "Idle Start Stop (ISS)",
+          "Accessory Socket",
+          "Rear AC Vents",
+          "Central Locking",
+          "Use Front Center Arm Rest",
+          "Cabin Air Filter: Pollen",
+          "Steering Column Adjustment",
+          "Power Steering",
+          "Electrically Adjustable ORVMs"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/brezza/images/spinset360/sizzling_red---bluish-black-v2/BB_0054.png"
+    },
+    {
+      "code": "VZR4IZ1",
+      "name": "Brezza ZXI Turbo MT",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "technology": [
+        "Turbo"
+      ],
+      "airbags": 6,
+      "ex_showroom_surat": {
+        "metallic": 994853,
+        "non_metallic": 994853,
+        "dual_tone": 1008953
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Efficiency (km/l)*": "19.96 (km/l)"
+        },
+        "Dimensions": {
+          "Length (mm)": "3995",
+          "Width (mm)": "1790",
+          "Height (mm)": "1685",
+          "Wheelbase (mm)": "2500",
+          "Seating Capacity (nos.)": "5",
+          "Fuel Tank Capacity (L)": "48"
+        },
+        "Transmission": {
+          "Transmission Type": "6MT"
+        },
+        "Engine": {
+          "Engine Type": "K10C DiTC Smart Hybrid",
+          "Capacity (cc)": "998 cc",
+          "Max Power (1 KW =1.35962 PS)": "81 kW (110.12 Ps) @ 5500 rpm ",
+          "Max Torque (Nm @ rpm)": "170 Nm @ 2000-3500 rpm"
+        },
+        "Brakes": {
+          "Front": "Ventilated Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "Mac Pherson Strut & Coil",
+          "Rear Suspension": "Torsion Beam & Coil Spring",
+          "Torque Assist During Acceleration": "Yes",
+          "Brake Energy Regeneration": "Yes",
+          "Idle Start Stop": "Yes"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "215/60 R16",
+          "Wheel Type": "Painted Alloy Wheels"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Roof Spoiler",
+          "Skid Plate (Front & Rear): Silver",
+          "Headlamps: Dual LED Projector Headlamp",
+          "LED Daytime Running Lamps (DRL): Floating LED DRLs",
+          "LED Rear Combination Lamps",
+          "Follow-Me Home Headlamp",
+          "Antenna: Shark Fin Antenna",
+          "Rear Window Wiper & Washer",
+          "Electric Sunroof",
+          "Front Grille: Smoke Chrome",
+          "Turbo Emblem",
+          "Aero Vents",
+          "Dual Tone Exterior (In selected colors)",
+          "Wheel Arch Cladding",
+          "Side Under Body Cladding",
+          "Dual-Tone Side Door Cladding: Painted",
+          "Alloy Wheels: Painted",
+          "Roof Rail"
+        ],
+        "Interior": [
+          "MID Display: TFT Coloured",
+          "Dual Tone Interior: Dual Tone",
+          "Rear Seat Adjustable Headrest",
+          "60:40 Folding Rear Seats",
+          "Rear Parcel Tray",
+          "Luggage Lamp",
+          "Front footwell light driver and co driver side",
+          "Interior Ambient Lights: Mono",
+          "Co- Driver Side Vanity Lamp",
+          "Chrome Plated Inside Door Handles",
+          "Cabin Lamp",
+          "Flat Bottom Steering Wheel",
+          "IP Ornament: Piano Black"
+        ],
+        "Safety & Security": [
+          "6 Airbags",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "ISOFIX with Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "Rear Parking Camera",
+          "Tyre Pressure Monitoring System (TPMS)",
+          "Immobilizer (Anti-Theft Security System)",
+          "Day/Night Adjustable IRVM: Manual",
+          "Front Seat Belts with Pre-Tensioner and Force Limiter",
+          "Hill Hold Assist",
+          "High-Speed Warning Alert ",
+          "Engine Immobilizer",
+          "Safe Exit Warning",
+          "Blind Spot Warning",
+          "Front Parking Sensors",
+          "3 Point Seat Belt ELR (All Occupants)",
+          "Suzuki TECT Body",
+          "Emergency Stop Signal",
+          "Dual Horn",
+          "Tyre Repair Kit with Jack",
+          "Rear cross traffic alert"
+        ],
+        "Comfort & Convenience": [
+          "Engine Push Start/Stop with Smart Key",
+          "Power Windows (Fr/Rr)",
+          "Electrically-Foldable ORVMs",
+          "Accessory Socket",
+          "Rear Defogger",
+          "Wireless Charger",
+          "Rear AC Vents",
+          "Cruise Control",
+          "Automatic Climate Control",
+          "Central Locking",
+          "Rear Centre Armrest",
+          "Cabin Air Filter: PM2.5",
+          "Seat Back Pocket: Dr+ Co Dr",
+          "60:40 Split seat (Rear)",
+          "Overhead Console with Sunglass Holder and Map Lamp ",
+          "Steering Column Adjustment: Tilt & Telescopic",
+          "Driver Side Front Window (Auto Up/Down)",
+          "Electrically Adjustable ORVMs"
+        ],
+        "Infotainment": [
+          "Tachometer",
+          "Gear Shift Indicator",
+          "Touch Screen Audio: 17.78cm (7\")",
+          "Remote Control App for Infotainment",
+          "Steering Mounted Controls: Audio and Bluetooth",
+          "Low Fuel Warning Light",
+          "Door Ajar Warning Lamp",
+          "Rear Seatbelt Reminder Warning Indicator",
+          "Wireless android auto apple car play",
+          "Premium Sound System: ARKAMYS",
+          "Audible Headlight On Reminder",
+          "Onboard Voice Assistant (Wake up through Hi Suzuki with Barge in Feature)"
+        ],
+        "Audio & Entertainment": [
+          "Surround Sense Powered by ARKAMYS: ARKAMYS (Surround Sense)",
+          "Bluetooth",
+          "Number of Speakers: -2.0",
+          "USB Connectivity/AUX",
+          "Tweeters"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/brezza/images/spinset360/sizzling_red---bluish-black-v2/BB_0054.png"
+    },
+    {
+      "code": "VZRCHV1",
+      "name": "Brezza VXI CNG MT",
+      "fuel": "CNG",
+      "transmission": "Manual",
+      "technology": [
+        "S-CNG"
+      ],
+      "airbags": 6,
+      "ex_showroom_surat": {
+        "metallic": 1018944,
+        "non_metallic": 1018944
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol-CNG",
+          "Fuel Efficiency (km/l)*": "26.90 (km/kg)"
+        },
+        "Dimensions": {
+          "Length (mm)": "3995",
+          "Width (mm)": "1790",
+          "Height (mm)": "1685",
+          "Wheelbase (mm)": "2500",
+          "Seating Capacity (nos.)": "5",
+          "Fuel Tank Capacity (L)": "Petrol: 48; CNG: 55"
+        },
+        "Transmission": {
+          "Transmission Type": "6MT"
+        },
+        "Engine": {
+          "Engine Type": " K15C ISS",
+          "Capacity (cc)": "1462 cc",
+          "Max Power (1 KW =1.35962 PS)": " CNG Mode: 64.6 kW (87.8 PS) @ 5500 rpm; Gasoline Mode: 75.8 kW (103.05 PS) @ 6000 rpm",
+          "Max Torque (Nm @ rpm)": " CNG Mode: 121.5 Nm @ 4200 rpm; Gasoline Mode: 139 Nm @ 4400 rpm"
+        },
+        "Brakes": {
+          "Front": "Ventilated Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "Mac Pherson Strut & Coil",
+          "Rear Suspension": "Torsion Beam & Coil Spring",
+          "Idle Start Stop": "Yes"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "215/60 R16",
+          "Wheel Type": " Steel (with covers)"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Roof Spoiler",
+          "Skid Plate (Front & Rear): Grey",
+          "Headlamps: Halogen Projector Headlamp",
+          "LED Rear Combination Lamps",
+          "Antenna: Shark Fin Antenna",
+          "Front Grille: Painted",
+          "Full Wheel Covers",
+          "Aero Vents",
+          "Wheel Arch Cladding",
+          "Side Under Body Cladding",
+          "Dual-Tone Side Door Cladding"
+        ],
+        "Interior": [
+          "Dual Tone Interior",
+          "Cabin Lamp",
+          "Flat Bottom Steering Wheel",
+          "IP Ornament: Black"
+        ],
+        "Safety & Security": [
+          "6 Airbags",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "ISOFIX with Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "Immobilizer (Anti-Theft Security System)",
+          "Day/Night Adjustable IRVM: Manual",
+          "Front Seat Belts with Pre-Tensioner and Force Limiter",
+          "High-Speed Warning Alert ",
+          "Engine Immobilizer",
+          "3 Point Seat Belt ELR (All Occupants)",
+          "Suzuki TECT Body",
+          "Emergency Stop Signal",
+          "Dual Horn",
+          "Tyre Repair Kit with Jack"
+        ],
+        "Comfort & Convenience": [
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Accessory Socket",
+          "Rear Defogger",
+          "Rear AC Vents",
+          "Automatic Climate Control",
+          "Central Locking",
+          "Cabin Air Filter: Pollen",
+          "Seat Back Pocket: Dr+ Co Dr",
+          "Steering Column Adjustment: Tilt",
+          "Driver Side Front Window (Auto Up/Down)",
+          "Electrically Adjustable ORVMs"
+        ],
+        "Audio & Entertainment": [
+          "Surround Sense Powered by ARKAMYS: ARKAMYS",
+          "Bluetooth",
+          "Number of Speakers: 4.0",
+          "USB Connectivity/AUX",
+          "Wireless Android Auto & Apple CarPlay",
+          "Steering Mounted Audio & Calling Controls"
+        ],
+        "Infotainment": [
+          "Tachometer",
+          "Gear Shift Indicator",
+          "Touch Screen Audio: 17.78cm (7\")",
+          "Remote Control App for Infotainment",
+          "Steering Mounted Controls: Audio and Bluetooth",
+          "Low Fuel Warning Light",
+          "Door Ajar Warning Lamp",
+          "Rear Seatbelt Reminder Warning Indicator",
+          "Wireless android auto apple car play",
+          "Premium Sound System: ARKAMYS",
+          "Audible Headlight On Reminder",
+          "MID with Segment Display",
+          "Onboard Voice Assistant (Wake up through Hi Suzuki with Barge in Feature)"
+        ],
+        "Suzuki Connect": [
+          "Safe Time Alert",
+          "Remote AC Control ",
+          "Headlight Off",
+          "Door & Lock Status",
+          "Battery Status",
+          "Headlamp & Hazard Lights",
+          "Navigate to Car"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/brezza/images/spinset360/sizzling_red---bluish-black-v2/BB_0054.png"
+    },
+    {
+      "code": "VZR4HZ1",
+      "name": "Brezza ZXI MT",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": 6,
+      "ex_showroom_surat": {
+        "metallic": 1054844,
+        "non_metallic": 1054844,
+        "dual_tone": 1070444
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Efficiency (km/l)*": "20.81 (km/l)"
+        },
+        "Dimensions": {
+          "Length (mm)": "3995",
+          "Width (mm)": "1790",
+          "Height (mm)": "1685",
+          "Wheelbase (mm)": "2500",
+          "Seating Capacity (nos.)": "5",
+          "Fuel Tank Capacity (L)": "48"
+        },
+        "Transmission": {
+          "Transmission Type": "6MT"
+        },
+        "Engine": {
+          "Engine Type": "K15C Smart Hybrid",
+          "Capacity (cc)": "1462 cc",
+          "Max Power (1 KW =1.35962 PS)": "75.8 kW (103.05 PS) @ 6000 rpm",
+          "Max Torque (Nm @ rpm)": "139 Nm @ 4400 rpm"
+        },
+        "Brakes": {
+          "Front": "Ventilated Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "Mac Pherson Strut & Coil",
+          "Rear Suspension": "Torsion Beam & Coil Spring",
+          "Torque Assist During Acceleration": "Yes",
+          "Brake Energy Regeneration": "Yes",
+          "Idle Start Stop": "Yes"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "215/60 R16",
+          "Wheel Type": "Painted Alloy Wheels"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Roof Spoiler",
+          "Skid Plate (Front & Rear): Silver",
+          "Headlamps: Dual LED Projector Headlamp",
+          "LED Daytime Running Lamps (DRL): Floating LED DRLs",
+          "LED Rear Combination Lamps",
+          "Antenna: Shark Fin Antenna",
+          "Electric Sunroof",
+          "Front Grille: Smoke Chrome",
+          "Aero Vents",
+          "Dual Tone Exterior (In selected colors)",
+          "Wheel Arch Cladding",
+          "Side Under Body Cladding",
+          "Dual-Tone Side Door Cladding: Painted",
+          "Alloy Wheels: Painted",
+          "Roof Rail"
+        ],
+        "Suzuki Connect": [
+          "Door & Lock Status",
+          "Battery Status",
+          "Headlamp & Hazard Lights",
+          "Navigate to Car"
+        ],
+        "Infotainment": [
+          "Tachometer",
+          "Gear Shift Indicator",
+          "Touch Screen Audio: 17.78cm (7\")",
+          "Remote Control App for Infotainment",
+          "Steering Mounted Controls: Audio and Bluetooth",
+          "Low Fuel Warning Light",
+          "Door Ajar Warning Lamp",
+          "Wireless android auto apple car play",
+          "Premium Sound System: ARKAMYS",
+          "Audible Headlight On Reminder"
+        ],
+        "Comfort & Convenience": [
+          "Engine Push Start/Stop with Smart Key",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Electrically-Foldable ORVMs",
+          "Accessory Socket",
+          "Rear Defogger",
+          "Wireless Charger",
+          "Rear AC Vents",
+          "Automatic Climate Control",
+          "Central Locking",
+          "Rear Centre Armrest",
+          "Cabin Air Filter: PM2.5",
+          "Seat Back Pocket: Dr+ Co Dr",
+          "60:40 Split seat (Rear)",
+          "Overhead Console with Sunglass Holder and Map Lamp ",
+          "Steering Column Adjustment: Tilt & Telescopic",
+          "Driver Side Front Window (Auto Up/Down)",
+          "Electrically Adjustable ORVMs"
+        ],
+        "Interior": [
+          "MID Display: TFT Coloured",
+          "Dual Tone Interior: Dual Tone",
+          "Front Footwell Light (Driver & Co-driver Side)",
+          "Rear Seat Adjustable Headrest",
+          "Rear Parcel Tray",
+          "Luggage Lamp",
+          "Front footwell light driver and co driver side",
+          "Interior Ambient Lights: Mono",
+          "Co- Driver Side Vanity Lamp",
+          "Chrome Plated Inside Door Handles",
+          "Cabin Lamp",
+          "Flat Bottom Steering Wheel",
+          "IP Ornament: Piano Black"
+        ],
+        "Safety & Security": [
+          "Driver Airbag",
+          "6 Airbags",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Side & Curtain Airbags",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "ISOFIX with Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "Rear Parking Camera",
+          "High-Speed Alert System",
+          "Immobilizer (Anti-Theft Security System)",
+          "Rear Window Defogger",
+          "Impact-Sensing Auto Door Unlock",
+          "Hill Descent Control",
+          "Front Ventilated Disc Brakes",
+          "Day/Night Adjustable IRVM: Manual ",
+          "Warning Lamps for Low Fuel & Door Ajar",
+          "360 View Camera",
+          "Front Seat Belts with Pre-Tensioner and Force Limiter",
+          "High-Speed Warning Alert ",
+          "Engine Immobilizer",
+          "3 Point Seat Belt ELR (All Occupants)",
+          "Suzuki TECT Body",
+          "Emergency Stop Signal",
+          "Dual Horn",
+          "Tyre Repair Kit with Jack"
+        ],
+        "Audio & Entertainment": [
+          "SmartPlay Pro: 22.86cm (SmartPlay Pro+)",
+          "Surround Sense Powered by ARKAMYS: ARKAMYS",
+          "Android Auto and Apple CarPlay: Wireless",
+          "Bluetooth",
+          "Number of Speakers: 4.0",
+          "USB Connectivity/AUX",
+          "Wireless Android Auto & Apple CarPlay",
+          "Steering Mounted Audio & Calling Controls"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/brezza/images/spinset360/sizzling_red---bluish-black-v2/BB_0054.png"
+    },
+    {
+      "code": "VZA4HV1",
+      "name": "Brezza VXI AT",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": 6,
+      "ex_showroom_surat": {
+        "metallic": 1060844,
+        "non_metallic": 1060844
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Efficiency (km/l)*": "20.17"
+        },
+        "Dimensions": {
+          "Length (mm)": "3995",
+          "Width (mm)": "1790",
+          "Height (mm)": "1685",
+          "Wheelbase (mm)": "2500",
+          "Seating Capacity (nos.)": "5",
+          "Fuel Tank Capacity (L)": "48"
+        },
+        "Transmission": {
+          "Transmission Type": "6AT"
+        },
+        "Engine": {
+          "Engine Type": "K15C Smart Hybrid",
+          "Capacity (cc)": "1462 cc",
+          "Max Power (1 KW =1.35962 PS)": " 75.8 kW (103.05 PS) @ 6000 rpm",
+          "Max Torque (Nm @ rpm)": " 139 Nm @ 4400 rpm"
+        },
+        "Brakes": {
+          "Front": "Ventilated Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "Mac Pherson Strut & Coil",
+          "Rear Suspension": "Torsion Beam & Coil Spring",
+          "Torque Assist During Acceleration": "Yes",
+          "Brake Energy Regeneration": "Yes",
+          "Idle Start Stop": "Yes"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "215/60 R16",
+          "Wheel Type": "Steel (with covers)"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Roof Spoiler",
+          "Skid Plate (Front & Rear): Grey",
+          "Headlamps: Halogen Projector Headlamp",
+          "LED Rear Combination Lamps",
+          "Antenna: Shark Fin Antenna",
+          "Front Grille: Painted",
+          "Full Wheel Covers",
+          "Aero Vents",
+          "Wheel Arch Cladding",
+          "Side Under Body Cladding",
+          "Dual-Tone Side Door Cladding"
+        ],
+        "Comfort & Convenience": [
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Electrically-Foldable ORVMs",
+          "Accessory Socket",
+          "Rear Defogger",
+          "Rear AC Vents",
+          "Automatic Climate Control",
+          "Central Locking",
+          "Cabin Air Filter: Pollen",
+          "Seat Back Pocket: Dr+ Co Dr",
+          "Steering Column Adjustment: Tilt",
+          "Driver Side Front Window (Auto Up/Down)",
+          "Pm25 filter air cabin filter",
+          "Electrically Adjustable ORVMs"
+        ],
+        "Interior": [
+          "Dual Tone Interior",
+          "Rear Seat Adjustable Headrest",
+          "Cabin Lamp",
+          "Flat Bottom Steering Wheel",
+          "IP Ornament: Black"
+        ],
+        "Infotainment": [
+          "Tachometer",
+          "Gear Shift Indicator",
+          "Touch Screen Audio: 17.78cm (7\")",
+          "Remote Control App for Infotainment",
+          "Steering Mounted Controls: Audio and Bluetooth",
+          "Low Fuel Warning Light",
+          "Door Ajar Warning Lamp",
+          "Rear Seatbelt Reminder Warning Indicator",
+          "Wireless android auto apple car play",
+          "Premium Sound System: ARKAMYS",
+          "Audible Headlight On Reminder",
+          "MID with Segment Display",
+          "Onboard Voice Assistant (Wake up through Hi Suzuki with Barge in Feature)"
+        ],
+        "Safety & Security": [
+          "6 Airbags",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "ISOFIX with Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "Immobilizer (Anti-Theft Security System)",
+          "Day/Night Adjustable IRVM: Manual",
+          "Front Seat Belts with Pre-Tensioner and Force Limiter",
+          "Electronic Stability Program",
+          "Hill Hold Assist",
+          "High-Speed Warning Alert ",
+          "Engine Immobilizer",
+          "3 Point Seat Belt ELR (All Occupants)",
+          "Suzuki TECT Body",
+          "Emergency Stop Signal",
+          "Dual Horn",
+          "Tyre Repair Kit with Jack"
+        ],
+        "Audio & Entertainment": [
+          "SmartPlay Pro: 22.86cm (SmartPlay Pro+)",
+          "Surround Sense Powered by ARKAMYS: ARKAMYS (Surround Sense)",
+          "Bluetooth",
+          "Number of Speakers: 4.0",
+          "USB Connectivity/AUX",
+          "Wireless Android Auto & Apple CarPlay: Wireless",
+          "Steering Mounted Audio & Calling Controls"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/brezza/images/spinset360/sizzling_red---bluish-black-v2/BB_0054.png"
+    },
+    {
+      "code": "VZR4IZ2",
+      "name": "Brezza ZXI+ Turbo MT",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "technology": [
+        "Turbo"
+      ],
+      "airbags": 6,
+      "ex_showroom_surat": {
+        "metallic": 1125853,
+        "non_metallic": 1125853,
+        "dual_tone": 1141453
+      },
+      "specifications": {
+        "Engine": {
+          "Engine Type": "K10C DiTC Smart Hybrid",
+          "Capacity (cc)": "998 cc",
+          "Max Power (1 KW =1.35962 PS)": "81 kW (110.12 PS) @ 5500 rpm",
+          "Max Torque (Nm @ rpm)": "170 Nm @ 2000-3500 rpm"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Efficiency (km/l)*": "19.96 (km/l)"
+        },
+        "Transmission": {
+          "Transmission Type": "6MT"
+        },
+        "Dimensions": {
+          "Length (mm)": "3995",
+          "Width (mm)": "1790",
+          "Height (mm)": "1685",
+          "Wheelbase (mm)": "2500",
+          "Seating Capacity (nos.)": "5",
+          "Fuel Tank Capacity (L)": "48"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "215/60 R16",
+          "Wheel Type": "Precision Cut Alloy Wheels"
+        },
+        "Brakes": {
+          "Front": "Ventilated Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "Mac Pherson Strut & Coil",
+          "Rear Suspension": "Torsion Beam & Coil Spring",
+          "Torque Assist During Acceleration": "Yes",
+          "Brake Energy Regeneration": "Yes",
+          "Idle Start Stop": "Yes"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Roof Spoiler",
+          "Skid Plate (Front & Rear): Silver",
+          "Headlamps: Dual LED Projector Headlamp",
+          "LED Daytime Running Lamps (DRL): Floating LED DRLs",
+          "LED Rear Combination Lamps",
+          "Follow-Me Home Headlamp",
+          "Antenna: Shark Fin Antenna",
+          "Rear Window Wiper & Washer",
+          "Electric Sunroof",
+          "Fog Lamps: Yes - with extended lighting",
+          "Front Grille: Smoke Chrome",
+          "Turbo Emblem",
+          "Aero Vents",
+          "Dual Tone Exterior (In selected colors)",
+          "Wheel Arch Cladding",
+          "Side Under Body Cladding",
+          "Dual-Tone Side Door Cladding: Painted",
+          "Alloy Wheels: Machined",
+          "Roof Rail"
+        ],
+        "Interior": [
+          "Leather Wrapped Steering Wheel",
+          "MID Display: TFT Coloured",
+          "Dual Tone Interior: Dual Tone",
+          "Glove Box Illumination",
+          "Rear Seat Adjustable Headrest: Wing Type",
+          "Height Adjustable Driver Seat",
+          "Rear Parcel Tray",
+          "Luggage Lamp",
+          "Head Up Display",
+          "Front footwell light driver and co driver side",
+          "Interior Ambient Lights: 64-colour",
+          "Co- Driver Side Vanity Lamp",
+          "Chrome Plated Inside Door Handles",
+          "Cabin Lamp",
+          "Flat Bottom Steering Wheel",
+          "Plush Leatherette Seat Upholstery",
+          "IP Ornament: Piano Black"
+        ],
+        "Safety & Security": [
+          "6 Airbags",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "ISOFIX with Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "Rear Parking Camera",
+          "Tyre Pressure Monitoring System (TPMS)",
+          "Immobilizer (Anti-Theft Security System)",
+          "Day/Night Adjustable IRVM: Auto",
+          "360 View Camera",
+          "Front Seat Belts with Pre-Tensioner and Force Limiter",
+          "Hill Hold Assist",
+          "High-Speed Warning Alert ",
+          "Engine Immobilizer",
+          "Safe Exit Warning",
+          "Blind Spot Warning",
+          "Front Parking Sensors",
+          "Shoulder Height Adjustable Front Seat Belts",
+          "3 Point Seat Belt ELR (All Occupants)",
+          "Suzuki TECT Body",
+          "Emergency Stop Signal",
+          "Dual Horn",
+          "Tyre Repair Kit with Jack",
+          "Rear cross traffic alert"
+        ],
+        "Comfort & Convenience": [
+          "Engine Push Start/Stop with Smart Key",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Electrically-Foldable ORVMs: Auto Fold",
+          "Accessory Socket",
+          "Rear Defogger",
+          "USB Ports",
+          "Wireless Charger",
+          "Rear AC Vents",
+          "Cruise Control",
+          "Automatic Climate Control",
+          "Central Locking",
+          "Rear Centre Armrest",
+          "Head up display comfort",
+          "Cabin Air Filter: PM2.5 (with AQI Display)",
+          "Seat Back Pocket: Dr+ Co Dr (Smart)",
+          "Front Center Armrest (Sliding Type with Storage)",
+          "Cooled Glove Box",
+          "60:40 Split seat (Rear)",
+          "Overhead Console with Sunglass Holder and Map Lamp ",
+          "Steering Column Adjustment: Tilt & Telescopic",
+          "Driver Side Front Window (Auto Up/Down)",
+          "Electrically Adjustable ORVMs",
+          "Front ventilated seats"
+        ],
+        "Infotainment": [
+          "Tachometer",
+          "Gear Shift Indicator",
+          "Touch Screen Audio: 25.65 cm (10.1\")",
+          "Remote Control App for Infotainment",
+          "Steering Mounted Controls: Audio and Bluetooth",
+          "Low Fuel Warning Light",
+          "Door Ajar Warning Lamp",
+          "App store with ott apps",
+          "Wireless android auto apple car play",
+          "Ota updates",
+          "AC temperature Display & Control On Screen ",
+          "Internet Connectivity",
+          "Connected Services powered by Next Gen Suzuki Connect",
+          "Suzuki Navigation App with Traffic, Speed and Camera Alerts",
+          "Premium Sound System: ARKAMYS (Surround Sense)",
+          "Internet Tethering from Smartphone",
+          "Alexa Auto Voice AI",
+          "Audible Headlight On Reminder"
+        ],
+        "Audio & Entertainment": [
+          "Surround Sense Powered by ARKAMYS: ARKAMYS (Surround Sense)",
+          "Bluetooth",
+          "USB Connectivity/AUX",
+          "Over the Air (OTA) System Upgrades",
+          "Wireless Android Auto & Apple CarPlay",
+          "Tweeters"
+        ],
+        "Suzuki Connect": [
+          "Emergency Alerts",
+          "Immobilizer Request",
+          "Tow Away Alert and Tracking",
+          "Geofence",
+          "Valet Alert",
+          "Door Lock/Cancel Lock",
+          "Hazard Lights On/Off ",
+          "Alarm On/Off",
+          "Smartwatch Connectivity",
+          "Suzuki Connect Skills for Amazon Alexa",
+          "Low Fuel & Low Range Alert",
+          "Over Speed Alert",
+          "AC Idling",
+          "Door & Lock Status",
+          "Seat Belt Alert",
+          "Battery Status",
+          "Trip (Start & End)",
+          "Headlamp & Hazard Lights",
+          "Live Vehicle Tracking & Location sharing",
+          "Driving Score",
+          "View & Share Trip History",
+          "Guidance Around Destination",
+          "PM 2.5 Monitoring",
+          "Vehicle servicing-related",
+          " Send Coordinates & Trip to Car ",
+          "Dashboard View",
+          "Schedule AC ",
+          "Time Fence",
+          "Trip Summary",
+          "Vehicle health",
+          "Emergency Calling (e-call)",
+          "Driving Behavior ( Score, Ranking , Comparison, Suggestions)"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/brezza/images/spinset360/sizzling_red---bluish-black-v2/BB_0054.png"
+    },
+    {
+      "code": "VZRCHZ1",
+      "name": "Brezza ZXI CNG MT",
+      "fuel": "CNG",
+      "transmission": "Manual",
+      "technology": [
+        "S-CNG"
+      ],
+      "airbags": 6,
+      "ex_showroom_surat": {
+        "metallic": 1159844,
+        "non_metallic": 1159844,
+        "dual_tone": 1175444
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol-CNG",
+          "Fuel Efficiency (km/l)*": "26.90 (km/kg)"
+        },
+        "Dimensions": {
+          "Length (mm)": "3995",
+          "Width (mm)": "1790",
+          "Height (mm)": "1685",
+          "Wheelbase (mm)": "2500",
+          "Seating Capacity (nos.)": "5",
+          "Fuel Tank Capacity (L)": "Petrol: 48; CNG: 55"
+        },
+        "Transmission": {
+          "Transmission Type": "6MT"
+        },
+        "Engine": {
+          "Engine Type": "K15C ISS",
+          "Capacity (cc)": "1462 cc",
+          "Max Power (1 KW =1.35962 PS)": "CNG Mode: 64.6 kW (87.8 PS) @ 5500 rpm; Gasoline Mode: 75.8 kW (103.05 PS) @ 6000 rpm",
+          "Max Torque (Nm @ rpm)": "CNG Mode: 121.5 Nm @ 4200 rpm; Gasoline Mode: 139 Nm @ 4400 rpm"
+        },
+        "Brakes": {
+          "Front": "Ventilated Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "Mac Pherson Strut & Coil",
+          "Rear Suspension": "Torsion Beam & Coil Spring",
+          "Idle Start Stop": "Yes"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "215/60 R16",
+          "Wheel Type": "Painted Alloy Wheels"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Roof Spoiler",
+          "Skid Plate (Front & Rear): Silver",
+          "Headlamps: Dual LED Projector Headlamp",
+          "LED Daytime Running Lamps (DRL): Floating LED DRLs",
+          "Antenna: Shark Fin Antenna",
+          "Electric Sunroof",
+          "Front Grille: Smoke Chrome",
+          "Aero Vents",
+          "Dual Tone Exterior (In selected colors)",
+          "Wheel Arch Cladding",
+          "Side Under Body Cladding",
+          "Dual-Tone Side Door Cladding: Painted",
+          "Alloy Wheels: Painted",
+          "Roof Rail"
+        ],
+        "Interior": [
+          "MID Display: TFT Coloured",
+          "Dual Tone Interior: Dual",
+          "Rear Parcel Tray",
+          "Luggage Lamp",
+          "Front footwell light driver and co driver side",
+          "Interior Ambient Lights: Mono",
+          "Co- Driver Side Vanity Lamp",
+          "Chrome Plated Inside Door Handles",
+          "Cabin Lamp",
+          "Flat Bottom Steering Wheel",
+          "IP Ornament: Piano Black"
+        ],
+        "Safety & Security": [
+          "6 Airbags",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "ISOFIX with Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "Rear Parking Camera",
+          "Immobilizer (Anti-Theft Security System)",
+          "Day/Night Adjustable IRVM: Manual",
+          "Front Seat Belts with Pre-Tensioner and Force Limiter",
+          "Hill Hold Assist",
+          "High-Speed Warning Alert ",
+          "Engine Immobilizer",
+          "3 Point Seat Belt ELR (All Occupants)",
+          "Suzuki TECT Body",
+          "Emergency Stop Signal",
+          "Dual Horn",
+          "Tyre Repair Kit with Jack"
+        ],
+        "Comfort & Convenience": [
+          "Engine Push Start/Stop with Smart Key",
+          "Electrically-Foldable ORVMs",
+          "Rear AC Vents",
+          "Central Locking",
+          "Use Front Center Arm Rest",
+          "Rear Centre Armrest: With Cupholder",
+          "Cabin Air Filter: PM2.5",
+          "Seat Back Pocket: Dr+ Co Dr",
+          "60:40 Split seat (Rear)",
+          "Overhead Console with Sunglass Holder and Map Lamp ",
+          "Steering Column Adjustment: Tilt & Telescopic",
+          "Driver Side Front Window (Auto Up/Down)",
+          "Electrically Adjustable ORVMs"
+        ],
+        "Audio & Entertainment": [
+          "Surround Sense Powered by ARKAMYS: ARKAMYS (Surround Sense)",
+          "Bluetooth",
+          "USB Connectivity/AUX",
+          "Wireless Android Auto & Apple CarPlay"
+        ],
+        "Infotainment": [
+          "Tachometer",
+          "Gear Shift Indicator",
+          "Touch Screen Audio: 17.78cm (7\")",
+          "Remote Control App for Infotainment",
+          "Steering Mounted Controls: Audio and Bluetooth",
+          "Low Fuel Warning Light",
+          "Door Ajar Warning Lamp",
+          "Rear Seatbelt Reminder Warning Indicator",
+          "Wireless android auto apple car play",
+          "Premium Sound System: ARKAMYS",
+          "Audible Headlight On Reminder",
+          "Onboard Voice Assistant (Wake up through Hi Suzuki with Barge in Feature)"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/brezza/images/spinset360/sizzling_red---bluish-black-v2/BB_0054.png"
+    },
+    {
+      "code": "VZA4HZ1",
+      "name": "Brezza ZXI AT",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": 6,
+      "ex_showroom_surat": {
+        "metallic": 1184844,
+        "non_metallic": 1184844,
+        "dual_tone": 1200444
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Efficiency (km/l)*": "20.17 (km/l)"
+        },
+        "Dimensions": {
+          "Length (mm)": "3995",
+          "Width (mm)": "1790",
+          "Height (mm)": "1685",
+          "Wheelbase (mm)": "2500",
+          "Seating Capacity (nos.)": "5",
+          "Fuel Tank Capacity (L)": "48"
+        },
+        "Transmission": {
+          "Transmission Type": "6AT"
+        },
+        "Engine": {
+          "Engine Type": "K15C Smart Hybrid",
+          "Capacity (cc)": "1462 cc",
+          "Max Power (1 KW =1.35962 PS)": "75.8 kW (103.05 PS) @ 6000 rpm",
+          "Max Torque (Nm @ rpm)": "139 Nm @ 4400 rpm",
+          "Idle Start Stop": "Yes"
+        },
+        "Brakes": {
+          "Front": "Ventilated Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "Mac Pherson Strut & Coil",
+          "Rear Suspension": "Torsion Beam & Coil Spring",
+          "Torque Assist During Acceleration": "Yes",
+          "Brake Energy Regeneration": "Yes",
+          "Idle Start Stop": "Yes"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "215/60 R16",
+          "Wheel Type": "Painted Alloy Wheels"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Roof Spoiler",
+          "Skid Plate (Front & Rear): Silver",
+          "Headlamps: Dual LED Projector Headlamp",
+          "LED Daytime Running Lamps (DRL): Floating LED DRLs",
+          "LED Rear Combination Lamps",
+          "Antenna: Shark Fin Antenna",
+          "Electric Sunroof",
+          "Front Grille: Smoke Chrome ",
+          "Led front fog lamps with extended lighting",
+          "Aero Vents",
+          "Dual Tone Exterior (In selected colors)",
+          "Wheel Arch Cladding",
+          "Side Under Body Cladding",
+          "Dual-Tone Side Door Cladding: Painted",
+          "Alloy Wheels: Painted",
+          "Roof Rail"
+        ],
+        "Interior": [
+          "MID Display: TFT Coloured",
+          "Dual Tone Interior",
+          "Rear Seat Adjustable Headrest",
+          "Rear Parcel Tray",
+          "Luggage Lamp",
+          "Front footwell light driver and co driver side",
+          "Interior Ambient Lights: Mono",
+          "Co- Driver Side Vanity Lamp",
+          "Chrome Plated Inside Door Handles",
+          "Cabin Lamp",
+          "Flat Bottom Steering Wheel",
+          "IP Ornament: Piano Black"
+        ],
+        "Safety & Security": [
+          "6 Airbags",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Side & Curtain Airbags",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "ISOFIX with Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "Rear Parking Camera",
+          "High-Speed Alert System",
+          "Immobilizer (Anti-Theft Security System)",
+          "Rear Window Defogger",
+          "Impact-Sensing Auto Door Unlock",
+          "Hill Descent Control",
+          "Day/Night Adjustable IRVM: Manual",
+          "Front Seat Belts with Pre-Tensioner and Force Limiter",
+          "High-Speed Warning Alert ",
+          "Engine Immobilizer",
+          "3 Point Seat Belt ELR (All Occupants)",
+          "Suzuki TECT Body",
+          "Emergency Stop Signal",
+          "Dual Horn",
+          "Tyre Repair Kit with Jack"
+        ],
+        "Comfort & Convenience": [
+          "Engine Push Start/Stop with Smart Key",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Electrically-Foldable ORVMs",
+          "Accessory Socket",
+          "Rear Defogger",
+          "Wireless Charger",
+          "Rear AC Vents",
+          "Automatic Climate Control",
+          "Central Locking",
+          "Rear Centre Armrest",
+          "Cabin Air Filter: PM2.5",
+          "Seat Back Pocket: Dr+ Co Dr",
+          "60:40 Split seat (Rear)",
+          "Overhead Console with Sunglass Holder and Map Lamp ",
+          "Steering Column Adjustment: Tilt & Telescopic",
+          "Driver Side Front Window (Auto Up/Down)",
+          "Electrically Adjustable ORVMs"
+        ],
+        "Infotainment": [
+          "Tachometer",
+          "Gear Shift Indicator",
+          "Touch Screen Audio: 17.78cm (7\")",
+          "Remote Control App for Infotainment",
+          "Steering Mounted Controls: Audio and Bluetooth",
+          "Low Fuel Warning Light",
+          "Door Ajar Warning Lamp",
+          "Wireless android auto apple car play",
+          "Premium Sound System: ARKAMYS",
+          "Audible Headlight On Reminder",
+          "Onboard Voice Assistant (Wake up through Hi Suzuki with Barge in Feature)"
+        ],
+        "Audio & Entertainment": [
+          "Surround Sense Powered by ARKAMYS: ARKAMYS (Surround Sense)",
+          "Bluetooth",
+          "Number of Speakers: 4.0",
+          "USB Connectivity/AUX",
+          "Over the Air (OTA) System Upgrades",
+          "Wireless Android Auto & Apple CarPlay: Wireless",
+          "Steering Mounted Audio & Calling Controls"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/brezza/images/spinset360/sizzling_red---bluish-black-v2/BB_0054.png"
+    },
+    {
+      "code": "VZA4HZ2",
+      "name": "Brezza ZXI+ AT",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": 6,
+      "ex_showroom_surat": {
+        "metallic": 1354844,
+        "non_metallic": 1354844,
+        "dual_tone": 1370444
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Efficiency (km/l)*": "20.17 (km/l)"
+        },
+        "Dimensions": {
+          "Length (mm)": "3995",
+          "Width (mm)": "1790",
+          "Height (mm)": "1685",
+          "Wheelbase (mm)": "2500",
+          "Seating Capacity (nos.)": "5",
+          "Fuel Tank Capacity (L)": "48"
+        },
+        "Transmission": {
+          "Transmission Type": "6AT"
+        },
+        "Engine": {
+          "Engine Type": "K15C Smart Hybrid",
+          "Capacity (cc)": "1462 cc",
+          "Max Power (1 KW =1.35962 PS)": "75.8 kW (103.05 PS) @ 6000 rpm",
+          "Max Torque (Nm @ rpm)": "139 Nm @ 4400 rpm",
+          "Idle Start Stop": "Yes"
+        },
+        "Brakes": {
+          "Front": "Ventilated Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "Mac Pherson Strut & Coil",
+          "Rear Suspension": "Torsion Beam & Coil Spring",
+          "Torque Assist During Acceleration": "Yes",
+          "Brake Energy Regeneration": "Yes",
+          "Idle Start Stop": "Yes"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "215/60 R16",
+          "Wheel Type": "Precision Cut Alloy Wheels"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Roof Spoiler",
+          "Skid Plate (Front & Rear): Silver",
+          "Headlamps: Dual LED Projector Headlamp",
+          "LED Daytime Running Lamps (DRL): Floating LED DRLs",
+          "LED Rear Combination Lamps",
+          "Follow-Me Home Headlamp",
+          "Antenna: Shark Fin Antenna",
+          "Rear Window Wiper & Washer",
+          "Electric Sunroof",
+          "Fog Lamps: Yes - with extended lighting",
+          "Front Grille: Smoke Chrome ",
+          "Led front fog lamps with extended lighting",
+          "Aero Vents",
+          "Dual Tone Exterior (In selected colors)",
+          "Wheel Arch Cladding",
+          "Side Under Body Cladding",
+          "Dual-Tone Side Door Cladding: Painted",
+          "Alloy Wheels: Machined",
+          "Roof Rail"
+        ],
+        "Interior": [
+          "Leather Wrapped Steering Wheel",
+          "MID Display: TFT Coloured",
+          "Dual Tone Interior: Yes - with extended lighting",
+          "Glove Box Illumination",
+          "Rear Seat Adjustable Headrest: Wing Type",
+          "Height Adjustable Driver Seat",
+          "Rear Parcel Tray",
+          "Luggage Lamp",
+          "Head Up Display",
+          "Front footwell light driver and co driver side",
+          "Interior Ambient Lights: 64-colour",
+          "Co- Driver Side Vanity Lamp",
+          "Chrome Plated Inside Door Handles",
+          "Cabin Lamp",
+          "Flat Bottom Steering Wheel",
+          "Plush Leatherette Seat Upholstery",
+          "IP Ornament: Piano Black"
+        ],
+        "Safety & Security": [
+          "6 Airbags",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "ISOFIX with Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "Rear Parking Camera",
+          "Tyre Pressure Monitoring System (TPMS)",
+          "Immobilizer (Anti-Theft Security System)",
+          "Impact-Sensing Auto Door Unlock",
+          "Day/Night Adjustable IRVM: Auto",
+          "360 View Camera",
+          "Front Seat Belts with Pre-Tensioner and Force Limiter",
+          "High-Speed Warning Alert ",
+          "Engine Immobilizer",
+          "Safe Exit Warning",
+          "Blind Spot Warning",
+          "Front Parking Sensors",
+          "Shoulder Height Adjustable Front Seat Belts",
+          "3 Point Seat Belt ELR (All Occupants)",
+          "Suzuki TECT Body",
+          "Emergency Stop Signal",
+          "Dual Horn",
+          "Tyre Repair Kit with Jack",
+          "Rear cross traffic alert"
+        ],
+        "Comfort & Convenience": [
+          "Engine Push Start/Stop with Smart Key",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Electrically-Foldable ORVMs: Auto Fold",
+          "Accessory Socket",
+          "Rear Defogger",
+          "USB Ports: Yes (Rear Fast Charging (Type A and C))",
+          "Wireless Charger",
+          "Rear AC Vents",
+          "Cruise Control",
+          "Automatic Climate Control",
+          "Central Locking",
+          "Rear Centre Armrest",
+          "Head up display comfort",
+          "Cabin Air Filter: PM2.5 (with AQI Display)",
+          "Seat Back Pocket: Dr+ Co Dr (Smart)",
+          "Front Center Armrest (Sliding Type with Storage)",
+          "Cooled Glove Box",
+          "60:40 Split seat (Rear)",
+          "Overhead Console with Sunglass Holder and Map Lamp ",
+          "Steering Column Adjustment: Tilt & Telescopic",
+          "Driver Side Front Window (Auto Up/Down)",
+          "Electrically Adjustable ORVMs"
+        ],
+        "Infotainment": [
+          "Tachometer",
+          "Gear Shift Indicator",
+          "Touch Screen Audio: 25.65 cm (10.1\")",
+          "Remote Control App for Infotainment",
+          "Steering Mounted Controls: Audio and Bluetooth",
+          "Low Fuel Warning Light",
+          "Door Ajar Warning Lamp",
+          "Alexa auto cloud assistant",
+          "App store with ott apps",
+          "Wireless android auto apple car play",
+          "Ota updates",
+          "Front tweeters",
+          "AC temperature Display & Control On Screen ",
+          "Internet Connectivity",
+          "Connected Services powered by Next Gen Suzuki Connect",
+          "Suzuki Navigation App with Traffic, Speed and Camera Alerts",
+          "Premium Sound System: ARKAMYS (Surround Sense)",
+          "Internet Tethering from Smartphone",
+          "Alexa Auto Voice AI",
+          "Audible Headlight On Reminder"
+        ],
+        "Audio & Entertainment": [
+          "Surround Sense Powered by ARKAMYS: ARKAMYS (Surround Sense)",
+          "Bluetooth",
+          "Number of Speakers: 4.0",
+          "USB Connectivity/AUX",
+          "Over the Air (OTA) System Upgrades",
+          "Wireless Android Auto & Apple CarPlay: Wireless",
+          "Steering Mounted Audio & Calling Controls",
+          "Tweeters"
+        ],
+        "Suzuki Connect": [
+          "Emergency Alerts",
+          "Breakdown notification",
+          "Stolen Vehicle Notification and Tracking",
+          "Immobilizer Request",
+          "Tow Away Alert and Tracking",
+          "Geofence",
+          "Valet Alert",
+          "Remote AC Control ",
+          "Door Lock/Cancel Lock",
+          "Hazard Lights On/Off ",
+          "Alarm On/Off",
+          "Smartwatch Connectivity",
+          "Low Fuel & Low Range Alert",
+          "Over Speed Alert",
+          "AC Idling",
+          "Door & Lock Status",
+          "Seat Belt Alert",
+          "Trip (Start & End)",
+          "Headlamp & Hazard Lights",
+          "Driving Score",
+          "View & Share Trip History",
+          "Guidance Around Destination",
+          "Driving behaviour score",
+          "PM 2.5 Monitoring",
+          "Vehicle servicing-related",
+          " Send Coordinates & Trip to Car ",
+          "Dashboard View",
+          "Schedule AC ",
+          "Time Fence",
+          "Trip Summary",
+          "Vehicle health",
+          "Emergency Calling (e-call)",
+          "Driving Behavior ( Score, Ranking , Comparison, Suggestions)"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/brezza/images/spinset360/sizzling_red---bluish-black-v2/BB_0054.png"
+    }
+  ],
+  "fetched_on": "2026-10-30"
+}

@@ -1,0 +1,305 @@
+[
+  {
+    "model": "Alto K10",
+    "slug": "alto-k10",
+    "channel": "Arena",
+    "ex_showroom_min": 369853,
+    "ex_showroom_max": 544853,
+    "fuel_types": [
+      "CNG",
+      "Petrol"
+    ],
+    "transmissions": [
+      "Automatic",
+      "Manual"
+    ],
+    "brochure_pdf": "https://www.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/alto-k10/documents/AltoK10-KV-Brochure.pdf",
+    "variants": 8,
+    "colours": 7
+  },
+  {
+    "model": "S-Presso",
+    "slug": "s-presso",
+    "channel": "Arena",
+    "ex_showroom_min": 349853,
+    "ex_showroom_max": 527352,
+    "fuel_types": [
+      "CNG",
+      "Petrol"
+    ],
+    "transmissions": [
+      "Automatic",
+      "Manual"
+    ],
+    "brochure_pdf": "https://www.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/s-presso/documents/S-presso-Brochure.pdf",
+    "variants": 8,
+    "colours": 7
+  },
+  {
+    "model": "Celerio",
+    "slug": "celerio",
+    "channel": "Arena",
+    "ex_showroom_min": 469852,
+    "ex_showroom_max": 675353,
+    "fuel_types": [
+      "CNG",
+      "Petrol"
+    ],
+    "transmissions": [
+      "Automatic",
+      "Manual"
+    ],
+    "brochure_pdf": "https://www.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/celerio/documents/Arena-Celerio-Brochure.pdf",
+    "variants": 8,
+    "colours": 7
+  },
+  {
+    "model": "WagonR",
+    "slug": "wagonr",
+    "channel": "Arena",
+    "ex_showroom_min": 498853,
+    "ex_showroom_max": 723853,
+    "fuel_types": [
+      "CNG",
+      "Flex fuel",
+      "Petrol"
+    ],
+    "transmissions": [
+      "Automatic",
+      "Manual"
+    ],
+    "brochure_pdf": "https://www.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/wagonr/documents/Arena-Wagon-r-Brochure.pdf",
+    "variants": 10,
+    "colours": 9
+  },
+  {
+    "model": "Swift",
+    "slug": "swift",
+    "channel": "Arena",
+    "ex_showroom_min": 584090,
+    "ex_showroom_max": 889090,
+    "fuel_types": [
+      "CNG",
+      "Petrol"
+    ],
+    "transmissions": [
+      "Automatic",
+      "Manual"
+    ],
+    "brochure_pdf": "https://www.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/swift/brochures/Swift%20Brochure%20-%20Vertical%20-%205th%20Oct.pdf",
+    "variants": 15,
+    "colours": 9
+  },
+  {
+    "model": "Dzire",
+    "slug": "dzire",
+    "channel": "Arena",
+    "ex_showroom_min": 630553,
+    "ex_showroom_max": 953653,
+    "fuel_types": [
+      "CNG",
+      "Petrol"
+    ],
+    "transmissions": [
+      "Automatic",
+      "Manual"
+    ],
+    "brochure_pdf": "https://www.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/dzire/brochures/DZire-brochure_.pdf",
+    "variants": 11,
+    "colours": 7
+  },
+  {
+    "model": "Eeco",
+    "slug": "eeco",
+    "channel": "Arena",
+    "ex_showroom_min": 528353,
+    "ex_showroom_max": 808952,
+    "fuel_types": [
+      "CNG",
+      "Petrol"
+    ],
+    "transmissions": [
+      "Manual"
+    ],
+    "brochure_pdf": "https://www.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/eeco/document/Arena-Eeco-Brochure.pdf",
+    "variants": 6,
+    "colours": 5
+  },
+  {
+    "model": "Brezza",
+    "slug": "brezza",
+    "channel": "Arena",
+    "ex_showroom_min": 749852,
+    "ex_showroom_max": 1370444,
+    "fuel_types": [
+      "CNG",
+      "Petrol"
+    ],
+    "transmissions": [
+      "Automatic",
+      "Manual"
+    ],
+    "brochure_pdf": "https://www.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/brezza/brochures/Brezza%20Brochure.pdf",
+    "variants": 13,
+    "colours": 10
+  },
+  {
+    "model": "Ertiga",
+    "slug": "ertiga",
+    "channel": "Arena",
+    "ex_showroom_min": 889944,
+    "ex_showroom_max": 1314044,
+    "fuel_types": [
+      "CNG",
+      "Petrol"
+    ],
+    "transmissions": [
+      "Automatic",
+      "Manual"
+    ],
+    "brochure_pdf": "https://www.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/ertiga/document/Arena-Ertiga-Brochure.pdf",
+    "variants": 9,
+    "colours": 7
+  },
+  {
+    "model": "Victoris",
+    "slug": "victoris",
+    "channel": "Arena",
+    "ex_showroom_min": 1049844,
+    "ex_showroom_max": 1998844,
+    "fuel_types": [
+      "CNG",
+      "Petrol",
+      "Strong Hybrid"
+    ],
+    "transmissions": [
+      "Automatic",
+      "Manual"
+    ],
+    "brochure_pdf": "https://www.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/Victoris/brochures/Victoris_Brochure_Vertical_Aug-26.pdf",
+    "variants": 21,
+    "colours": 10
+  },
+  {
+    "model": "Baleno",
+    "slug": "baleno",
+    "channel": "Nexa",
+    "ex_showroom_min": 610090,
+    "ex_showroom_max": 999190,
+    "fuel_types": [
+      "CNG",
+      "Petrol"
+    ],
+    "transmissions": [
+      "Automatic",
+      "Manual"
+    ],
+    "brochure_pdf": "https://www.nexaexperience.com/content/dam/msil/nexa/in/en/assets/cars/newbaleno/download-brochure/The-Stunning-New-Baleno-Brochure.pdf",
+    "variants": 13,
+    "colours": 7
+  },
+  {
+    "model": "Fronx",
+    "slug": "fronx",
+    "channel": "Nexa",
+    "ex_showroom_min": 690090,
+    "ex_showroom_max": 1203090,
+    "fuel_types": [
+      "CNG",
+      "Petrol"
+    ],
+    "transmissions": [
+      "Automatic",
+      "Manual"
+    ],
+    "brochure_pdf": "https://www.nexaexperience.com/pdf-viewer?pdf=/content/dam/msil/nexa/in/en/assets/cars/fronx/documents/NEXA-Fronx-Brochure.pdf",
+    "variants": 12,
+    "colours": 10
+  },
+  {
+    "model": "Grand Vitara",
+    "slug": "grand-vitara",
+    "channel": "Nexa",
+    "ex_showroom_min": 1076060,
+    "ex_showroom_max": 1976960,
+    "fuel_types": [
+      "CNG",
+      "Petrol",
+      "Strong Hybrid"
+    ],
+    "transmissions": [
+      "Automatic",
+      "Manual"
+    ],
+    "brochure_pdf": "https://www.nexaexperience.com/content/dam/msil/nexa/in/en/assets/cars/grand-vitara/sigma/documents/NEXA-Grand-Vitara-brochure.pdf",
+    "variants": 20,
+    "colours": 10
+  },
+  {
+    "model": "Invicto",
+    "slug": "invicto",
+    "channel": "Nexa",
+    "ex_showroom_min": 2501960,
+    "ex_showroom_max": 2879360,
+    "fuel_types": [
+      "Strong Hybrid"
+    ],
+    "transmissions": [
+      "Automatic"
+    ],
+    "brochure_pdf": "https://www.nexaexperience.com/pdf-viewer?pdf=/content/dam/msil/nexa/in/en/assets/cars/invicto/documents/NEXA-Invicto-Brochure.pdf",
+    "variants": 3,
+    "colours": 5
+  },
+  {
+    "model": "Jimny",
+    "slug": "jimny",
+    "channel": "Nexa",
+    "ex_showroom_min": 1258944,
+    "ex_showroom_max": 1467044,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "Automatic",
+      "Manual"
+    ],
+    "brochure_pdf": "https://www.nexaexperience.com/content/dam/msil/nexa/in/en/assets/cars/jimny/documents/NEXA-Jimny-Brochure.pdf",
+    "variants": 4,
+    "colours": 7
+  },
+  {
+    "model": "XL6",
+    "slug": "xl6",
+    "channel": "Nexa",
+    "ex_showroom_min": 1162244,
+    "ex_showroom_max": 1467444,
+    "fuel_types": [
+      "CNG",
+      "Petrol"
+    ],
+    "transmissions": [
+      "Automatic",
+      "Manual"
+    ],
+    "brochure_pdf": "https://www.nexaexperience.com/content/dam/msil/nexa/in/en/assets/cars/xl6/Documents/NEXA-Xl6-Brochure.pdf",
+    "variants": 7,
+    "colours": 10
+  },
+  {
+    "model": "e Vitara",
+    "slug": "e-vitara",
+    "channel": "Nexa",
+    "ex_showroom_min": 1619246,
+    "ex_showroom_max": 2021246,
+    "fuel_types": [
+      "electric"
+    ],
+    "transmissions": [
+      "Automatic"
+    ],
+    "brochure_pdf": "https://www.nexaexperience.com/pdf-viewer?pdf=/content/dam/msil/nexa/in/en/assets/cars/evitara/documents/e%20VITARA%20Web%20Brochure%20Sep%2726.pdf",
+    "variants": 3,
+    "colours": 11
+  }
+]

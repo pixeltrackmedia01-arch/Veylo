@@ -1,0 +1,1259 @@
+{
+  "brand": "Maruti Suzuki",
+  "model": "WagonR",
+  "slug": "wagonr",
+  "model_code": "WA",
+  "channel": "Arena",
+  "official_page": "https://www.marutisuzuki.com/arena/wagon-r",
+  "brochure_pdf": "https://www.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/wagonr/documents/Arena-Wagon-r-Brochure.pdf",
+  "price_city": "Surat, Gujarat",
+  "ex_showroom_min": 498853,
+  "ex_showroom_max": 723853,
+  "fuel_types": [
+    "CNG",
+    "Flex fuel",
+    "Petrol"
+  ],
+  "transmissions": [
+    "Automatic",
+    "Manual"
+  ],
+  "colours": [
+    {
+      "name": "Metallic Magma Grey",
+      "hex": [
+        "#2B2C31"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "WagonR LXi MT",
+        "WagonR LXi CNG",
+        "WagonR VXi MT",
+        "WagonR VXi CNG",
+        "WagonR VXi AGS",
+        "WagonR ZXi+",
+        "WagonR ZXi+ AGS",
+        "WagonR ZXi AGS",
+        "WagonR ZXi+ MT FFV",
+        "WagonR ZXi MT"
+      ]
+    },
+    {
+      "name": "Metallic Silky Silver",
+      "hex": [
+        "#737373"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "WagonR LXi MT",
+        "WagonR LXi CNG",
+        "WagonR VXi MT",
+        "WagonR VXi CNG",
+        "WagonR VXi AGS",
+        "WagonR ZXi+",
+        "WagonR ZXi+ AGS",
+        "WagonR ZXi AGS",
+        "WagonR ZXi+ MT FFV",
+        "WagonR ZXi MT"
+      ]
+    },
+    {
+      "name": "Solid White",
+      "hex": [
+        "#B7B7B7"
+      ],
+      "paint": "non_metallic",
+      "variants": [
+        "WagonR LXi MT",
+        "WagonR LXi CNG",
+        "WagonR VXi MT",
+        "WagonR VXi CNG",
+        "WagonR VXi AGS",
+        "WagonR ZXi+",
+        "WagonR ZXi+ AGS",
+        "WagonR ZXi AGS",
+        "WagonR ZXi+ MT FFV",
+        "WagonR ZXi MT"
+      ]
+    },
+    {
+      "name": "Pearl Metallic Gallant Red",
+      "hex": [
+        "#d2232b"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "WagonR LXi CNG",
+        "WagonR VXi MT",
+        "WagonR VXi CNG",
+        "WagonR VXi AGS",
+        "WagonR ZXi AGS",
+        "WagonR ZXi MT"
+      ]
+    },
+    {
+      "name": "Pearl Metallic Nutmeg Brown",
+      "hex": [
+        "#54473c"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "WagonR LXi CNG",
+        "WagonR VXi MT",
+        "WagonR VXi CNG",
+        "WagonR VXi AGS",
+        "WagonR ZXi+",
+        "WagonR ZXi+ AGS",
+        "WagonR ZXi AGS",
+        "WagonR ZXi+ MT FFV",
+        "WagonR ZXi MT"
+      ]
+    },
+    {
+      "name": "Pearl Metallic Poolside Blue",
+      "hex": [
+        "#1188c5"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "WagonR LXi CNG",
+        "WagonR VXi MT",
+        "WagonR VXi CNG",
+        "WagonR VXi AGS",
+        "WagonR ZXi+",
+        "WagonR ZXi+ AGS",
+        "WagonR ZXi AGS",
+        "WagonR ZXi+ MT FFV",
+        "WagonR ZXi MT"
+      ]
+    },
+    {
+      "name": "Pearl Bluish Black",
+      "hex": [
+        "#141414"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "WagonR VXi MT",
+        "WagonR VXi CNG",
+        "WagonR VXi AGS",
+        "WagonR ZXi+",
+        "WagonR ZXi+ AGS",
+        "WagonR ZXi AGS",
+        "WagonR ZXi+ MT FFV",
+        "WagonR ZXi MT"
+      ]
+    },
+    {
+      "name": "Pearl Bluish Black + Pearl Magma Grey",
+      "hex": [
+        "#07072c",
+        "#464848"
+      ],
+      "paint": "dual_tone",
+      "variants": [
+        "WagonR ZXi+",
+        "WagonR ZXi+ AGS"
+      ]
+    },
+    {
+      "name": "Prime gallant red + Bluish black",
+      "hex": [
+        "#d2232b",
+        "#030303"
+      ],
+      "paint": "dual_tone",
+      "variants": [
+        "WagonR ZXi+",
+        "WagonR ZXi+ AGS"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "code": "WAR4KL1",
+      "name": "WagonR LXi MT",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": null,
+      "ex_showroom_surat": {
+        "metallic": 498853,
+        "non_metallic": 498853
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Efficiency (km/l)*": " 24.35 (km/l)"
+        },
+        "Dimensions": {
+          "Length (mm)": "3655",
+          "Width (mm)": "1620",
+          "Height (mm)": "1675",
+          "Wheelbase (mm)": "2435",
+          "Turning Radius (m)": "4.7",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "825",
+          "Gross Vehicle Weight (Kg)": "1340",
+          "Fuel Tank Capacity (L)": "32",
+          "Boot Space (L)": "335*"
+        },
+        "Transmission": {
+          "Transmission Type": "5MT"
+        },
+        "Engine": {
+          "Engine Type": "K10C",
+          "Capacity (cc)": "998 cc",
+          "Max Power (1 KW =1.35962 PS)": "50.4 kW (68.5 PS) @ 5600 rpm",
+          "Max Torque (Nm @ rpm)": "91.1 Nm @ 3400 rpm",
+          "No. of Cylinder": 3.0
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut with Coil Spring",
+          "Rear Suspension": "Torsion Beam with Coil Spring"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "155/80 R13",
+          "Wheel Type": "Steel Wheels"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Headlamps",
+          "Antenna: Roof Antenna",
+          "Full Wheel Covers: Centre Cap",
+          "Bumper: Body Coloured Bumper"
+        ],
+        "Interior": [
+          "Dual Tone Interior",
+          "Driver Side Sunvisor with Ticket Holder",
+          "IRVM"
+        ],
+        "Safety & Security": [
+          "ABS with EBD",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Side & Curtain Airbags",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "Reverse Parking Sensors",
+          "High-Speed Alert System",
+          "Child-Proof Rear Door Locks",
+          "Warning Lamps for Low Fuel & Door Ajar",
+          "Engine Immobilizer"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Idle Start Stop (ISS)",
+          "Accessory Socket",
+          "Central Locking",
+          "Heater"
+        ],
+        "Infotainment": [
+          "Gear Shift Indicator",
+          "Fuel Consumption (Instantaneous and Average)",
+          "Distance to Empty",
+          "Low Fuel Warning Light",
+          "Headlamp on Warning",
+          "Door Ajar Warning Lamp"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/wagonr/images/spinset360/pearl-metallic-gallant-red_v1/2025.04.06_07.58.29_WagonR_360_Red_PathTracer_0054.png"
+    },
+    {
+      "code": "WAR4KV1",
+      "name": "WagonR VXi MT",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": null,
+      "ex_showroom_surat": {
+        "metallic": 554353,
+        "non_metallic": 554353
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Efficiency (km/l)*": "24.35 (km/l)"
+        },
+        "Dimensions": {
+          "Length (mm)": "3655",
+          "Width (mm)": "1620",
+          "Height (mm)": "1675",
+          "Wheelbase (mm)": "2435",
+          "Turning Radius (m)": "4.7",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "840",
+          "Gross Vehicle Weight (Kg)": "1340",
+          "Fuel Tank Capacity (L)": "32",
+          "Boot Space (L)": "335*"
+        },
+        "Transmission": {
+          "Transmission Type": "5MT"
+        },
+        "Engine": {
+          "Engine Type": "K10C",
+          "Capacity (cc)": "998 cc",
+          "Max Power (1 KW =1.35962 PS)": "50.4 kW (68.5 PS) @ 5600 rpm",
+          "Max Torque (Nm @ rpm)": "91.1 Nm @ 3400 rpm",
+          "No. of Cylinder": 3.0
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut with Coil Spring",
+          "Rear Suspension": "Torsion Beam with Coil Spring"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "165/70 R14",
+          "Wheel Type": "Steel Wheels"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Headlamps",
+          "Antenna: Roof Antenna",
+          "Door Handles: Body Coloured Door Handles",
+          "Full Wheel Covers",
+          "Bumper: Body Coloured Bumper"
+        ],
+        "Interior": [
+          "Leather Wrapped Steering Wheel: Steering Wheel Garnish",
+          "Dual Tone Interior",
+          "60:40 Folding Rear Seats",
+          "Driver Side Sunvisor with Ticket Holder",
+          "Passenger Side Sunvisor with Vanity Mirror",
+          "Rear Parcel Tray",
+          "IRVM: Day/Night IRVM",
+          "Tilt steering"
+        ],
+        "Safety & Security": [
+          "ABS with EBD",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Side & Curtain Airbags",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "Reverse Parking Sensors",
+          "High-Speed Alert System",
+          "Child-Proof Rear Door Locks",
+          "Speed-Sensitive Auto Door Lock",
+          "Day/Night Adjustable IRVM",
+          "Warning Lamps for Low Fuel & Door Ajar",
+          "Engine Immobilizer"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Remote Keyless Entry",
+          "Electrically-Foldable ORVMs: Electrically-Adjustable",
+          "Idle Start Stop (ISS)",
+          "Accessory Socket",
+          "Rear AC Vents",
+          "Heater"
+        ],
+        "Infotainment": [
+          "Gear Shift Indicator",
+          "Distance to Empty",
+          "Low Fuel Warning Light",
+          "Headlamp on Warning",
+          "Door Ajar Warning Lamp"
+        ],
+        "Audio & Entertainment": [
+          "Bluetooth",
+          "Number of Speakers: 2.0",
+          "USB Connectivity/AUX"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/wagonr/images/spinset360/pearl-metallic-gallant-red_v1/2025.04.06_07.58.29_WagonR_360_Red_PathTracer_0054.png"
+    },
+    {
+      "code": "WARCKL1",
+      "name": "WagonR LXi CNG",
+      "fuel": "CNG",
+      "transmission": "Manual",
+      "technology": [
+        "S-CNG"
+      ],
+      "airbags": null,
+      "ex_showroom_surat": {
+        "metallic": 593852,
+        "non_metallic": 593852
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "CNG",
+          "Fuel Efficiency (km/l)*": "33.47 (km/kg)"
+        },
+        "Dimensions": {
+          "Length (mm)": "3655",
+          "Width (mm)": "1620",
+          "Height (mm)": "1675",
+          "Wheelbase (mm)": "2435",
+          "Turning Radius (m)": "4.7",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "925",
+          "Gross Vehicle Weight (Kg)": "1340",
+          "Fuel Tank Capacity (L)": "32",
+          "Boot Space (L)": "NA"
+        },
+        "Transmission": {
+          "Transmission Type": "5MT"
+        },
+        "Engine": {
+          "Engine Type": "K10C",
+          "Capacity (cc)": "998 cc",
+          "Max Power (1 KW =1.35962 PS)": "41.7 kW (56.6 PS) @ 5300 rpm (CNG Mode) ; 49.8 kW (67.7 PS) @ 5600 rpm (Petrol Mode)",
+          "Max Torque (Nm @ rpm)": "82.1 Nm @ 3400 rpm (CNG Mode); 91.1 Nm @ 3400 rpm (Petrol Mode)",
+          "No. of Cylinder": 3.0
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut with Coil Spring",
+          "Rear Suspension": "Torsion Beam with Coil Spring"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "155/80 R13",
+          "Wheel Type": "Steel Wheels"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Headlamps",
+          "Antenna: Roof Antenna",
+          "Full Wheel Covers: Centre Cap",
+          "Bumper: Body Coloured Bumper"
+        ],
+        "Interior": [
+          "Dual Tone Interior",
+          "Rear Parcel Tray",
+          "IRVM"
+        ],
+        "Safety & Security": [
+          "ABS with EBD",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Side & Curtain Airbags",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "Reverse Parking Sensors",
+          "High-Speed Alert System",
+          "Child-Proof Rear Door Locks",
+          "Warning Lamps for Low Fuel & Door Ajar"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Power Windows (Fr/Rr): Only Front",
+          "Electrically-Foldable ORVMs",
+          "Accessory Socket",
+          "Heater"
+        ],
+        "Infotainment": [
+          "Gear Shift Indicator",
+          "Distance to Empty",
+          "Low Fuel Warning Light",
+          "Headlamp on Warning",
+          "Door Ajar Warning Lamp"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/wagonr/images/spinset360/pearl-metallic-gallant-red_v1/2025.04.06_07.58.29_WagonR_360_Red_PathTracer_0054.png"
+    },
+    {
+      "code": "WAR4KZ1",
+      "name": "WagonR ZXi MT",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": null,
+      "ex_showroom_surat": {
+        "metallic": 598353,
+        "non_metallic": 598353
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Efficiency (km/l)*": "23.56"
+        },
+        "Dimensions": {
+          "Length (mm)": "3655",
+          "Width (mm)": "1620",
+          "Height (mm)": "1675",
+          "Wheelbase (mm)": "2435",
+          "Turning Radius (m)": "4.7",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "850",
+          "Gross Vehicle Weight (Kg)": "1340",
+          "Fuel Tank Capacity (L)": "32",
+          "Boot Space (L)": "335*"
+        },
+        "Transmission": {
+          "Transmission Type": "5MT"
+        },
+        "Engine": {
+          "Engine Type": "K12N",
+          "Capacity (cc)": "1197 cc",
+          "Max Power (1 KW =1.35962 PS)": "66.9 kW (90.9 PS) @ 6000 rpm",
+          "Max Torque (Nm @ rpm)": "113.7 Nm @ 4200 rpm",
+          "No. of Cylinder": 4.0
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut with Coil Spring",
+          "Rear Suspension": "Torsion Beam with Coil Spring"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "165/70 R14",
+          "Wheel Type": "Steel Wheels"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Headlamps",
+          "Antenna: Roof Antenna",
+          "Door Handles: Body Coloured Door Handles",
+          "Full Wheel Covers",
+          "Bumper: Body Coloured Bumper"
+        ],
+        "Interior": [
+          "Leather Wrapped Steering Wheel: Steering Wheel Garnish",
+          "Dual Tone Interior",
+          "60:40 Folding Rear Seats",
+          "Driver Side Sunvisor with Ticket Holder",
+          "Passenger Side Sunvisor with Vanity Mirror",
+          "Rear Parcel Tray",
+          "IRVM: Day/Night IRVM",
+          "Tilt steering"
+        ],
+        "Safety & Security": [
+          "6 Airbags",
+          "ABS with EBD",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Side & Curtain Airbags",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "Reverse Parking Sensors",
+          "High-Speed Alert System",
+          "Child-Proof Rear Door Locks",
+          "Speed-Sensitive Auto Door Lock",
+          "Day/Night Adjustable IRVM",
+          "Warning Lamps for Low Fuel & Door Ajar",
+          "Engine Immobilizer"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Electrically-Foldable ORVMs: Electrically-Adjustable",
+          "Steering-Mounted Audio Controls",
+          "Idle Start Stop (ISS)",
+          "Accessory Socket",
+          "USB Ports",
+          "Central Locking",
+          "Heater"
+        ],
+        "Infotainment": [
+          "Gear Shift Indicator",
+          "Steering Mounted Controls: Audio and Bluetooth",
+          "Fuel Consumption (Instantaneous and Average)",
+          "Distance to Empty",
+          "Low Fuel Warning Light",
+          "Headlamp on Warning",
+          "Door Ajar Warning Lamp"
+        ],
+        "Audio & Entertainment": [
+          "Bluetooth",
+          "Number of Speakers: 2.0",
+          "USB Connectivity/AUX",
+          "Steering Mounted Audio & Calling Controls"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/wagonr/images/spinset360/pearl-metallic-gallant-red_v1/2025.04.06_07.58.29_WagonR_360_Red_PathTracer_0054.png"
+    },
+    {
+      "code": "WAA4KV1",
+      "name": "WagonR VXi AGS",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": null,
+      "ex_showroom_surat": {
+        "metallic": 599352,
+        "non_metallic": 599352
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Efficiency (km/l)*": "25.19 (km/l)"
+        },
+        "Dimensions": {
+          "Length (mm)": "3655",
+          "Width (mm)": "1620",
+          "Height (mm)": "1675",
+          "Wheelbase (mm)": "2435",
+          "Turning Radius (m)": "4.7",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "845",
+          "Gross Vehicle Weight (Kg)": "1340",
+          "Fuel Tank Capacity (L)": "32",
+          "Boot Space (L)": "335*"
+        },
+        "Transmission": {
+          "Transmission Type": "AGS"
+        },
+        "Engine": {
+          "Engine Type": "K10C",
+          "Capacity (cc)": "998 cc",
+          "Max Power (1 KW =1.35962 PS)": "50.4 kW (68.5 PS) @ 5600 rpm",
+          "Max Torque (Nm @ rpm)": "91.1 Nm @ 3400 rpm",
+          "No. of Cylinder": 3.0
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut with Coil Spring",
+          "Rear Suspension": "Torsion Beam with Coil Spring"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "165/70 R14",
+          "Wheel Type": "Steel Wheels"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Headlamps",
+          "Antenna: Roof Antenna",
+          "Door Handles: Body Coloured Door Handles",
+          "Full Wheel Covers",
+          "Bumper: Body Coloured Bumper"
+        ],
+        "Interior": [
+          "Leather Wrapped Steering Wheel: Steering Wheel Garnish",
+          "Dual Tone Interior",
+          "60:40 Folding Rear Seats",
+          "Driver Side Sunvisor with Ticket Holder",
+          "Passenger Side Sunvisor with Vanity Mirror",
+          "Rear Parcel Tray",
+          "IRVM: Day/Night IRVM",
+          "Tilt steering"
+        ],
+        "Safety & Security": [
+          "ABS with EBD",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Side & Curtain Airbags",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "Reverse Parking Sensors",
+          "High-Speed Alert System",
+          "Child-Proof Rear Door Locks",
+          "Speed-Sensitive Auto Door Lock",
+          "Day/Night Adjustable IRVM",
+          "Warning Lamps for Low Fuel & Door Ajar",
+          "Hill Hold Assist",
+          "Engine Immobilizer"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Remote Keyless Entry",
+          "Electrically-Foldable ORVMs: Electrically-Adjustable",
+          "Idle Start Stop (ISS)",
+          "Accessory Socket",
+          "Rear AC Vents",
+          "Heater"
+        ],
+        "Infotainment": [
+          "Gear Shift Indicator",
+          "Distance to Empty",
+          "Low Fuel Warning Light",
+          "Headlamp on Warning",
+          "Door Ajar Warning Lamp"
+        ],
+        "Audio & Entertainment": [
+          "Bluetooth",
+          "Number of Speakers: 2.0",
+          "USB Connectivity/AUX"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/wagonr/images/spinset360/pearl-metallic-gallant-red_v1/2025.04.06_07.58.29_WagonR_360_Red_PathTracer_0054.png"
+    },
+    {
+      "code": "WAR4KZ2",
+      "name": "WagonR ZXi+",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": null,
+      "ex_showroom_surat": {
+        "metallic": 641352,
+        "non_metallic": 641352,
+        "dual_tone": 652352
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Efficiency (km/l)*": "23.56 (km/l)"
+        },
+        "Dimensions": {
+          "Length (mm)": "3655",
+          "Width (mm)": "1620",
+          "Height (mm)": "1675",
+          "Wheelbase (mm)": "2435",
+          "Turning Radius (m)": "4.7",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "855",
+          "Gross Vehicle Weight (Kg)": "1340",
+          "Fuel Tank Capacity (L)": "32",
+          "Boot Space (L)": "335*"
+        },
+        "Transmission": {
+          "Transmission Type": "5MT"
+        },
+        "Engine": {
+          "Engine Type": "K12N",
+          "Capacity (cc)": "1197 cc",
+          "Max Power (1 KW =1.35962 PS)": "66.9 kW (90.9 PS) @ 6000 rpm",
+          "Max Torque (Nm @ rpm)": "113.7 Nm @ 4200 rpm",
+          "No. of Cylinder": 4.0
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut with Coil Spring",
+          "Rear Suspension": "Torsion Beam with Coil Spring"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "165/70 R14",
+          "Wheel Type": "Alloy Wheels"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Headlamps",
+          "ORVM with Turn Indicator",
+          "Antenna: Roof Antenna",
+          "Rear Window Wiper & Washer",
+          "Fog Lamps: Front Fog Lamps",
+          "Door Handles: Body Coloured Door Handles",
+          "Bumper: Body Coloured Bumper",
+          "Alloy Wheels"
+        ],
+        "Interior": [
+          "Leather Wrapped Steering Wheel: Steering Wheel Garnish",
+          "Dual Tone Interior",
+          "60:40 Folding Rear Seats",
+          "Driver Side Sunvisor with Ticket Holder",
+          "Passenger Side Sunvisor with Vanity Mirror",
+          "IRVM: Day/Night IRVM",
+          "Tilt steering"
+        ],
+        "Safety & Security": [
+          "ABS with EBD",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Side & Curtain Airbags",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "Reverse Parking Sensors",
+          "High-Speed Alert System",
+          "Child-Proof Rear Door Locks",
+          "Immobilizer (Anti-Theft Security System)",
+          "Speed-Sensitive Auto Door Lock",
+          "Day/Night Adjustable IRVM",
+          "Warning Lamps for Low Fuel & Door Ajar"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Remote Keyless Entry",
+          "Electrically-Foldable ORVMs: Electrically Retractable, with Turn Indicator",
+          "Idle Start Stop (ISS)",
+          "Accessory Socket",
+          "Heater"
+        ],
+        "Infotainment": [
+          "Tachometer",
+          "Gear Shift Indicator",
+          "Steering Mounted Controls: Audio and Bluetooth",
+          "Fuel Consumption (Instantaneous and Average)",
+          "Distance to Empty",
+          "Low Fuel Warning Light",
+          "Headlamp on Warning",
+          "Door Ajar Warning Lamp"
+        ],
+        "Audio & Entertainment": [
+          "SmartPlay Pro: 17.78 cm Smartplay Studio with Smartphone Navigation",
+          "Android Auto and Apple CarPlay",
+          "Bluetooth",
+          "Number of Speakers: 4.0",
+          "USB Connectivity/AUX",
+          "Steering Mounted Audio & Calling Controls"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/wagonr/images/spinset360/pearl-metallic-gallant-red_v1/2025.04.06_07.58.29_WagonR_360_Red_PathTracer_0054.png"
+    },
+    {
+      "code": "WAA4KZ1",
+      "name": "WagonR ZXi AGS",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": null,
+      "ex_showroom_surat": {
+        "metallic": 643352,
+        "non_metallic": 643352
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Efficiency (km/l)*": "24.43 (km/l)"
+        },
+        "Dimensions": {
+          "Length (mm)": "3655",
+          "Width (mm)": "1620",
+          "Height (mm)": "1675",
+          "Wheelbase (mm)": "2435",
+          "Turning Radius (m)": "4.7",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "855",
+          "Gross Vehicle Weight (Kg)": "1340",
+          "Fuel Tank Capacity (L)": "32",
+          "Boot Space (L)": "335*"
+        },
+        "Transmission": {
+          "Transmission Type": "AGS"
+        },
+        "Engine": {
+          "Engine Type": "K12N",
+          "Capacity (cc)": "1197 cc",
+          "Max Power (1 KW =1.35962 PS)": "66.9 kW (90.9 PS) @ 6000 rpm",
+          "Max Torque (Nm @ rpm)": "113.7 Nm @ 4200 rpm",
+          "No. of Cylinder": 4.0
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut with Coil Spring",
+          "Rear Suspension": "Torsion Beam with Coil Spring"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "165/70 R14",
+          "Wheel Type": "Steel Wheels"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Headlamps",
+          "Antenna: Roof Antenna",
+          "Door Handles: Body Coloured Door Handles",
+          "Bumper: Body Coloured Bumper"
+        ],
+        "Interior": [
+          "Leather Wrapped Steering Wheel: Steering Wheel Garnish",
+          "Dual Tone Interior",
+          "60:40 Folding Rear Seats",
+          "Driver Side Sunvisor with Ticket Holder",
+          "Passenger Side Sunvisor with Vanity Mirror",
+          "Rear Parcel Tray",
+          "IRVM: Day/Night IRVM",
+          "Tilt steering"
+        ],
+        "Safety & Security": [
+          "Driver Airbag",
+          "6 Airbags",
+          "ABS with EBD",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Side & Curtain Airbags",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "Reverse Parking Sensors",
+          "High-Speed Alert System",
+          "Child-Proof Rear Door Locks",
+          "Immobilizer (Anti-Theft Security System)",
+          "Speed-Sensitive Auto Door Lock",
+          "Hill Descent Control: AGS",
+          "Front Ventilated Disc Brakes",
+          "Day/Night Adjustable IRVM",
+          "Warning Lamps for Low Fuel & Door Ajar",
+          "Engine Immobilizer"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Remote Keyless Entry",
+          "Electrically-Foldable ORVMs: Electrically-Adjustable",
+          "Idle Start Stop (ISS)",
+          "Accessory Socket",
+          "Heater"
+        ],
+        "Infotainment": [
+          "Gear Shift Indicator",
+          "Distance to Empty",
+          "Low Fuel Warning Light",
+          "Headlamp on Warning",
+          "Door Ajar Warning Lamp"
+        ],
+        "Audio & Entertainment": [
+          "Bluetooth",
+          "Number of Speakers: 2.0",
+          "USB Connectivity/AUX",
+          "Steering Mounted Audio & Calling Controls"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/wagonr/images/spinset360/pearl-metallic-gallant-red_v1/2025.04.06_07.58.29_WagonR_360_Red_PathTracer_0054.png"
+    },
+    {
+      "code": "WARCKV1",
+      "name": "WagonR VXi CNG",
+      "fuel": "CNG",
+      "transmission": "Manual",
+      "technology": [
+        "S-CNG"
+      ],
+      "airbags": null,
+      "ex_showroom_surat": {
+        "metallic": 649352,
+        "non_metallic": 649352
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "CNG",
+          "Fuel Efficiency (km/l)*": "33.47 (km/kg)"
+        },
+        "Dimensions": {
+          "Length (mm)": "3655",
+          "Width (mm)": "1620",
+          "Height (mm)": "1675",
+          "Wheelbase (mm)": "2435",
+          "Turning Radius (m)": "4.7",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "935",
+          "Gross Vehicle Weight (Kg)": "1340",
+          "Fuel Tank Capacity (L)": "32",
+          "Boot Space (L)": "NA"
+        },
+        "Transmission": {
+          "Transmission Type": "5MT"
+        },
+        "Engine": {
+          "Engine Type": "K10C",
+          "Capacity (cc)": "998 cc",
+          "Max Power (1 KW =1.35962 PS)": "41.7 kW (56.6 PS) @ 5300 rpm (CNG Mode) ; 49.8 kW (67.7 PS) @ 5600 rpm (Petrol Mode)",
+          "Max Torque (Nm @ rpm)": "82.1 Nm @ 3400 rpm (CNG Mode); 91.1 Nm @ 3400 rpm (Petrol Mode)",
+          "No. of Cylinder": 3.0
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut with Coil Spring",
+          "Rear Suspension": "Torsion Beam with Coil Spring"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "165/70 R14",
+          "Wheel Type": "Steel Wheels"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Headlamps",
+          "Antenna: Roof Antenna",
+          "Door Handles: Body Coloured Door Handles",
+          "Bumper: Body Coloured Bumper"
+        ],
+        "Interior": [
+          "Leather Wrapped Steering Wheel: Steering Wheel Garnish",
+          "Dual Tone Interior",
+          "60:40 Folding Rear Seats",
+          "Driver Side Sunvisor with Ticket Holder",
+          "Passenger Side Sunvisor with Vanity Mirror",
+          "Rear Parcel Tray",
+          "IRVM: Day/Night IRVM",
+          "Tilt steering"
+        ],
+        "Safety & Security": [
+          "ABS with EBD",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Side & Curtain Airbags",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "Reverse Parking Sensors",
+          "High-Speed Alert System",
+          "Child-Proof Rear Door Locks",
+          "Speed-Sensitive Auto Door Lock",
+          "Day/Night Adjustable IRVM",
+          "Warning Lamps for Low Fuel & Door Ajar",
+          "Engine Immobilizer"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Remote Keyless Entry",
+          "Electrically-Foldable ORVMs: Electrically-Adjustable",
+          "Accessory Socket",
+          "Rear AC Vents",
+          "Heater"
+        ],
+        "Infotainment": [
+          "Gear Shift Indicator",
+          "Distance to Empty",
+          "Low Fuel Warning Light",
+          "Headlamp on Warning",
+          "Door Ajar Warning Lamp"
+        ],
+        "Audio & Entertainment": [
+          "Bluetooth",
+          "Number of Speakers: 2.0",
+          "USB Connectivity/AUX"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/wagonr/images/spinset360/pearl-metallic-gallant-red_v1/2025.04.06_07.58.29_WagonR_360_Red_PathTracer_0054.png"
+    },
+    {
+      "code": "WAA4KZ2",
+      "name": "WagonR ZXi+ AGS",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": null,
+      "ex_showroom_surat": {
+        "metallic": 686353,
+        "non_metallic": 686353,
+        "dual_tone": 697352
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Efficiency (km/l)*": "24.43 (km/l)"
+        },
+        "Dimensions": {
+          "Length (mm)": "3655",
+          "Width (mm)": "1620",
+          "Height (mm)": "1675",
+          "Wheelbase (mm)": "2435",
+          "Turning Radius (m)": "4.7",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "860",
+          "Gross Vehicle Weight (Kg)": "1340",
+          "Fuel Tank Capacity (L)": "32",
+          "Boot Space (L)": "335*"
+        },
+        "Transmission": {
+          "Transmission Type": "AGS"
+        },
+        "Engine": {
+          "Engine Type": "K12N",
+          "Capacity (cc)": "1197 cc",
+          "Max Power (1 KW =1.35962 PS)": "66.9 kW (90.9 PS) @ 6000 rpm",
+          "Max Torque (Nm @ rpm)": "113.7 Nm @ 4200 rpm",
+          "No. of Cylinder": 4.0
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut with Coil Spring",
+          "Rear Suspension": "Torsion Beam with Coil Spring"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "165/70 R14",
+          "Wheel Type": "Alloy Wheels"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Headlamps",
+          "ORVM with Turn Indicator",
+          "Antenna: Roof Antenna",
+          "Rear Window Wiper & Washer",
+          "Fog Lamps: Front Fog Lamps",
+          "Door Handles: Body Coloured Door Handles",
+          "Bumper: Body Coloured Bumper",
+          "Alloy Wheels"
+        ],
+        "Interior": [
+          "Leather Wrapped Steering Wheel: Steering Wheel Garnish",
+          "Dual Tone Interior",
+          "60:40 Folding Rear Seats",
+          "Driver Side Sunvisor with Ticket Holder",
+          "Passenger Side Sunvisor with Vanity Mirror",
+          "Rear Parcel Tray",
+          "IRVM: Day/Night IRVM",
+          "Tilt steering"
+        ],
+        "Safety & Security": [
+          "ABS with EBD",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Side & Curtain Airbags",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "Reverse Parking Sensors",
+          "High-Speed Alert System",
+          "Child-Proof Rear Door Locks",
+          "Speed-Sensitive Auto Door Lock",
+          "Day/Night Adjustable IRVM",
+          "Warning Lamps for Low Fuel & Door Ajar",
+          "Hill Hold Assist",
+          "Engine Immobilizer"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Remote Keyless Entry",
+          "Electrically-Foldable ORVMs: Electrically Retractable, with Turn Indicator",
+          "Idle Start Stop (ISS)",
+          "Accessory Socket",
+          "Heater"
+        ],
+        "Infotainment": [
+          "Tachometer",
+          "Steering Mounted Controls: Audio and Bluetooth",
+          "Fuel Consumption (Instantaneous and Average)",
+          "Distance to Empty",
+          "Low Fuel Warning Light",
+          "Headlamp on Warning",
+          "Door Ajar Warning Lamp"
+        ],
+        "Audio & Entertainment": [
+          "SmartPlay Pro: 17.78 cm Smartplay Studio with Smartphone Navigation",
+          "Android Auto and Apple CarPlay",
+          "Bluetooth",
+          "Number of Speakers: 4.0",
+          "USB Connectivity/AUX",
+          "Steering Mounted Audio & Calling Controls"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/wagonr/images/spinset360/pearl-metallic-gallant-red_v1/2025.04.06_07.58.29_WagonR_360_Red_PathTracer_0054.png"
+    },
+    {
+      "code": "WAR4YZ2",
+      "name": "WagonR ZXi+ MT FFV",
+      "fuel": "Flex fuel",
+      "transmission": "Manual",
+      "technology": [
+        "Flex Fuel"
+      ],
+      "airbags": null,
+      "ex_showroom_surat": {
+        "metallic": 723853,
+        "non_metallic": 723853
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Efficiency (km/l)*": "23.56"
+        },
+        "Dimensions": {
+          "Length (mm)": "3655",
+          "Width (mm)": "1620",
+          "Height (mm)": "1675",
+          "Wheelbase (mm)": "2435",
+          "Turning Radius (m)": "4.7",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "850",
+          "Gross Vehicle Weight (Kg)": "1340",
+          "Fuel Tank Capacity (L)": "32",
+          "Boot Space (L)": "335*"
+        },
+        "Transmission": {
+          "Transmission Type": "5MT"
+        },
+        "Engine": {
+          "Engine Type": "K12N",
+          "Capacity (cc)": "1197 cc",
+          "Max Power (1 KW =1.35962 PS)": "66.9 kW (90.9 PS) @ 6000 rpm",
+          "Max Torque (Nm @ rpm)": "113.7 Nm @ 4200 rpm",
+          "No. of Cylinder": 4.0
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut with Coil Spring",
+          "Rear Suspension": "Torsion Beam with Coil Spring"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "165/70 R14",
+          "Wheel Type": "Steel Wheels"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Headlamps",
+          "Antenna: Roof Antenna",
+          "Door Handles: Body Coloured Door Handles",
+          "Full Wheel Covers",
+          "Bumper: Body Coloured Bumper"
+        ],
+        "Interior": [
+          "Leather Wrapped Steering Wheel: Steering Wheel Garnish",
+          "Dual Tone Interior",
+          "60:40 Folding Rear Seats",
+          "Driver Side Sunvisor with Ticket Holder",
+          "Passenger Side Sunvisor with Vanity Mirror",
+          "Rear Parcel Tray",
+          "IRVM: Day/Night IRVM",
+          "Tilt steering"
+        ],
+        "Safety & Security": [
+          "6 Airbags",
+          "ABS with EBD",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Side & Curtain Airbags",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "Reverse Parking Sensors",
+          "High-Speed Alert System",
+          "Child-Proof Rear Door Locks",
+          "Speed-Sensitive Auto Door Lock",
+          "Day/Night Adjustable IRVM",
+          "Warning Lamps for Low Fuel & Door Ajar",
+          "Engine Immobilizer"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Electrically-Foldable ORVMs: Electrically-Adjustable",
+          "Steering-Mounted Audio Controls",
+          "Idle Start Stop (ISS)",
+          "Accessory Socket",
+          "USB Ports",
+          "Central Locking",
+          "Heater"
+        ],
+        "Infotainment": [
+          "Gear Shift Indicator",
+          "Steering Mounted Controls: Audio and Bluetooth",
+          "Fuel Consumption (Instantaneous and Average)",
+          "Distance to Empty",
+          "Low Fuel Warning Light",
+          "Headlamp on Warning",
+          "Door Ajar Warning Lamp"
+        ],
+        "Audio & Entertainment": [
+          "Bluetooth",
+          "Number of Speakers: 2.0",
+          "USB Connectivity/AUX",
+          "Steering Mounted Audio & Calling Controls"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/wagonr/images/spinset360/pearl-metallic-gallant-red_v1/2025.04.06_07.58.29_WagonR_360_Red_PathTracer_0054.png"
+    }
+  ],
+  "fetched_on": "2026-10-30"
+}

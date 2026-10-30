@@ -1,0 +1,923 @@
+{
+  "brand": "Maruti Suzuki",
+  "model": "S-Presso",
+  "slug": "s-presso",
+  "model_code": "SP",
+  "channel": "Arena",
+  "official_page": "https://www.marutisuzuki.com/arena/s-presso",
+  "brochure_pdf": "https://www.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/s-presso/documents/S-presso-Brochure.pdf",
+  "price_city": "Surat, Gujarat",
+  "ex_showroom_min": 349853,
+  "ex_showroom_max": 527352,
+  "fuel_types": [
+    "CNG",
+    "Petrol"
+  ],
+  "transmissions": [
+    "Automatic",
+    "Manual"
+  ],
+  "colours": [
+    {
+      "name": "Metallic Granite Grey",
+      "hex": [
+        "#222526"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "S-Presso LXi (O) MT",
+        "S-Presso LXi (O) CNG",
+        "S-Presso Std (O) MT",
+        "S-Presso VXi (O) MT",
+        "S-Presso VXi (O) AGS",
+        "S-Presso VXi (O) CNG",
+        "S-Presso VXi+ (O) MT",
+        "S-Presso VXi+ (O) AGS"
+      ]
+    },
+    {
+      "name": "Metallic Silky Silver",
+      "hex": [
+        "#737373"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "S-Presso LXi (O) MT",
+        "S-Presso LXi (O) CNG",
+        "S-Presso Std (O) MT",
+        "S-Presso VXi (O) MT",
+        "S-Presso VXi (O) AGS",
+        "S-Presso VXi (O) CNG",
+        "S-Presso VXi+ (O) MT",
+        "S-Presso VXi+ (O) AGS"
+      ]
+    },
+    {
+      "name": "Pearl Starry Blue",
+      "hex": [
+        "#114887"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "S-Presso LXi (O) MT",
+        "S-Presso LXi (O) CNG",
+        "S-Presso Std (O) MT",
+        "S-Presso VXi (O) MT",
+        "S-Presso VXi (O) AGS",
+        "S-Presso VXi (O) CNG",
+        "S-Presso VXi+ (O) MT",
+        "S-Presso VXi+ (O) AGS"
+      ]
+    },
+    {
+      "name": "Solid Fire Red",
+      "hex": [
+        "#8E0D0F"
+      ],
+      "paint": "non_metallic",
+      "variants": [
+        "S-Presso LXi (O) MT",
+        "S-Presso LXi (O) CNG",
+        "S-Presso Std (O) MT",
+        "S-Presso VXi (O) MT",
+        "S-Presso VXi (O) AGS",
+        "S-Presso VXi (O) CNG",
+        "S-Presso VXi+ (O) MT",
+        "S-Presso VXi+ (O) AGS"
+      ]
+    },
+    {
+      "name": "Solid Sizzle Orange",
+      "hex": [
+        "#a83c0f"
+      ],
+      "paint": "non_metallic",
+      "variants": [
+        "S-Presso LXi (O) MT",
+        "S-Presso LXi (O) CNG",
+        "S-Presso Std (O) MT",
+        "S-Presso VXi (O) MT",
+        "S-Presso VXi (O) AGS",
+        "S-Presso VXi (O) CNG",
+        "S-Presso VXi+ (O) MT",
+        "S-Presso VXi+ (O) AGS"
+      ]
+    },
+    {
+      "name": "Solid White",
+      "hex": [
+        "#B7B7B7"
+      ],
+      "paint": "non_metallic",
+      "variants": [
+        "S-Presso LXi (O) MT",
+        "S-Presso LXi (O) CNG",
+        "S-Presso Std (O) MT",
+        "S-Presso VXi (O) MT",
+        "S-Presso VXi (O) AGS",
+        "S-Presso VXi (O) CNG",
+        "S-Presso VXi+ (O) MT",
+        "S-Presso VXi+ (O) AGS"
+      ]
+    },
+    {
+      "name": "Bluish Black",
+      "hex": [
+        "#141414"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "S-Presso VXi (O) MT",
+        "S-Presso VXi (O) AGS",
+        "S-Presso VXi (O) CNG",
+        "S-Presso VXi+ (O) MT",
+        "S-Presso VXi+ (O) AGS"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "code": "SPR4HS1",
+      "name": "S-Presso Std (O) MT",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": 2,
+      "ex_showroom_surat": {
+        "metallic": 349853,
+        "non_metallic": 349853
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Efficiency (km/l)*": "24.12 (km/l)*"
+        },
+        "Dimensions": {
+          "Length (mm)": "3565",
+          "Width (mm)": "1520",
+          "Height (mm)": "1553",
+          "Wheelbase (mm)": "2380",
+          "Turning Radius (m)": "4.5",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "736-775",
+          "Gross Vehicle Weight (Kg)": "1170",
+          "Fuel Tank Capacity (L)": "27"
+        },
+        "Transmission": {
+          "Transmission Type": "5MT",
+          "Drive Type": "2WD, FF"
+        },
+        "Engine": {
+          "Engine Type": "K10C",
+          "Capacity (cc)": "998 cc",
+          "Max Power (1 KW =1.35962 PS)": "49 kW (66.621 PS) @ 5500 rpm",
+          "Max Torque (Nm @ rpm)": "89 Nm @ 3500 rpm"
+        },
+        "Brakes": {
+          "Front": "Ventilated Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut with Coil Spring",
+          "Rear Suspension": "Torsion Beam with Coil Spring"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "145/80 R13"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Headlamps: Twin Chamber Headlamps",
+          "LED Tail Stop Lamp: Signature C shaped Tail Lamps"
+        ],
+        "Interior": [
+          "Driver Side Sunvisor with Ticket Holder",
+          "Passenger Side Sunvisor with Vanity Mirror"
+        ],
+        "Safety & Security": [
+          "Driver Airbag",
+          "ABS with EBD",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "Reverse Parking Sensors",
+          "High-Speed Alert System",
+          "Child-Proof Rear Door Locks",
+          "Front Ventilated Disc Brakes",
+          "Engine Immobilizer"
+        ],
+        "Comfort & Convenience": [
+          "Idle Start Stop (ISS)",
+          "Power Steering"
+        ],
+        "Infotainment": [
+          "Digital Speedometer",
+          "Rear Seatbelt Reminder Warning Indicator"
+        ],
+        "Audio & Entertainment": [
+          "Number of Speakers: 0.0"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/s-presso/images/spinset360/solid-fire-red-v2/2025.05.12_14.37.35_Spresso_360_Red_PathTracer_00054.png"
+    },
+    {
+      "code": "SPR4HL1",
+      "name": "S-Presso LXi (O) MT",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": 2,
+      "ex_showroom_surat": {
+        "metallic": 382353,
+        "non_metallic": 382353
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Efficiency (km/l)*": "24.12 (km/l)*"
+        },
+        "Dimensions": {
+          "Length (mm)": "3565",
+          "Width (mm)": "1520",
+          "Height (mm)": "1553",
+          "Wheelbase (mm)": "2380",
+          "Turning Radius (m)": "4.5",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "736-775",
+          "Gross Vehicle Weight (Kg)": "1170",
+          "Fuel Tank Capacity (L)": "27"
+        },
+        "Transmission": {
+          "Transmission Type": "5MT",
+          "Drive Type": "2WD, FF"
+        },
+        "Engine": {
+          "Engine Type": "K10C",
+          "Capacity (cc)": "998 cc",
+          "Max Power (1 KW =1.35962 PS)": "49 kW (66.621 PS) @ 5500 rpm",
+          "Max Torque (Nm @ rpm)": "89 Nm @ 3500 rpm"
+        },
+        "Brakes": {
+          "Front": "Ventilated Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut with Coil Spring",
+          "Rear Suspension": "Torsion Beam with Coil Spring"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "145/80 R13"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Headlamps: Twin Chamber Headlamps",
+          "LED Tail Stop Lamp: Signature C shaped Tail Lamps"
+        ],
+        "Interior": [
+          "Driver Side Sunvisor with Ticket Holder",
+          "Passenger Side Sunvisor with Vanity Mirror"
+        ],
+        "Safety & Security": [
+          "Driver Airbag",
+          "ABS with EBD",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "Reverse Parking Sensors",
+          "High-Speed Alert System",
+          "Child-Proof Rear Door Locks",
+          "Front Ventilated Disc Brakes",
+          "Engine Immobilizer"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Idle Start Stop (ISS)",
+          "Power Steering"
+        ],
+        "Infotainment": [
+          "Digital Speedometer",
+          "Rear Seatbelt Reminder Warning Indicator"
+        ],
+        "Audio & Entertainment": [
+          "Number of Speakers: 0.0"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/s-presso/images/spinset360/solid-fire-red-v2/2025.05.12_14.37.35_Spresso_360_Red_PathTracer_00054.png"
+    },
+    {
+      "code": "SPR4HV1",
+      "name": "S-Presso VXi (O) MT",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": 2,
+      "ex_showroom_surat": {
+        "metallic": 432353,
+        "non_metallic": 432353
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Efficiency (km/l)*": "24.76 (km/l)*"
+        },
+        "Dimensions": {
+          "Length (mm)": "3565",
+          "Width (mm)": "1520",
+          "Height (mm)": "1567",
+          "Wheelbase (mm)": "2380",
+          "Turning Radius (m)": "4.5",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "736-775",
+          "Gross Vehicle Weight (Kg)": "1170",
+          "Fuel Tank Capacity (L)": "27"
+        },
+        "Transmission": {
+          "Transmission Type": "5MT",
+          "Drive Type": "2WD, FF"
+        },
+        "Engine": {
+          "Engine Type": "K10C",
+          "Capacity (cc)": "998 cc",
+          "Max Power (1 KW =1.35962 PS)": "49 kW (66.621 PS) @ 5500 rpm",
+          "Max Torque (Nm @ rpm)": "89 Nm @ 3500 rpm"
+        },
+        "Brakes": {
+          "Front": "Ventilated Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut with Coil Spring",
+          "Rear Suspension": "Torsion Beam with Coil Spring"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "165/70 R14"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Headlamps: Twin Chamber Headlamps",
+          "LED Tail Stop Lamp: Signature C shaped Tail Lamps",
+          "Antenna",
+          "Full Wheel Covers",
+          "Bumper: Body Coloured Bumper"
+        ],
+        "Interior": [
+          "Driver Side Sunvisor with Ticket Holder",
+          "Passenger Side Sunvisor with Vanity Mirror"
+        ],
+        "Safety & Security": [
+          "Driver Airbag",
+          "ABS with EBD",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "Reverse Parking Sensors",
+          "High-Speed Alert System",
+          "Child-Proof Rear Door Locks",
+          "Speed-Sensitive Auto Door Lock",
+          "Front Ventilated Disc Brakes",
+          "Warning Lamps for Low Fuel & Door Ajar",
+          "Engine Immobilizer"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Electrically-Foldable ORVMs: Internally Adjustable",
+          "Idle Start Stop (ISS)",
+          "Accessory Socket",
+          "Gear Shift Indicator",
+          "Central Locking",
+          "Power Steering"
+        ],
+        "Infotainment": [
+          "Gear Shift Indicator",
+          "Fuel Consumption (Instantaneous and Average)",
+          "Distance to Empty",
+          "Low Fuel Warning Light",
+          "Headlamp on Warning",
+          "Door Ajar Warning Lamp: SmartPlay Studio",
+          "Digital Speedometer",
+          "Rear Seatbelt Reminder Warning Indicator"
+        ],
+        "Audio & Entertainment": [
+          "Bluetooth",
+          "Number of Speakers: 2.0",
+          "USB Connectivity/AUX"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/s-presso/images/spinset360/solid-fire-red-v2/2025.05.12_14.37.35_Spresso_360_Red_PathTracer_00054.png"
+    },
+    {
+      "code": "SPRCHL1",
+      "name": "S-Presso LXi (O) CNG",
+      "fuel": "CNG",
+      "transmission": "Manual",
+      "technology": [
+        "S-CNG"
+      ],
+      "airbags": 2,
+      "ex_showroom_surat": {
+        "metallic": 464352,
+        "non_metallic": 464352
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol-CNG",
+          "Fuel Efficiency (km/l)*": "32.73 (km/kg)*"
+        },
+        "Dimensions": {
+          "Length (mm)": "3565",
+          "Width (mm)": "1520",
+          "Height (mm)": "1553",
+          "Wheelbase (mm)": "2380",
+          "Turning Radius (m)": "4.5",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "834-854",
+          "Gross Vehicle Weight (Kg)": "1170",
+          "Fuel Tank Capacity (L)": "Petrol: 27; CNG: 55"
+        },
+        "Transmission": {
+          "Transmission Type": "5MT",
+          "Drive Type": "2WD, FF"
+        },
+        "Engine": {
+          "Engine Type": "K10C CNG",
+          "Capacity (cc)": "998 cc",
+          "Max Power (1 KW =1.35962 PS)": "CNG Mode: 41.7 kW (56.696 PS) @ 5300 rpm; Petrol Mode: 48 kW (65.261 PS) @ 5500 rpm",
+          "Max Torque (Nm @ rpm)": "CNG Mode: 82.1 Nm @ 3400 rpm; Petrol Mode: 89 Nm @ 3500 rpm"
+        },
+        "Brakes": {
+          "Front": "Ventilated Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut with Coil Spring and Stabilizer Bar",
+          "Rear Suspension": "Torsion Beam with Coil Spring"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "145/80 R13"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Headlamps: Twin Chamber Headlamps",
+          "LED Tail Stop Lamp: Signature C shaped Tail Lamps"
+        ],
+        "Interior": [
+          "Driver Side Sunvisor with Ticket Holder",
+          "Passenger Side Sunvisor with Vanity Mirror"
+        ],
+        "Safety & Security": [
+          "Driver Airbag",
+          "ABS with EBD",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "Reverse Parking Sensors",
+          "High-Speed Alert System",
+          "Child-Proof Rear Door Locks",
+          "Front Ventilated Disc Brakes",
+          "Engine Immobilizer"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Power Steering"
+        ],
+        "Infotainment": [
+          "Digital Speedometer",
+          "Rear Seatbelt Reminder Warning Indicator"
+        ],
+        "Audio & Entertainment": [
+          "Number of Speakers: 0.0"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/s-presso/images/spinset360/solid-fire-red-v2/2025.05.12_14.37.35_Spresso_360_Red_PathTracer_00054.png"
+    },
+    {
+      "code": "SPA4HV1",
+      "name": "S-Presso VXi (O) AGS",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": 2,
+      "ex_showroom_surat": {
+        "metallic": 477352,
+        "non_metallic": 477352
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Efficiency (km/l)*": "25.30 (km/l)*"
+        },
+        "Dimensions": {
+          "Length (mm)": "3565",
+          "Width (mm)": "1520",
+          "Height (mm)": "1567",
+          "Wheelbase (mm)": "2380",
+          "Turning Radius (m)": "4.5",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "736-775",
+          "Gross Vehicle Weight (Kg)": "1170",
+          "Fuel Tank Capacity (L)": "27"
+        },
+        "Transmission": {
+          "Transmission Type": "AGS",
+          "Drive Type": "2WD, FF"
+        },
+        "Engine": {
+          "Engine Type": "K10C",
+          "Capacity (cc)": "998 cc",
+          "Max Power (1 KW =1.35962 PS)": "49 kW (66.621 PS) @ 5500 rpm",
+          "Max Torque (Nm @ rpm)": "89 Nm @ 3500 rpm"
+        },
+        "Brakes": {
+          "Front": "Ventilated Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut with Coil Spring",
+          "Rear Suspension": "Torsion Beam with Coil Spring"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "165/70 R14"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Headlamps: Twin Chamber Headlamps",
+          "LED Tail Stop Lamp: Signature C shaped Tail Lamps",
+          "Antenna",
+          "Full Wheel Covers",
+          "Bumper: Body Coloured Bumper"
+        ],
+        "Interior": [
+          "Driver Side Sunvisor with Ticket Holder",
+          "Passenger Side Sunvisor with Vanity Mirror"
+        ],
+        "Safety & Security": [
+          "Driver Airbag",
+          "ABS with EBD",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "Reverse Parking Sensors",
+          "High-Speed Alert System",
+          "Child-Proof Rear Door Locks",
+          "Speed-Sensitive Auto Door Lock",
+          "Front Ventilated Disc Brakes",
+          "Warning Lamps for Low Fuel & Door Ajar",
+          "Engine Immobilizer"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Electrically-Foldable ORVMs: Internally Adjustable",
+          "Idle Start Stop (ISS)",
+          "Accessory Socket",
+          "Gear Shift Indicator",
+          "Central Locking",
+          "Power Steering"
+        ],
+        "Infotainment": [
+          "Gear Shift Indicator",
+          "Fuel Consumption (Instantaneous and Average)",
+          "Distance to Empty",
+          "Low Fuel Warning Light",
+          "Headlamp on Warning",
+          "Door Ajar Warning Lamp: SmartPlay Studio",
+          "Digital Speedometer",
+          "Rear Seatbelt Reminder Warning Indicator"
+        ],
+        "Audio & Entertainment": [
+          "Bluetooth",
+          "Number of Speakers: 2.0",
+          "USB Connectivity/AUX"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/s-presso/images/spinset360/solid-fire-red-v2/2025.05.12_14.37.35_Spresso_360_Red_PathTracer_00054.png"
+    },
+    {
+      "code": "SPR4HV2",
+      "name": "S-Presso VXi+ (O) MT",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": 2,
+      "ex_showroom_surat": {
+        "metallic": 482353,
+        "non_metallic": 482353
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Efficiency (km/l)*": "24.76 (km/l)*"
+        },
+        "Dimensions": {
+          "Length (mm)": "3565",
+          "Width (mm)": "1520",
+          "Height (mm)": "1567",
+          "Wheelbase (mm)": "2380",
+          "Turning Radius (m)": "4.5",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "736-775",
+          "Gross Vehicle Weight (Kg)": "1170",
+          "Fuel Tank Capacity (L)": "27"
+        },
+        "Transmission": {
+          "Transmission Type": "5MT",
+          "Drive Type": "2WD, FF"
+        },
+        "Engine": {
+          "Engine Type": "K10C",
+          "Capacity (cc)": "998 cc",
+          "Max Power (1 KW =1.35962 PS)": "49 kW (66.621 PS) @ 5500 rpm",
+          "Max Torque (Nm @ rpm)": "89 Nm @ 3500 rpm"
+        },
+        "Brakes": {
+          "Front": "Ventilated Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut with Coil Spring",
+          "Rear Suspension": "Torsion Beam with Coil Spring"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "165/70 R14"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Headlamps: Twin Chamber Headlamps",
+          "LED Tail Stop Lamp: Signature C shaped Tail Lamps",
+          "Antenna",
+          "Door Handles: Body Coloured Door Handles",
+          "Full Wheel Covers",
+          "Bumper: Body Coloured Bumper"
+        ],
+        "Interior": [
+          "Driver Side Sunvisor with Ticket Holder",
+          "Passenger Side Sunvisor with Vanity Mirror"
+        ],
+        "Safety & Security": [
+          "Driver Airbag",
+          "ABS with EBD",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "Reverse Parking Sensors",
+          "High-Speed Alert System",
+          "Child-Proof Rear Door Locks",
+          "Speed-Sensitive Auto Door Lock",
+          "Front Ventilated Disc Brakes",
+          "Warning Lamps for Low Fuel & Door Ajar",
+          "Engine Immobilizer"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Electrically-Foldable ORVMs: Electrically-Adjustable",
+          "Steering-Mounted Audio Controls",
+          "Idle Start Stop (ISS)",
+          "Accessory Socket",
+          "Gear Shift Indicator",
+          "Central Locking",
+          "Power Steering"
+        ],
+        "Infotainment": [
+          "Gear Shift Indicator",
+          "Steering Mounted Controls: Audio and Bluetooth",
+          "Fuel Consumption (Instantaneous and Average)",
+          "Distance to Empty",
+          "Low Fuel Warning Light",
+          "Headlamp on Warning",
+          "Door Ajar Warning Lamp: SmartPlay Studio",
+          "Digital Speedometer",
+          "Rear Seatbelt Reminder Warning Indicator"
+        ],
+        "Audio & Entertainment": [
+          "SmartPlay Pro: 17.78 cm Touch Screen ",
+          "Android Auto and Apple CarPlay",
+          "Bluetooth",
+          "Number of Speakers: 2.0",
+          "USB Connectivity/AUX"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/s-presso/images/spinset360/solid-fire-red-v2/2025.05.12_14.37.35_Spresso_360_Red_PathTracer_00054.png"
+    },
+    {
+      "code": "SPRCHV1",
+      "name": "S-Presso VXi (O) CNG",
+      "fuel": "CNG",
+      "transmission": "Manual",
+      "technology": [
+        "S-CNG"
+      ],
+      "airbags": 2,
+      "ex_showroom_surat": {
+        "metallic": 514352,
+        "non_metallic": 514352
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol-CNG",
+          "Fuel Efficiency (km/l)*": "32.73 (km/kg)*"
+        },
+        "Dimensions": {
+          "Length (mm)": "3565",
+          "Width (mm)": "1520",
+          "Height (mm)": "1567",
+          "Wheelbase (mm)": "2380",
+          "Turning Radius (m)": "4.5",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "834-854",
+          "Gross Vehicle Weight (Kg)": "1170",
+          "Fuel Tank Capacity (L)": "Petrol: 27; CNG: 55"
+        },
+        "Transmission": {
+          "Transmission Type": "5MT",
+          "Drive Type": "2WD, FF"
+        },
+        "Engine": {
+          "Engine Type": "K10C CNG",
+          "Capacity (cc)": "998 cc",
+          "Max Power (1 KW =1.35962 PS)": "CNG Mode: 41.7 kW (56.696 PS) @ 5300 rpm; Petrol Mode: 48 kW (65.261 PS) @ 5500 rpm",
+          "Max Torque (Nm @ rpm)": "CNG Mode: 82.1 Nm @ 3400 rpm; Petrol Mode: 89 Nm @ 3500 rpm"
+        },
+        "Brakes": {
+          "Front": "Ventilated Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut with Coil Spring and Stabilizer Bar",
+          "Rear Suspension": "Torsion Beam with Coil Spring"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "165/70 R14"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Headlamps: Twin Chamber Headlamps",
+          "LED Tail Stop Lamp: Signature C shaped Tail Lamps",
+          "Antenna",
+          "Full Wheel Covers",
+          "Bumper: Body Coloured Bumper"
+        ],
+        "Interior": [
+          "Driver Side Sunvisor with Ticket Holder",
+          "Passenger Side Sunvisor with Vanity Mirror"
+        ],
+        "Safety & Security": [
+          "Driver Airbag",
+          "ABS with EBD",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "Reverse Parking Sensors",
+          "High-Speed Alert System",
+          "Child-Proof Rear Door Locks",
+          "Speed-Sensitive Auto Door Lock",
+          "Front Ventilated Disc Brakes",
+          "Warning Lamps for Low Fuel & Door Ajar",
+          "Engine Immobilizer"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Electrically-Foldable ORVMs: Internally Adjustable",
+          "Accessory Socket",
+          "Central Locking",
+          "Power Steering"
+        ],
+        "Infotainment": [
+          "Fuel Consumption (Instantaneous and Average)",
+          "Distance to Empty",
+          "Low Fuel Warning Light",
+          "Headlamp on Warning",
+          "Door Ajar Warning Lamp: SmartPlay Studio",
+          "Digital Speedometer",
+          "Rear Seatbelt Reminder Warning Indicator"
+        ],
+        "Audio & Entertainment": [
+          "Bluetooth",
+          "Number of Speakers: 2.0",
+          "USB Connectivity/AUX"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/s-presso/images/spinset360/solid-fire-red-v2/2025.05.12_14.37.35_Spresso_360_Red_PathTracer_00054.png"
+    },
+    {
+      "code": "SPA4HV2",
+      "name": "S-Presso VXi+ (O) AGS",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": 2,
+      "ex_showroom_surat": {
+        "metallic": 527352,
+        "non_metallic": 527352
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Efficiency (km/l)*": "25.30 (km/l)*"
+        },
+        "Dimensions": {
+          "Length (mm)": "3565",
+          "Width (mm)": "1520",
+          "Height (mm)": "1567",
+          "Wheelbase (mm)": "2380",
+          "Turning Radius (m)": "4.5",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "736-775",
+          "Gross Vehicle Weight (Kg)": "1170",
+          "Fuel Tank Capacity (L)": "27"
+        },
+        "Transmission": {
+          "Transmission Type": "AGS",
+          "Drive Type": "2WD, FF"
+        },
+        "Engine": {
+          "Engine Type": "K10C",
+          "Capacity (cc)": "998 cc",
+          "Max Power (1 KW =1.35962 PS)": "49 kW (66.621 PS) @ 5500 rpm",
+          "Max Torque (Nm @ rpm)": "89 Nm @ 3500 rpm"
+        },
+        "Brakes": {
+          "Front": "Ventilated Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut with Coil Spring",
+          "Rear Suspension": "Torsion Beam with Coil Spring"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "165/70 R14"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Headlamps: Twin Chamber Headlamps",
+          "LED Tail Stop Lamp: Signature C shaped Tail Lamps",
+          "Antenna",
+          "Door Handles: Body Coloured Door Handles",
+          "Full Wheel Covers",
+          "Bumper: Body Coloured Bumper"
+        ],
+        "Interior": [
+          "Driver Side Sunvisor with Ticket Holder",
+          "Passenger Side Sunvisor with Vanity Mirror"
+        ],
+        "Safety & Security": [
+          "Driver Airbag",
+          "ABS with EBD",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "Reverse Parking Sensors",
+          "High-Speed Alert System",
+          "Child-Proof Rear Door Locks",
+          "Speed-Sensitive Auto Door Lock",
+          "Front Ventilated Disc Brakes",
+          "Warning Lamps for Low Fuel & Door Ajar",
+          "Engine Immobilizer"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Electrically-Foldable ORVMs: Electrically-Adjustable",
+          "Steering-Mounted Audio Controls",
+          "Idle Start Stop (ISS)",
+          "Accessory Socket",
+          "Gear Shift Indicator",
+          "Central Locking",
+          "Power Steering"
+        ],
+        "Infotainment": [
+          "Gear Shift Indicator",
+          "Steering Mounted Controls: Audio and Bluetooth",
+          "Fuel Consumption (Instantaneous and Average)",
+          "Distance to Empty",
+          "Low Fuel Warning Light",
+          "Headlamp on Warning",
+          "Door Ajar Warning Lamp: SmartPlay Studio",
+          "Digital Speedometer",
+          "Rear Seatbelt Reminder Warning Indicator"
+        ],
+        "Audio & Entertainment": [
+          "SmartPlay Pro: 17.78 cm Touch Screen ",
+          "Android Auto and Apple CarPlay",
+          "Bluetooth",
+          "Number of Speakers: 2.0",
+          "USB Connectivity/AUX"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/s-presso/images/spinset360/solid-fire-red-v2/2025.05.12_14.37.35_Spresso_360_Red_PathTracer_00054.png"
+    }
+  ],
+  "fetched_on": "2026-10-30"
+}

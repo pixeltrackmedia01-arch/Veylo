@@ -1,0 +1,1228 @@
+{
+  "brand": "Maruti Suzuki",
+  "model": "XL6",
+  "slug": "xl6",
+  "model_code": "XL",
+  "channel": "Nexa",
+  "official_page": "https://www.nexaexperience.com/xl6",
+  "brochure_pdf": "https://www.nexaexperience.com/content/dam/msil/nexa/in/en/assets/cars/xl6/Documents/NEXA-Xl6-Brochure.pdf",
+  "price_city": "Surat, Gujarat",
+  "ex_showroom_min": 1162244,
+  "ex_showroom_max": 1467444,
+  "fuel_types": [
+    "CNG",
+    "Petrol"
+  ],
+  "transmissions": [
+    "Automatic",
+    "Manual"
+  ],
+  "colours": [
+    {
+      "name": "Splendid Silver",
+      "hex": [
+        "#B6BABD"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Zeta MT",
+        "Zeta CNG",
+        "Zeta AT",
+        "Alpha MT",
+        "Alpha AT",
+        "Alpha Plus MT",
+        "Alpha Plus AT"
+      ]
+    },
+    {
+      "name": "NEXA Blue (Celestial)",
+      "hex": [
+        "#163472"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Zeta MT",
+        "Zeta CNG",
+        "Zeta AT",
+        "Alpha MT",
+        "Alpha AT",
+        "Alpha Plus MT",
+        "Alpha Plus AT"
+      ]
+    },
+    {
+      "name": "Grandeur Grey",
+      "hex": [
+        "#464848"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Zeta MT",
+        "Zeta CNG",
+        "Zeta AT",
+        "Alpha MT",
+        "Alpha AT",
+        "Alpha Plus MT",
+        "Alpha Plus AT"
+      ]
+    },
+    {
+      "name": "Opulent Red",
+      "hex": [
+        "#AC0F0F"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Zeta MT",
+        "Zeta CNG",
+        "Zeta AT",
+        "Alpha MT",
+        "Alpha AT",
+        "Alpha Plus AT"
+      ]
+    },
+    {
+      "name": "Arctic White",
+      "hex": [
+        "#f9f9f9"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Zeta MT",
+        "Zeta CNG",
+        "Zeta AT",
+        "Alpha MT",
+        "Alpha AT",
+        "Alpha Plus MT",
+        "Alpha Plus AT"
+      ]
+    },
+    {
+      "name": "Brave Khaki",
+      "hex": [
+        "#57490A"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Zeta MT",
+        "Zeta CNG",
+        "Zeta AT",
+        "Alpha MT",
+        "Alpha AT",
+        "Alpha Plus AT"
+      ]
+    },
+    {
+      "name": "Splendid Silver With Midnight Black Roof",
+      "hex": [
+        "#B6BABD",
+        "#171717"
+      ],
+      "paint": "dual_tone",
+      "variants": [
+        "Alpha Plus MT",
+        "Alpha Plus AT"
+      ]
+    },
+    {
+      "name": "Brave Khaki With Midnight Black Roof",
+      "hex": [
+        "#57490A",
+        "#171717"
+      ],
+      "paint": "dual_tone",
+      "variants": [
+        "Alpha Plus MT",
+        "Alpha Plus AT"
+      ]
+    },
+    {
+      "name": "Opulent Red With Midnight Black Roof",
+      "hex": [
+        "#AC0F0F",
+        "#171717"
+      ],
+      "paint": "dual_tone",
+      "variants": [
+        "Alpha Plus MT",
+        "Alpha Plus AT"
+      ]
+    },
+    {
+      "name": "Bluish Black",
+      "hex": [
+        "#040720 "
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Alpha Plus AT"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "code": "XLR4GZ1",
+      "name": "Zeta MT",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "technology": [
+        "Smart Hybrid"
+      ],
+      "airbags": 6,
+      "ex_showroom_surat": {
+        "metallic": 1162244,
+        "non_metallic": 1162244
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel-Efficiency (km/l)*": "20.97 Km/l*",
+          "Fuel Tank Capacity (L)": "45"
+        },
+        "Dimensions": {
+          "Length (mm)": "4485",
+          "Width (mm)": "1775",
+          "Height (mm)": "1745",
+          "Wheelbase (mm)": "2740",
+          "Turning Radius (m)": "5.2",
+          "Seating Capacity (nos.)": "6",
+          "Kerb Weight (Kg)": "1200 (MT)",
+          "Gross Vehicle Weight (Kg)": "1740 (MT)"
+        },
+        "Engine": {
+          "Engine Type": "K15C Smart Hybrid",
+          "Displacement (cc)": "1462 cc",
+          "Max Power (1 KW =1.35962 PS)": "75.8 @ 6000",
+          "Max Torque (Nm @ rpm)": "139 @ 4300"
+        },
+        "Transmission": {
+          "Transmission Type": "5 MT",
+          "Drive Type": "2WD, FF"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut & Coil Spring",
+          "Rear Suspension": "Torsion Beam & Coil Spring"
+        },
+        "Tyre": {
+          "Tyre": "195/60 R16",
+          "Wheel Type": "Dual-Tone Machined-Finish R-16 Alloy Wheels"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Roof Rail: Premium Soft Touch Roof Lining",
+          "Roof Spoiler",
+          "Headlamps: Quad Chamber LED Reflector Headlamps",
+          "LED Daytime Running Lamps (DRL): Integrated LED Daytime Running Lamps (DRLs)",
+          "LED Tail Stop Lamp: Smoke Grey LED Tail Lamps with Light Guide",
+          "LED Projector Headlamps",
+          "Antenna: Shark Fin Antenna",
+          "Door Handles: Chrome Plated Door Handles",
+          "Side Sill Moulding: Front and Rear Skid Plates with Side Cladding",
+          "Wheels Type: Dual-Tone Machined-Finish R-16 Alloy Wheels",
+          "Front Grille: New Bold Front Grille with Sweeping X-Bar Element"
+        ],
+        "Interior": [
+          "MID Display: MID with Coloured TFT",
+          "Inside Door Handle: Chrome Finish Inside Door Handles",
+          "Height Adjustable Driver Seat",
+          "Sliding Armrest with Utility Box (Front Row)"
+        ],
+        "Safety": [
+          "6 Airbags",
+          "ABS with EBD",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "ISOFIX Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "High-Speed Alert System",
+          "ABS with EBD and Brake Assist",
+          "Front Seat Belt Height Adjuster",
+          "Seat Belt Reminder - Lamp & Buzzer",
+          "Day/Night Rear View Mirror: Manual",
+          "Emergency Stop Signal [LED]: Safety",
+          "225/55 R18 Spare Alloy Wheel: Safety",
+          "Acoustic Vehicle Alert System (AVAS): Safety"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Engine Push Start/Stop with Smart Key",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Electrically-Foldable ORVM",
+          "Steering-Mounted Audio Controls",
+          "Accessory socket",
+          "Auto Up/Down Power Window",
+          "Rear Defogger",
+          "Gear Shift Indicator",
+          "Cruise Control",
+          "Automatic Climate Control",
+          "Central Locking",
+          "Front Centre Arm Rest with Utility Box",
+          "2nd Row Captain Seats with Walk-in Slide & Recline",
+          "Power-Steering"
+        ],
+        "Suzuki Connect": [
+          "Emergency Alerts",
+          "Breakdown Notification",
+          "Stolen Vehicle Notification and Tracking",
+          "Immobilizer Request",
+          "Tow Away Alert and Tracking",
+          "Geofence",
+          "Valet Alert",
+          "Door Lock/Cancel Lock",
+          "Hazard Lights On/Off",
+          "Alarm On/Off",
+          "Smartwatch Connectivity",
+          "Suzuki Connect Skills for Amazon Alexa",
+          "Low Fuel & Low Range Alert",
+          "Over Speed Alert",
+          "AC Idling",
+          "Seat Belt Alert",
+          "Battery Status",
+          "Trip (Start & End)",
+          "Live Vehicle Tracking & Location sharing",
+          "View & Share Trip History",
+          "Guidance Around Destination",
+          "Driving Score (Driving Behaviour)"
+        ],
+        "Infotainment": [
+          "Speedometer with Tachometer",
+          "Touch Screen Audio",
+          "Android Auto and Apple CarPlay",
+          "Steering Mounted Controls: Audio and Bluetooth",
+          "Fuel Consumption (Instantaneous and Average)",
+          "Distance to Empty",
+          "Low Fuel Warning Light",
+          "Headlamp on Warning"
+        ],
+        "Audio & Entertainment": [
+          "SmartPlay Pro: 17.78 cm SmartPlay Studio Touchscreen Infotainment System",
+          "Bluetooth",
+          "Number of Speakers: 4.0",
+          "USB Connectivity/AUX",
+          "Tweeters: 2"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/nexa/in/en/assets/cars/xl6/images/front-tilted-view/XL6-FrontTilted-335x185.png"
+    },
+    {
+      "code": "XLR4GZ2",
+      "name": "Alpha MT",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "technology": [
+        "Smart Hybrid"
+      ],
+      "airbags": 4,
+      "ex_showroom_surat": {
+        "metallic": 1258744,
+        "non_metallic": 1258744
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel-Efficiency (km/l)*": "20.97 Km/l*",
+          "Fuel Tank Capacity (L)": "45"
+        },
+        "Dimensions": {
+          "Length (mm)": "4485",
+          "Width (mm)": "1775",
+          "Height (mm)": "1745",
+          "Wheelbase (mm)": "2740",
+          "Turning Radius (m)": "5.2",
+          "Seating Capacity (nos.)": "6",
+          "Kerb Weight (Kg)": "1200 (MT)",
+          "Gross Vehicle Weight (Kg)": "1740 (MT)"
+        },
+        "Engine": {
+          "Engine Type": "K15C Smart Hybrid",
+          "Displacement (cc)": "1462 cc",
+          "Max Power (1 KW =1.35962 PS)": "75.8 @ 6000",
+          "Max Torque (Nm @ rpm)": "139 @ 4300"
+        },
+        "Transmission": {
+          "Transmission Type": "5 MT",
+          "Drive Type": "2WD, FF"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut & Coil Spring",
+          "Rear Suspension": "Torsion Beam & Coil Spring"
+        },
+        "Tyre": {
+          "Tyre": "195/60 R16",
+          "Wheel Type": "Dual-Tone Machined-Finish R-16 Alloy Wheels"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Roof Rail: Premium Soft Touch Roof Lining",
+          "Roof Spoiler",
+          "Headlamps: Quad Chamber LED Reflector Headlamps",
+          "LED Daytime Running Lamps (DRL): Integrated LED Daytime Running Lamps (DRLs)",
+          "LED Tail Stop Lamp: Smoke Grey LED Tail Lamps with Light Guide",
+          "LED Projector Headlamps",
+          "Antenna: Shark Fin Antenna",
+          "Door Handles: Chrome Plated Door Handles",
+          "Side Sill Moulding: Front and Rear Skid Plates with Side Cladding",
+          "Wheels Type: Dual-Tone Machined-Finish R-16 Alloy Wheels",
+          "Front Grille: New Bold Front Grille with Sweeping X-Bar Element"
+        ],
+        "Interior": [
+          "Leatherette Steering Wheel",
+          "MID Display: MID with Coloured TFT",
+          "Inside Door Handle: Chrome Finish Inside Door Handles",
+          "Height Adjustable Driver Seat",
+          "Sliding Armrest with Utility Box (Front Row)"
+        ],
+        "Safety": [
+          "6 Airbags",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "ISOFIX Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "Tyre-Pressure Monitoring System (TPMS)",
+          "High-Speed Alert System",
+          "Speed sensitive auto doorlock",
+          "360 View Camera",
+          "ABS with EBD and Brake Assist",
+          "Front Seat Belt Height Adjuster",
+          "Seat Belt Reminder - Lamp & Buzzer",
+          "Day/Night Rear View Mirror: Manual",
+          "Emergency Stop Signal [LED]: Safety",
+          "225/55 R18 Spare Alloy Wheel: Safety",
+          "Acoustic Vehicle Alert System (AVAS): Safety"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Engine Push Start/Stop with Smart Key",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Electrically-Foldable ORVM: (Key Sync)",
+          "Steering-Mounted Audio Controls",
+          "Accessory socket",
+          "Auto Up/Down Power Window",
+          "Rear Defogger",
+          "Gear Shift Indicator",
+          "Cruise Control",
+          "Automatic Climate Control",
+          "Central Locking",
+          "Front Centre Arm Rest with Utility Box",
+          "2nd Row Captain Seats with Walk-in Slide & Recline",
+          "Power-Steering"
+        ],
+        "Suzuki Connect": [
+          "Emergency Alerts",
+          "Breakdown Notification",
+          "Stolen Vehicle Notification and Tracking",
+          "Immobilizer Request",
+          "Tow Away Alert and Tracking",
+          "Geofence",
+          "Valet Alert",
+          "Door Lock/Cancel Lock",
+          "Headlight Off",
+          "Hazard Lights On/Off",
+          "Alarm On/Off",
+          "Smartwatch Connectivity",
+          "Suzuki Connect Skills for Amazon Alexa",
+          "Low Fuel & Low Range Alert",
+          "Over Speed Alert",
+          "AC Idling",
+          "Seat Belt Alert",
+          "Battery Status",
+          "Trip (Start & End)",
+          "Live Vehicle Tracking & Location sharing",
+          "View & Share Trip History",
+          "Guidance Around Destination",
+          "Driving Score (Driving Behaviour)"
+        ],
+        "Infotainment": [
+          "Speedometer with Tachometer",
+          "Touch Screen Audio",
+          "Android Auto and Apple CarPlay: Wireless",
+          "Steering Mounted Controls: Audio and Bluetooth",
+          "Fuel Consumption (Instantaneous and Average)",
+          "Distance to Empty",
+          "Low Fuel Warning Light",
+          "Headlamp on Warning"
+        ],
+        "Audio & Entertainment": [
+          "SmartPlay Pro: 17.78 cm SmartPlay Studio Touchscreen Infotainment System",
+          "Surround Sense Powered by ARKAMYS: Arkamys",
+          "Bluetooth",
+          "Number of Speakers: 4.0",
+          "USB Connectivity/AUX",
+          "Tweeters: 2"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/nexa/in/en/assets/cars/xl6/images/front-tilted-view/XL6-FrontTilted-335x185.png"
+    },
+    {
+      "code": "XLRCGZ1",
+      "name": "Zeta CNG",
+      "fuel": "CNG",
+      "transmission": "Manual",
+      "technology": [
+        "S-CNG"
+      ],
+      "airbags": 4,
+      "ex_showroom_surat": {
+        "metallic": 1260744,
+        "non_metallic": 1260744
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "CNG",
+          "Fuel-Efficiency (km/l)*": "26.32 Km/ Kg*",
+          "Fuel Tank Capacity (L)": "Petrol : 45, CNG : 60 (Water Equivalent)"
+        },
+        "Dimensions": {
+          "Length (mm)": "4485",
+          "Width (mm)": "1775",
+          "Height (mm)": "1745",
+          "Wheelbase (mm)": "2740",
+          "Turning Radius (m)": "5.2",
+          "Seating Capacity (nos.)": "6",
+          "Kerb Weight (Kg)": "1275 (MT)",
+          "Gross Vehicle Weight (Kg)": "1810 (MT)"
+        },
+        "Engine": {
+          "Engine Type": "K15C",
+          "Displacement (cc)": "1462 cc",
+          "Max Power (1 KW =1.35962 PS)": "Petrol mode : 74.0 @ 6000, CNG mode : 64.6 @ 5500",
+          "Max Torque (Nm @ rpm)": "Petrol mode : 139 @ 4300, CNG mode : 121.5 @ 4200"
+        },
+        "Transmission": {
+          "Transmission Type": "5MT",
+          "Drive Type": "2WD, FF"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut & Coil Spring",
+          "Rear Suspension": "Torsion Beam & Coil Spring"
+        },
+        "Tyre": {
+          "Tyre": "195/60 R16",
+          "Wheel Type": "Dual-Tone Machined-Finish R-16 Alloy Wheels"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Roof Rail: Premium Soft Touch Roof Lining",
+          "Roof Spoiler",
+          "Headlamps: Quad Chamber LED Reflector Headlamps",
+          "LED Daytime Running Lamps (DRL): Integrated LED Daytime Running Lamps (DRLs)",
+          "LED Tail Stop Lamp: Smoke Grey LED Tail Lamps with Light Guide",
+          "LED Projector Headlamps",
+          "Antenna: Shark Fin Antenna",
+          "Door Handles: Chrome Plated Door Handles",
+          "Side Sill Moulding: Front and Rear Skid Plates with Side Cladding",
+          "Wheels Type: Dual-Tone Machined-Finish R-16 Alloy Wheels",
+          "Front Grille: New Bold Front Grille with Sweeping X-Bar Element"
+        ],
+        "Interior": [
+          "MID Display: MID with Coloured TFT",
+          "Inside Door Handle: Chrome Finish Inside Door Handles",
+          "Height Adjustable Driver Seat",
+          "Sliding Armrest with Utility Box (Front Row)"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Engine Push Start/Stop with Smart Key",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Electrically-Foldable ORVM",
+          "Steering-Mounted Audio Controls",
+          "Accessory socket",
+          "Auto Up/Down Power Window",
+          "Rear Defogger",
+          "Gear Shift Indicator",
+          "Cruise Control",
+          "Automatic Climate Control",
+          "Central Locking",
+          "Front Centre Arm Rest with Utility Box",
+          "2nd Row Captain Seats with Walk-in Slide & Recline",
+          "Power-Steering"
+        ],
+        "Suzuki Connect": [
+          "Emergency Alerts",
+          "Breakdown Notification",
+          "Stolen Vehicle Notification and Tracking",
+          "Immobilizer Request",
+          "Tow Away Alert and Tracking",
+          "Geofence",
+          "Valet Alert",
+          "Door Lock/Cancel Lock",
+          "Hazard Lights On/Off",
+          "Alarm On/Off",
+          "Smartwatch Connectivity",
+          "Suzuki Connect Skills for Amazon Alexa",
+          "Low Fuel & Low Range Alert",
+          "Over Speed Alert",
+          "AC Idling",
+          "Seat Belt Alert",
+          "Battery Status",
+          "Trip (Start & End)",
+          "Live Vehicle Tracking & Location sharing",
+          "View & Share Trip History",
+          "Guidance Around Destination",
+          "Driving Score (Driving Behaviour)"
+        ],
+        "Infotainment": [
+          "Speedometer with Tachometer",
+          "Touch Screen Audio",
+          "Android Auto and Apple CarPlay",
+          "Steering Mounted Controls: Audio and Bluetooth",
+          "Fuel Consumption (Instantaneous and Average)",
+          "Distance to Empty",
+          "Low Fuel Warning Light",
+          "Headlamp on Warning"
+        ],
+        "Audio & Entertainment": [
+          "SmartPlay Pro: 17.78 cm SmartPlay Studio Touchscreen Infotainment System",
+          "Bluetooth",
+          "Number of Speakers: 4.0",
+          "USB Connectivity/AUX",
+          "Tweeters: 2"
+        ],
+        "Safety": [
+          "6 Airbags",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "ISOFIX Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "High-Speed Alert System",
+          "ABS with EBD and Brake Assist",
+          "Front Seat Belt Height Adjuster",
+          "Seat Belt Reminder - Lamp & Buzzer",
+          "Day/Night Rear View Mirror: Manual",
+          "Emergency Stop Signal [LED]: Safety",
+          "225/55 R18 Spare Alloy Wheel: Safety",
+          "Acoustic Vehicle Alert System (AVAS): Safety"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/nexa/in/en/assets/cars/xl6/images/front-tilted-view/XL6-FrontTilted-335x185.png"
+    },
+    {
+      "code": "XLA4GZ1",
+      "name": "Zeta AT",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "technology": [
+        "Smart Hybrid"
+      ],
+      "airbags": 6,
+      "ex_showroom_surat": {
+        "metallic": 1297244,
+        "non_metallic": 1297244
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel-Efficiency (km/l)*": "20.27 Km/l*",
+          "Fuel Tank Capacity (L)": "45"
+        },
+        "Dimensions": {
+          "Length (mm)": "4485",
+          "Width (mm)": "1775",
+          "Height (mm)": "1745",
+          "Wheelbase (mm)": "2740",
+          "Turning Radius (m)": "5.2",
+          "Seating Capacity (nos.)": "6",
+          "Kerb Weight (Kg)": "1225 (AT)",
+          "Gross Vehicle Weight (Kg)": "1765 (AT)"
+        },
+        "Engine": {
+          "Engine Type": "K15C Smart Hybrid",
+          "Displacement (cc)": "1462 cc",
+          "Max Power (1 KW =1.35962 PS)": "75.8 @ 6000",
+          "Max Torque (Nm @ rpm)": "139 @ 4300"
+        },
+        "Transmission": {
+          "Transmission Type": "6AT",
+          "Drive Type": "2WD, FF"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut & Coil Spring",
+          "Rear Suspension": "Torsion Beam & Coil Spring"
+        },
+        "Tyre": {
+          "Tyre": "195/60 R16",
+          "Wheel Type": "Dual-Tone Machined-Finish R-16 Alloy Wheels"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Roof Rail: Premium Soft Touch Roof Lining",
+          "Roof Spoiler",
+          "Headlamps: Quad Chamber LED Reflector Headlamps",
+          "LED Daytime Running Lamps (DRL): Integrated LED Daytime Running Lamps (DRLs)",
+          "LED Tail Stop Lamp: Smoke Grey LED Tail Lamps with Light Guide",
+          "LED Projector Headlamps",
+          "Antenna: Shark Fin Antenna",
+          "Door Handles: Chrome Plated Door Handles",
+          "Side Sill Moulding: Front and Rear Skid Plates with Side Cladding",
+          "Wheels Type: Dual-Tone Machined-Finish R-16 Alloy Wheels",
+          "Front Grille: New Bold Front Grille with Sweeping X-Bar Element"
+        ],
+        "Interior": [
+          "MID Display: MID with Coloured TFT",
+          "Inside Door Handle: Chrome Finish Inside Door Handles",
+          "Height Adjustable Driver Seat",
+          "Sliding Armrest with Utility Box (Front Row)"
+        ],
+        "Safety": [
+          "6 Airbags",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "ISOFIX Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "High-Speed Alert System",
+          "Speed sensitive auto doorlock",
+          "ABS with EBD and Brake Assist",
+          "Front Seat Belt Height Adjuster",
+          "Seat Belt Reminder - Lamp & Buzzer",
+          "Day/Night Rear View Mirror: Manual"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Engine Push Start/Stop with Smart Key",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Electrically-Foldable ORVM",
+          "Steering-Mounted Audio Controls",
+          "Accessory socket",
+          "Auto Up/Down Power Window",
+          "Rear Defogger",
+          "Cruise Control",
+          "Automatic Climate Control",
+          "Central Locking",
+          "Front Centre Arm Rest with Utility Box",
+          "2nd Row Captain Seats with Walk-in Slide & Recline",
+          "Power-Steering"
+        ],
+        "Suzuki Connect": [
+          "Emergency Alerts",
+          "Breakdown Notification",
+          "Stolen Vehicle Notification and Tracking",
+          "Immobilizer Request",
+          "Tow Away Alert and Tracking",
+          "Geofence",
+          "Valet Alert",
+          "Remote AC Control",
+          "Door Lock/Cancel Lock",
+          "Hazard Lights On/Off",
+          "Alarm On/Off",
+          "Smartwatch Connectivity",
+          "Suzuki Connect Skills for Amazon Alexa",
+          "Low Fuel & Low Range Alert",
+          "Over Speed Alert",
+          "AC Idling",
+          "Seat Belt Alert",
+          "Battery Status",
+          "Trip (Start & End)",
+          "Live Vehicle Tracking & Location sharing",
+          "View & Share Trip History",
+          "Guidance Around Destination",
+          "Driving Score (Driving Behaviour)"
+        ],
+        "Infotainment": [
+          "Touch Screen Audio",
+          "Android Auto and Apple CarPlay",
+          "Steering Mounted Controls: Audio and Bluetooth",
+          "Fuel Consumption (Instantaneous and Average)",
+          "Distance to Empty",
+          "Low Fuel Warning Light",
+          "Headlamp on Warning"
+        ],
+        "Audio & Entertainment": [
+          "SmartPlay Pro: 17.78 cm SmartPlay Studio Touchscreen Infotainment System",
+          "Bluetooth",
+          "Number of Speakers: 4.0",
+          "USB Connectivity/AUX",
+          "Tweeters: 2"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/nexa/in/en/assets/cars/xl6/images/front-tilted-view/XL6-FrontTilted-335x185.png"
+    },
+    {
+      "code": "XLR4GZB",
+      "name": "Alpha Plus MT",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "technology": [
+        "Smart Hybrid"
+      ],
+      "airbags": 6,
+      "ex_showroom_surat": {
+        "metallic": 1317044,
+        "non_metallic": 1317044,
+        "dual_tone": 1332444
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel-Efficiency (km/l)*": "20.97 Km/l*",
+          "Fuel Tank Capacity (L)": "45"
+        },
+        "Dimensions": {
+          "Length (mm)": "4485",
+          "Width (mm)": "1775",
+          "Height (mm)": "1745",
+          "Wheelbase (mm)": "2740",
+          "Turning Radius (m)": "5.2",
+          "Seating Capacity (nos.)": "6",
+          "Kerb Weight (Kg)": "1200 (MT)",
+          "Gross Vehicle Weight (Kg)": "1740 (MT)"
+        },
+        "Engine": {
+          "Engine Type": "K15C Smart Hybrid",
+          "Displacement (cc)": "1462 cc",
+          "Max Power (1 KW =1.35962 PS)": "75.8 @ 6000",
+          "Max Torque (Nm @ rpm)": "139 @ 4300"
+        },
+        "Transmission": {
+          "Transmission Type": "5 MT",
+          "Drive Type": "2WD, FF"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut & Coil Spring",
+          "Rear Suspension": "Torsion Beam & Coil Spring"
+        },
+        "Tyre": {
+          "Tyre": "195/60 R16",
+          "Wheel Type": "Dual-Tone Machined-Finish R-16 Alloy Wheels"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Roof Rail: Premium Soft Touch Roof Lining",
+          "Roof Spoiler",
+          "Headlamps: Quad Chamber LED Reflector Headlamps",
+          "LED Daytime Running Lamps (DRL): Integrated LED Daytime Running Lamps (DRLs)",
+          "LED Tail Stop Lamp: Smoke Grey LED Tail Lamps with Light Guide",
+          "LED Projector Headlamps",
+          "Antenna: Shark Fin Antenna(Monotone)",
+          "Door Handles: Chrome Plated Door Handles",
+          "Side Sill Moulding: Front and Rear Skid Plates with Side Cladding",
+          "Wheels Type: Dual-Tone Machined-Finish R-16 Alloy Wheels",
+          "Front Grille: New Bold Front Grille with Sweeping X-Bar Element"
+        ],
+        "Interior": [
+          "Leatherette Steering Wheel",
+          "MID Display: MID with Coloured TFT",
+          "Inside Door Handle: Chrome Finish Inside Door Handles",
+          "Height Adjustable Driver Seat",
+          "Sliding Armrest with Utility Box (Front Row)"
+        ],
+        "Safety": [
+          "6 Airbags",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "ISOFIX Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "Tyre-Pressure Monitoring System (TPMS)",
+          "High-Speed Alert System",
+          "360 View Camera",
+          "ABS with EBD and Brake Assist",
+          "Front Seat Belt Height Adjuster",
+          "Seat Belt Reminder - Lamp & Buzzer",
+          "Day/Night Rear View Mirror: Manual",
+          "225/55 R18 Spare Alloy Wheel: Safety",
+          "Acoustic Vehicle Alert System (AVAS): Safety"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Engine Push Start/Stop with Smart Key",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Electrically-Foldable ORVM: (Key Sync)",
+          "Steering-Mounted Audio Controls",
+          "Accessory socket",
+          "Auto Up/Down Power Window",
+          "Rear Defogger",
+          "Gear Shift Indicator",
+          "Cruise Control",
+          "Automatic Climate Control",
+          "Central Locking",
+          "Front Centre Arm Rest with Utility Box",
+          "2nd Row Captain Seats with Walk-in Slide & Recline",
+          "Front Ventilated Seats (Driver & Co-driver)",
+          "Power-Steering"
+        ],
+        "Suzuki Connect": [
+          "Emergency Alerts",
+          "Breakdown Notification",
+          "Stolen Vehicle Notification and Tracking",
+          "Immobilizer Request",
+          "Tow Away Alert and Tracking",
+          "Geofence",
+          "Valet Alert",
+          "Door Lock/Cancel Lock",
+          "Headlight Off",
+          "Hazard Lights On/Off",
+          "Alarm On/Off",
+          "Smartwatch Connectivity",
+          "Suzuki Connect Skills for Amazon Alexa",
+          "Low Fuel & Low Range Alert",
+          "Over Speed Alert",
+          "AC Idling",
+          "Seat Belt Alert",
+          "Battery Status",
+          "Trip (Start & End)",
+          "Live Vehicle Tracking & Location sharing",
+          "View & Share Trip History",
+          "Guidance Around Destination",
+          "Driving Score (Driving Behaviour)"
+        ],
+        "Infotainment": [
+          "Speedometer with Tachometer",
+          "Touch Screen Audio",
+          "Android Auto and Apple CarPlay: Wireless",
+          "Steering Mounted Controls: Audio and Bluetooth",
+          "Fuel Consumption (Instantaneous and Average)",
+          "Distance to Empty",
+          "Low Fuel Warning Light",
+          "Headlamp on Warning"
+        ],
+        "Audio & Entertainment": [
+          "SmartPlay Pro: 17.78 cm SmartPlay Studio Touchscreen Infotainment System",
+          "Surround Sense Powered by ARKAMYS: Arkamys",
+          "Bluetooth",
+          "Number of Speakers: 4.0",
+          "USB Connectivity/AUX",
+          "Tweeters: 2"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/nexa/in/en/assets/cars/xl6/images/front-tilted-view/XL6-FrontTilted-335x185.png"
+    },
+    {
+      "code": "XLA4GZ2",
+      "name": "Alpha AT",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "technology": [
+        "Smart Hybrid"
+      ],
+      "airbags": 6,
+      "ex_showroom_surat": {
+        "metallic": 1393744,
+        "non_metallic": 1393744
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel-Efficiency (km/l)*": "20.27 Km/l*",
+          "Fuel Tank Capacity (L)": "45"
+        },
+        "Dimensions": {
+          "Length (mm)": "4485",
+          "Width (mm)": "1775",
+          "Height (mm)": "1745",
+          "Wheelbase (mm)": "2740",
+          "Turning Radius (m)": "5.2",
+          "Seating Capacity (nos.)": "6",
+          "Kerb Weight (Kg)": "1225 (AT)",
+          "Gross Vehicle Weight (Kg)": "1765 (AT)"
+        },
+        "Engine": {
+          "Engine Type": "K15C Smart Hybrid",
+          "Displacement (cc)": "1462 cc",
+          "Max Power (1 KW =1.35962 PS)": "75.8 @ 6000",
+          "Max Torque (Nm @ rpm)": "139 @ 4300"
+        },
+        "Transmission": {
+          "Transmission Type": "6AT",
+          "Drive Type": "2WD, FF"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut & Coil Spring",
+          "Rear Suspension": "Torsion Beam & Coil Spring"
+        },
+        "Tyre": {
+          "Tyre": "195/60 R16",
+          "Wheel Type": "Dual-Tone Machined-Finish R-16 Alloy Wheels"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Roof Rail: Premium Soft Touch Roof Lining",
+          "Roof Spoiler",
+          "Headlamps: Quad Chamber LED Reflector Headlamps",
+          "LED Daytime Running Lamps (DRL): Integrated LED Daytime Running Lamps (DRLs)",
+          "LED Tail Stop Lamp: Smoke Grey LED Tail Lamps with Light Guide",
+          "LED Projector Headlamps",
+          "Antenna: Shark Fin Antenna",
+          "Door Handles: Chrome Plated Door Handles",
+          "Side Sill Moulding: Front and Rear Skid Plates with Side Cladding",
+          "Wheels Type: Dual-Tone Machined-Finish R-16 Alloy Wheels",
+          "Front Grille: New Bold Front Grille with Sweeping X-Bar Element"
+        ],
+        "Interior": [
+          "Leatherette Steering Wheel",
+          "MID Display: MID with Coloured TFT",
+          "Inside Door Handle: Chrome Finish Inside Door Handles",
+          "Height Adjustable Driver Seat",
+          "Sliding Armrest with Utility Box (Front Row)"
+        ],
+        "Safety": [
+          "6 Airbags",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "ISOFIX Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "Tyre-Pressure Monitoring System (TPMS)",
+          "High-Speed Alert System",
+          "360 View Camera",
+          "ABS with EBD and Brake Assist",
+          "Front Seat Belt Height Adjuster",
+          "Seat Belt Reminder - Lamp & Buzzer",
+          "Day/Night Rear View Mirror: Manual",
+          "Emergency Stop Signal [LED]: Safety",
+          "225/55 R18 Spare Alloy Wheel: Safety",
+          "Acoustic Vehicle Alert System (AVAS): Safety"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Engine Push Start/Stop with Smart Key",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Electrically-Foldable ORVM: (Key Sync)",
+          "Steering-Mounted Audio Controls",
+          "Accessory socket",
+          "Auto Up/Down Power Window",
+          "Rear Defogger",
+          "Cruise Control",
+          "Automatic Climate Control",
+          "Central Locking",
+          "Front Centre Arm Rest with Utility Box",
+          "2nd Row Captain Seats with Walk-in Slide & Recline",
+          "Power-Steering"
+        ],
+        "Suzuki Connect": [
+          "Emergency Alerts",
+          "Breakdown Notification",
+          "Stolen Vehicle Notification and Tracking",
+          "Immobilizer Request",
+          "Tow Away Alert and Tracking",
+          "Geofence",
+          "Valet Alert",
+          "Remote AC Control",
+          "Door Lock/Cancel Lock",
+          "Headlight Off",
+          "Hazard Lights On/Off",
+          "Alarm On/Off",
+          "Smartwatch Connectivity",
+          "Suzuki Connect Skills for Amazon Alexa",
+          "Low Fuel & Low Range Alert",
+          "Over Speed Alert",
+          "AC Idling",
+          "Seat Belt Alert",
+          "Battery Status",
+          "Trip (Start & End)",
+          "Live Vehicle Tracking & Location sharing",
+          "View & Share Trip History",
+          "Guidance Around Destination",
+          "Driving Score (Driving Behaviour)"
+        ],
+        "Infotainment": [
+          "Touch Screen Audio",
+          "Android Auto and Apple CarPlay: Wireless",
+          "Steering Mounted Controls: Audio and Bluetooth",
+          "Fuel Consumption (Instantaneous and Average)",
+          "Distance to Empty",
+          "Low Fuel Warning Light",
+          "Headlamp on Warning"
+        ],
+        "Audio & Entertainment": [
+          "SmartPlay Pro: 17.78 cm SmartPlay Studio Touchscreen Infotainment System",
+          "Surround Sense Powered by ARKAMYS: Arkamys",
+          "Bluetooth",
+          "Number of Speakers: 4.0",
+          "USB Connectivity/AUX",
+          "Tweeters: 2"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/nexa/in/en/assets/cars/xl6/images/front-tilted-view/XL6-FrontTilted-335x185.png"
+    },
+    {
+      "code": "XLA4GZB",
+      "name": "Alpha Plus AT",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "technology": [
+        "Smart Hybrid"
+      ],
+      "airbags": 4,
+      "ex_showroom_surat": {
+        "metallic": 1452044,
+        "non_metallic": 1452044,
+        "dual_tone": 1467444
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel-Efficiency (km/l)*": "20.27 Km/l*",
+          "Fuel Tank Capacity (L)": "45"
+        },
+        "Dimensions": {
+          "Length (mm)": "4485",
+          "Width (mm)": "1775",
+          "Height (mm)": "1745",
+          "Wheelbase (mm)": "2740",
+          "Turning Radius (m)": "5.2",
+          "Seating Capacity (nos.)": "6",
+          "Kerb Weight (Kg)": "1225 (AT)",
+          "Gross Vehicle Weight (Kg)": "1765 (AT)"
+        },
+        "Engine": {
+          "Engine Type": "K15C Smart Hybrid",
+          "Displacement (cc)": "1462 cc",
+          "Max Power (1 KW =1.35962 PS)": "75.8 @ 6000",
+          "Max Torque (Nm @ rpm)": "139 @ 4300"
+        },
+        "Transmission": {
+          "Transmission Type": "6AT",
+          "Drive Type": "2WD, FF"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut & Coil Spring",
+          "Rear Suspension": "Torsion Beam & Coil Spring"
+        },
+        "Tyre": {
+          "Tyre": "195/60 R16",
+          "Wheel Type": "Dual-Tone Machined-Finish R-16 Alloy Wheels"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Roof Rail: Premium Soft Touch Roof Lining",
+          "Roof Spoiler",
+          "Headlamps: Quad Chamber LED Reflector Headlamps",
+          "LED Daytime Running Lamps (DRL): Integrated LED Daytime Running Lamps (DRLs)",
+          "LED Tail Stop Lamp: Smoke Grey LED Tail Lamps with Light Guide",
+          "LED Projector Headlamps",
+          "Antenna: Shark Fin Antenna(Monotone)",
+          "Door Handles: Chrome Plated Door Handles",
+          "Side Sill Moulding: Front and Rear Skid Plates with Side Cladding",
+          "Wheels Type: Dual-Tone Machined-Finish R-16 Alloy Wheels",
+          "Front Grille: New Bold Front Grille with Sweeping X-Bar Element"
+        ],
+        "Interior": [
+          "Leatherette Steering Wheel",
+          "MID Display: MID with Coloured TFT",
+          "Inside Door Handle: Chrome Finish Inside Door Handles",
+          "Height Adjustable Driver Seat",
+          "Sliding Armrest with Utility Box (Front Row)"
+        ],
+        "Safety": [
+          "6 Airbags",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "ISOFIX Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "Tyre-Pressure Monitoring System (TPMS)",
+          "High-Speed Alert System",
+          "360 View Camera",
+          "ABS with EBD and Brake Assist",
+          "Front Seat Belt Height Adjuster",
+          "Seat Belt Reminder - Lamp & Buzzer",
+          "Day/Night Rear View Mirror: Manual",
+          "Emergency Stop Signal [LED]: Safety",
+          "225/55 R18 Spare Alloy Wheel: Safety",
+          "Acoustic Vehicle Alert System (AVAS): Safety"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Engine Push Start/Stop with Smart Key",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Electrically-Foldable ORVM: (Key Sync)",
+          "Steering-Mounted Audio Controls",
+          "Accessory socket",
+          "Auto Up/Down Power Window",
+          "Rear Defogger",
+          "Cruise Control",
+          "Automatic Climate Control",
+          "Central Locking",
+          "Front Centre Arm Rest with Utility Box",
+          "2nd Row Captain Seats with Walk-in Slide & Recline",
+          "Front Ventilated Seats (Driver & Co-driver)",
+          "Power-Steering"
+        ],
+        "Suzuki Connect": [
+          "Emergency Alerts",
+          "Breakdown Notification",
+          "Stolen Vehicle Notification and Tracking",
+          "Immobilizer Request",
+          "Tow Away Alert and Tracking",
+          "Geofence",
+          "Valet Alert",
+          "Remote AC Control",
+          "Door Lock/Cancel Lock",
+          "Headlight Off",
+          "Hazard Lights On/Off",
+          "Alarm On/Off",
+          "Smartwatch Connectivity",
+          "Suzuki Connect Skills for Amazon Alexa",
+          "Low Fuel & Low Range Alert",
+          "Over Speed Alert",
+          "AC Idling",
+          "Seat Belt Alert",
+          "Battery Status",
+          "Trip (Start & End)",
+          "Live Vehicle Tracking & Location sharing",
+          "View & Share Trip History",
+          "Guidance Around Destination",
+          "Driving Score (Driving Behaviour)"
+        ],
+        "Infotainment": [
+          "Touch Screen Audio",
+          "Android Auto and Apple CarPlay: Wireless",
+          "Steering Mounted Controls: Audio and Bluetooth",
+          "Fuel Consumption (Instantaneous and Average)",
+          "Distance to Empty",
+          "Low Fuel Warning Light",
+          "Headlamp on Warning"
+        ],
+        "Audio & Entertainment": [
+          "SmartPlay Pro: 17.78 cm SmartPlay Studio Touchscreen Infotainment System",
+          "Surround Sense Powered by ARKAMYS: Arkamys",
+          "Bluetooth",
+          "Number of Speakers: 4.0",
+          "USB Connectivity/AUX",
+          "Tweeters: 2"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/nexa/in/en/assets/cars/xl6/images/front-tilted-view/XL6-FrontTilted-335x185.png"
+    }
+  ],
+  "fetched_on": "2026-10-30"
+}

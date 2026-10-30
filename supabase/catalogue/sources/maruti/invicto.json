@@ -1,0 +1,561 @@
+{
+  "brand": "Maruti Suzuki",
+  "model": "Invicto",
+  "slug": "invicto",
+  "model_code": "IN",
+  "channel": "Nexa",
+  "official_page": "https://www.nexaexperience.com/invicto",
+  "brochure_pdf": "https://www.nexaexperience.com/pdf-viewer?pdf=/content/dam/msil/nexa/in/en/assets/cars/invicto/documents/NEXA-Invicto-Brochure.pdf",
+  "price_city": "Surat, Gujarat",
+  "ex_showroom_min": 2501960,
+  "ex_showroom_max": 2879360,
+  "fuel_types": [
+    "Strong Hybrid"
+  ],
+  "transmissions": [
+    "Automatic"
+  ],
+  "colours": [
+    {
+      "name": "Mystic White",
+      "hex": [
+        "#E5E4E2"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Zeta Plus 7S",
+        "Zeta Plus 8S",
+        "Alpha Plus 7S"
+      ]
+    },
+    {
+      "name": "NEXA Blue (Celestial)",
+      "hex": [
+        "#163472"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Zeta Plus 7S",
+        "Zeta Plus 8S",
+        "Alpha Plus 7S"
+      ]
+    },
+    {
+      "name": "Majestic Silver",
+      "hex": [
+        "#CDD3E0"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Zeta Plus 7S",
+        "Zeta Plus 8S",
+        "Alpha Plus 7S"
+      ]
+    },
+    {
+      "name": "Stellar Bronze",
+      "hex": [
+        "#BEB2A6"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Zeta Plus 7S",
+        "Zeta Plus 8S",
+        "Alpha Plus 7S"
+      ]
+    },
+    {
+      "name": "Magnificent Black",
+      "hex": [
+        "#000000"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Zeta Plus 7S",
+        "Zeta Plus 8S",
+        "Alpha Plus 7S"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "code": "INAHDZ1",
+      "name": "Zeta Plus 7S",
+      "fuel": "Strong Hybrid",
+      "transmission": "Automatic",
+      "technology": [
+        "Strong Hybrid"
+      ],
+      "airbags": 6,
+      "ex_showroom_surat": {
+        "metallic": 2501960,
+        "non_metallic": 2521260
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol/Hybrid",
+          "Fuel-Efficiency (km/l)*": "22.16 Km/l*",
+          "Fuel Tank Capacity (L)": "52"
+        },
+        "Dimensions": {
+          "Length (mm)": "4755",
+          "Width (mm)": "1845",
+          "Height (mm)": "1795",
+          "Wheelbase (mm)": "2850",
+          "Seating Capacity (nos.)": "7",
+          "Kerb Weight (Kg)": "1620",
+          "Gross Vehicle Weight (Kg)": "2300 kg"
+        },
+        "Engine": {
+          "Engine Type": "Body Coloured",
+          "Displacement (cc)": "1987 cc",
+          "Max Power (1 KW =1.35962 PS)": "112kW @ 6000 rpm",
+          "Max Torque (Nm @ rpm)": "188 Nm @ 4400-5200 rpm"
+        },
+        "Transmission": {
+          "Transmission Type": "e-CVT",
+          "Drive Type": "2WD"
+        },
+        "Brakes": {
+          "Front": "Ventilated Disc",
+          "Rear": "Solid Disc"
+        },
+        "Suspension": {
+          "Front Suspension": "Macpherson Strut",
+          "Rear Suspension": "Torsion Beam"
+        },
+        "Tyre": {
+          "Tyre": "215/60 R17 (43.18)Precision Cut Alloy Wheels",
+          "Wheel Type": "Precision Cut Alloy Wheels"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Chrome Belt Line Garnish: Chrome Back Door Garnish",
+          "Roof Spoiler: Roof end Spoiler with LED High Mount Stop Lamp",
+          "Headlamps: Twin LED Headlamps with NEXTre' DRLs",
+          "LED Tail Stop Lamp: NEXTre Signature LED Tail Lamps",
+          "LED Projector Headlamps",
+          "ORVM with Turn Indicator: Body Colored ORVM with Turn Indicator",
+          "Antenna: Shark Fin Antenna",
+          "Rear Window Wiper & Washer",
+          "Door Handles: Body Colored",
+          "Side Sill Moulding: Wheelarch Cladding",
+          "Wheels Type: Precision Cut Alloy Wheels",
+          "Front Grille: Invicto NEXWave Grille with Sweeping Cross Bar Chrome Finish"
+        ],
+        "Interior": [
+          "Leatherette Steering Wheel",
+          "MID Display",
+          "Ambient Lighting",
+          "Digital Instrument Cluster: Digital & Analogue Speedometer Display Selection",
+          "Cup Holders",
+          "Adjustable Headrest",
+          "Rear Seat Adjustable Headrest",
+          "Height Adjustable Driver Seat",
+          "Luggage Lamp"
+        ],
+        "Safety & Security": [
+          "Driver Airbag",
+          "6 Airbags",
+          "ABS with EBD",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Side & Curtain Airbags",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "ISOFIX Child Seat Anchorages",
+          "Rear Parking Camera",
+          "High-Speed Alert System",
+          "Immobilizer (Anti-Theft Security System)",
+          "Adjustable Front Seatbelt Height Anchors",
+          "Front Ventilated Disc Brakes",
+          "Day/Night Adjustable IRVM: (Manual)",
+          "Day/Night Rear View Mirror: (Manual)"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Engine Push Start/Stop with Smart Key",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Electrically-Foldable ORVM",
+          "Steering-Mounted Audio Controls",
+          "Accessory socket",
+          "Auto Up/Down Power Window",
+          "Gear Shift Indicator",
+          "Rear AC Vents",
+          "Cruise Control",
+          "Automatic Climate Control",
+          "Central Locking",
+          "Front Centre Arm Rest with Utility Box",
+          "2nd Row Captain Seats with Walk-in Slide & Recline",
+          "Manual Day/Night IRVM: (Manual)",
+          "Rear Centre Armrest (With Cup Holder)",
+          "Power-Steering"
+        ],
+        "Suzuki Connect": [
+          "Emergency Alerts",
+          "Breakdown Notification",
+          "Stolen Vehicle Notification and Tracking",
+          "Immobilizer Request",
+          "Tow Away Alert and Tracking",
+          "Geofence",
+          "Safe Time Alert",
+          "Valet Alert",
+          "Door Lock/Cancel Lock",
+          "Hazard Lights On/Off",
+          "Alarm On/Off",
+          "Smartwatch Connectivity",
+          "Suzuki Connect Skills for Amazon Alexa",
+          "Low Fuel & Low Range Alert",
+          "Over Speed Alert",
+          "Seat Belt Alert",
+          "Trip (Start & End)",
+          "Live Vehicle Tracking & Location sharing",
+          "Navigate to Car",
+          "View & Share Trip History",
+          "Guidance Around Destination"
+        ],
+        "Infotainment": [
+          "Gear Shift Indicator",
+          "Touch Screen Audio: 8\"(20.32cm)",
+          "Android Auto and Apple CarPlay",
+          "Steering Mounted Controls: Audio and Bluetooth",
+          "Fuel Consumption (Instantaneous and Average)",
+          "Digital Clock",
+          "Low Fuel Warning Light",
+          "Media Receiver (AM/FM/Bluetooth)",
+          "Multi Tripmeter: Tripmeter",
+          "Rear Seatbelt Reminder Warning Indicator"
+        ],
+        "Audio & Entertainment": [
+          "Bluetooth",
+          "Number of Speakers: 6.0",
+          "USB Connectivity/AUX",
+          "Steering mounted audio calling controls"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/nexa/in/en/assets/cars/invicto/images/front-tilted-view/InvictoFrontTilted-335x185.png"
+    },
+    {
+      "code": "INAHDZA",
+      "name": "Zeta Plus 8S",
+      "fuel": "Strong Hybrid",
+      "transmission": "Automatic",
+      "technology": [
+        "Strong Hybrid"
+      ],
+      "airbags": 6,
+      "ex_showroom_surat": {
+        "metallic": 2536860,
+        "non_metallic": 2546160
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol/Hybrid",
+          "Fuel-Efficiency (km/l)*": "22.16 Km/l*",
+          "Fuel Tank Capacity (L)": "52"
+        },
+        "Dimensions": {
+          "Length (mm)": "4755",
+          "Width (mm)": "1845",
+          "Height (mm)": "1795",
+          "Wheelbase (mm)": "2850",
+          "Seating Capacity (nos.)": "8",
+          "Kerb Weight (Kg)": "1630",
+          "Gross Vehicle Weight (Kg)": "2300 kg"
+        },
+        "Engine": {
+          "Displacement (cc)": "1987 cc",
+          "Max Power (1 KW =1.35962 PS)": "112kW @ 6000 rpm",
+          "Max Torque (Nm @ rpm)": "188 Nm @ 4400-5200 rpm"
+        },
+        "Transmission": {
+          "Transmission Type": "e-CVT",
+          "Drive Type": "2WD"
+        },
+        "Brakes": {
+          "Front": "Ventilated Disc",
+          "Rear": "Solid Disc"
+        },
+        "Suspension": {
+          "Front Suspension": "Macpherson Strut",
+          "Rear Suspension": "Torsion Beam"
+        },
+        "Tyre": {
+          "Tyre": "215/60 R17 (43.18)Precision Cut Alloy Wheels",
+          "Wheel Type": "Precision Cut Alloy Wheels"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Chrome Belt Line Garnish: Chrome Back Door Garnish",
+          "Roof Spoiler: Roof end Spoiler with LED High Mount Stop Lamp",
+          "Headlamps: Twin LED Headlamps with NEXTre' DRLs",
+          "LED Tail Stop Lamp: NEXTre Signature LED Tail Lamps",
+          "LED Projector Headlamps",
+          "ORVM with Turn Indicator: Body Colored ORVM with Turn Indicator",
+          "Antenna: Shark Fin Antenna",
+          "Rear Window Wiper & Washer",
+          "Door Handles: Body Colored",
+          "Side Sill Moulding: Wheelarch Cladding",
+          "Wheels Type: Precision Cut Alloy Wheels",
+          "Front Grille: Invicto NEXWave Grille with Sweeping Cross Bar Chrome Finish"
+        ],
+        "Interior": [
+          "Leatherette Steering Wheel",
+          "MID Display",
+          "Ambient Lighting",
+          "Digital Instrument Cluster: Digital & Analogue Speedometer Display Selection",
+          "Cup Holders",
+          "Adjustable Headrest",
+          "Rear Seat Adjustable Headrest",
+          "Height Adjustable Driver Seat",
+          "Luggage Lamp"
+        ],
+        "Safety & Security": [
+          "Driver Airbag",
+          "6 Airbags",
+          "ABS with EBD",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Side & Curtain Airbags",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "ISOFIX Child Seat Anchorages",
+          "Rear Parking Camera",
+          "High-Speed Alert System",
+          "Immobilizer (Anti-Theft Security System)",
+          "Adjustable Front Seatbelt Height Anchors",
+          "Front Ventilated Disc Brakes",
+          "Day/Night Adjustable IRVM: (Manual)",
+          "Day/Night Rear View Mirror: (Manual)"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Engine Push Start/Stop with Smart Key",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Electrically-Foldable ORVM",
+          "Steering-Mounted Audio Controls",
+          "Accessory socket",
+          "Auto Up/Down Power Window",
+          "Gear Shift Indicator",
+          "Rear AC Vents",
+          "Cruise Control",
+          "Automatic Climate Control",
+          "Central Locking",
+          "Front Centre Arm Rest with Utility Box",
+          "Manual Day/Night IRVM: (Manual)",
+          "Power-Steering"
+        ],
+        "Suzuki Connect": [
+          "Emergency Alerts",
+          "Breakdown Notification",
+          "Stolen Vehicle Notification and Tracking",
+          "Immobilizer Request",
+          "Tow Away Alert and Tracking",
+          "Geofence",
+          "Safe Time Alert",
+          "Valet Alert",
+          "Door Lock/Cancel Lock",
+          "Hazard Lights On/Off",
+          "Alarm On/Off",
+          "Smartwatch Connectivity",
+          "Suzuki Connect Skills for Amazon Alexa",
+          "Low Fuel & Low Range Alert",
+          "Over Speed Alert",
+          "Seat Belt Alert",
+          "Trip (Start & End)",
+          "Live Vehicle Tracking & Location sharing",
+          "Navigate to Car",
+          "View & Share Trip History",
+          "Guidance Around Destination"
+        ],
+        "Infotainment": [
+          "Gear Shift Indicator",
+          "Touch Screen Audio: 8\"(20.32cm)",
+          "Android Auto and Apple CarPlay",
+          "Steering Mounted Controls: Audio and Bluetooth",
+          "Fuel Consumption (Instantaneous and Average)",
+          "Digital Clock",
+          "Low Fuel Warning Light",
+          "Media Receiver (AM/FM/Bluetooth)",
+          "Multi Tripmeter: Tripmeter",
+          "Rear Seatbelt Reminder Warning Indicator"
+        ],
+        "Audio & Entertainment": [
+          "Bluetooth",
+          "Number of Speakers: 6.0",
+          "USB Connectivity/AUX",
+          "Steering mounted audio calling controls",
+          "Wireless Apple CarPlay"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/nexa/in/en/assets/cars/invicto/images/front-tilted-view/InvictoFrontTilted-335x185.png"
+    },
+    {
+      "code": "INAHDZ2",
+      "name": "Alpha Plus 7S",
+      "fuel": "Strong Hybrid",
+      "transmission": "Automatic",
+      "technology": [
+        "Strong Hybrid"
+      ],
+      "airbags": 6,
+      "ex_showroom_surat": {
+        "metallic": 2870060,
+        "non_metallic": 2879360
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol/Hybrid",
+          "Fuel-Efficiency (km/l)*": "22.16 Km/l*",
+          "Fuel Tank Capacity (L)": "52"
+        },
+        "Dimensions": {
+          "Length (mm)": "4755",
+          "Width (mm)": "1850",
+          "Height (mm)": "1790",
+          "Wheelbase (mm)": "2850",
+          "Seating Capacity (nos.)": "7",
+          "Kerb Weight (Kg)": "1685 kg",
+          "Gross Vehicle Weight (Kg)": "2320 Kg"
+        },
+        "Engine": {
+          "Displacement (cc)": "1987 cc",
+          "Max Power (1 KW =1.35962 PS)": "112kW @ 6000 rpm ",
+          "Max Torque (Nm @ rpm)": "188 Nm @ 4400-5200"
+        },
+        "Transmission": {
+          "Transmission Type": "e-CVT",
+          "Drive Type": "2WD"
+        },
+        "Brakes": {
+          "Front": "Ventilated Disc",
+          "Rear": "Solid Disc"
+        },
+        "Suspension": {
+          "Front Suspension": "Macpherson Strut",
+          "Rear Suspension": "Torsion Beam"
+        },
+        "Tyre": {
+          "Tyre": "215/60 R17 (43.18)Precision Cut Alloy Wheels",
+          "Wheel Type": "Precision Cut Alloy Wheels"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Chrome Belt Line Garnish: Chrome Back Door Garnish",
+          "Roof Spoiler: Roof end Spoiler with LED High Mount Stop Lamp",
+          "Headlamps: Twin LED Headlamps with NEXTre' DRLs",
+          "LED Tail Stop Lamp: NEXTre Signature LED Tail Lamps",
+          "LED Projector Headlamps",
+          "ORVM with Turn Indicator: Body Colored ORVM with Turn Indicator",
+          "Antenna: Shark Fin Antenna",
+          "Rear Window Wiper & Washer",
+          "Panoramic Sunroof",
+          "Door Handles: Chrome Finish",
+          "Side Sill Moulding: Wheelarch Cladding",
+          "Wheels Type: Precision Cut Alloy Wheels",
+          "Front Grille: Invicto NEXWave Grille with Sweeping Cross Bar Chrome Finish"
+        ],
+        "Interior": [
+          "Leatherette Steering Wheel",
+          "MID Display",
+          "Ambient Lighting",
+          "Digital Instrument Cluster: Digital & Analogue Speedometer Display Selection",
+          "Cup Holders",
+          "Adjustable Headrest",
+          "Rear Seat Adjustable Headrest",
+          "Height Adjustable Driver Seat",
+          "Luggage Lamp"
+        ],
+        "Safety & Security": [
+          "Driver Airbag",
+          "6 Airbags",
+          "ABS with EBD",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Side & Curtain Airbags",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "ISOFIX Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "Rear Parking Camera",
+          "Tyre-Pressure Monitoring System (TPMS)",
+          "High-Speed Alert System",
+          "Immobilizer (Anti-Theft Security System)",
+          "Rear Window Defogger",
+          "Adjustable Front Seatbelt Height Anchors",
+          "Front Ventilated Disc Brakes",
+          "Day/Night Adjustable IRVM: (Automatic)",
+          "360 View Camera",
+          "Day/Night Rear View Mirror: (Automatic)"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Engine Push Start/Stop with Smart Key",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Electrically-Foldable ORVM",
+          "Steering-Mounted Audio Controls",
+          "Accessory socket",
+          "Auto Up/Down Power Window",
+          "Rear Defogger",
+          "Gear Shift Indicator",
+          "Rear AC Vents",
+          "Cruise Control",
+          "Automatic Climate Control",
+          "Central Locking",
+          "8-Way Power Adjustable Driver Seat with Memory Function",
+          "Front Centre Arm Rest with Utility Box",
+          "2nd Row Captain Seats with Walk-in Slide & Recline",
+          "Front Ventilated Seats (Driver & Co-driver)",
+          "Manual Day/Night IRVM: (Automatic)",
+          "Rear Centre Armrest (With Cup Holder)",
+          "Power-Steering"
+        ],
+        "Suzuki Connect": [
+          "Emergency Alerts",
+          "Breakdown Notification",
+          "Stolen Vehicle Notification and Tracking",
+          "Immobilizer Request",
+          "Tow Away Alert and Tracking",
+          "Geofence",
+          "Safe Time Alert",
+          "Valet Alert",
+          "Remote AC Control",
+          "Door Lock/Cancel Lock",
+          "Hazard Lights On/Off",
+          "Alarm On/Off",
+          "Smartwatch Connectivity",
+          "Suzuki Connect Skills for Amazon Alexa",
+          "Low Fuel & Low Range Alert",
+          "Over Speed Alert",
+          "Seat Belt Alert",
+          "Trip (Start & End)",
+          "Live Vehicle Tracking & Location sharing",
+          "Navigate to Car",
+          "View & Share Trip History",
+          "Guidance Around Destination"
+        ],
+        "Infotainment": [
+          "Gear Shift Indicator",
+          "Touch Screen Audio: 10.1 (25.65cm)",
+          "Android Auto and Apple CarPlay",
+          "Steering Mounted Controls: Audio and Bluetooth",
+          "Fuel Consumption (Instantaneous and Average)",
+          "Digital Clock",
+          "Low Fuel Warning Light",
+          "Media Receiver (AM/FM/Bluetooth)",
+          "Multi Tripmeter: Tripmeter",
+          "Rear Seatbelt Reminder Warning Indicator"
+        ],
+        "Audio & Entertainment": [
+          "Bluetooth",
+          "Number of Speakers: 6.0",
+          "USB Connectivity/AUX",
+          "Steering mounted audio calling controls",
+          "Wireless Apple CarPlay"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/nexa/in/en/assets/cars/invicto/images/front-tilted-view/InvictoFrontTilted-335x185.png"
+    }
+  ],
+  "fetched_on": "2026-10-30"
+}

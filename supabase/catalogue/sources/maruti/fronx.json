@@ -1,0 +1,1671 @@
+{
+  "brand": "Maruti Suzuki",
+  "model": "Fronx",
+  "slug": "fronx",
+  "model_code": "FR",
+  "channel": "Nexa",
+  "official_page": "https://www.nexaexperience.com/fronx",
+  "brochure_pdf": "https://www.nexaexperience.com/pdf-viewer?pdf=/content/dam/msil/nexa/in/en/assets/cars/fronx/documents/NEXA-Fronx-Brochure.pdf",
+  "price_city": "Surat, Gujarat",
+  "ex_showroom_min": 690090,
+  "ex_showroom_max": 1203090,
+  "fuel_types": [
+    "CNG",
+    "Petrol"
+  ],
+  "transmissions": [
+    "Automatic",
+    "Manual"
+  ],
+  "colours": [
+    {
+      "name": "Splendid Silver",
+      "hex": [
+        "#B6BABD"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Sigma MT",
+        "Sigma CNG",
+        "Delta MT",
+        "Delta CNG",
+        "Delta AGS ",
+        "Delta Plus",
+        "Delta Plus AGS ",
+        " Delta Plus DiTC",
+        " Zeta MT",
+        " Zeta AT",
+        " Alpha MT",
+        " Alpha AT"
+      ]
+    },
+    {
+      "name": "NEXA Blue (Celestial)",
+      "hex": [
+        "#163472"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Sigma MT",
+        "Sigma CNG",
+        "Delta MT",
+        "Delta CNG",
+        "Delta AGS ",
+        "Delta Plus",
+        "Delta Plus AGS ",
+        " Delta Plus DiTC",
+        " Zeta MT",
+        " Zeta AT",
+        " Alpha MT",
+        " Alpha AT"
+      ]
+    },
+    {
+      "name": "Grandeur Grey",
+      "hex": [
+        "#464848"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Sigma MT",
+        "Sigma CNG",
+        "Delta MT",
+        "Delta CNG",
+        "Delta AGS ",
+        "Delta Plus",
+        "Delta Plus AGS ",
+        " Delta Plus DiTC",
+        " Zeta MT",
+        " Zeta AT",
+        " Alpha MT",
+        " Alpha AT"
+      ]
+    },
+    {
+      "name": "Arctic White",
+      "hex": [
+        "#f9f9f9"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Sigma MT",
+        "Sigma CNG",
+        "Delta MT",
+        "Delta CNG",
+        "Delta AGS ",
+        "Delta Plus",
+        "Delta Plus AGS ",
+        " Delta Plus DiTC",
+        " Zeta MT",
+        " Zeta AT",
+        " Alpha MT",
+        " Alpha AT"
+      ]
+    },
+    {
+      "name": "Opulent Red",
+      "hex": [
+        "#AC0F0F"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Delta MT",
+        "Delta CNG",
+        "Delta AGS ",
+        "Delta Plus",
+        "Delta Plus AGS ",
+        " Delta Plus DiTC",
+        " Zeta MT",
+        " Zeta AT",
+        " Alpha AT"
+      ]
+    },
+    {
+      "name": "Earthen Brown",
+      "hex": [
+        "#95897b"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Delta MT",
+        "Delta CNG",
+        "Delta AGS ",
+        "Delta Plus",
+        "Delta Plus AGS ",
+        " Delta Plus DiTC",
+        " Zeta MT",
+        " Zeta AT",
+        " Alpha AT"
+      ]
+    },
+    {
+      "name": "Bluish Black",
+      "hex": [
+        "#171717"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Delta MT",
+        "Delta CNG",
+        "Delta AGS ",
+        "Delta Plus",
+        "Delta Plus AGS ",
+        " Delta Plus DiTC",
+        " Zeta MT",
+        " Zeta AT",
+        " Alpha MT",
+        " Alpha AT"
+      ]
+    },
+    {
+      "name": "Splendid Silver with Bluish Black Roof",
+      "hex": [
+        "#B6BABD",
+        "#171717"
+      ],
+      "paint": "dual_tone",
+      "variants": [
+        " Alpha MT",
+        " Alpha AT"
+      ]
+    },
+    {
+      "name": "Opulent Red + Black",
+      "hex": [
+        "#AC0F0F",
+        "#171717"
+      ],
+      "paint": "dual_tone",
+      "variants": [
+        " Alpha MT",
+        " Alpha AT"
+      ]
+    },
+    {
+      "name": "Earthen Brown with Bluish Black Roof",
+      "hex": [
+        "#95897b",
+        "#171717"
+      ],
+      "paint": "dual_tone",
+      "variants": [
+        " Alpha MT",
+        " Alpha AT"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "code": "FRR4IL1",
+      "name": "Sigma MT",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": 6,
+      "ex_showroom_surat": {
+        "metallic": 690090,
+        "non_metallic": 690090
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel-Efficiency (km/l)*": "21.79 Km/l*",
+          "Fuel Tank Capacity (L)": "37"
+        },
+        "Dimensions": {
+          "Length (mm)": "3995",
+          "Width (mm)": "1765",
+          "Height (mm)": "1550",
+          "Wheelbase (mm)": "2520",
+          "Turning Radius (m)": "4.9",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "965 - 970 (MT)",
+          "Gross Vehicle Weight (Kg)": "1450",
+          "Boot Space (L)": "308"
+        },
+        "Engine": {
+          "Engine Type": "1.2L Dual Jet, Dual VVT",
+          "Displacement (cc)": "1197 cc",
+          "Max Power (1 KW =1.35962 PS)": "66 kW@6000rpm or 89.73 PS@6000rpm",
+          "Max Torque (Nm @ rpm)": "113@4400"
+        },
+        "Transmission": {
+          "Transmission Type": "5MT"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut",
+          "Rear Suspension": "Torsion Beam"
+        },
+        "Tyre": {
+          "Tyre": "195/60 R16",
+          "Wheel Type": "Steel"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Roof Spoiler",
+          "Skid Plate (Front & Rear)",
+          "Headlamps: Halogen Projector",
+          "Antenna",
+          "Wheels Type: Steel",
+          "Front Grille: NEXWave grille with chrome finish",
+          "Full Wheel Covers"
+        ],
+        "Interior": [
+          "Dual Tone Interior",
+          "Adjustable Headrest",
+          "Rear Seat Adjustable Headrest"
+        ],
+        "Safety": [
+          "Driver Airbag",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "ISOFIX Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "Rear Window Defogger",
+          "Front Ventilated Disc Brakes: Disc",
+          "Day/Night Rear View Mirror: Manual"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Idle Start Stop (ISS)",
+          "Auto Up/Down Power Window",
+          "Gear Shift Indicator",
+          "Automatic Climate Control",
+          "Power-Steering"
+        ],
+        "Infotainment": [
+          "Gear Shift Indicator",
+          "Steering Mounted Controls: Audio and Bluetooth",
+          "Media Receiver (AM/FM/Bluetooth)"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/nexa/in/en/assets/cars/fronx/images/front-tilted-view/335x185.png"
+    },
+    {
+      "code": "FRR4IV1",
+      "name": "Delta MT",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": 6,
+      "ex_showroom_surat": {
+        "metallic": 775090,
+        "non_metallic": 775090
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel-Efficiency (km/l)*": "21.79 Km/l*",
+          "Fuel Tank Capacity (L)": "37"
+        },
+        "Dimensions": {
+          "Length (mm)": "3995",
+          "Width (mm)": "1765",
+          "Height (mm)": "1550",
+          "Wheelbase (mm)": "2520",
+          "Turning Radius (m)": "4.9",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "965 - 970 (MT)",
+          "Gross Vehicle Weight (Kg)": "1450",
+          "Boot Space (L)": "308"
+        },
+        "Engine": {
+          "Engine Type": "1.2L Dual Jet, Dual VVT",
+          "Displacement (cc)": "1197 cc",
+          "Max Power (1 KW =1.35962 PS)": "66 kW@6000rpm or 89.73 PS@6000rpm",
+          "Max Torque (Nm @ rpm)": "113@4400"
+        },
+        "Transmission": {
+          "Transmission Type": "5MT"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut",
+          "Rear Suspension": "Torsion Beam"
+        },
+        "Tyre": {
+          "Tyre": "195/60 R16",
+          "Wheel Type": "Steel"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Roof Spoiler",
+          "Skid Plate (Front & Rear)",
+          "Headlamps: Halogen Projector",
+          "ORVM with Turn Indicator",
+          "Antenna",
+          "Wheels Type: Steel",
+          "Front Grille: NEXWave grille with chrome finish",
+          "Full Wheel Covers"
+        ],
+        "Interior": [
+          "Dual Tone Interior",
+          "Adjustable Headrest",
+          "Rear Seat Adjustable Headrest",
+          "60:40 Folding Rear Seats",
+          "Rear Parcel Tray"
+        ],
+        "Safety & Security": [
+          "Driver Airbag",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "ISOFIX Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "Rear Window Defogger",
+          "Front Ventilated Disc Brakes: Disc"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Electrically-Foldable ORVM",
+          "Steering-Mounted Audio Controls",
+          "Idle Start Stop (ISS)",
+          "Auto Up/Down Power Window",
+          "Gear Shift Indicator",
+          "Automatic Climate Control",
+          "Power-Steering"
+        ],
+        "Infotainment": [
+          "Gear Shift Indicator",
+          "Android Auto and Apple CarPlay: 17.78cm (SmartPlay Pro)",
+          "Steering Mounted Controls: Audio and Bluetooth",
+          "Media Receiver (AM/FM/Bluetooth)"
+        ],
+        "Audio & Entertainment": [
+          "SmartPlay Pro: 17.78cm (SmartPlay Pro)",
+          "Bluetooth",
+          "Number of Speakers: 4.0",
+          "USB Connectivity/AUX",
+          "Over the Air (OTA) System Upgrades",
+          "Wireless Android Auto & Apple CarPlay",
+          "Steering mounted audio calling controls"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/nexa/in/en/assets/cars/fronx/images/front-tilted-view/335x185.png"
+    },
+    {
+      "code": "FRRCIL1",
+      "name": "Sigma CNG",
+      "fuel": "CNG",
+      "transmission": "Manual",
+      "technology": [
+        "S-CNG"
+      ],
+      "airbags": 6,
+      "ex_showroom_surat": {
+        "metallic": 794090,
+        "non_metallic": 794090
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "CNG",
+          "Fuel-Efficiency (km/l)*": "28.51 km/kg",
+          "Fuel Tank Capacity (L)": "Petrol: 37 CNG: 55L (Water Equivalent)"
+        },
+        "Dimensions": {
+          "Length (mm)": "3995",
+          "Width (mm)": "1765",
+          "Height (mm)": "1550",
+          "Wheelbase (mm)": "2520",
+          "Turning Radius (m)": "4.9",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "1050Kg - 1060Kg",
+          "Gross Vehicle Weight (Kg)": "1480",
+          "Boot Space (L)": "308"
+        },
+        "Engine": {
+          "Engine Type": "1.2L Dual Jet, Dual VVT",
+          "Displacement (cc)": "1197 cc",
+          "Max Power (1 KW =1.35962 PS)": "66 kW@6000rpm or 89.73 PS@6000rpm (Petrol) 57 kW@6000rpm*** or 77.5 Ps @6000 rpm (CNG)",
+          "Max Torque (Nm @ rpm)": "113@4 400 (Petrol) 98.5@4 300 (CNG)***"
+        },
+        "Transmission": {
+          "Transmission Type": "5MT"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut",
+          "Rear Suspension": "Torsion Beam"
+        },
+        "Tyre": {
+          "Tyre": "195/60 R16",
+          "Wheel Type": "Steel"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Roof Spoiler",
+          "Skid Plate (Front & Rear)",
+          "Headlamps: Halogen Projector",
+          "Antenna",
+          "Wheels Type: Steel",
+          "Front Grille: NEXWave grille with chrome finish",
+          "Full Wheel Covers"
+        ],
+        "Interior": [
+          "Dual Tone Interior",
+          "Adjustable Headrest",
+          "Rear Seat Adjustable Headrest"
+        ],
+        "Safety & Security": [
+          "Driver Airbag",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "ISOFIX Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "Rear Window Defogger",
+          "Front Ventilated Disc Brakes: Disc"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Auto Up/Down Power Window",
+          "Gear Shift Indicator",
+          "Automatic Climate Control",
+          "Power-Steering"
+        ],
+        "Infotainment": [
+          "Gear Shift Indicator",
+          "Steering Mounted Controls: Audio and Bluetooth",
+          "Media Receiver (AM/FM/Bluetooth)"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/nexa/in/en/assets/cars/fronx/images/front-tilted-view/335x185.png"
+    },
+    {
+      "code": "FRR4IVA",
+      "name": "Delta Plus",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": 6,
+      "ex_showroom_surat": {
+        "metallic": 814690,
+        "non_metallic": 814690
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel-Efficiency (km/l)*": "21.79 Km/l*",
+          "Fuel Tank Capacity (L)": "37"
+        },
+        "Dimensions": {
+          "Length (mm)": "3995",
+          "Width (mm)": "1765",
+          "Height (mm)": "1550",
+          "Wheelbase (mm)": "2520",
+          "Turning Radius (m)": "4.9",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "965 - 970 (MT)",
+          "Gross Vehicle Weight (Kg)": "1450",
+          "Boot Space (L)": "308"
+        },
+        "Engine": {
+          "Engine Type": "1.2L Dual Jet, Dual VVT",
+          "Displacement (cc)": "1197 cc",
+          "Max Power (1 KW =1.35962 PS)": "66 kW@6000rpm or 89.73 PS@6000rpm",
+          "Max Torque (Nm @ rpm)": "113@4400"
+        },
+        "Transmission": {
+          "Transmission Type": "5MT"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut",
+          "Rear Suspension": "Torsion Beam"
+        },
+        "Tyre": {
+          "Tyre": "195/60 R16",
+          "Wheel Type": "Painted"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Roof Spoiler",
+          "Skid Plate (Front & Rear)",
+          "Headlamps: LED Multi-reflector",
+          "LED Daytime Running Lamps (DRL)",
+          "Follow-Me Home Headlamp",
+          "ORVM with Turn Indicator",
+          "Antenna",
+          "Wheels Type: Painted",
+          "Front Grille: NEXWave grille with chrome finish"
+        ],
+        "Interior": [
+          "Dual Tone Interior",
+          "Adjustable Headrest",
+          "Rear Seat Adjustable Headrest",
+          "60:40 Folding Rear Seats",
+          "Rear Parcel Tray"
+        ],
+        "Safety": [
+          "Driver Airbag",
+          "6 Airbags",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Side & Curtain Airbags",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "ISOFIX Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "Rear Window Defogger",
+          "Front Ventilated Disc Brakes: Disc"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Electrically-Foldable ORVM",
+          "Steering-Mounted Audio Controls",
+          "Idle Start Stop (ISS)",
+          "Auto Up/Down Power Window",
+          "Gear Shift Indicator",
+          "Automatic Climate Control",
+          "Power-Steering"
+        ],
+        "Infotainment": [
+          "Gear Shift Indicator",
+          "Android Auto and Apple CarPlay: 17.78cm (SmartPlay Pro)",
+          "Steering Mounted Controls: Audio and Bluetooth",
+          "Media Receiver (AM/FM/Bluetooth)"
+        ],
+        "Audio & Entertainment": [
+          "SmartPlay Pro: 17.78cm (SmartPlay Pro)",
+          "Bluetooth",
+          "Number of Speakers: 4.0",
+          "USB Connectivity/AUX",
+          "Over the Air (OTA) System Upgrades",
+          "Wireless Android Auto & Apple CarPlay",
+          "Steering mounted audio calling controls"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/nexa/in/en/assets/cars/fronx/images/front-tilted-view/335x185.png"
+    },
+    {
+      "code": "FRA4IV1",
+      "name": "Delta AGS ",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": 6,
+      "ex_showroom_surat": {
+        "metallic": 825090,
+        "non_metallic": 825090
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel-Efficiency (km/l)*": "22.89 Km/l*",
+          "Fuel Tank Capacity (L)": "37"
+        },
+        "Dimensions": {
+          "Length (mm)": "3995",
+          "Width (mm)": "1765",
+          "Height (mm)": "1550",
+          "Wheelbase (mm)": "2520",
+          "Turning Radius (m)": "4.9",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "975 (AMT)",
+          "Gross Vehicle Weight (Kg)": "1450",
+          "Boot Space (L)": "308"
+        },
+        "Engine": {
+          "Engine Type": "1.2L Dual Jet, Dual VVT",
+          "Displacement (cc)": "1197 cc",
+          "Max Power (1 KW =1.35962 PS)": "66 kW@6000rpm or 89.73 PS@6000rpm",
+          "Max Torque (Nm @ rpm)": "113@4400"
+        },
+        "Transmission": {
+          "Transmission Type": "5AMT"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut",
+          "Rear Suspension": "Torsion Beam"
+        },
+        "Tyre": {
+          "Tyre": "195/60 R16",
+          "Wheel Type": "Steel"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Roof Spoiler",
+          "Skid Plate (Front & Rear)",
+          "Headlamps: Halogen Projector",
+          "ORVM with Turn Indicator",
+          "Antenna",
+          "Wheels Type: Steel",
+          "Front Grille: NEXWave grille with chrome finish",
+          "Full Wheel Covers"
+        ],
+        "Interior": [
+          "Dual Tone Interior",
+          "Adjustable Headrest",
+          "Rear Seat Adjustable Headrest",
+          "Rear Parcel Tray"
+        ],
+        "Safety & Security": [
+          "Driver Airbag",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "ISOFIX Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "Rear Window Defogger",
+          "Front Ventilated Disc Brakes: Disc"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Electrically-Foldable ORVM",
+          "Steering-Mounted Audio Controls",
+          "Idle Start Stop (ISS)",
+          "Auto Up/Down Power Window",
+          "Automatic Climate Control",
+          "Power-Steering"
+        ],
+        "Infotainment": [
+          "Android Auto and Apple CarPlay: 17.78cm (SmartPlay Pro)",
+          "Steering Mounted Controls: Audio and Bluetooth",
+          "Media Receiver (AM/FM/Bluetooth)"
+        ],
+        "Audio & Entertainment": [
+          "SmartPlay Pro: 17.78cm (SmartPlay Pro)",
+          "Bluetooth",
+          "Number of Speakers: 4.0",
+          "USB Connectivity/AUX",
+          "Over the Air (OTA) System Upgrades",
+          "Wireless Android Auto & Apple CarPlay",
+          "Steering mounted audio calling controls"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/nexa/in/en/assets/cars/fronx/images/front-tilted-view/335x185.png"
+    },
+    {
+      "code": "FRA4IVA",
+      "name": "Delta Plus AGS ",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": 6,
+      "ex_showroom_surat": {
+        "metallic": 864690,
+        "non_metallic": 864690
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel-Efficiency (km/l)*": "22.89 Km/l*",
+          "Fuel Tank Capacity (L)": "37"
+        },
+        "Dimensions": {
+          "Length (mm)": "3995",
+          "Width (mm)": "1765",
+          "Height (mm)": "1550",
+          "Wheelbase (mm)": "2520",
+          "Turning Radius (m)": "4.9",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "975 (AMT)",
+          "Gross Vehicle Weight (Kg)": "1450",
+          "Boot Space (L)": "308"
+        },
+        "Engine": {
+          "Engine Type": "1.2L Dual Jet, Dual VVT",
+          "Displacement (cc)": "1197 cc",
+          "Max Power (1 KW =1.35962 PS)": "66 kW@6000rpm or 89.73 PS@6000rpm",
+          "Max Torque (Nm @ rpm)": "113@4400"
+        },
+        "Transmission": {
+          "Transmission Type": "5AMT"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut",
+          "Rear Suspension": "Torsion Beam"
+        },
+        "Tyre": {
+          "Tyre": "195/60 R16",
+          "Wheel Type": "Painted"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Roof Spoiler",
+          "Skid Plate (Front & Rear)",
+          "Headlamps: LED Multi-reflector",
+          "LED Daytime Running Lamps (DRL)",
+          "Follow-Me Home Headlamp",
+          "LED Projector Headlamps",
+          "ORVM with Turn Indicator",
+          "Antenna",
+          "Wheels Type: Painted",
+          "Front Grille: NEXWave grille with chrome finish"
+        ],
+        "Interior": [
+          "Dual Tone Interior",
+          "Adjustable Headrest",
+          "Rear Seat Adjustable Headrest",
+          "60:40 Folding Rear Seats",
+          "Rear Parcel Tray"
+        ],
+        "Safety": [
+          "Driver Airbag",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "ISOFIX Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "Rear Window Defogger",
+          "Front Ventilated Disc Brakes: Disc"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Electrically-Foldable ORVM",
+          "Steering-Mounted Audio Controls",
+          "Idle Start Stop (ISS)",
+          "Auto Up/Down Power Window",
+          "Automatic Climate Control",
+          "Power-Steering"
+        ],
+        "Infotainment": [
+          "Android Auto and Apple CarPlay: 17.78cm (SmartPlay Pro)",
+          "Steering Mounted Controls: Audio and Bluetooth",
+          "Media Receiver (AM/FM/Bluetooth)"
+        ],
+        "Audio & Entertainment": [
+          "SmartPlay Pro: 17.78cm (SmartPlay Pro)",
+          "Bluetooth",
+          "Number of Speakers: 4.0",
+          "USB Connectivity/AUX",
+          "Over the Air (OTA) System Upgrades",
+          "Wireless Android Auto & Apple CarPlay",
+          "Steering mounted audio calling controls"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/nexa/in/en/assets/cars/fronx/images/front-tilted-view/335x185.png"
+    },
+    {
+      "code": "FRRCIV1",
+      "name": "Delta CNG",
+      "fuel": "CNG",
+      "transmission": "Manual",
+      "technology": [
+        "S-CNG"
+      ],
+      "airbags": 6,
+      "ex_showroom_surat": {
+        "metallic": 874090,
+        "non_metallic": 874090
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "CNG",
+          "Fuel-Efficiency (km/l)*": "28.51 km/kg",
+          "Fuel Tank Capacity (L)": "Petrol: 37 CNG: 55L (Water Equivalent)"
+        },
+        "Dimensions": {
+          "Length (mm)": "3995",
+          "Width (mm)": "1765",
+          "Height (mm)": "1550",
+          "Wheelbase (mm)": "2520",
+          "Turning Radius (m)": "4.9",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "1050Kg - 1060Kg",
+          "Gross Vehicle Weight (Kg)": "1480",
+          "Boot Space (L)": "308"
+        },
+        "Engine": {
+          "Engine Type": "1.2L Dual Jet, Dual VVT",
+          "Displacement (cc)": "1197 cc",
+          "Max Power (1 KW =1.35962 PS)": "66 kW@6000rpm or 89.73 PS@6000rpm (Petrol) 57 kW@6000rpm*** or 77.5 Ps @6000 rpm (CNG)",
+          "Max Torque (Nm @ rpm)": "113@4 400 (Petrol) 98.5@4 300 (CNG)***"
+        },
+        "Transmission": {
+          "Transmission Type": "5MT"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut",
+          "Rear Suspension": "Torsion Beam"
+        },
+        "Tyre": {
+          "Tyre": "195/60 R16",
+          "Wheel Type": "Steel"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Roof Spoiler",
+          "Skid Plate (Front & Rear)",
+          "Headlamps: Halogen Projector",
+          "ORVM with Turn Indicator",
+          "Antenna",
+          "Wheels Type: Steel",
+          "Front Grille: NEXWave grille with chrome finish",
+          "Full Wheel Covers"
+        ],
+        "Interior": [
+          "Dual Tone Interior",
+          "Adjustable Headrest",
+          "Rear Seat Adjustable Headrest",
+          "Rear Parcel Tray"
+        ],
+        "Safety & Security": [
+          "Driver Airbag",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "ISOFIX Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "Rear Window Defogger",
+          "Front Ventilated Disc Brakes: Disc"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Electrically-Foldable ORVM",
+          "Steering-Mounted Audio Controls",
+          "Auto Up/Down Power Window",
+          "Gear Shift Indicator",
+          "Automatic Climate Control",
+          "Power-Steering"
+        ],
+        "Infotainment": [
+          "Gear Shift Indicator",
+          "Android Auto and Apple CarPlay: 17.78cm (SmartPlay Pro)",
+          "Steering Mounted Controls: Audio and Bluetooth",
+          "Media Receiver (AM/FM/Bluetooth)"
+        ],
+        "Audio & Entertainment": [
+          "SmartPlay Pro: 17.78cm (SmartPlay Pro)",
+          "Bluetooth",
+          "Number of Speakers: 4.0",
+          "USB Connectivity/AUX",
+          "Over the Air (OTA) System Upgrades",
+          "Wireless Android Auto & Apple CarPlay",
+          "Steering mounted audio calling controls"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/nexa/in/en/assets/cars/fronx/images/front-tilted-view/335x185.png"
+    },
+    {
+      "code": "FRR4JVA",
+      "name": " Delta Plus DiTC",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "technology": [
+        "Smart Hybrid"
+      ],
+      "airbags": 6,
+      "ex_showroom_surat": {
+        "metallic": 897090,
+        "non_metallic": 897090
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel-Efficiency (km/l)*": "21.5 Km/l*",
+          "Fuel Tank Capacity (L)": "37"
+        },
+        "Dimensions": {
+          "Length (mm)": "3995",
+          "Width (mm)": "1765",
+          "Height (mm)": "1550",
+          "Wheelbase (mm)": "2520",
+          "Turning Radius (m)": "4.9",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "1015 - 1030 (MT)",
+          "Gross Vehicle Weight (Kg)": "1480",
+          "Boot Space (L)": "308"
+        },
+        "Engine": {
+          "Engine Type": "1.0L Turbo Boosterjet",
+          "Displacement (cc)": "998 cc",
+          "Max Power (1 KW =1.35962 PS)": "73.6 kW@5500rpm* or 100.06 PS@5500rpm*",
+          "Max Torque (Nm @ rpm)": "147.6@2000-4500*"
+        },
+        "Transmission": {
+          "Transmission Type": "5MT"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut",
+          "Rear Suspension": "Torsion Beam"
+        },
+        "Tyre": {
+          "Tyre": "195/60 R16",
+          "Wheel Type": "Painted"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Roof Spoiler",
+          "Skid Plate (Front & Rear)",
+          "Headlamps: LED Multi-reflector",
+          "LED Daytime Running Lamps (DRL)",
+          "Follow-Me Home Headlamp",
+          "LED Projector Headlamps",
+          "ORVM with Turn Indicator",
+          "Antenna",
+          "Wheels Type: Painted",
+          "Front Grille: NEXWave grille with chrome finish"
+        ],
+        "Interior": [
+          "Dual Tone Interior",
+          "Adjustable Headrest",
+          "Rear Seat Adjustable Headrest",
+          "60:40 Folding Rear Seats",
+          "Rear Parcel Tray"
+        ],
+        "Safety": [
+          "Driver Airbag",
+          "6 Airbags",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Side & Curtain Airbags",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "ISOFIX Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "Rear Window Defogger",
+          "Front Ventilated Disc Brakes: Disc"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Electrically-Foldable ORVM",
+          "Steering-Mounted Audio Controls",
+          "Idle Start Stop (ISS)",
+          "Auto Up/Down Power Window",
+          "Gear Shift Indicator",
+          "Automatic Climate Control",
+          "Power-Steering"
+        ],
+        "Infotainment": [
+          "Gear Shift Indicator",
+          "Android Auto and Apple CarPlay: 17.78cm (SmartPlay Pro)",
+          "Steering Mounted Controls: Audio and Bluetooth",
+          "Media Receiver (AM/FM/Bluetooth)"
+        ],
+        "Audio & Entertainment": [
+          "SmartPlay Pro: 17.78cm (SmartPlay Pro)",
+          "Bluetooth",
+          "Number of Speakers: 4.0",
+          "USB Connectivity/AUX",
+          "Over the Air (OTA) System Upgrades",
+          "Wireless Android Auto & Apple CarPlay",
+          "Steering mounted audio calling controls"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/nexa/in/en/assets/cars/fronx/images/front-tilted-view/335x185.png"
+    },
+    {
+      "code": "FRR4JZ1",
+      "name": " Zeta MT",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "technology": [
+        "Smart Hybrid"
+      ],
+      "airbags": 6,
+      "ex_showroom_surat": {
+        "metallic": 976090,
+        "non_metallic": 976090
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel-Efficiency (km/l)*": "21.5 Km/l*",
+          "Fuel Tank Capacity (L)": "37"
+        },
+        "Dimensions": {
+          "Length (mm)": "3995",
+          "Width (mm)": "1765",
+          "Height (mm)": "1550",
+          "Wheelbase (mm)": "2520",
+          "Turning Radius (m)": "4.9",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "1015 - 1030 (MT)",
+          "Gross Vehicle Weight (Kg)": "1480",
+          "Boot Space (L)": "308"
+        },
+        "Engine": {
+          "Engine Type": "1.0L Turbo Boosterjet",
+          "Displacement (cc)": "998",
+          "Max Power (1 KW =1.35962 PS)": "73.6 kW@5500rpm* or 100.06 PS@5500rpm*",
+          "Max Torque (Nm @ rpm)": "147.6@2000-4500*"
+        },
+        "Transmission": {
+          "Transmission Type": "5MT"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut",
+          "Rear Suspension": "Torsion Beam"
+        },
+        "Tyre": {
+          "Tyre": "195/60 R16",
+          "Wheel Type": "Painted"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Roof Spoiler",
+          "Skid Plate (Front & Rear)",
+          "Headlamps: LED Multi-reflector",
+          "LED Daytime Running Lamps (DRL)",
+          "Follow-Me Home Headlamp",
+          "LED Projector Headlamps",
+          "ORVM with Turn Indicator",
+          "Antenna",
+          "Rear Window Wiper & Washer",
+          "Wheels Type: Painted",
+          "Front Grille: NEXWave grille with chrome finish"
+        ],
+        "Interior": [
+          "MID Display",
+          "Dual Tone Interior",
+          "Adjustable Headrest",
+          "Rear Seat Adjustable Headrest",
+          "Height Adjustable Driver Seat",
+          "60:40 Folding Rear Seats",
+          "Sliding Armrest with Utility Box (Front Row)",
+          "Rear Parcel Tray"
+        ],
+        "Safety & Security": [
+          "Driver Airbag",
+          "6 Airbags",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Side & Curtain Airbags",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "ISOFIX Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "Rear Parking Camera",
+          "High-Speed Alert System",
+          "Immobilizer (Anti-Theft Security System)",
+          "Rear Window Defogger",
+          "Front Ventilated Disc Brakes: Disc"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Engine Push Start/Stop with Smart Key",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Electrically-Foldable ORVM",
+          "Steering-Mounted Audio Controls",
+          "Idle Start Stop (ISS)",
+          "Auto Up/Down Power Window",
+          "Rear Defogger",
+          "Gear Shift Indicator",
+          "Wireless Charger",
+          "Rear AC Vents",
+          "Automatic Climate Control",
+          "Front Centre Arm Rest with Utility Box",
+          "Power-Steering"
+        ],
+        "Suzuki Connect": [
+          "Emergency Alerts",
+          "Breakdown Notification",
+          "Stolen Vehicle Notification and Tracking",
+          "Immobilizer Request",
+          "Tow Away Alert and Tracking",
+          "Geofence",
+          "Safe Time Alert",
+          "Valet Alert",
+          "Remote AC Control",
+          "Door Lock/Cancel Lock",
+          "Headlight Off",
+          "Hazard Lights On/Off",
+          "Alarm On/Off",
+          "Smartwatch Connectivity",
+          "Suzuki Connect Skills for Amazon Alexa",
+          "Low Fuel & Low Range Alert",
+          "Over Speed Alert",
+          "AC Idling",
+          "Seat Belt Alert",
+          "Battery Status",
+          "Trip (Start & End)",
+          "Live Vehicle Tracking & Location sharing",
+          "Navigate to Car",
+          "View & Share Trip History",
+          "Guidance Around Destination",
+          "Driving Score (Driving Behaviour)"
+        ],
+        "Infotainment": [
+          "Gear Shift Indicator",
+          "Android Auto and Apple CarPlay: 17.78cm (SmartPlay Pro)",
+          "Steering Mounted Controls: Audio and Bluetooth",
+          "Low Fuel Warning Light",
+          "Media Receiver (AM/FM/Bluetooth)"
+        ],
+        "Audio & Entertainment": [
+          "SmartPlay Pro: 17.78cm (SmartPlay Pro)",
+          "Bluetooth",
+          "Number of Speakers: 4.0",
+          "USB Connectivity/AUX",
+          "Over the Air (OTA) System Upgrades",
+          "Wireless Android Auto & Apple CarPlay",
+          "Steering mounted audio calling controls",
+          "Tweeters: 2"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/nexa/in/en/assets/cars/fronx/images/front-tilted-view/335x185.png"
+    },
+    {
+      "code": "FRR4JZ2",
+      "name": " Alpha MT",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "technology": [
+        "Smart Hybrid"
+      ],
+      "airbags": 6,
+      "ex_showroom_surat": {
+        "metallic": 1061090,
+        "non_metallic": 1061090,
+        "dual_tone": 1075090
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel-Efficiency (km/l)*": "21.5 Km/l*",
+          "Fuel Tank Capacity (L)": "37"
+        },
+        "Dimensions": {
+          "Length (mm)": "3995",
+          "Width (mm)": "1765",
+          "Height (mm)": "1550",
+          "Wheelbase (mm)": "2520",
+          "Turning Radius (m)": "4.9",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "1015 - 1030 (MT)",
+          "Gross Vehicle Weight (Kg)": "1480",
+          "Boot Space (L)": "308"
+        },
+        "Engine": {
+          "Engine Type": "1.0L Turbo Boosterjet",
+          "Displacement (cc)": "998 cc",
+          "Max Power (1 KW =1.35962 PS)": "73.6 kW@5500rpm* or 100.06 PS@5500rpm*",
+          "Max Torque (Nm @ rpm)": "147.6@2000-4500*"
+        },
+        "Transmission": {
+          "Transmission Type": "5MT"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut",
+          "Rear Suspension": "Torsion Beam"
+        },
+        "Tyre": {
+          "Tyre": "195/60 R16",
+          "Wheel Type": "Precision Cut Alloy Wheels"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Roof Spoiler",
+          "Skid Plate (Front & Rear)",
+          "Headlamps: LED Multi-reflector",
+          "LED Daytime Running Lamps (DRL)",
+          "Follow-Me Home Headlamp",
+          "LED Projector Headlamps",
+          "ORVM with Turn Indicator",
+          "Antenna",
+          "Rear Window Wiper & Washer",
+          "UV Cut Glass",
+          "Wheels Type: Precision Cut Alloy Wheels",
+          "Front Grille: NEXWave grille with chrome finish"
+        ],
+        "Interior": [
+          "Leatherette Steering Wheel",
+          "MID Display",
+          "Dual Tone Interior",
+          "Adjustable Headrest",
+          "Rear Seat Adjustable Headrest",
+          "Height Adjustable Driver Seat",
+          "60:40 Folding Rear Seats",
+          "Sliding Armrest with Utility Box (Front Row)",
+          "Rear Parcel Tray",
+          "Head Up Display"
+        ],
+        "Safety": [
+          "Driver Airbag",
+          "6 Airbags",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Side & Curtain Airbags",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "ISOFIX Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "High-Speed Alert System",
+          "Immobilizer (Anti-Theft Security System)",
+          "Rear Window Defogger",
+          "Front Ventilated Disc Brakes: Disc",
+          "360 View Camera"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Engine Push Start/Stop with Smart Key",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Electrically-Foldable ORVM: Auto",
+          "Steering-Mounted Audio Controls",
+          "Idle Start Stop (ISS)",
+          "Auto Up/Down Power Window",
+          "Rear Defogger",
+          "Gear Shift Indicator",
+          "Wireless Charger",
+          "Rear AC Vents",
+          "Cruise Control",
+          "Automatic Climate Control",
+          "Front Centre Arm Rest with Utility Box",
+          "Power-Steering"
+        ],
+        "Suzuki Connect": [
+          "Emergency Alerts",
+          "Breakdown Notification",
+          "Stolen Vehicle Notification and Tracking",
+          "Immobilizer Request",
+          "Tow Away Alert and Tracking",
+          "Geofence",
+          "Safe Time Alert",
+          "Valet Alert",
+          "Remote AC Control",
+          "Door Lock/Cancel Lock",
+          "Headlight Off",
+          "Hazard Lights On/Off",
+          "Alarm On/Off",
+          "Smartwatch Connectivity",
+          "Suzuki Connect Skills for Amazon Alexa",
+          "Low Fuel & Low Range Alert",
+          "Over Speed Alert",
+          "AC Idling",
+          "Seat Belt Alert",
+          "Battery Status",
+          "Trip (Start & End)",
+          "Live Vehicle Tracking & Location sharing",
+          "Navigate to Car",
+          "View & Share Trip History",
+          "Guidance Around Destination",
+          "Driving Score (Driving Behaviour)"
+        ],
+        "Infotainment": [
+          "Gear Shift Indicator",
+          "Android Auto and Apple CarPlay: 22.86cm (SmartPlay Pro+)",
+          "Steering Mounted Controls: Audio and Bluetooth",
+          "Low Fuel Warning Light",
+          "Media Receiver (AM/FM/Bluetooth)"
+        ],
+        "Audio & Entertainment": [
+          "SmartPlay Pro: 22.86cm (SmartPlay Pro+)",
+          "Surround Sense Powered by ARKAMYS",
+          "Bluetooth",
+          "Number of Speakers: 4.0",
+          "USB Connectivity/AUX",
+          "Over the Air (OTA) System Upgrades",
+          "Wireless Android Auto & Apple CarPlay",
+          "Steering mounted audio calling controls",
+          "Tweeters: 2"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/nexa/in/en/assets/cars/fronx/images/front-tilted-view/335x185.png"
+    },
+    {
+      "code": "FRA4JZ1",
+      "name": " Zeta AT",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "technology": [
+        "Smart Hybrid"
+      ],
+      "airbags": 6,
+      "ex_showroom_surat": {
+        "metallic": 1104090,
+        "non_metallic": 1104090
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel-Efficiency (km/l)*": "20.01 Km/l*",
+          "Fuel Tank Capacity (L)": "37"
+        },
+        "Dimensions": {
+          "Length (mm)": "3995",
+          "Width (mm)": "1765",
+          "Height (mm)": "1550",
+          "Wheelbase (mm)": "2520",
+          "Turning Radius (m)": "4.9",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "1055 - 1060 (AT)",
+          "Gross Vehicle Weight (Kg)": "1480",
+          "Boot Space (L)": "308"
+        },
+        "Engine": {
+          "Engine Type": "1.0L Turbo Boosterjet",
+          "Displacement (cc)": "998 cc",
+          "Max Power (1 KW =1.35962 PS)": "73.6 kW@5500rpm* or 100.06 PS@5500rpm*",
+          "Max Torque (Nm @ rpm)": "147.6@2000-4500*"
+        },
+        "Transmission": {
+          "Transmission Type": "6AT"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut",
+          "Rear Suspension": "Torsion Beam"
+        },
+        "Tyre": {
+          "Tyre": "195/60 R16",
+          "Wheel Type": "Painted"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Roof Spoiler",
+          "Skid Plate (Front & Rear)",
+          "Headlamps: LED Multi-reflector",
+          "LED Daytime Running Lamps (DRL)",
+          "Follow-Me Home Headlamp",
+          "LED Projector Headlamps",
+          "ORVM with Turn Indicator",
+          "Antenna",
+          "Rear Window Wiper & Washer",
+          "Wheels Type: Painted",
+          "Front Grille: NEXWave grille with chrome finish"
+        ],
+        "Interior": [
+          "MID Display",
+          "Dual Tone Interior",
+          "Adjustable Headrest",
+          "Rear Seat Adjustable Headrest",
+          "Height Adjustable Driver Seat",
+          "60:40 Folding Rear Seats",
+          "Sliding Armrest with Utility Box (Front Row)",
+          "Rear Parcel Tray"
+        ],
+        "Safety & Security": [
+          "Driver Airbag",
+          "6 Airbags",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Side & Curtain Airbags",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "ISOFIX Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "Rear Parking Camera",
+          "High-Speed Alert System",
+          "Immobilizer (Anti-Theft Security System)",
+          "Rear Window Defogger",
+          "Front Ventilated Disc Brakes: Disc"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Engine Push Start/Stop with Smart Key",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Electrically-Foldable ORVM",
+          "Steering-Mounted Audio Controls",
+          "Idle Start Stop (ISS)",
+          "Auto Up/Down Power Window",
+          "Rear Defogger",
+          "Wireless Charger",
+          "Rear AC Vents",
+          "Automatic Climate Control",
+          "Front Centre Arm Rest with Utility Box",
+          "Power-Steering"
+        ],
+        "Suzuki Connect": [
+          "Emergency Alerts",
+          "Breakdown Notification",
+          "Stolen Vehicle Notification and Tracking",
+          "Immobilizer Request",
+          "Tow Away Alert and Tracking",
+          "Geofence",
+          "Safe Time Alert",
+          "Valet Alert",
+          "Remote AC Control",
+          "Door Lock/Cancel Lock",
+          "Headlight Off",
+          "Hazard Lights On/Off",
+          "Alarm On/Off",
+          "Smartwatch Connectivity",
+          "Suzuki Connect Skills for Amazon Alexa",
+          "Low Fuel & Low Range Alert",
+          "Over Speed Alert",
+          "AC Idling",
+          "Seat Belt Alert",
+          "Battery Status",
+          "Trip (Start & End)",
+          "Live Vehicle Tracking & Location sharing",
+          "Navigate to Car",
+          "View & Share Trip History",
+          "Guidance Around Destination",
+          "Driving Score (Driving Behaviour)"
+        ],
+        "Infotainment": [
+          "Android Auto and Apple CarPlay: 17.78cm (SmartPlay Pro)",
+          "Steering Mounted Controls: Audio and Bluetooth",
+          "Low Fuel Warning Light",
+          "Media Receiver (AM/FM/Bluetooth)"
+        ],
+        "Audio & Entertainment": [
+          "SmartPlay Pro: 17.78cm (SmartPlay Pro)",
+          "Bluetooth",
+          "Number of Speakers: 4.0",
+          "USB Connectivity/AUX",
+          "Over the Air (OTA) System Upgrades",
+          "Wireless Android Auto & Apple CarPlay",
+          "Steering mounted audio calling controls",
+          "Tweeters: 2"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/nexa/in/en/assets/cars/fronx/images/front-tilted-view/335x185.png"
+    },
+    {
+      "code": "FRA4JZ2",
+      "name": " Alpha AT",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "technology": [
+        "Smart Hybrid"
+      ],
+      "airbags": 6,
+      "ex_showroom_surat": {
+        "metallic": 1189090,
+        "non_metallic": 1189090,
+        "dual_tone": 1203090
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel-Efficiency (km/l)*": "20.01 Km/l*",
+          "Fuel Tank Capacity (L)": "37"
+        },
+        "Dimensions": {
+          "Length (mm)": "3995",
+          "Width (mm)": "1765",
+          "Height (mm)": "1550",
+          "Wheelbase (mm)": "2520",
+          "Turning Radius (m)": "4.9",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "1055 - 1060 (AT)",
+          "Gross Vehicle Weight (Kg)": "1480",
+          "Boot Space (L)": "308"
+        },
+        "Engine": {
+          "Engine Type": "1.0L Turbo Boosterjet",
+          "Displacement (cc)": "998 cc",
+          "Max Power (1 KW =1.35962 PS)": "73.6 kW@5500rpm* or 100.06 PS@5500rpm*",
+          "Max Torque (Nm @ rpm)": "147.6@2000-4500*"
+        },
+        "Transmission": {
+          "Transmission Type": "6AT"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut",
+          "Rear Suspension": "Torsion Beam"
+        },
+        "Tyre": {
+          "Tyre": "195/60 R16",
+          "Wheel Type": "Precision Cut Alloy Wheels"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Roof Spoiler",
+          "Skid Plate (Front & Rear)",
+          "Headlamps: LED Multi-reflector",
+          "LED Daytime Running Lamps (DRL)",
+          "Follow-Me Home Headlamp",
+          "ORVM with Turn Indicator",
+          "Antenna",
+          "Rear Window Wiper & Washer",
+          "UV Cut Glass",
+          "Wheels Type: Precision Cut Alloy Wheels",
+          "Front Grille: NEXWave grille with chrome finish"
+        ],
+        "Interior": [
+          "Leatherette Steering Wheel",
+          "MID Display",
+          "Dual Tone Interior",
+          "Adjustable Headrest",
+          "Rear Seat Adjustable Headrest",
+          "Height Adjustable Driver Seat",
+          "60:40 Folding Rear Seats",
+          "Sliding Armrest with Utility Box (Front Row)",
+          "Rear Parcel Tray",
+          "Head Up Display"
+        ],
+        "Safety": [
+          "Driver Airbag",
+          "6 Airbags",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Side & Curtain Airbags",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "ISOFIX Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "High-Speed Alert System",
+          "Immobilizer (Anti-Theft Security System)",
+          "Rear Window Defogger",
+          "Front Ventilated Disc Brakes: Disc",
+          "360 View Camera"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Engine Push Start/Stop with Smart Key",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Electrically-Foldable ORVM: Auto",
+          "Steering-Mounted Audio Controls",
+          "Idle Start Stop (ISS)",
+          "Auto Up/Down Power Window",
+          "Rear Defogger",
+          "Wireless Charger",
+          "Rear AC Vents",
+          "Cruise Control",
+          "Automatic Climate Control",
+          "Front Centre Arm Rest with Utility Box",
+          "Power-Steering"
+        ],
+        "Suzuki Connect": [
+          "Emergency Alerts",
+          "Breakdown Notification",
+          "Stolen Vehicle Notification and Tracking",
+          "Immobilizer Request",
+          "Tow Away Alert and Tracking",
+          "Geofence",
+          "Safe Time Alert",
+          "Valet Alert",
+          "Remote AC Control",
+          "Door Lock/Cancel Lock",
+          "Headlight Off",
+          "Hazard Lights On/Off",
+          "Alarm On/Off",
+          "Smartwatch Connectivity",
+          "Suzuki Connect Skills for Amazon Alexa",
+          "Low Fuel & Low Range Alert",
+          "Over Speed Alert",
+          "AC Idling",
+          "Seat Belt Alert",
+          "Battery Status",
+          "Trip (Start & End)",
+          "Live Vehicle Tracking & Location sharing",
+          "Navigate to Car",
+          "View & Share Trip History",
+          "Guidance Around Destination",
+          "Driving Score (Driving Behaviour)"
+        ],
+        "Infotainment": [
+          "Android Auto and Apple CarPlay: 22.86cm (SmartPlay Pro+)",
+          "Steering Mounted Controls: Audio and Bluetooth",
+          "Low Fuel Warning Light",
+          "Media Receiver (AM/FM/Bluetooth)"
+        ],
+        "Audio & Entertainment": [
+          "SmartPlay Pro: 22.86cm (SmartPlay Pro+)",
+          "Surround Sense Powered by ARKAMYS",
+          "Bluetooth",
+          "Number of Speakers: 4.0",
+          "USB Connectivity/AUX",
+          "Over the Air (OTA) System Upgrades",
+          "Wireless Android Auto & Apple CarPlay",
+          "Steering mounted audio calling controls",
+          "Tweeters: 2"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/nexa/in/en/assets/cars/fronx/images/front-tilted-view/335x185.png"
+    }
+  ],
+  "fetched_on": "2026-10-30"
+}

@@ -1,0 +1,613 @@
+{
+  "brand": "Maruti Suzuki",
+  "model": "Jimny",
+  "slug": "jimny",
+  "model_code": "JM",
+  "channel": "Nexa",
+  "official_page": "https://www.nexaexperience.com/jimny",
+  "brochure_pdf": "https://www.nexaexperience.com/content/dam/msil/nexa/in/en/assets/cars/jimny/documents/NEXA-Jimny-Brochure.pdf",
+  "price_city": "Surat, Gujarat",
+  "ex_showroom_min": 1258944,
+  "ex_showroom_max": 1467044,
+  "fuel_types": [
+    "Petrol"
+  ],
+  "transmissions": [
+    "Automatic",
+    "Manual"
+  ],
+  "colours": [
+    {
+      "name": "NEXA Blue",
+      "hex": [
+        "#163472"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Zeta PRO ",
+        "Zeta PRO AT",
+        "Alpha PRO ",
+        "Alpha PRO AT "
+      ]
+    },
+    {
+      "name": "Sizzling Red",
+      "hex": [
+        "#b21511"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Zeta PRO ",
+        "Zeta PRO AT"
+      ]
+    },
+    {
+      "name": "Bluish Black",
+      "hex": [
+        "#040720"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Zeta PRO ",
+        "Zeta PRO AT",
+        "Alpha PRO ",
+        "Alpha PRO AT "
+      ]
+    },
+    {
+      "name": "Pearl Arctic White",
+      "hex": [
+        "#f9f9f9"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Zeta PRO ",
+        "Zeta PRO AT",
+        "Alpha PRO ",
+        "Alpha PRO AT "
+      ]
+    },
+    {
+      "name": "Granite Gray",
+      "hex": [
+        "#494a4e"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Zeta PRO ",
+        "Zeta PRO AT",
+        "Alpha PRO ",
+        "Alpha PRO AT "
+      ]
+    },
+    {
+      "name": "Sizzling Red with Bluish Black Roof",
+      "hex": [
+        "#b21511",
+        "#040720"
+      ],
+      "paint": "dual_tone",
+      "variants": [
+        "Alpha PRO ",
+        "Alpha PRO AT "
+      ]
+    },
+    {
+      "name": "Kinetic Yellow with Bluish Black Roof",
+      "hex": [
+        "#e1ed4d",
+        "#040720"
+      ],
+      "paint": "dual_tone",
+      "variants": [
+        "Alpha PRO ",
+        "Alpha PRO AT "
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "code": "JMR4EZ1",
+      "name": "Zeta PRO ",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": 6,
+      "ex_showroom_surat": {
+        "metallic": 1258944,
+        "non_metallic": 1258944
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel-Efficiency (km/l)*": "16.94 km/l*",
+          "Fuel Tank Capacity (L)": "40"
+        },
+        "Dimensions": {
+          "Length (mm)": "3985",
+          "Width (mm)": "1645",
+          "Height (mm)": "1720",
+          "Wheelbase (mm)": "2590",
+          "Turning Radius (m)": "5.7",
+          "Seating Capacity (nos.)": "4",
+          "Kerb Weight (Kg)": "1200",
+          "Gross Vehicle Weight (Kg)": "1545",
+          "Boot Space (L)": "332*"
+        },
+        "Engine": {
+          "Engine Type": "K15B with Idle Start Stop",
+          "Displacement (cc)": "1462 cc",
+          "Max Power (1 KW =1.35962 PS)": "77.1kW@6000 rpm [104.8Ps@6000 rpm]",
+          "Max Torque (Nm @ rpm)": "134.2@4000",
+          "No.of Cylinders": 4.0
+        },
+        "Transmission": {
+          "Transmission Type": "5MT",
+          "Drive Type": "ALLGRIP PRO (with Low Range Transfer Gear)"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "3-link Rigid Axle with Coil Spring",
+          "Rear Suspension": "3-link Rigid Axle with Coil Spring"
+        },
+        "Tyre": {
+          "Tyre": "195/80 R15",
+          "Wheel Type": "Steel"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Headlamps: Halogen",
+          "LED Tail Stop Lamp",
+          "Antenna",
+          "Rear Window Wiper & Washer",
+          "Door Handles: Black",
+          "Wheels Type: Steel",
+          "Front Grille: Gunmetal Grey Grille with Chrome Plating"
+        ],
+        "Interior": [
+          "MID Display: MID (TFT Monotone Display)",
+          "Cup Holders",
+          "Adjustable Headrest",
+          "Rear Seat Adjustable Headrest",
+          "Luggage Lamp"
+        ],
+        "Safety": [
+          "Driver Airbag",
+          "6 Airbags",
+          "ABS with EBD",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Side & Curtain Airbags",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "ISOFIX Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "Rear Parking Camera",
+          "High-Speed Alert System",
+          "Immobilizer (Anti-Theft Security System)",
+          "Rear Window Defogger",
+          "Hill Descent Control",
+          "Front Ventilated Disc Brakes: Disc",
+          "Day/Night Adjustable IRVM",
+          "Warning Lamps for Low Fuel & Door Ajar",
+          "Brake Assist Function",
+          "Day/Night Rear View Mirror"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Power Windows (Fr/Rr)",
+          "Electrically-Foldable ORVM: Adjustable",
+          "Steering-Mounted Audio Controls",
+          "Idle Start Stop (ISS)",
+          "Accessory socket",
+          "Auto Up/Down Power Window",
+          "Rear Defogger",
+          "Automatic Climate Control: Manual",
+          "Central Locking",
+          "Manual Day/Night IRVM",
+          "Power-Steering"
+        ],
+        "Infotainment": [
+          "Speedometer with Tachometer",
+          "Touch Screen Audio",
+          "Android Auto and Apple CarPlay",
+          "Steering Mounted Controls: Audio and Bluetooth",
+          "Rear Seatbelt Reminder Warning Indicator"
+        ],
+        "Audio & Entertainment": [
+          "SmartPlay Pro: 17.78 cm touchscreen",
+          "Number of Speakers: 4.0",
+          "Wireless Android Auto & Apple CarPlay",
+          "Steering mounted audio calling controls"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/nexa/in/en/assets/cars/jimny/images/front-tilted-view/Jimny_Font-204x118.png"
+    },
+    {
+      "code": "JMR4EZ2",
+      "name": "Alpha PRO ",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": 6,
+      "ex_showroom_surat": {
+        "metallic": 1345644,
+        "non_metallic": 1345644,
+        "dual_tone": 1361044
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel-Efficiency (km/l)*": "16.94 km/l*",
+          "Fuel Tank Capacity (L)": "40"
+        },
+        "Dimensions": {
+          "Length (mm)": "3985",
+          "Width (mm)": "1645",
+          "Height (mm)": "1720",
+          "Wheelbase (mm)": "2590",
+          "Turning Radius (m)": "5.7",
+          "Seating Capacity (nos.)": "4",
+          "Kerb Weight (Kg)": "1195",
+          "Gross Vehicle Weight (Kg)": "1545",
+          "Boot Space (L)": "332*"
+        },
+        "Engine": {
+          "Engine Type": "K15B with Idle Start Stop",
+          "Displacement (cc)": "1462 cc",
+          "Max Power (1 KW =1.35962 PS)": "77.1kW@6000 rpm [104.8Ps@6000 rpm]",
+          "Max Torque (Nm @ rpm)": "134.2@4000",
+          "No.of Cylinders": 4.0
+        },
+        "Transmission": {
+          "Transmission Type": "5MT",
+          "Drive Type": "ALLGRIP PRO (with Low Range Transfer Gear)"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "3-link Rigid Axle with Coil Spring",
+          "Rear Suspension": "3-link Rigid Axle with Coil Spring"
+        },
+        "Tyre": {
+          "Tyre": "195/80 R15",
+          "Wheel Type": "Alloy"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Headlamps: LED",
+          "LED Tail Stop Lamp",
+          "LED Projector Headlamps",
+          "Fog Lamps",
+          "Antenna",
+          "Rear Window Wiper & Washer",
+          "Door Handles: Body Coloured",
+          "Wheels Type: Alloy",
+          "Front Grille: Gunmetal Grey Grille with Chrome Plating"
+        ],
+        "Interior": [
+          "Leatherette Steering Wheel",
+          "MID Display: MID (TFT Monotone Display)",
+          "Cup Holders",
+          "Adjustable Headrest",
+          "Rear Seat Adjustable Headrest",
+          "Luggage Lamp"
+        ],
+        "Safety": [
+          "Driver Airbag",
+          "6 Airbags",
+          "ABS with EBD",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Side & Curtain Airbags",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "ISOFIX Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "Rear Parking Camera",
+          "High-Speed Alert System",
+          "Immobilizer (Anti-Theft Security System)",
+          "Rear Window Defogger",
+          "Hill Descent Control",
+          "Front Ventilated Disc Brakes: Disc",
+          "Day/Night Adjustable IRVM",
+          "Warning Lamps for Low Fuel & Door Ajar",
+          "Brake Assist Function",
+          "Day/Night Rear View Mirror"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Engine Push Start/Stop with Smart Key",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Electrically-Foldable ORVM: Adjustable + Retractable",
+          "Steering-Mounted Audio Controls",
+          "Idle Start Stop (ISS)",
+          "Accessory socket",
+          "Auto Up/Down Power Window",
+          "Rear Defogger",
+          "Cruise Control",
+          "Automatic Climate Control: Auto",
+          "Central Locking",
+          "Manual Day/Night IRVM",
+          "Power-Steering"
+        ],
+        "Infotainment": [
+          "Speedometer with Tachometer",
+          "Touch Screen Audio",
+          "Android Auto and Apple CarPlay",
+          "Steering Mounted Controls: Audio and Bluetooth",
+          "Rear Seatbelt Reminder Warning Indicator"
+        ],
+        "Audio & Entertainment": [
+          "SmartPlay Pro: 22.86 cm touchscreen",
+          "Surround Sense Powered by ARKAMYS",
+          "Number of Speakers: 4.0",
+          "Wireless Android Auto & Apple CarPlay",
+          "Steering mounted audio calling controls"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/nexa/in/en/assets/cars/jimny/images/front-tilted-view/Jimny_Font-204x118.png"
+    },
+    {
+      "code": "JMA4EZ1",
+      "name": "Zeta PRO AT",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": 6,
+      "ex_showroom_surat": {
+        "metallic": 1364944,
+        "non_metallic": 1364944
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel-Efficiency (km/l)*": "16.39 km/l*",
+          "Fuel Tank Capacity (L)": "40"
+        },
+        "Dimensions": {
+          "Length (mm)": "3985",
+          "Width (mm)": "1645",
+          "Height (mm)": "1720",
+          "Wheelbase (mm)": "2590",
+          "Turning Radius (m)": "5.7",
+          "Seating Capacity (nos.)": "4",
+          "Kerb Weight (Kg)": "1210",
+          "Gross Vehicle Weight (Kg)": "1545",
+          "Boot Space (L)": "332*"
+        },
+        "Engine": {
+          "Engine Type": "K15B with Idle Start Stop",
+          "Displacement (cc)": "1462 cc",
+          "Max Power (1 KW =1.35962 PS)": "77.1kW@6000 rpm [104.8Ps@6000 rpm]",
+          "Max Torque (Nm @ rpm)": "134.2@4000",
+          "No.of Cylinders": 4.0
+        },
+        "Transmission": {
+          "Transmission Type": "4AT",
+          "Drive Type": "ALLGRIP PRO (with Low Range Transfer Gear)"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "3-link Rigid Axle with Coil Spring",
+          "Rear Suspension": "3-link Rigid Axle with Coil Spring"
+        },
+        "Tyre": {
+          "Tyre": "195/80 R15",
+          "Wheel Type": "Steel"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Headlamps: Halogen",
+          "LED Tail Stop Lamp",
+          "Antenna",
+          "Rear Window Wiper & Washer",
+          "Door Handles: Black",
+          "Wheels Type: Steel",
+          "Front Grille: Gunmetal Grey Grille with Chrome Plating"
+        ],
+        "Interior": [
+          "MID Display: MID (TFT Monotone Display)",
+          "Cup Holders",
+          "Adjustable Headrest",
+          "Rear Seat Adjustable Headrest",
+          "Luggage Lamp"
+        ],
+        "Safety": [
+          "Driver Airbag",
+          "6 Airbags",
+          "ABS with EBD",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Side & Curtain Airbags",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "ISOFIX Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "Rear Parking Camera",
+          "High-Speed Alert System",
+          "Immobilizer (Anti-Theft Security System)",
+          "Rear Window Defogger",
+          "Hill Descent Control",
+          "Front Ventilated Disc Brakes: Disc",
+          "Day/Night Adjustable IRVM",
+          "Warning Lamps for Low Fuel & Door Ajar",
+          "Brake Assist Function",
+          "Day/Night Rear View Mirror"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Power Windows (Fr/Rr)",
+          "Electrically-Foldable ORVM: Adjustable",
+          "Steering-Mounted Audio Controls",
+          "Idle Start Stop (ISS)",
+          "Accessory socket",
+          "Auto Up/Down Power Window",
+          "Rear Defogger",
+          "Driver Side Foot Rest",
+          "Automatic Climate Control: Manual",
+          "Central Locking",
+          "Manual Day/Night IRVM",
+          "Power-Steering"
+        ],
+        "Infotainment": [
+          "Speedometer with Tachometer",
+          "Touch Screen Audio",
+          "Android Auto and Apple CarPlay",
+          "Steering Mounted Controls: Audio and Bluetooth",
+          "Rear Seatbelt Reminder Warning Indicator"
+        ],
+        "Audio & Entertainment": [
+          "SmartPlay Pro: 17.78 cm touchscreen",
+          "Number of Speakers: 4.0",
+          "Wireless Android Auto & Apple CarPlay",
+          "Steering mounted audio calling controls"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/nexa/in/en/assets/cars/jimny/images/front-tilted-view/Jimny_Font-204x118.png"
+    },
+    {
+      "code": "JMA4EZ2",
+      "name": "Alpha PRO AT ",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": 6,
+      "ex_showroom_surat": {
+        "metallic": 1451644,
+        "non_metallic": 1451644,
+        "dual_tone": 1467044
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel-Efficiency (km/l)*": "16.39 km/l*",
+          "Fuel Tank Capacity (L)": "40"
+        },
+        "Dimensions": {
+          "Length (mm)": "3985",
+          "Width (mm)": "1645",
+          "Height (mm)": "1720",
+          "Wheelbase (mm)": "2590",
+          "Turning Radius (m)": "5.7",
+          "Seating Capacity (nos.)": "4",
+          "Kerb Weight (Kg)": "1205",
+          "Gross Vehicle Weight (Kg)": "1545",
+          "Boot Space (L)": "332*"
+        },
+        "Engine": {
+          "Engine Type": "K15B with Idle Start Stop",
+          "Displacement (cc)": "1462 cc",
+          "Max Power (1 KW =1.35962 PS)": "77.1kW@6000 rpm [104.8Ps@6000 rpm]",
+          "Max Torque (Nm @ rpm)": "134.2@4000",
+          "No.of Cylinders": 4.0
+        },
+        "Transmission": {
+          "Transmission Type": "4AT",
+          "Drive Type": "ALLGRIP PRO (with Low Range Transfer Gear)"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "3-link Rigid Axle with Coil Spring",
+          "Rear Suspension": "3-link Rigid Axle with Coil Spring"
+        },
+        "Tyre": {
+          "Tyre": "195/80 R15",
+          "Wheel Type": "Alloy"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Headlamps: LED",
+          "LED Tail Stop Lamp",
+          "LED Projector Headlamps",
+          "Fog Lamps",
+          "Antenna",
+          "Rear Window Wiper & Washer",
+          "Door Handles: Body Coloured",
+          "Wheels Type: Alloy",
+          "Front Grille: Gunmetal Grey Grille with Chrome Plating"
+        ],
+        "Interior": [
+          "Leatherette Steering Wheel",
+          "MID Display: MID (TFT Monotone Display)",
+          "Cup Holders",
+          "Adjustable Headrest",
+          "Rear Seat Adjustable Headrest",
+          "Luggage Lamp"
+        ],
+        "Safety": [
+          "Driver Airbag",
+          "6 Airbags",
+          "ABS with EBD",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Side & Curtain Airbags",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "ISOFIX Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "Rear Parking Camera",
+          "High-Speed Alert System",
+          "Immobilizer (Anti-Theft Security System)",
+          "Rear Window Defogger",
+          "Hill Descent Control",
+          "Front Ventilated Disc Brakes: Disc",
+          "Day/Night Adjustable IRVM",
+          "Warning Lamps for Low Fuel & Door Ajar",
+          "Brake Assist Function",
+          "Day/Night Rear View Mirror"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Engine Push Start/Stop with Smart Key",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Electrically-Foldable ORVM: Adjustable + Retractable",
+          "Steering-Mounted Audio Controls",
+          "Idle Start Stop (ISS)",
+          "Accessory socket",
+          "Auto Up/Down Power Window",
+          "Rear Defogger",
+          "Driver Side Foot Rest",
+          "Cruise Control",
+          "Automatic Climate Control: Auto",
+          "Central Locking",
+          "Manual Day/Night IRVM",
+          "Power-Steering"
+        ],
+        "Infotainment": [
+          "Speedometer with Tachometer",
+          "Touch Screen Audio",
+          "Android Auto and Apple CarPlay",
+          "Steering Mounted Controls: Audio and Bluetooth",
+          "Rear Seatbelt Reminder Warning Indicator"
+        ],
+        "Audio & Entertainment": [
+          "SmartPlay Pro: 22.86 cm touchscreen",
+          "Surround Sense Powered by ARKAMYS",
+          "Number of Speakers: 4.0",
+          "Wireless Android Auto & Apple CarPlay",
+          "Steering mounted audio calling controls"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/nexa/in/en/assets/cars/jimny/images/front-tilted-view/Jimny_Font-204x118.png"
+    }
+  ],
+  "fetched_on": "2026-10-30"
+}

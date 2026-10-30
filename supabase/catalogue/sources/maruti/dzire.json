@@ -1,0 +1,1770 @@
+{
+  "brand": "Maruti Suzuki",
+  "model": "Dzire",
+  "slug": "dzire",
+  "model_code": "DE",
+  "channel": "Arena",
+  "official_page": "https://www.marutisuzuki.com/arena/dzire",
+  "brochure_pdf": "https://www.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/dzire/brochures/DZire-brochure_.pdf",
+  "price_city": "Surat, Gujarat",
+  "ex_showroom_min": 630553,
+  "ex_showroom_max": 953653,
+  "fuel_types": [
+    "CNG",
+    "Petrol"
+  ],
+  "transmissions": [
+    "Automatic",
+    "Manual"
+  ],
+  "colours": [
+    {
+      "name": "Pearl Arctic White",
+      "hex": [
+        "#F3F3F3"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Dzire ZXi+ AMT",
+        "Dzire ZXi AMT",
+        "Dzire VXi AMT",
+        "Dzire LXi MT",
+        "Dzire VXi MT",
+        "Dzire VXi CNG",
+        "Dzire ZXi CNG",
+        "Dzire ZXi+ MT",
+        "Dzire ZXi MT",
+        "Dzire VXi CNG AGS",
+        "Dzire ZXI CNG AGS"
+      ]
+    },
+    {
+      "name": "Splendid Silver",
+      "hex": [
+        "#737373"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Dzire ZXi+ AMT",
+        "Dzire ZXi AMT",
+        "Dzire VXi AMT",
+        "Dzire LXi MT",
+        "Dzire VXi MT",
+        "Dzire VXi CNG",
+        "Dzire ZXi CNG",
+        "Dzire ZXi+ MT",
+        "Dzire ZXi MT",
+        "Dzire VXi CNG AGS",
+        "Dzire ZXI CNG AGS"
+      ]
+    },
+    {
+      "name": "Alluring Blue",
+      "hex": [
+        "#415159"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Dzire ZXi+ AMT",
+        "Dzire ZXi AMT",
+        "Dzire VXi AMT",
+        "Dzire LXi MT",
+        "Dzire VXi MT",
+        "Dzire VXi CNG",
+        "Dzire ZXi CNG",
+        "Dzire ZXi+ MT",
+        "Dzire ZXi MT",
+        "Dzire VXi CNG AGS",
+        "Dzire ZXI CNG AGS"
+      ]
+    },
+    {
+      "name": "Bluish Black",
+      "hex": [
+        "#141414"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Dzire ZXi+ AMT",
+        "Dzire ZXi AMT",
+        "Dzire VXi AMT",
+        "Dzire VXi MT",
+        "Dzire VXi CNG",
+        "Dzire ZXi CNG",
+        "Dzire ZXi+ MT",
+        "Dzire ZXi MT",
+        "Dzire VXi CNG AGS",
+        "Dzire ZXI CNG AGS"
+      ]
+    },
+    {
+      "name": "Nutmeg Brown",
+      "hex": [
+        "#54473c"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Dzire ZXi+ AMT",
+        "Dzire ZXi AMT",
+        "Dzire VXi AMT",
+        "Dzire LXi MT",
+        "Dzire VXi MT",
+        "Dzire VXi CNG",
+        "Dzire ZXi CNG",
+        "Dzire ZXi+ MT",
+        "Dzire ZXi MT",
+        "Dzire VXi CNG AGS",
+        "Dzire ZXI CNG AGS"
+      ]
+    },
+    {
+      "name": "Gallant Red",
+      "hex": [
+        "#d2232b"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Dzire ZXi+ AMT",
+        "Dzire ZXi AMT",
+        "Dzire VXi AMT",
+        "Dzire LXi MT",
+        "Dzire VXi MT",
+        "Dzire VXi CNG",
+        "Dzire ZXi CNG",
+        "Dzire ZXi+ MT",
+        "Dzire ZXi MT",
+        "Dzire VXi CNG AGS",
+        "Dzire ZXI CNG AGS"
+      ]
+    },
+    {
+      "name": "Magma Grey",
+      "hex": [
+        "#2B2C31"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Dzire ZXi+ AMT",
+        "Dzire ZXi AMT",
+        "Dzire VXi AMT",
+        "Dzire LXi MT",
+        "Dzire VXi MT",
+        "Dzire VXi CNG",
+        "Dzire ZXi CNG",
+        "Dzire ZXi+ MT",
+        "Dzire ZXi MT",
+        "Dzire VXi CNG AGS",
+        "Dzire ZXI CNG AGS"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "code": "DER4BL1",
+      "name": "Dzire LXi MT",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": null,
+      "ex_showroom_surat": {
+        "metallic": 630553,
+        "non_metallic": 630553
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Efficiency (km/l)*": "25.15Km/L"
+        },
+        "Dimensions": {
+          "Length (mm)": "3995",
+          "Width (mm)": "1735",
+          "Height (mm)": "1525",
+          "Wheelbase (mm)": "2450",
+          "Turning Radius (m)": "4.8",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "920-960 (kg)",
+          "Gross Vehicle Weight (Kg)": "1375",
+          "Fuel Tank Capacity (L)": "37",
+          "Boot Space (L)": "382*"
+        },
+        "Transmission": {
+          "Transmission Type": "5MT"
+        },
+        "Engine": {
+          "Engine Type": "Z12E With ISS",
+          "Capacity (cc)": "1197 cc",
+          "Max Power (1 KW =1.35962 PS)": "61 kW / 82.93 Ps @ 5700 rpm",
+          "Max Torque (Nm @ rpm)": "112.4 Nm @ 4500 rpm",
+          "No. of Cylinder": 4.0
+        },
+        "Brakes": {
+          "Front": "Ventilated Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "Mac Pherson Strut",
+          "Rear Suspension": "Torsion Beam"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "165/80 R14",
+          "Wheel Type": "Steel"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Headlamps: FocusBeam Projector",
+          "LED Tail Stop Lamp",
+          "Antenna: Shark Fin"
+        ],
+        "Interior": [
+          "Multi-information Display",
+          "Dual Tone Interior",
+          "Driver Side Sunvisor with Ticket Holder: Yes ( without holder)",
+          "Passenger Side Sunvisor with Vanity Mirror: Yes ( without mirror)"
+        ],
+        "Safety & Security": [
+          "Driver Airbag",
+          "6 Airbags",
+          "ABS with EBD",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "ISOFIX with Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "High-Speed Alert System",
+          "Child-Proof Rear Door Locks",
+          "Immobilizer (Anti-Theft Security System)",
+          "Rear Window Defogger",
+          "Speed-Sensitive Auto Door Lock",
+          "Warning Lamps for Low Fuel & Door Ajar",
+          "Brake Assist Function",
+          "Front Seat Belts with Pre-Tensioner and Force Limiter",
+          "Seat Belts for All Seats"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Power tilt steering",
+          "Electric Back Door Opener",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Accessory Socket",
+          "Gear Shift Indicator",
+          "Driver Side Foot Rest",
+          "Central Locking"
+        ],
+        "Infotainment": [
+          "Tachometer",
+          "Low Fuel Warning Light",
+          "Door Ajar Warning Lamp",
+          "Rear Seatbelt Reminder Warning Indicator"
+        ],
+        "Audio & Entertainment": [
+          "Number of Speakers: 0.0"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/dzire/images/spinset360/GallantRed/2025.05.20_15.04.35_Dzire_360_Red_00054.png"
+    },
+    {
+      "code": "DER4BV1",
+      "name": "Dzire VXi MT",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": null,
+      "ex_showroom_surat": {
+        "metallic": 727052,
+        "non_metallic": 727052
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Efficiency (km/l)*": "25.15Km/L"
+        },
+        "Dimensions": {
+          "Length (mm)": "3995",
+          "Width (mm)": "1735",
+          "Height (mm)": "1525",
+          "Wheelbase (mm)": "2450",
+          "Turning Radius (m)": "4.8",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "920-960 (kg)",
+          "Gross Vehicle Weight (Kg)": "1375",
+          "Fuel Tank Capacity (L)": "37",
+          "Boot Space (L)": "382*"
+        },
+        "Transmission": {
+          "Transmission Type": "5MT"
+        },
+        "Engine": {
+          "Engine Type": "Z12E With ISS",
+          "Capacity (cc)": "1197 cc",
+          "Max Power (1 KW =1.35962 PS)": "61 kW / 82.93 Ps @ 5700 rpm",
+          "Max Torque (Nm @ rpm)": "112.4 Nm @ 4500 rpm",
+          "No. of Cylinder": 4.0
+        },
+        "Brakes": {
+          "Front": "Ventilated Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "Mac Pherson Strut",
+          "Rear Suspension": "Torsion Beam"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "165/80 R14",
+          "Wheel Type": "Steel"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Headlamps: FocusBeam Projector",
+          "LED Tail Stop Lamp",
+          "Antenna: Shark Fin",
+          "Door Handles",
+          "Front Grille",
+          "Full Wheel Covers"
+        ],
+        "Interior": [
+          "Chrome Parking Brake Lever Tip",
+          "Multi-information Display",
+          "MID Display",
+          "Dual Tone Interior",
+          "Rear Seat Adjustable Headrest",
+          "Height Adjustable Driver Seat",
+          "Driver Side Sunvisor with Ticket Holder",
+          "Passenger Side Sunvisor with Vanity Mirror",
+          "Front cabin lamp",
+          "Chrome Plated Inside Door Handles",
+          "IP Ornament: Satin Silver"
+        ],
+        "Safety & Security": [
+          "Driver Airbag",
+          "6 Airbags",
+          "ABS with EBD",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "ISOFIX with Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "High-Speed Alert System",
+          "Child-Proof Rear Door Locks",
+          "Immobilizer (Anti-Theft Security System)",
+          "Rear Window Defogger",
+          "Speed-Sensitive Auto Door Lock",
+          "Day/Night Adjustable IRVM",
+          "Warning Lamps for Low Fuel & Door Ajar",
+          "Brake Assist Function",
+          "Front Seat Belts with Pre-Tensioner and Force Limiter",
+          "Seat Belts for All Seats"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Power tilt steering",
+          "Electric Back Door Opener",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Electrically-Foldable ORVMs: Electrically Adjustable & Foldable, With Turn Indicator",
+          "Steering-Mounted Audio Controls",
+          "Accessory Socket",
+          "Gear Shift Indicator",
+          "Driver Side Foot Rest",
+          "USB Ports",
+          "Rear AC Vents",
+          "Central Locking",
+          "Rear Centre Armrest: With Cupholder"
+        ],
+        "Infotainment": [
+          "Tachometer",
+          "Remote Control App for Infotainment",
+          "Low Fuel Warning Light",
+          "Door Ajar Warning Lamp",
+          "Rear Seatbelt Reminder Warning Indicator"
+        ],
+        "Audio & Entertainment": [
+          "SmartPlay Pro: SmartPlay Pro 17.78 cm Touch Screen",
+          "Bluetooth",
+          "Number of Speakers: 4.0",
+          "Wireless Android Auto & Apple CarPlay: Wireless",
+          "Steering Mounted Audio & Calling Controls"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/dzire/images/spinset360/GallantRed/2025.05.20_15.04.35_Dzire_360_Red_00054.png"
+    },
+    {
+      "code": "DEA4BV1",
+      "name": "Dzire VXi AMT",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": null,
+      "ex_showroom_surat": {
+        "metallic": 772053,
+        "non_metallic": 772053
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Efficiency (km/l)*": "26.13Km/L"
+        },
+        "Dimensions": {
+          "Length (mm)": "3995",
+          "Width (mm)": "1735",
+          "Height (mm)": "1525",
+          "Wheelbase (mm)": "2450",
+          "Turning Radius (m)": "4.8",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "920-960 (kg)",
+          "Gross Vehicle Weight (Kg)": "1375",
+          "Fuel Tank Capacity (L)": "37",
+          "Boot Space (L)": "382*"
+        },
+        "Transmission": {
+          "Transmission Type": "5AMT"
+        },
+        "Engine": {
+          "Engine Type": "Z12E With ISS",
+          "Capacity (cc)": "1197 cc",
+          "Max Power (1 KW =1.35962 PS)": "61 kW / 82.93 Ps @ 5700 rpm",
+          "Max Torque (Nm @ rpm)": "112.4 Nm @ 4500 rpm",
+          "No. of Cylinder": 4.0
+        },
+        "Brakes": {
+          "Front": "Ventilated Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "Mac Pherson Strut",
+          "Rear Suspension": "Torsion Beam"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "165/80 R14",
+          "Wheel Type": "Steel"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Headlamps: FocusBeam Projector",
+          "LED Tail Stop Lamp",
+          "Antenna: Shark Fin",
+          "Door Handles",
+          "Front Grille",
+          "Full Wheel Covers"
+        ],
+        "Interior": [
+          "Outside Temperature Display",
+          "Chrome Parking Brake Lever Tip",
+          "Multi-information Display",
+          "MID Display",
+          "Dual Tone Interior",
+          "Rear Seat Adjustable Headrest",
+          "Height Adjustable Driver Seat",
+          "Driver Side Sunvisor with Ticket Holder",
+          "Passenger Side Sunvisor with Vanity Mirror",
+          "Front cabin lamp",
+          "Chrome Plated Inside Door Handles",
+          "IP Ornament: Satin Silver"
+        ],
+        "Safety & Security": [
+          "Driver Airbag",
+          "6 Airbags",
+          "ABS with EBD",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "ISOFIX with Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "High-Speed Alert System",
+          "Child-Proof Rear Door Locks",
+          "Immobilizer (Anti-Theft Security System)",
+          "Rear Window Defogger",
+          "Speed-Sensitive Auto Door Lock",
+          "Day/Night Adjustable IRVM",
+          "Warning Lamps for Low Fuel & Door Ajar",
+          "Brake Assist Function",
+          "Front Seat Belts with Pre-Tensioner and Force Limiter",
+          "Seat Belts for All Seats"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Power tilt steering",
+          "Electric Back Door Opener",
+          "Gear Position Indicator",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Electrically-Foldable ORVMs: Electrically Adjustable & Foldable, With Turn Indicator",
+          "Steering-Mounted Audio Controls",
+          "Accessory Socket",
+          "Driver Side Foot Rest",
+          "USB Ports",
+          "Rear AC Vents",
+          "Central Locking",
+          "Rear Centre Armrest: With Cupholder"
+        ],
+        "Infotainment": [
+          "Tachometer",
+          "Remote Control App for Infotainment",
+          "Low Fuel Warning Light",
+          "Door Ajar Warning Lamp",
+          "Rear Seatbelt Reminder Warning Indicator"
+        ],
+        "Audio & Entertainment": [
+          "SmartPlay Pro: SmartPlay Pro 17.78 cm Touch Screen",
+          "Bluetooth",
+          "Number of Speakers: 4.0",
+          "Wireless Android Auto & Apple CarPlay: Wireless",
+          "Steering Mounted Audio & Calling Controls"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/dzire/images/spinset360/GallantRed/2025.05.20_15.04.35_Dzire_360_Red_00054.png"
+    },
+    {
+      "code": "DERCBV1",
+      "name": "Dzire VXi CNG",
+      "fuel": "CNG",
+      "transmission": "Manual",
+      "technology": [
+        "S-CNG"
+      ],
+      "airbags": null,
+      "ex_showroom_surat": {
+        "metallic": 818053,
+        "non_metallic": 818053
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol-CNG",
+          "Fuel Efficiency (km/l)*": "35.63km/kg"
+        },
+        "Dimensions": {
+          "Length (mm)": "3995",
+          "Width (mm)": "1735",
+          "Height (mm)": "1525",
+          "Wheelbase (mm)": "2450",
+          "Turning Radius (m)": "4.8",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "1025-1035 (kg)",
+          "Gross Vehicle Weight (Kg)": "1435",
+          "Fuel Tank Capacity (L)": "Petrol: 37L\r\nCNG: 55L (water filling capacity)",
+          "Boot Space (L)": "NA"
+        },
+        "Transmission": {
+          "Transmission Type": "5MT"
+        },
+        "Engine": {
+          "Engine Type": "Z12E With ISS",
+          "Capacity (cc)": "1197 cc",
+          "Max Power (1 KW =1.35962 PS)": "51.3 kW / 69.75 Ps @ 5700 rpm",
+          "Max Torque (Nm @ rpm)": "101.8 Nm @ 2900 rpm",
+          "No. of Cylinder": 4.0
+        },
+        "Brakes": {
+          "Front": "Ventilated Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "Mac Pherson Strut",
+          "Rear Suspension": "Torsion Beam"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "165/80 R14",
+          "Wheel Type": "Steel"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Headlamps: FocusBeam Projector",
+          "LED Tail Stop Lamp",
+          "Antenna: Shark Fin",
+          "Door Handles",
+          "Front Grille",
+          "Full Wheel Covers"
+        ],
+        "Interior": [
+          "Chrome Parking Brake Lever Tip",
+          "Multi-information Display",
+          "MID Display",
+          "Dual Tone Interior",
+          "Rear Seat Adjustable Headrest",
+          "Height Adjustable Driver Seat",
+          "Driver Side Sunvisor with Ticket Holder",
+          "Passenger Side Sunvisor with Vanity Mirror",
+          "Front cabin lamp",
+          "Chrome Plated Inside Door Handles",
+          "IP Ornament: Satin Silver"
+        ],
+        "Safety & Security": [
+          "Driver Airbag",
+          "6 Airbags",
+          "ABS with EBD",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "ISOFIX with Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "High-Speed Alert System",
+          "Child-Proof Rear Door Locks",
+          "Immobilizer (Anti-Theft Security System)",
+          "Rear Window Defogger",
+          "Speed-Sensitive Auto Door Lock",
+          "Day/Night Adjustable IRVM",
+          "Warning Lamps for Low Fuel & Door Ajar",
+          "Brake Assist Function",
+          "Front Seat Belts with Pre-Tensioner and Force Limiter",
+          "Seat Belts for All Seats"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Power tilt steering",
+          "Electric Back Door Opener",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Electrically-Foldable ORVMs: Electrically Adjustable & Foldable, With Turn Indicator",
+          "Steering-Mounted Audio Controls",
+          "Accessory Socket",
+          "Gear Shift Indicator",
+          "Driver Side Foot Rest",
+          "USB Ports",
+          "Rear AC Vents",
+          "Central Locking",
+          "Rear Centre Armrest: With Cupholder"
+        ],
+        "Infotainment": [
+          "Tachometer",
+          "Remote Control App for Infotainment",
+          "Low Fuel Warning Light",
+          "Door Ajar Warning Lamp",
+          "Rear Seatbelt Reminder Warning Indicator"
+        ],
+        "Audio & Entertainment": [
+          "SmartPlay Pro: SmartPlay Pro 17.78 cm Touch Screen",
+          "Bluetooth",
+          "Number of Speakers: 4.0",
+          "Wireless Android Auto & Apple CarPlay: Wireless",
+          "Steering Mounted Audio & Calling Controls"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/dzire/images/spinset360/GallantRed/2025.05.20_15.04.35_Dzire_360_Red_00054.png"
+    },
+    {
+      "code": "DER4BZ1",
+      "name": "Dzire ZXi MT",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": null,
+      "ex_showroom_surat": {
+        "metallic": 827652,
+        "non_metallic": 827652
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Efficiency (km/l)*": "25.15Km/L"
+        },
+        "Dimensions": {
+          "Length (mm)": "3995",
+          "Width (mm)": "1735",
+          "Height (mm)": "1525",
+          "Wheelbase (mm)": "2450",
+          "Turning Radius (m)": "4.8",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "920-960 (kg)",
+          "Gross Vehicle Weight (Kg)": "1375",
+          "Fuel Tank Capacity (L)": "37",
+          "Boot Space (L)": "382*"
+        },
+        "Transmission": {
+          "Transmission Type": "5MT"
+        },
+        "Engine": {
+          "Engine Type": "Z12E With ISS",
+          "Capacity (cc)": "1197 cc",
+          "Max Power (1 KW =1.35962 PS)": "61 kW / 82.93 Ps @ 5700 rpm",
+          "Max Torque (Nm @ rpm)": "112.4 Nm @ 4500 rpm",
+          "No. of Cylinder": 4.0
+        },
+        "Brakes": {
+          "Front": "Ventilated Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "Mac Pherson Strut",
+          "Rear Suspension": "Torsion Beam"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "185/65 R15 ",
+          "Wheel Type": "Alloy Wheels"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Headlamps: LED Crystal Vision",
+          "LED Daytime Running Lamps (DRL)",
+          "LED Tail Stop Lamp",
+          "Antenna: Shark Fin",
+          "Door Handles",
+          "Front Grille",
+          "Alloy Wheels: Yes (Painted)"
+        ],
+        "Interior": [
+          "Outside Temperature Display",
+          "Chrome Parking Brake Lever Tip",
+          "Multi-information Display",
+          "MID Display",
+          "Dual Tone Interior",
+          "Rear Seat Adjustable Headrest",
+          "Height Adjustable Driver Seat",
+          "Driver Side Sunvisor with Ticket Holder",
+          "Passenger Side Sunvisor with Vanity Mirror",
+          "Front cabin lamp",
+          "Chrome Plated Inside Door Handles",
+          "IP Ornament: Satin Silver + Wood"
+        ],
+        "Safety & Security": [
+          "Driver Airbag",
+          "6 Airbags",
+          "ABS with EBD",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "ISOFIX with Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "Rear Parking Camera",
+          "Tyre Pressure Monitoring System (TPMS)",
+          "High-Speed Alert System",
+          "Child-Proof Rear Door Locks",
+          "Immobilizer (Anti-Theft Security System)",
+          "Rear Window Defogger",
+          "Speed-Sensitive Auto Door Lock",
+          "Day/Night Adjustable IRVM",
+          "Warning Lamps for Low Fuel & Door Ajar",
+          "Brake Assist Function",
+          "Front Seat Belts with Pre-Tensioner and Force Limiter",
+          "Seat Belts for All Seats"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Engine Push Start/Stop with Smart Key",
+          "Auto Headlamps (Lead Me to Vehicle, Follow Me Home)",
+          "Power tilt steering",
+          "Electric Back Door Opener",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Electrically-Foldable ORVMs: Electrically Adjustable & Foldable, With Turn Indicator",
+          "Steering-Mounted Audio Controls",
+          "Accessory Socket",
+          "Gear Shift Indicator",
+          "Driver Side Foot Rest",
+          "USB Ports",
+          "Wireless Charger",
+          "Rear AC Vents",
+          "Automatic Climate Control",
+          "Central Locking",
+          "Rear Centre Armrest: With Cupholder"
+        ],
+        "Infotainment": [
+          "Tachometer",
+          "Remote Control App for Infotainment",
+          "Low Fuel Warning Light",
+          "Door Ajar Warning Lamp",
+          "Rear Seatbelt Reminder Warning Indicator"
+        ],
+        "Audio & Entertainment": [
+          "SmartPlay Pro: SmartPlay Pro 17.78 cm Touch Screen",
+          "Bluetooth",
+          "Number of Speakers: 4.0",
+          "Wireless Android Auto & Apple CarPlay: Wireless",
+          "Steering Mounted Audio & Calling Controls",
+          "Tweeters"
+        ],
+        "Suzuki Connect": [
+          "Emergency Alerts",
+          "Breakdown notification",
+          "Stolen Vehicle Notification and Tracking",
+          "Immobilizer Request",
+          "Tow Away Alert and Tracking",
+          "Geofence",
+          "Valet Alert",
+          "Door Lock/Cancel Lock",
+          "Headlight Off",
+          "Hazard Lights On/Off ",
+          "Alarm On/Off",
+          "Smartwatch Connectivity",
+          "Suzuki Connect Skills for Amazon Alexa",
+          "Low Fuel & Low Range Alert",
+          "Over Speed Alert",
+          "AC Idling",
+          "Seat Belt Alert",
+          "Battery Status",
+          "Trip (Start & End)",
+          "Live Vehicle Tracking & Location sharing",
+          "View & Share Trip History",
+          "Guidance Around Destination",
+          "Dashboard View",
+          "Time Fence",
+          "Trip Summary"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/dzire/images/spinset360/GallantRed/2025.05.20_15.04.35_Dzire_360_Red_00054.png"
+    },
+    {
+      "code": "DEACBV1",
+      "name": "Dzire VXi CNG AGS",
+      "fuel": "CNG",
+      "transmission": "Automatic",
+      "technology": [
+        "S-CNG"
+      ],
+      "airbags": null,
+      "ex_showroom_surat": {
+        "metallic": 853052,
+        "non_metallic": 853052
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol-CNG",
+          "Fuel Efficiency (km/l)*": "36.47Km/Kg"
+        },
+        "Dimensions": {
+          "Length (mm)": "3995",
+          "Width (mm)": "1735",
+          "Height (mm)": "1525",
+          "Wheelbase (mm)": "2450",
+          "Turning Radius (m)": "4.8",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "1025-1035 (kg)",
+          "Gross Vehicle Weight (Kg)": "1435",
+          "Fuel Tank Capacity (L)": "Petrol: 37L\r\nCNG: 55L (water filling capacity)",
+          "Boot Space (L)": "NA"
+        },
+        "Transmission": {
+          "Transmission Type": "5AMT"
+        },
+        "Engine": {
+          "Engine Type": "Z12E With ISS",
+          "Capacity (cc)": "1197 cc",
+          "Max Power (1 KW =1.35962 PS)": "51.3 kW / 69.75 Ps @ 5700 rpm",
+          "Max Torque (Nm @ rpm)": "101.8 Nm @ 2900 rpm",
+          "No. of Cylinder": 4.0
+        },
+        "Brakes": {
+          "Front": "Ventilated Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "Mac Pherson Strut",
+          "Rear Suspension": "Torsion Beam"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "165/80 R14",
+          "Wheel Type": "Steel"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Headlamps: FocusBeam Projector",
+          "LED Tail Stop Lamp",
+          "Antenna: Shark Fin",
+          "Door Handles",
+          "Front Grille",
+          "Full Wheel Covers"
+        ],
+        "Interior": [
+          "Outside Temperature Display",
+          "Chrome Parking Brake Lever Tip",
+          "Multi-information Display",
+          "MID Display",
+          "Dual Tone Interior",
+          "Rear Seat Adjustable Headrest",
+          "Height Adjustable Driver Seat",
+          "Driver Side Sunvisor with Ticket Holder",
+          "Passenger Side Sunvisor with Vanity Mirror",
+          "Front cabin lamp",
+          "Chrome Plated Inside Door Handles",
+          "IP Ornament: Satin Silver"
+        ],
+        "Safety & Security": [
+          "Driver Airbag",
+          "6 Airbags",
+          "ABS with EBD",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "ISOFIX with Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "High-Speed Alert System",
+          "Child-Proof Rear Door Locks",
+          "Immobilizer (Anti-Theft Security System)",
+          "Rear Window Defogger",
+          "Speed-Sensitive Auto Door Lock",
+          "Day/Night Adjustable IRVM",
+          "Warning Lamps for Low Fuel & Door Ajar",
+          "Brake Assist Function",
+          "Front Seat Belts with Pre-Tensioner and Force Limiter",
+          "Seat Belts for All Seats"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Power tilt steering",
+          "Electric Back Door Opener",
+          "Gear Position Indicator",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Electrically-Foldable ORVMs: Electrically Adjustable & Foldable, With Turn Indicator",
+          "Steering-Mounted Audio Controls",
+          "Accessory Socket",
+          "Driver Side Foot Rest",
+          "USB Ports",
+          "Rear AC Vents",
+          "Central Locking",
+          "Rear Centre Armrest: With Cupholder"
+        ],
+        "Infotainment": [
+          "Tachometer",
+          "Remote Control App for Infotainment",
+          "Low Fuel Warning Light",
+          "Door Ajar Warning Lamp",
+          "Rear Seatbelt Reminder Warning Indicator"
+        ],
+        "Audio & Entertainment": [
+          "SmartPlay Pro: SmartPlay Pro 17.78 cm Touch Screen",
+          "Bluetooth",
+          "Number of Speakers: 4.0",
+          "Wireless Android Auto & Apple CarPlay: Wireless",
+          "Steering Mounted Audio & Calling Controls"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/dzire/images/spinset360/GallantRed/2025.05.20_15.04.35_Dzire_360_Red_00054.png"
+    },
+    {
+      "code": "DEA4BZ1",
+      "name": "Dzire ZXi AMT",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": null,
+      "ex_showroom_surat": {
+        "metallic": 872653,
+        "non_metallic": 872653
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Efficiency (km/l)*": "26.13Km/L"
+        },
+        "Dimensions": {
+          "Length (mm)": "3995",
+          "Width (mm)": "1735",
+          "Height (mm)": "1735",
+          "Wheelbase (mm)": "2450",
+          "Turning Radius (m)": "4.8",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "920-960 (kg)",
+          "Gross Vehicle Weight (Kg)": "1375",
+          "Fuel Tank Capacity (L)": "37",
+          "Boot Space (L)": "382*"
+        },
+        "Transmission": {
+          "Transmission Type": "5AMT"
+        },
+        "Engine": {
+          "Engine Type": "Z12E With ISS",
+          "Capacity (cc)": "1197 cc",
+          "Max Power (1 KW =1.35962 PS)": "61 kW / 82.93 Ps @ 5700 rpm",
+          "Max Torque (Nm @ rpm)": "112.4 Nm @ 4500 rpm",
+          "No. of Cylinder": 4.0
+        },
+        "Brakes": {
+          "Front": "Ventilated Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "Mac Pherson Strut",
+          "Rear Suspension": "Torsion Beam"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "185/65 R15 ",
+          "Wheel Type": "Alloy Wheels"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Headlamps: LED Crystal Vision",
+          "LED Daytime Running Lamps (DRL)",
+          "LED Tail Stop Lamp",
+          "Antenna: Shark Fin",
+          "Door Handles",
+          "Front Grille",
+          "Alloy Wheels: Yes (Painted)"
+        ],
+        "Interior": [
+          "Outside Temperature Display",
+          "Chrome Parking Brake Lever Tip",
+          "Multi-information Display",
+          "MID Display",
+          "Dual Tone Interior",
+          "Rear Seat Adjustable Headrest",
+          "Height Adjustable Driver Seat",
+          "Driver Side Sunvisor with Ticket Holder",
+          "Passenger Side Sunvisor with Vanity Mirror",
+          "Front cabin lamp",
+          "Chrome Plated Inside Door Handles",
+          "IP Ornament: Satin Silver + Wood"
+        ],
+        "Safety & Security": [
+          "Driver Airbag",
+          "6 Airbags",
+          "ABS with EBD",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "ISOFIX with Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "Rear Parking Camera",
+          "Tyre Pressure Monitoring System (TPMS)",
+          "High-Speed Alert System",
+          "Child-Proof Rear Door Locks",
+          "Immobilizer (Anti-Theft Security System)",
+          "Rear Window Defogger",
+          "Speed-Sensitive Auto Door Lock",
+          "Day/Night Adjustable IRVM",
+          "Warning Lamps for Low Fuel & Door Ajar",
+          "Brake Assist Function",
+          "Front Seat Belts with Pre-Tensioner and Force Limiter",
+          "Seat Belts for All Seats"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Engine Push Start/Stop with Smart Key",
+          "Auto Headlamps (Lead Me to Vehicle, Follow Me Home)",
+          "Power tilt steering",
+          "Electric Back Door Opener",
+          "Gear Position Indicator",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Electrically-Foldable ORVMs: Electrically Adjustable & Foldable, With Turn Indicator",
+          "Steering-Mounted Audio Controls",
+          "Accessory Socket",
+          "Driver Side Foot Rest",
+          "USB Ports",
+          "Wireless Charger",
+          "Rear AC Vents",
+          "Automatic Climate Control",
+          "Central Locking",
+          "Rear Centre Armrest: With Cupholder"
+        ],
+        "Infotainment": [
+          "Tachometer",
+          "Remote Control App for Infotainment",
+          "Low Fuel Warning Light",
+          "Door Ajar Warning Lamp",
+          "Rear Seatbelt Reminder Warning Indicator"
+        ],
+        "Audio & Entertainment": [
+          "SmartPlay Pro: SmartPlay Pro 17.78 cm Touch Screen",
+          "Bluetooth",
+          "Number of Speakers: 4.0",
+          "Wireless Android Auto & Apple CarPlay: Wireless",
+          "Steering Mounted Audio & Calling Controls",
+          "Tweeters"
+        ],
+        "Suzuki Connect": [
+          "Emergency Alerts",
+          "Breakdown notification",
+          "Stolen Vehicle Notification and Tracking",
+          "Immobilizer Request",
+          "Tow Away Alert and Tracking",
+          "Geofence",
+          "Valet Alert",
+          "Door Lock/Cancel Lock",
+          "Headlight Off",
+          "Hazard Lights On/Off ",
+          "Alarm On/Off",
+          "Smartwatch Connectivity",
+          "Suzuki Connect Skills for Amazon Alexa",
+          "Low Fuel & Low Range Alert",
+          "Over Speed Alert",
+          "AC Idling",
+          "Seat Belt Alert",
+          "Battery Status",
+          "Trip (Start & End)",
+          "Live Vehicle Tracking & Location sharing",
+          "View & Share Trip History",
+          "Guidance Around Destination",
+          "Dashboard View",
+          "Time Fence",
+          "Trip Summary"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/dzire/images/spinset360/GallantRed/2025.05.20_15.04.35_Dzire_360_Red_00054.png"
+    },
+    {
+      "code": "DER4BZ2",
+      "name": "Dzire ZXi+ MT",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": null,
+      "ex_showroom_surat": {
+        "metallic": 896253,
+        "non_metallic": 896253
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Efficiency (km/l)*": "25.15Km/L"
+        },
+        "Dimensions": {
+          "Length (mm)": "3995",
+          "Width (mm)": "1735",
+          "Height (mm)": "1525",
+          "Wheelbase (mm)": "2450",
+          "Turning Radius (m)": "4.8",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "920-960 (kg)",
+          "Gross Vehicle Weight (Kg)": "1375",
+          "Fuel Tank Capacity (L)": "37",
+          "Boot Space (L)": "382*"
+        },
+        "Transmission": {
+          "Transmission Type": "5MT"
+        },
+        "Engine": {
+          "Engine Type": "Z12E With ISS",
+          "Capacity (cc)": "1197 cc",
+          "Max Power (1 KW =1.35962 PS)": "61 kW / 82.93 Ps @ 5700 rpm",
+          "Max Torque (Nm @ rpm)": "112.4 Nm @ 4500 rpm",
+          "No. of Cylinder": 4.0
+        },
+        "Brakes": {
+          "Front": "Ventilated Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "Mac Pherson Strut",
+          "Rear Suspension": "Torsion Beam"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "185/65 R15 ",
+          "Wheel Type": "Precision-Cut Alloy Wheels"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Headlamps: LED Crystal Vision",
+          "LED Daytime Running Lamps (DRL)",
+          "LED Tail Stop Lamp",
+          "Antenna: Shark Fin",
+          "Electric Sunroof",
+          "Fog Lamps",
+          "Door Handles",
+          "Front Grille",
+          "Alloy Wheels: Yes (Precision Cut)"
+        ],
+        "Interior": [
+          "Leather Wrapped Steering Wheel",
+          "Outside Temperature Display",
+          "Chrome Parking Brake Lever Tip",
+          "Front Footwell Illumination",
+          "Multi-information Display: Coloured",
+          "MID Display: Coloured",
+          "Dual Tone Interior",
+          "Rear Seat Adjustable Headrest",
+          "Height Adjustable Driver Seat",
+          "Driver Side Sunvisor with Ticket Holder",
+          "Passenger Side Sunvisor with Vanity Mirror",
+          "Front cabin lamp: Yes (spot lamp)",
+          "Chrome Plated Inside Door Handles",
+          "IP Ornament: Satin Silver + Wood"
+        ],
+        "Safety & Security": [
+          "Driver Airbag",
+          "6 Airbags",
+          "ABS with EBD",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "ISOFIX with Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "Tyre Pressure Monitoring System (TPMS)",
+          "High-Speed Alert System",
+          "Child-Proof Rear Door Locks",
+          "Immobilizer (Anti-Theft Security System)",
+          "Rear Window Defogger",
+          "Speed-Sensitive Auto Door Lock",
+          "Day/Night Adjustable IRVM",
+          "Warning Lamps for Low Fuel & Door Ajar",
+          "Brake Assist Function",
+          "360 View Camera",
+          "Front Seat Belts with Pre-Tensioner and Force Limiter",
+          "Seat Belts for All Seats"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Engine Push Start/Stop with Smart Key",
+          "Auto Headlamps (Lead Me to Vehicle, Follow Me Home)",
+          "Power tilt steering",
+          "Electric Back Door Opener",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Electrically-Foldable ORVMs: Electrically Adjustable & Foldable, With Turn Indicator",
+          "Steering-Mounted Audio Controls",
+          "Accessory Socket",
+          "Gear Shift Indicator",
+          "Driver Side Foot Rest",
+          "USB Ports",
+          "Wireless Charger",
+          "Rear AC Vents",
+          "Cruise Control",
+          "Automatic Climate Control",
+          "Central Locking",
+          "Rear Centre Armrest: With Cupholder"
+        ],
+        "Infotainment": [
+          "Tachometer",
+          "Remote Control App for Infotainment",
+          "Low Fuel Warning Light",
+          "Door Ajar Warning Lamp",
+          "Rear Seatbelt Reminder Warning Indicator"
+        ],
+        "Audio & Entertainment": [
+          "SmartPlay Pro: SmartPlay Pro + 22.86 cm Touch Screen",
+          "Surround Sense Powered by ARKAMYS",
+          "Bluetooth",
+          "Number of Speakers: 4.0",
+          "Wireless Android Auto & Apple CarPlay: Wireless",
+          "Steering Mounted Audio & Calling Controls",
+          "Tweeters"
+        ],
+        "Suzuki Connect": [
+          "Emergency Alerts",
+          "Breakdown notification",
+          "Stolen Vehicle Notification and Tracking",
+          "Immobilizer Request",
+          "Tow Away Alert and Tracking",
+          "Geofence",
+          "Valet Alert",
+          "Door Lock/Cancel Lock",
+          "Headlight Off",
+          "Hazard Lights On/Off ",
+          "Alarm On/Off",
+          "Smartwatch Connectivity",
+          "Suzuki Connect Skills for Amazon Alexa",
+          "Low Fuel & Low Range Alert",
+          "Over Speed Alert",
+          "AC Idling",
+          "Seat Belt Alert",
+          "Battery Status",
+          "Trip (Start & End)",
+          "Live Vehicle Tracking & Location sharing",
+          "View & Share Trip History",
+          "Guidance Around Destination",
+          "Dashboard View",
+          "Time Fence",
+          "Trip Summary"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/dzire/images/spinset360/GallantRed/2025.05.20_15.04.35_Dzire_360_Red_00054.png"
+    },
+    {
+      "code": "DERCBZ1",
+      "name": "Dzire ZXi CNG",
+      "fuel": "CNG",
+      "transmission": "Manual",
+      "technology": [
+        "S-CNG"
+      ],
+      "airbags": null,
+      "ex_showroom_surat": {
+        "metallic": 918653,
+        "non_metallic": 918653
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petol + CNG",
+          "Fuel Efficiency (km/l)*": "35.63Km/Kg"
+        },
+        "Dimensions": {
+          "Length (mm)": "3995",
+          "Width (mm)": "1735",
+          "Height (mm)": "1525",
+          "Wheelbase (mm)": "2450",
+          "Turning Radius (m)": "4.8",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "1025-1035 (kg)",
+          "Gross Vehicle Weight (Kg)": "1435",
+          "Fuel Tank Capacity (L)": "Petrol: 37L\r\nCNG: 55L (water filling capacity)",
+          "Boot Space (L)": "NA"
+        },
+        "Transmission": {
+          "Transmission Type": "5MT"
+        },
+        "Engine": {
+          "Engine Type": "Z12E With ISS",
+          "Capacity (cc)": "1197 cc",
+          "Max Power (1 KW =1.35962 PS)": "51.3 kW / 69.75 Ps @ 5700 rpm",
+          "Max Torque (Nm @ rpm)": "101.8 Nm @ 2900 rpm",
+          "No. of Cylinder": 4.0
+        },
+        "Brakes": {
+          "Front": "Ventilated Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "Mac Pherson Strut",
+          "Rear Suspension": "Torsion Beam"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "185/65 R15 ",
+          "Wheel Type": "Alloy Wheels"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Headlamps: LED Crystal Vision",
+          "LED Daytime Running Lamps (DRL)",
+          "LED Tail Stop Lamp",
+          "Antenna: Shark Fin",
+          "Door Handles",
+          "Front Grille",
+          "Alloy Wheels: Yes (Painted)"
+        ],
+        "Interior": [
+          "Outside Temperature Display",
+          "Chrome Parking Brake Lever Tip",
+          "Multi-information Display",
+          "MID Display",
+          "Dual Tone Interior",
+          "Rear Seat Adjustable Headrest",
+          "Height Adjustable Driver Seat",
+          "Driver Side Sunvisor with Ticket Holder",
+          "Passenger Side Sunvisor with Vanity Mirror",
+          "Front cabin lamp",
+          "Chrome Plated Inside Door Handles",
+          "IP Ornament: Satin Silver + Wood"
+        ],
+        "Safety & Security": [
+          "Driver Airbag",
+          "6 Airbags",
+          "ABS with EBD",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "ISOFIX with Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "Rear Parking Camera",
+          "Tyre Pressure Monitoring System (TPMS)",
+          "High-Speed Alert System",
+          "Child-Proof Rear Door Locks",
+          "Immobilizer (Anti-Theft Security System)",
+          "Rear Window Defogger",
+          "Speed-Sensitive Auto Door Lock",
+          "Day/Night Adjustable IRVM",
+          "Warning Lamps for Low Fuel & Door Ajar",
+          "Brake Assist Function",
+          "Front Seat Belts with Pre-Tensioner and Force Limiter",
+          "Seat Belts for All Seats"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Engine Push Start/Stop with Smart Key",
+          "Auto Headlamps (Lead Me to Vehicle, Follow Me Home)",
+          "Power tilt steering",
+          "Electric Back Door Opener",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Electrically-Foldable ORVMs: Electrically Adjustable & Foldable, With Turn Indicator",
+          "Steering-Mounted Audio Controls",
+          "Accessory Socket",
+          "Gear Shift Indicator",
+          "Driver Side Foot Rest",
+          "USB Ports",
+          "Wireless Charger",
+          "Rear AC Vents",
+          "Automatic Climate Control",
+          "Central Locking",
+          "Rear Centre Armrest: With Cupholder"
+        ],
+        "Infotainment": [
+          "Tachometer",
+          "Remote Control App for Infotainment",
+          "Low Fuel Warning Light",
+          "Door Ajar Warning Lamp",
+          "Rear Seatbelt Reminder Warning Indicator"
+        ],
+        "Audio & Entertainment": [
+          "SmartPlay Pro: SmartPlay Pro 17.78 cm Touch Screen",
+          "Bluetooth",
+          "Number of Speakers: 4.0",
+          "Wireless Android Auto & Apple CarPlay: Wireless",
+          "Steering Mounted Audio & Calling Controls",
+          "Tweeters"
+        ],
+        "Suzuki Connect": [
+          "Emergency Alerts",
+          "Breakdown notification",
+          "Stolen Vehicle Notification and Tracking",
+          "Immobilizer Request",
+          "Tow Away Alert and Tracking",
+          "Geofence",
+          "Valet Alert",
+          "Door Lock/Cancel Lock",
+          "Headlight Off",
+          "Hazard Lights On/Off ",
+          "Alarm On/Off",
+          "Smartwatch Connectivity",
+          "Suzuki Connect Skills for Amazon Alexa",
+          "Low Fuel & Low Range Alert",
+          "Over Speed Alert",
+          "AC Idling",
+          "Seat Belt Alert",
+          "Battery Status",
+          "Trip (Start & End)",
+          "Live Vehicle Tracking & Location sharing",
+          "View & Share Trip History",
+          "Guidance Around Destination",
+          "Dashboard View",
+          "Time Fence",
+          "Trip Summary"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/dzire/images/spinset360/GallantRed/2025.05.20_15.04.35_Dzire_360_Red_00054.png"
+    },
+    {
+      "code": "DEA4BZ2",
+      "name": "Dzire ZXi+ AMT",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": 6,
+      "ex_showroom_surat": {
+        "metallic": 941252,
+        "non_metallic": 941252
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Efficiency (km/l)*": "26.13Km/L"
+        },
+        "Dimensions": {
+          "Length (mm)": "3995",
+          "Width (mm)": "1735",
+          "Height (mm)": "1525",
+          "Wheelbase (mm)": "2450",
+          "Turning Radius (m)": "4.8",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "920-960 (kg)",
+          "Gross Vehicle Weight (Kg)": "1375",
+          "Fuel Tank Capacity (L)": "37",
+          "Boot Space (L)": "382*"
+        },
+        "Transmission": {
+          "Transmission Type": "5AMT"
+        },
+        "Engine": {
+          "Engine Type": "Z12E With ISS",
+          "Capacity (cc)": "1197 cc",
+          "Max Power (1 KW =1.35962 PS)": "61 kW / 82.93 Ps @ 5700 rpm",
+          "Max Torque (Nm @ rpm)": "112.4 Nm @ 4500 rpm",
+          "No. of Cylinder": 4.0
+        },
+        "Brakes": {
+          "Front": "Ventilated Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "Mac Pherson Strut",
+          "Rear Suspension": "Torsion Beam"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "185/65 R15 ",
+          "Wheel Type": "Precision-Cut Alloy Wheels"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Headlamps: LED Crystal Vision",
+          "LED Daytime Running Lamps (DRL)",
+          "LED Tail Stop Lamp",
+          "Antenna: Shark Fin",
+          "Electric Sunroof",
+          "Fog Lamps",
+          "Door Handles",
+          "Front Grille",
+          "Alloy Wheels: Yes (Precision Cut)"
+        ],
+        "Interior": [
+          "Leather Wrapped Steering Wheel",
+          "Outside Temperature Display",
+          "Chrome Parking Brake Lever Tip",
+          "Front Footwell Illumination",
+          "Multi-information Display: Coloured",
+          "MID Display: Coloured",
+          "Dual Tone Interior",
+          "Rear Seat Adjustable Headrest",
+          "Height Adjustable Driver Seat",
+          "Driver Side Sunvisor with Ticket Holder",
+          "Passenger Side Sunvisor with Vanity Mirror",
+          "Front cabin lamp: Yes (spot lamp)",
+          "Chrome Plated Inside Door Handles",
+          "IP Ornament: Satin Silver + Wood"
+        ],
+        "Safety & Security": [
+          "Driver Airbag",
+          "6 Airbags",
+          "ABS with EBD",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "ISOFIX with Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "Tyre Pressure Monitoring System (TPMS)",
+          "High-Speed Alert System",
+          "Child-Proof Rear Door Locks",
+          "Immobilizer (Anti-Theft Security System)",
+          "Rear Window Defogger",
+          "Speed-Sensitive Auto Door Lock",
+          "Day/Night Adjustable IRVM",
+          "Warning Lamps for Low Fuel & Door Ajar",
+          "Brake Assist Function",
+          "360 View Camera",
+          "Front Seat Belts with Pre-Tensioner and Force Limiter",
+          "Seat Belts for All Seats"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Engine Push Start/Stop with Smart Key",
+          "Auto Headlamps (Lead Me to Vehicle, Follow Me Home)",
+          "Power tilt steering",
+          "Electric Back Door Opener",
+          "Gear Position Indicator",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Electrically-Foldable ORVMs: Electrically Retractable, with Turn Indicator",
+          "Steering-Mounted Audio Controls",
+          "Accessory Socket",
+          "Driver Side Foot Rest",
+          "USB Ports",
+          "Wireless Charger",
+          "Rear AC Vents",
+          "Cruise Control",
+          "Automatic Climate Control",
+          "Central Locking",
+          "Rear Centre Armrest: With Cupholder"
+        ],
+        "Infotainment": [
+          "Tachometer",
+          "Remote Control App for Infotainment",
+          "Low Fuel Warning Light",
+          "Door Ajar Warning Lamp",
+          "Rear Seatbelt Reminder Warning Indicator"
+        ],
+        "Audio & Entertainment": [
+          "SmartPlay Pro: SmartPlay Pro + 22.86 cm Touch Screen",
+          "Surround Sense Powered by ARKAMYS",
+          "Bluetooth",
+          "Number of Speakers: 4.0",
+          "Wireless Android Auto & Apple CarPlay: Wireless",
+          "Steering Mounted Audio & Calling Controls",
+          "Tweeters"
+        ],
+        "Suzuki Connect": [
+          "Emergency Alerts",
+          "Breakdown notification",
+          "Stolen Vehicle Notification and Tracking",
+          "Immobilizer Request",
+          "Tow Away Alert and Tracking",
+          "Geofence",
+          "Valet Alert",
+          "Door Lock/Cancel Lock",
+          "Headlight Off",
+          "Hazard Lights On/Off ",
+          "Alarm On/Off",
+          "Smartwatch Connectivity",
+          "Suzuki Connect Skills for Amazon Alexa",
+          "Low Fuel & Low Range Alert",
+          "Over Speed Alert",
+          "AC Idling",
+          "Seat Belt Alert",
+          "Battery Status",
+          "Trip (Start & End)",
+          "Live Vehicle Tracking & Location sharing",
+          "View & Share Trip History",
+          "Guidance Around Destination",
+          "Dashboard View",
+          "Time Fence",
+          "Trip Summary"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/dzire/images/spinset360/GallantRed/2025.05.20_15.04.35_Dzire_360_Red_00054.png"
+    },
+    {
+      "code": "DEACBZ1",
+      "name": "Dzire ZXI CNG AGS",
+      "fuel": "CNG",
+      "transmission": "Automatic",
+      "technology": [
+        "S-CNG"
+      ],
+      "airbags": null,
+      "ex_showroom_surat": {
+        "metallic": 953653,
+        "non_metallic": 953653
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petol + CNG",
+          "Fuel Efficiency (km/l)*": "36.47Km/Kg"
+        },
+        "Dimensions": {
+          "Length (mm)": "3995",
+          "Width (mm)": "1735",
+          "Height (mm)": "1525",
+          "Wheelbase (mm)": "2450",
+          "Turning Radius (m)": "4.8",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "1025-1035 (kg)",
+          "Gross Vehicle Weight (Kg)": "1435",
+          "Fuel Tank Capacity (L)": "Petrol: 37L\r\nCNG: 55L (water filling capacity)",
+          "Boot Space (L)": "NA"
+        },
+        "Transmission": {
+          "Transmission Type": "5AMT"
+        },
+        "Engine": {
+          "Engine Type": "Z12E With ISS",
+          "Capacity (cc)": "1197 cc",
+          "Max Power (1 KW =1.35962 PS)": "51.3 kW / 69.75 Ps @ 5700 rpm",
+          "Max Torque (Nm @ rpm)": "101.8 Nm @ 2900 rpm",
+          "No. of Cylinder": 4.0
+        },
+        "Brakes": {
+          "Front": "Ventilated Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "Mac Pherson Strut",
+          "Rear Suspension": "Torsion Beam"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "185/65 R15 ",
+          "Wheel Type": "Alloy Wheels"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Headlamps: LED Crystal Vision",
+          "LED Daytime Running Lamps (DRL)",
+          "LED Tail Stop Lamp",
+          "Antenna: Shark Fin",
+          "Door Handles",
+          "Front Grille",
+          "Alloy Wheels: Yes (Painted)"
+        ],
+        "Interior": [
+          "Outside Temperature Display",
+          "Chrome Parking Brake Lever Tip",
+          "Multi-information Display",
+          "MID Display",
+          "Dual Tone Interior",
+          "Rear Seat Adjustable Headrest",
+          "Height Adjustable Driver Seat",
+          "Driver Side Sunvisor with Ticket Holder",
+          "Passenger Side Sunvisor with Vanity Mirror",
+          "Front cabin lamp",
+          "Chrome Plated Inside Door Handles",
+          "IP Ornament: Satin Silver + Wood"
+        ],
+        "Safety & Security": [
+          "Driver Airbag",
+          "6 Airbags",
+          "ABS with EBD",
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "ISOFIX with Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "Rear Parking Camera",
+          "Tyre Pressure Monitoring System (TPMS)",
+          "High-Speed Alert System",
+          "Child-Proof Rear Door Locks",
+          "Immobilizer (Anti-Theft Security System)",
+          "Rear Window Defogger",
+          "Speed-Sensitive Auto Door Lock",
+          "Day/Night Adjustable IRVM",
+          "Warning Lamps for Low Fuel & Door Ajar",
+          "Brake Assist Function",
+          "Front Seat Belts with Pre-Tensioner and Force Limiter",
+          "Seat Belts for All Seats"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Engine Push Start/Stop with Smart Key",
+          "Auto Headlamps (Lead Me to Vehicle, Follow Me Home)",
+          "Power tilt steering",
+          "Electric Back Door Opener",
+          "Gear Position Indicator",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Electrically-Foldable ORVMs: Electrically Adjustable & Foldable, With Turn Indicator",
+          "Steering-Mounted Audio Controls",
+          "Accessory Socket",
+          "Driver Side Foot Rest",
+          "USB Ports",
+          "Wireless Charger",
+          "Rear AC Vents",
+          "Automatic Climate Control",
+          "Central Locking",
+          "Rear Centre Armrest: With Cupholder"
+        ],
+        "Infotainment": [
+          "Tachometer",
+          "Remote Control App for Infotainment",
+          "Low Fuel Warning Light",
+          "Door Ajar Warning Lamp",
+          "Rear Seatbelt Reminder Warning Indicator"
+        ],
+        "Audio & Entertainment": [
+          "SmartPlay Pro: SmartPlay Pro 17.78 cm Touch Screen",
+          "Bluetooth",
+          "Number of Speakers: 4.0",
+          "Wireless Android Auto & Apple CarPlay: Wireless",
+          "Steering Mounted Audio & Calling Controls",
+          "Tweeters"
+        ],
+        "Suzuki Connect": [
+          "Emergency Alerts",
+          "Breakdown notification",
+          "Stolen Vehicle Notification and Tracking",
+          "Immobilizer Request",
+          "Tow Away Alert and Tracking",
+          "Geofence",
+          "Valet Alert",
+          "Door Lock/Cancel Lock",
+          "Headlight Off",
+          "Hazard Lights On/Off ",
+          "Alarm On/Off",
+          "Smartwatch Connectivity",
+          "Suzuki Connect Skills for Amazon Alexa",
+          "Low Fuel & Low Range Alert",
+          "Over Speed Alert",
+          "AC Idling",
+          "Seat Belt Alert",
+          "Battery Status",
+          "Trip (Start & End)",
+          "Live Vehicle Tracking & Location sharing",
+          "View & Share Trip History",
+          "Guidance Around Destination",
+          "Dashboard View",
+          "Time Fence",
+          "Trip Summary"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/dzire/images/spinset360/GallantRed/2025.05.20_15.04.35_Dzire_360_Red_00054.png"
+    }
+  ],
+  "fetched_on": "2026-10-30"
+}

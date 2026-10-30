@@ -1,0 +1,1025 @@
+{
+  "brand": "Maruti Suzuki",
+  "model": "e Vitara",
+  "slug": "e-vitara",
+  "model_code": "VE",
+  "channel": "Nexa",
+  "official_page": "https://www.nexaexperience.com/e-vitara",
+  "brochure_pdf": "https://www.nexaexperience.com/pdf-viewer?pdf=/content/dam/msil/nexa/in/en/assets/cars/evitara/documents/e%20VITARA%20Web%20Brochure%20Sep%2726.pdf",
+  "price_city": "Surat, Gujarat",
+  "ex_showroom_min": 1619246,
+  "ex_showroom_max": 2021246,
+  "fuel_types": [
+    "electric"
+  ],
+  "transmissions": [
+    "Automatic"
+  ],
+  "colours": [
+    {
+      "name": "⁠Land Breeze Green with Bluish Black Roof",
+      "hex": [
+        "#4B4B3F",
+        "#181c28"
+      ],
+      "paint": "dual_tone",
+      "variants": [
+        "Alpha"
+      ]
+    },
+    {
+      "name": "Splendid Silver with Bluish Black Roof",
+      "hex": [
+        "#B6BABD",
+        "#171717"
+      ],
+      "paint": "dual_tone",
+      "variants": [
+        "Alpha"
+      ]
+    },
+    {
+      "name": "Opulent Red with Bluish Black Roof",
+      "hex": [
+        "#AC0F0F",
+        "#171717"
+      ],
+      "paint": "dual_tone",
+      "variants": [
+        "Alpha"
+      ]
+    },
+    {
+      "name": "Arctic White with Bluish Black Roof",
+      "hex": [
+        "#f9f9f9",
+        "#171717"
+      ],
+      "paint": "dual_tone",
+      "variants": [
+        "Alpha"
+      ]
+    },
+    {
+      "name": "Celestial Blue",
+      "hex": [
+        "#1E2B71"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Alpha"
+      ]
+    },
+    {
+      "name": "Grandeur Grey",
+      "hex": [
+        "#464848"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Alpha",
+        "Zeta",
+        "Delta"
+      ]
+    },
+    {
+      "name": "Splendid Silver",
+      "hex": [
+        "#B6BABD"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Alpha",
+        "Zeta",
+        "Delta"
+      ]
+    },
+    {
+      "name": "Arctic White",
+      "hex": [
+        "#f9f9f9"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Alpha",
+        "Zeta",
+        "Delta"
+      ]
+    },
+    {
+      "name": "Opulent Red",
+      "hex": [
+        "#AC0F0F"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Alpha",
+        "Zeta",
+        "Delta"
+      ]
+    },
+    {
+      "name": "Bluish Black",
+      "hex": [
+        "#181c28"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Alpha",
+        "Zeta",
+        "Delta"
+      ]
+    },
+    {
+      "name": "CELESTIAL BLUE",
+      "hex": [
+        "#1E2B71"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Zeta",
+        "Delta"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "code": "VEAEBV1",
+      "name": "Delta",
+      "fuel": "electric",
+      "transmission": "Automatic",
+      "technology": [
+        "Electrified"
+      ],
+      "airbags": 7,
+      "ex_showroom_surat": {
+        "metallic": 1619246,
+        "non_metallic": 1619246
+      },
+      "specifications": {
+        "Dimensions": {
+          "Length (mm)": "4275",
+          "Width (mm)": "1800",
+          "Height (mm)": "1640",
+          "Wheelbase (mm)": "2700",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "1725",
+          "Gross Vehicle Weight (Kg)": "2180",
+          "Minimum Turning Radius (m)": "5.2"
+        },
+        "Battery": {
+          "Battery Type": "Lithium Ferrophosphate (LFP)",
+          "Battery Capacity (kWh)": "49 kWh",
+          "Estimated Charging Time (AC fast Charging 7.4 kW, 1 Phase) [10-100%]": "~6.5 hrs",
+          "Estimated Charging Time (DC fast Charging) [10-80%]": "45 min",
+          "Battery Warranty": "8 Years / 160,000 km"
+        },
+        "Motor": {
+          "Type": "3-Phase AC PMSM",
+          "Max Power (kW)": "105.8",
+          "Max Torque (Nm)": "193"
+        },
+        "Transmission": {
+          "Transmission Type": "Single Speed Electric 2WD",
+          "Drive Type": "2WD"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut\t",
+          "Rear Suspension": "Multi Link"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Disc",
+          "Parking": "Electronic Parking Brake"
+        },
+        "Tyre": {
+          "Wheel Type": "225/55 R18 Alloy Wheels with Aero Garnish"
+        },
+        "Fuel": {
+          "Fuel Type": "Electric"
+        },
+        "Range (in km)": {
+          "Range (in km)": "440"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "NEXTre' 3-Point Matrix LED DRLs",
+          "LED Projector Headlamps",
+          "Auto Headlamps",
+          "NEXTre' 3-Point Matrix Rear Lamps",
+          "Follow-me Home Headlamps",
+          "Roof End Spoiler",
+          "ORVM with Turn Indicator",
+          "Antenna: Shark Fin Antenna",
+          "Rear Window Wiper & Washer",
+          "Door Handles: Body Coloured Outside Door Handles",
+          "Front Grille: Front Grille Garnish",
+          "Rain Sensing Wipers: Auto Rain Sensing Wipers [Fr]",
+          "Alloy Wheel with Aero Garnish",
+          "Manual headlamp levelling",
+          "Smart Grille with Adaptive Shutters",
+          "Black Wheel Arch Extensions",
+          "Black side mouldings",
+          "Acoustic & IR Cut Windshield",
+          "Front door : Green Glass",
+          "Rear door : Green Glass",
+          "Back Door : Green Glass",
+          "Design Blade - Windscreen Wiper",
+          "Front Variable Intermittent Wipers",
+          "Rear Variable Intermittent Wipers",
+          "Auto Rear Wiper Operation [R Mode]",
+          "Electric Demister [Rr]",
+          "Quarter Spoiler",
+          "Body Coloured ORVM"
+        ],
+        "Interior": [
+          "MID Display: Integrated Display System (10.1\" Infotainment + 10.25\" MID)",
+          "Dual Tone Interior: Soft-Touch Dual-Tone Interiors",
+          "Cup Holders: 2 x Cup Holders (Front) – Center Console",
+          "Adjustable Headrest: Adjustable Headrests - All seats",
+          "Ambient Lighting with Multi Color Illumination",
+          "Front Footwell Light : ✓ [LED]",
+          "Soft-Touch Premium Dual-Tone Interiors",
+          "Quadruple Vertical AC Vents",
+          "Plush Door Armrest",
+          "Spot Map Lamp (Roof front): ✓ [LED]",
+          "Glove Box Light: ✓ [LED]",
+          "LED Trunk Lamp",
+          "Reading Lamp: ✓ [LED]",
+          "Piano Black Finish Center Console",
+          "Front and rear door storage pockets",
+          "2 x front door and 2 x rear door bottle holders",
+          "Luggage board (for Flat Floor)",
+          "Luggage box (for charger + tools)",
+          "1 x Shopping bag hook",
+          "Customizable Speedometer Multi Information Display Layout",
+          "Twin Deck Center Console with Storage (Piano Black)",
+          "Front Door trim with 3D pattern",
+          "2-Spoke Polygonal Steering Wheel (Synthetic Leather)",
+          "Front Seats: Fabric",
+          "Soft Touch Door Trim Insert: ✓ [Fr]"
+        ],
+        "Comfort & Convenience": [
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Electrically-Foldable ORVM",
+          "Accessory socket: Accessory Socket (Center Console)",
+          "Auto Up/Down Power Window",
+          "Driver Side Foot Rest",
+          "Rear AC Vents",
+          "Rear Centre Armrest (With Cup Holder)",
+          "PM 2.5 Filter Air Cabin Filter",
+          "Front  Armrest (with storage)",
+          "Rear Charging USB Port (A & C Type)",
+          "Front Charging USB Port (A & C Type)",
+          "Adjustable Tilt & Telescopic Steering",
+          "Steering Mounted Controls",
+          "Keyless Entry",
+          "Push Start/Stop Button",
+          "Auto AC",
+          "40 20 40 Rear Seat",
+          "Sliding and Reclining Rear Seats",
+          "Acoustic & IR Cut  Windshield",
+          "Power Windows (Auto Up/Down)",
+          "Auto Folding ORVMs",
+          "Vanity Mirror (Driver + Co-driver)",
+          "Accessory socket center console",
+          "10-Step Sliding Rear Seats (60:40 Configurator)",
+          "10-Step Reclining Rear Seats (60:40 Configurator)",
+          "Seat Back Pocket (Passenger)",
+          "Passenger Side Assist Grip",
+          "Rear Assist Grips with Coat Hooks (2x)",
+          "Satin Plated Rotary Shift Dial",
+          "Sun Visor Ticket Holder (Driver + Co-Driver)",
+          "Onboard Voice Assistant (Hi Suzuki with Barge-In)",
+          "Connected Services – Suzuki Connect: Connected Services Powered by New Gen Suzuki Connect",
+          "AC Temperature Control (Screen / Physical Buttons)",
+          "Rotary Volume Knob with Press & Mute option",
+          "Electrically Adjustable ORVMs",
+          "Integrated Digital Display App (Remote Control)",
+          "Separately Folding Rear Seat Backs (40:20:40)"
+        ],
+        "Safety": [
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "ISOFIX Child Seat Anchorages",
+          "High Mounted Stop Lamp",
+          "Reverse Parking Sensors",
+          "7 Airbags",
+          "Front & Rear Parking Sensors",
+          "Tyre-Pressure Monitoring System (TPMS): Tyre Pressure Monitoring System (Highline)",
+          "Immobilizer (Anti-Theft Security System)",
+          "Impact-Sensing Auto Door Unlock",
+          "Day/Night Adjustable IRVM: Day & Night Adjustable IRVM (Auto)",
+          "Electronic Stability Program (ESP)",
+          "ABS with EBD and Brake Assist",
+          "Electronic Parking Brake",
+          "Brake Hold",
+          "Front Seat Belt Height Adjuster",
+          "Seat Belt Reminder - Lamp & Buzzer",
+          "Day/Night Rear View Mirror",
+          "Speed Warning Buzzer",
+          "Emergency Call with SOS Button",
+          "Emergency Stop Signal [LED]",
+          "225/55 R18 Spare Alloy Wheel",
+          "Acoustic Vehicle Alert System (AVAS)",
+          "Front Parking Sensors",
+          "Front Seat Belt Pretensioner with Force Limiter & Height Adjuster",
+          "Child-Proof Rear Door Locks",
+          "All Seat Belts – 3 Point ELR"
+        ],
+        "Drive Technology": [
+          "Drive mode",
+          "Snow mode",
+          "Regeneration Boost – Multi Level Regenerative Braking (Low / Medium / High)"
+        ],
+        "Suzuki Connect": [
+          "Emergency Alerts",
+          "Breakdown Notification",
+          "Stolen Vehicle Notification and Tracking",
+          "Immobilizer Request",
+          "Tow Away Alert and Tracking",
+          "Geofence",
+          "Valet Alert",
+          "Door Lock/Cancel Lock",
+          "Headlight Off",
+          "Hazard Lights On/Off",
+          "Smartwatch Connectivity",
+          "AC Idling",
+          "Trip (Start & End)",
+          "Driving Score & Behaviour",
+          "Driving Behaviour (Score, Ranking, Comparison, Suggestions)",
+          "Emergency Notification & Calling",
+          "Tow - Away and Tracking",
+          "Time Fence",
+          "Leaderboard ",
+          "Trip Planning",
+          "Trip Summary",
+          "Share Trip History",
+          "Area Guidance",
+          "Vehicle Location Sharing",
+          "Find Charging Station",
+          "Overspeeding",
+          "Seatbelt",
+          "Low Range",
+          "Dashboard View",
+          "Parking Brake Status",
+          "Charging Status and Notification",
+          "Low Battery Notification",
+          "Remote Charging",
+          "Schedule Charging",
+          "AC ON/OFF",
+          "Schedule AC",
+          "Alarm",
+          " Vehicle Health",
+          "Alexa Skill Connectivity4"
+        ],
+        "Suzuki Navigation App": [
+          "Charging Station Search ",
+          "Spider Range",
+          "Smart Trip planning (Auto add Charge Station)",
+          "Trip Sync with Suzuki Connect",
+          "2D/3D Map View",
+          "POI Search",
+          "Voice Guidance",
+          "Lane Guidance",
+          "Junction View",
+          "Navigation Alerts (Speed Limit, Cameras, Potholes, etc.)",
+          "Toll Amount Calculation",
+          "Periodic Map Updates"
+        ],
+        "Connected Display": [
+          "Connected Service - Start/Stop",
+          "Recall Notification",
+          "Periodic Maintenance Notification",
+          "Wallpaper Update"
+        ],
+        "Integrated Digital Display App (Remote Control)": [
+          "Audio Settings",
+          "AM Control",
+          "FM Control",
+          "Bluetooth Audio Control",
+          "USB Audio Control",
+          "iPod Audio Control"
+        ],
+        "Charging Details": [
+          "Type-2 AC Charging Inlet",
+          "CCS2 DC Charging Inlet",
+          "3 kW Portable Charging Cable",
+          "Battery Thermal Management Preconditioning (In-Vehicle Control)",
+          "Immediate Charging Switch",
+          "Charging Port Lid Lamp & Charging Indicator Lamp"
+        ],
+        "ADAS": [
+          "Multi Collision Braking ",
+          "Active Cornering Control"
+        ],
+        "Infotainment": [
+          "10.11\" SmartPlay X with Wireless Connectivity",
+          "Speakers",
+          "Door Speakers (Nos.): 4"
+        ],
+        "Audio & Entertaiment": [
+          "Wireless Android Auto & Apple CarPlay"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/nexa/in/en/assets/cars/grand-vitara/sigma/images/variant-filter/variant-default.png"
+    },
+    {
+      "code": "VEAEBZ1",
+      "name": "Zeta",
+      "fuel": "electric",
+      "transmission": "Automatic",
+      "technology": [
+        "Electrified"
+      ],
+      "airbags": 7,
+      "ex_showroom_surat": {
+        "metallic": 1794246,
+        "non_metallic": 1794246
+      },
+      "specifications": {
+        "Dimensions": {
+          "Length (mm)": "4275",
+          "Width (mm)": "1800",
+          "Height (mm)": "1640",
+          "Wheelbase (mm)": "2700",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "1785",
+          "Gross Vehicle Weight (Kg)": "2250",
+          "Minimum Turning Radius (m)": "5.2"
+        },
+        "Battery": {
+          "Battery Type": "Lithium Ferrophosphate (LFP)\t\t",
+          "Battery Capacity (kWh)": "61 kWh",
+          "Estimated Charging Time (AC fast Charging 7.4 kW, 1 Phase) [10-100%]": "~9.0 hrs",
+          "Estimated Charging Time (DC fast Charging) [10-80%]": "45 min",
+          "Battery Warranty": "8 Years / 160,000 km"
+        },
+        "Motor": {
+          "Type": "3-Phase AC PMSM",
+          "Max Power (kW)": "128",
+          "Max Torque (Nm)": "193"
+        },
+        "Transmission": {
+          "Transmission Type": "Single Speed Electric 2WD",
+          "Drive Type": "2WD"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut\t",
+          "Rear Suspension": "Multi Link"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Disc",
+          "Parking": "Electronic Parking Brake"
+        },
+        "Tyre": {
+          "Wheel Type": "225/55 R18 Alloy Wheels with Aero Garnish"
+        },
+        "Fuel": {
+          "Fuel Type": "Electric"
+        },
+        "Range (in km)": {
+          "Range (in km)": "543"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "NEXTre' 3-Point Matrix LED DRLs",
+          "LED Projector Headlamps",
+          "Auto Headlamps",
+          "NEXTre' 3-Point Matrix Rear Lamps",
+          "Follow-me Home Headlamps",
+          "Roof End Spoiler",
+          "ORVM with Turn Indicator",
+          "Antenna: Shark Fin Antenna",
+          "Rear Window Wiper & Washer",
+          "Door Handles: Body Coloured Outside Door Handles",
+          "Front Grille: Front Grille Garnish",
+          "Rain Sensing Wipers: Auto Rain Sensing Wipers [Fr]",
+          "Alloy Wheel with Aero Garnish",
+          "Manual headlamp levelling",
+          "Smart Grille with Adaptive Shutters",
+          "Black Wheel Arch Extensions",
+          "Black side mouldings",
+          "Acoustic & IR Cut Windshield",
+          "Front door : Green Glass",
+          "Rear door : Green Glass",
+          "Back Door : Green Glass",
+          "Design Blade - Windscreen Wiper",
+          "Front Variable Intermittent Wipers",
+          "Rear Variable Intermittent Wipers",
+          "Auto Rear Wiper Operation [R Mode]",
+          "Electric Demister [Rr]",
+          "Quarter Spoiler",
+          "Body Coloured ORVM"
+        ],
+        "Interior": [
+          "MID Display: Integrated Display System (10.1\" Infotainment + 10.25\" MID)",
+          "Dual Tone Interior: Soft-Touch Dual-Tone Interiors",
+          "Cup Holders: 2 x Cup Holders (Front) – Center Console",
+          "Adjustable Headrest: Adjustable Headrests - All seats",
+          "Ambient Lighting with Multi Color Illumination",
+          "Front Footwell Light : ✓ [LED]",
+          "Soft-Touch Premium Dual-Tone Interiors",
+          "Quadruple Vertical AC Vents",
+          "Plush Door Armrest",
+          "Spot Map Lamp (Roof front): ✓ [LED]",
+          "Glove Box Light: ✓ [LED]",
+          "LED Trunk Lamp",
+          "Reading Lamp: ✓ [LED]",
+          "Piano Black Finish Center Console",
+          "Front and rear door storage pockets",
+          "2 x front door and 2 x rear door bottle holders",
+          "Luggage area parcel shelf",
+          "Luggage board (for Flat Floor)",
+          "Luggage box (for charger + tools)",
+          "1 x Shopping bag hook",
+          "Customizable Speedometer Multi Information Display Layout",
+          "Twin Deck Center Console with Storage (Piano Black)",
+          "Front Door trim with 3D pattern",
+          "2-Spoke Polygonal Steering Wheel (Synthetic Leather)",
+          "Front Seats: Fabric",
+          "Soft Touch Door Trim Insert: ✓ [Fr]"
+        ],
+        "Comfort & Convenience": [
+          "Power Windows (Fr/Rr)",
+          "Electrically-Foldable ORVM",
+          "Accessory socket: Accessory Socket (Center Console)",
+          "Auto Up/Down Power Window",
+          "Driver Side Foot Rest",
+          "Wireless Charger",
+          "Rear AC Vents",
+          "Rear Centre Armrest (With Cup Holder)",
+          "PM 2.5 Filter Air Cabin Filter",
+          "Front  Armrest (with storage)",
+          "Rear Charging USB Port (A & C Type)",
+          "Front Charging USB Port (A & C Type)",
+          "Adjustable Tilt & Telescopic Steering",
+          "Steering Mounted Controls",
+          "Keyless Entry",
+          "Push Start/Stop Button",
+          "Auto AC",
+          "40 20 40 Rear Seat",
+          "Sliding and Reclining Rear Seats",
+          "Acoustic & IR Cut  Windshield",
+          "Power Windows (Auto Up/Down)",
+          "Auto Folding ORVMs",
+          "Vanity Mirror (Driver + Co-driver)",
+          "Accessory socket center console",
+          "10-Step Sliding Rear Seats (60:40 Configurator)",
+          "10-Step Reclining Rear Seats (60:40 Configurator)",
+          "Seat Back Pocket (Passenger)",
+          "Passenger Side Assist Grip",
+          "Rear Assist Grips with Coat Hooks (2x)",
+          "Satin Plated Rotary Shift Dial",
+          "Sun Visor Ticket Holder (Driver + Co-Driver)",
+          "Onboard Voice Assistant (Hi Suzuki with Barge-In)",
+          "Connected Services – Suzuki Connect: Connected Services Powered by New Gen Suzuki Connect",
+          "AC Temperature Control (Screen / Physical Buttons)",
+          "Rotary Volume Knob with Press & Mute option",
+          "Electrically Adjustable ORVMs",
+          "Integrated Digital Display App (Remote Control)",
+          "Separately Folding Rear Seat Backs (40:20:40)"
+        ],
+        "Safety": [
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "ISOFIX Child Seat Anchorages",
+          "High Mounted Stop Lamp",
+          "Reverse Parking Sensors",
+          "7 Airbags",
+          "Reverse Parking Camera",
+          "Rear Parking Camera",
+          "Front & Rear Parking Sensors",
+          "Tyre-Pressure Monitoring System (TPMS): Tyre Pressure Monitoring System (Highline)",
+          "Immobilizer (Anti-Theft Security System)",
+          "Impact-Sensing Auto Door Unlock",
+          "Electronic Stability Program (ESP)",
+          "ABS with EBD and Brake Assist",
+          "Electronic Parking Brake",
+          "Brake Hold",
+          "Front Seat Belt Height Adjuster",
+          "Seat Belt Reminder - Lamp & Buzzer",
+          "Day/Night Rear View Mirror",
+          "Speed Warning Buzzer",
+          "Emergency Call with SOS Button",
+          "Emergency Stop Signal [LED]",
+          "225/55 R18 Spare Alloy Wheel",
+          "Acoustic Vehicle Alert System (AVAS)",
+          "Front Parking Sensors",
+          "Front Seat Belt Pretensioner with Force Limiter & Height Adjuster",
+          "Child-Proof Rear Door Locks",
+          "All Seat Belts – 3 Point ELR"
+        ],
+        "Drive Technology": [
+          "Drive mode",
+          "Snow mode",
+          "Regeneration Boost – Multi Level Regenerative Braking (Low / Medium / High)"
+        ],
+        "Suzuki Connect": [
+          "Emergency Alerts",
+          "Breakdown Notification",
+          "Stolen Vehicle Notification and Tracking",
+          "Immobilizer Request",
+          "Tow Away Alert and Tracking",
+          "Geofence",
+          "Valet Alert",
+          "Door Lock/Cancel Lock",
+          "Headlight Off",
+          "Hazard Lights On/Off",
+          "Smartwatch Connectivity",
+          "AC Idling",
+          "Trip (Start & End)",
+          "Driving Score & Behaviour",
+          "Driving Behaviour (Score, Ranking, Comparison, Suggestions)",
+          "Emergency Notification & Calling",
+          "Tow - Away and Tracking",
+          "Time Fence",
+          "Leaderboard ",
+          "Trip Planning",
+          "Trip Summary",
+          "Share Trip History",
+          "Area Guidance",
+          "Vehicle Location Sharing",
+          "Find Charging Station",
+          "Overspeeding",
+          "Seatbelt",
+          "Low Range",
+          "Dashboard View",
+          "Parking Brake Status",
+          "Charging Status and Notification",
+          "Low Battery Notification",
+          "Remote Charging",
+          "Schedule Charging",
+          "AC ON/OFF",
+          "Schedule AC",
+          "Alarm",
+          " Vehicle Health",
+          "Alexa Skill Connectivity4"
+        ],
+        "Suzuki Navigation App": [
+          "Charging Station Search ",
+          "Spider Range",
+          "Smart Trip planning (Auto add Charge Station)",
+          "Trip Sync with Suzuki Connect",
+          "2D/3D Map View",
+          "POI Search",
+          "Voice Guidance",
+          "Lane Guidance",
+          "Junction View",
+          "Navigation Alerts (Speed Limit, Cameras, Potholes, etc.)",
+          "Toll Amount Calculation",
+          "Periodic Map Updates"
+        ],
+        "Connected Display": [
+          "Connected Service - Start/Stop",
+          "Recall Notification",
+          "Periodic Maintenance Notification",
+          "Wallpaper Update"
+        ],
+        "Integrated Digital Display App (Remote Control)": [
+          "Audio Settings",
+          "AM Control",
+          "FM Control",
+          "Bluetooth Audio Control",
+          "USB Audio Control",
+          "iPod Audio Control"
+        ],
+        "Charging Details": [
+          "Type-2 AC Charging Inlet",
+          "CCS2 DC Charging Inlet",
+          "3 kW Portable Charging Cable",
+          "Battery Thermal Management Preconditioning (In-Vehicle Control)",
+          "Immediate Charging Switch",
+          "Charging Port Lid Lamp & Charging Indicator Lamp"
+        ],
+        "ADAS": [
+          "Multi Collision Braking ",
+          "Active Cornering Control"
+        ],
+        "Infotainment": [
+          "10.11\" SmartPlay X with Wireless Connectivity",
+          "Speakers",
+          "Door Speakers (Nos.): 4"
+        ],
+        "Audio & Entertaiment": [
+          "Wireless Android Auto & Apple CarPlay"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/nexa/in/en/assets/cars/grand-vitara/sigma/images/variant-filter/variant-default.png"
+    },
+    {
+      "code": "VEAEBZ2",
+      "name": "Alpha",
+      "fuel": "electric",
+      "transmission": "Automatic",
+      "technology": [
+        "Electrified"
+      ],
+      "airbags": 7,
+      "ex_showroom_surat": {
+        "metallic": 1999246,
+        "non_metallic": 1999246,
+        "dual_tone": 2021246
+      },
+      "specifications": {
+        "Dimensions": {
+          "Length (mm)": "4275",
+          "Width (mm)": "1800",
+          "Height (mm)": "1640",
+          "Wheelbase (mm)": "2700",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "1815",
+          "Gross Vehicle Weight (Kg)": "2250",
+          "Minimum Turning Radius (m)": "5.2"
+        },
+        "Battery": {
+          "Battery Type": "Lithium Ferrophosphate (LFP)",
+          "Battery Capacity (kWh)": "61 kWh",
+          "Estimated Charging Time (AC fast Charging 7.4 kW, 1 Phase) [10-100%]": "~9.0 hrs",
+          "Estimated Charging Time (DC fast Charging) [10-80%]": "45 min",
+          "Battery Warranty": "8 Years / 160,000 km"
+        },
+        "Motor": {
+          "Type": "3-Phase AC PMSM",
+          "Max Power (kW)": "128",
+          "Max Torque (Nm)": "193"
+        },
+        "Transmission": {
+          "Transmission Type": "Single Speed Electric 2WD",
+          "Drive Type": "2WD"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut\t",
+          "Rear Suspension": "Multi Link"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Disc",
+          "Parking": "Electronic Parking Brake"
+        },
+        "Tyre": {
+          "Wheel Type": "225/55 R18 Alloy Wheels with Aero Garnish"
+        },
+        "Fuel": {
+          "Fuel Type": "Electric"
+        },
+        "Range (in km)": {
+          "Range (in km)": "543"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "NEXTre' 3-Point Matrix LED DRLs",
+          "LED Projector Headlamps",
+          "Auto Headlamps: ✓(with AHS***)",
+          "Auto Headlamp Levelling",
+          "NEXTre' 3-Point Matrix Rear Lamps",
+          "Follow-me Home Headlamps",
+          "Fog Lamps: ✓ [LED]",
+          "Dual Tone Appearance",
+          "Roof End Spoiler",
+          "ORVM with Turn Indicator",
+          "Antenna: Shark Fin Antenna",
+          "Rear Window Wiper & Washer",
+          "Door Handles: Body Coloured Outside Door Handles",
+          "Front Grille: Front Grille Garnish",
+          "Rain Sensing Wipers: Auto Rain Sensing Wipers [Fr]",
+          "Alloy Wheel with Aero Garnish",
+          "Smart Grille with Adaptive Shutters",
+          "Black Wheel Arch Extensions",
+          "Black side mouldings",
+          "Acoustic & IR Cut Windshield",
+          "Front door : Dark Green Glass",
+          "Rear door : Dark Green Glass",
+          "Back Door : Green Glass",
+          "Design Blade - Windscreen Wiper",
+          "Front Variable Intermittent Wipers",
+          "Rear Variable Intermittent Wipers",
+          "Auto Rear Wiper Operation [R Mode]",
+          "Electric Demister [Rr]",
+          "Quarter Spoiler",
+          "Body Coloured ORVM"
+        ],
+        "Interior": [
+          "MID Display: Integrated Display System (10.1\" Infotainment + 10.25\" MID)",
+          "Dual Tone Interior: Soft-Touch Dual-Tone Interiors",
+          "Cup Holders: 2 x Cup Holders (Front) – Center Console",
+          "Adjustable Headrest: Adjustable Headrests - All seats",
+          "Ambient Lighting with Multi Color Illumination",
+          "Front Footwell Light : ✓ [LED]",
+          "10-Way Power Adjustable Driver Seat",
+          "Soft-Touch Premium Dual-Tone Interiors",
+          "Quadruple Vertical AC Vents",
+          "Plush Door Armrest",
+          "Spot Map Lamp (Roof front): ✓ [LED]",
+          "Glove Box Light: ✓ [LED]",
+          "LED Trunk Lamp",
+          "Reading Lamp: ✓ [LED]",
+          "Piano Black Finish Center Console",
+          "Front and rear door storage pockets",
+          "2 x front door and 2 x rear door bottle holders",
+          "Luggage area parcel shelf",
+          "Luggage board (for Flat Floor)",
+          "Luggage box (for charger + tools)",
+          "1 x Shopping bag hook",
+          "Customizable Speedometer Multi Information Display Layout",
+          "Twin Deck Center Console with Storage (Piano Black)",
+          "Front Door trim with 3D pattern",
+          "2-Spoke Polygonal Steering Wheel (Synthetic Leather)",
+          "Front Seats: Synthetic Leather + Fabric",
+          "Soft Touch Door Trim Insert: ✓ [Fr]"
+        ],
+        "Comfort & Convenience": [
+          "Power Windows (Fr/Rr)",
+          "Electrically-Foldable ORVM",
+          "Accessory socket: Accessory Socket (Center Console)",
+          "Auto Up/Down Power Window",
+          "Driver Side Foot Rest",
+          "Wireless Charger",
+          "Rear AC Vents",
+          "Cruise Control",
+          "Front Ventilated Seats (Driver & Co-driver)",
+          "Rear Centre Armrest (With Cup Holder)",
+          "Sunroof with Fixed Glass",
+          "PM 2.5 Filter Air Cabin Filter",
+          "Front  Armrest (with storage)",
+          "Rear Charging USB Port (A & C Type)",
+          "Front Charging USB Port (A & C Type)",
+          "Adjustable Tilt & Telescopic Steering",
+          "Steering Mounted Controls",
+          "Keyless Entry",
+          "Push Start/Stop Button",
+          "Auto AC",
+          "40 20 40 Rear Seat",
+          "Sliding and Reclining Rear Seats",
+          "Acoustic & IR Cut  Windshield",
+          "Power Windows (Auto Up/Down)",
+          "Auto Folding ORVMs",
+          "Vanity Mirror (Driver + Co-driver)",
+          "Accessory socket center console",
+          "10-Way Power Adjustable Driver Seat",
+          "10-Step Sliding Rear Seats (60:40 Configurator)",
+          "10-Step Reclining Rear Seats (60:40 Configurator)",
+          "Seat Back Pocket (Passenger)",
+          "Passenger Side Assist Grip",
+          "Rear Assist Grips with Coat Hooks (2x)",
+          "Satin Plated Rotary Shift Dial",
+          "Sun Visor Ticket Holder (Driver + Co-Driver)",
+          "Onboard Voice Assistant (Hi Suzuki with Barge-In)",
+          "Instrument Panel Speaker integrated with the Tweeter: 4",
+          "Connected Services – Suzuki Connect: Connected Services Powered by New Gen Suzuki Connect",
+          "AC Temperature Control (Screen / Physical Buttons)",
+          "Rotary Volume Knob with Press & Mute option",
+          "Electrically Adjustable ORVMs",
+          "Integrated Digital Display App (Remote Control)",
+          "Separately Folding Rear Seat Backs (40:20:40)"
+        ],
+        "Safety": [
+          "Electronic Stability Program (ESP) with Hill Hold Control",
+          "Seat Belt Reminder (Front & Rear Seats)",
+          "ISOFIX Child Seat Anchorages",
+          "High Mounted Stop Lamp",
+          "Reverse Parking Sensors",
+          "7 Airbags",
+          "Reverse Parking Camera",
+          "Rear Parking Camera",
+          "Front & Rear Parking Sensors",
+          "Tyre-Pressure Monitoring System (TPMS): Tyre Pressure Monitoring System (Highline)",
+          "Immobilizer (Anti-Theft Security System)",
+          "Impact-Sensing Auto Door Unlock",
+          "Day/Night Adjustable IRVM: Day & Night Adjustable IRVM (Auto)",
+          "360 View Camera",
+          "Electronic Stability Program (ESP)",
+          "ABS with EBD and Brake Assist",
+          "Electronic Parking Brake",
+          "Brake Hold",
+          "Front Seat Belt Height Adjuster",
+          "Seat Belt Reminder - Lamp & Buzzer",
+          "Day/Night Rear View Mirror",
+          "Speed Warning Buzzer",
+          "Emergency Call with SOS Button",
+          "Emergency Stop Signal [LED]",
+          "225/55 R18 Spare Alloy Wheel",
+          "Acoustic Vehicle Alert System (AVAS)",
+          "Front Parking Sensors: ✓ (With Camera Assist)",
+          "Front Seat Belt Pretensioner with Force Limiter & Height Adjuster",
+          "Child-Proof Rear Door Locks",
+          "All Seat Belts – 3 Point ELR"
+        ],
+        "Drive Technology": [
+          "Drive mode",
+          "Snow mode",
+          "Regeneration Boost – Multi Level Regenerative Braking (Low / Medium / High)"
+        ],
+        "Suzuki Connect": [
+          "Emergency Alerts",
+          "Breakdown Notification",
+          "Stolen Vehicle Notification and Tracking",
+          "Immobilizer Request",
+          "Tow Away Alert and Tracking",
+          "Geofence",
+          "Valet Alert",
+          "Door Lock/Cancel Lock",
+          "Headlight Off",
+          "Hazard Lights On/Off",
+          "Smartwatch Connectivity",
+          "AC Idling",
+          "Trip (Start & End)",
+          "Driving Score & Behaviour",
+          "Driving Behaviour (Score, Ranking, Comparison, Suggestions)",
+          "Emergency Notification & Calling",
+          "Tow - Away and Tracking",
+          "Time Fence",
+          "Leaderboard ",
+          "Trip Planning",
+          "Trip Summary",
+          "Share Trip History",
+          "Area Guidance",
+          "Vehicle Location Sharing",
+          "Find Charging Station",
+          "Overspeeding",
+          "Seatbelt",
+          "Low Range",
+          "Dashboard View",
+          "Parking Brake Status",
+          "Charging Status and Notification",
+          "Low Battery Notification",
+          "Remote Charging",
+          "Schedule Charging",
+          "AC ON/OFF",
+          "Schedule AC",
+          "Alarm",
+          " Vehicle Health",
+          "Alexa Skill Connectivity4"
+        ],
+        "Connected Display": [
+          "Connected Service - Start/Stop",
+          "Recall Notification",
+          "Periodic Maintenance Notification",
+          "Wallpaper Update"
+        ],
+        "Suzuki Navigation App": [
+          "Charging Station Search ",
+          "Spider Range",
+          "Smart Trip planning (Auto add Charge Station)",
+          "Trip Sync with Suzuki Connect",
+          "2D/3D Map View",
+          "POI Search",
+          "Voice Guidance",
+          "Lane Guidance",
+          "Junction View",
+          "Navigation Alerts (Speed Limit, Cameras, Potholes, etc.)",
+          "Toll Amount Calculation",
+          "Periodic Map Updates"
+        ],
+        "Integrated Digital Display App (Remote Control)": [
+          "Audio Settings",
+          "AM Control",
+          "FM Control",
+          "Bluetooth Audio Control",
+          "USB Audio Control",
+          "iPod Audio Control"
+        ],
+        "Charging Details": [
+          "Type-2 AC Charging Inlet",
+          "CCS2 DC Charging Inlet",
+          "3 kW Portable Charging Cable",
+          "Battery Thermal Management Preconditioning (In-Vehicle Control)",
+          "Immediate Charging Switch",
+          "Charging Port Lid Lamp & Charging Indicator Lamp"
+        ],
+        "ADAS": [
+          "Automatic Emergency Braking",
+          "Lane Keep Assist",
+          "Lane Departure Prevention",
+          "Adaptive Cruise Control",
+          "Adaptive High-Beam System",
+          "Blind Spot Monitoring ",
+          "Rear Cross Traffic Alert ",
+          "Multi Collision Braking ",
+          "Active Cornering Control",
+          "Lane Departure Warning (LDW)",
+          "Vehicle Sway Warning",
+          "Forward Collision Warning (FCW)"
+        ],
+        "Audio & Entertaiment": [
+          "Wireless Android Auto & Apple CarPlay",
+          "Premium Sound Experience from 'Infinity by Harman' with Subwoofer"
+        ],
+        "Infotainment": [
+          "10.11\" SmartPlay X with Wireless Connectivity",
+          "Infinity Premium Audio",
+          "Speakers",
+          "Sub-woofer & IP Speakers",
+          "Door Speakers (Nos.): 4"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/nexa/in/en/assets/cars/grand-vitara/sigma/images/variant-filter/variant-default.png"
+    }
+  ],
+  "fetched_on": "2026-10-30"
+}

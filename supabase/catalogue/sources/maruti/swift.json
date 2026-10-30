@@ -1,0 +1,2092 @@
+{
+  "brand": "Maruti Suzuki",
+  "model": "Swift",
+  "slug": "swift",
+  "model_code": "SI",
+  "channel": "Arena",
+  "official_page": "https://www.marutisuzuki.com/arena/swift",
+  "brochure_pdf": "https://www.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/swift/brochures/Swift%20Brochure%20-%20Vertical%20-%205th%20Oct.pdf",
+  "price_city": "Surat, Gujarat",
+  "ex_showroom_min": 584090,
+  "ex_showroom_max": 889090,
+  "fuel_types": [
+    "CNG",
+    "Petrol"
+  ],
+  "transmissions": [
+    "Automatic",
+    "Manual"
+  ],
+  "colours": [
+    {
+      "name": "Magma Grey",
+      "hex": [
+        "#2B2C31"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Swift LXi MT",
+        "Swift VXi MT",
+        "Swift VXi (O) AMT",
+        "Swift VXi (O) CNG",
+        "Swift VXi AMT",
+        "Swift VXi CNG",
+        "Swift ZXi MT",
+        "Swift  ZXi+ MT",
+        "Swift ZXi+ AMT",
+        "Swift ZXi AMT",
+        "Swift ZXi CNG 5MT",
+        "Swift VXi (O) MT",
+        "Swift VXi CNG AGS",
+        "Swift VXi (O) CNG AGS",
+        "Swift ZXI CNG AGS"
+      ]
+    },
+    {
+      "name": "Pearl Arctic White",
+      "hex": [
+        "#F3F3F3"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Swift LXi MT",
+        "Swift VXi MT",
+        "Swift VXi (O) AMT",
+        "Swift VXi (O) CNG",
+        "Swift VXi AMT",
+        "Swift VXi CNG",
+        "Swift ZXi MT",
+        "Swift  ZXi+ MT",
+        "Swift ZXi+ AMT",
+        "Swift ZXi AMT",
+        "Swift ZXi CNG 5MT",
+        "Swift VXi (O) MT",
+        "Swift VXi CNG AGS",
+        "Swift VXi (O) CNG AGS",
+        "Swift ZXI CNG AGS"
+      ]
+    },
+    {
+      "name": "Luster Blue",
+      "hex": [
+        "#1f47c2"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Swift LXi MT",
+        "Swift VXi MT",
+        "Swift VXi (O) AMT",
+        "Swift VXi (O) CNG",
+        "Swift VXi AMT",
+        "Swift VXi CNG",
+        "Swift ZXi MT",
+        "Swift  ZXi+ MT",
+        "Swift ZXi+ AMT",
+        "Swift ZXi AMT",
+        "Swift ZXi CNG 5MT",
+        "Swift VXi (O) MT",
+        "Swift VXi CNG AGS",
+        "Swift VXi (O) CNG AGS",
+        "Swift ZXI CNG AGS"
+      ]
+    },
+    {
+      "name": "Sizzling Red",
+      "hex": [
+        "#A10000"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Swift VXi MT",
+        "Swift VXi (O) AMT",
+        "Swift VXi (O) CNG",
+        "Swift VXi AMT",
+        "Swift ZXi MT",
+        "Swift  ZXi+ MT",
+        "Swift ZXi+ AMT",
+        "Swift ZXi AMT",
+        "Swift ZXi CNG 5MT",
+        "Swift VXi (O) MT",
+        "Swift VXi CNG AGS",
+        "Swift VXi (O) CNG AGS",
+        "Swift ZXI CNG AGS"
+      ]
+    },
+    {
+      "name": "Novel Orange",
+      "hex": [
+        "#b33316"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Swift VXi MT",
+        "Swift VXi (O) AMT",
+        "Swift VXi (O) CNG",
+        "Swift VXi AMT",
+        "Swift ZXi MT",
+        "Swift  ZXi+ MT",
+        "Swift ZXi+ AMT",
+        "Swift ZXi AMT",
+        "Swift ZXi CNG 5MT",
+        "Swift VXi (O) MT",
+        "Swift VXi CNG AGS",
+        "Swift VXi (O) CNG AGS",
+        "Swift ZXI CNG AGS"
+      ]
+    },
+    {
+      "name": "Splendid Silver",
+      "hex": [
+        "#737373"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Swift VXi MT",
+        "Swift VXi (O) AMT",
+        "Swift VXi (O) CNG",
+        "Swift VXi AMT",
+        "Swift ZXi MT",
+        "Swift  ZXi+ MT",
+        "Swift ZXi+ AMT",
+        "Swift ZXi AMT",
+        "Swift ZXi CNG 5MT",
+        "Swift VXi (O) MT",
+        "Swift VXi CNG AGS",
+        "Swift VXi (O) CNG AGS",
+        "Swift ZXI CNG AGS"
+      ]
+    },
+    {
+      "name": "Sizzling Red With Bluish Black",
+      "hex": [
+        "#A10000",
+        "#050505"
+      ],
+      "paint": "dual_tone",
+      "variants": [
+        "Swift  ZXi+ MT",
+        "Swift ZXi+ AMT"
+      ]
+    },
+    {
+      "name": "Pearl Arctic White with Bluish Black",
+      "hex": [
+        "#F3F3F3",
+        "#050505"
+      ],
+      "paint": "dual_tone",
+      "variants": [
+        "Swift  ZXi+ MT",
+        "Swift ZXi+ AMT"
+      ]
+    },
+    {
+      "name": "Luster Blue with Bluish Black",
+      "hex": [
+        "#1f47c2",
+        "#050505"
+      ],
+      "paint": "dual_tone",
+      "variants": [
+        "Swift  ZXi+ MT",
+        "Swift ZXi+ AMT"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "code": "SIR4BL1",
+      "name": "Swift LXi MT",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": null,
+      "ex_showroom_surat": {
+        "metallic": 584090,
+        "non_metallic": 584090
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Efficiency (km/l)*": "24.80  km/l"
+        },
+        "Dimensions": {
+          "Length (mm)": "3860",
+          "Width (mm)": "1735",
+          "Height (mm)": "1520",
+          "Wheelbase (mm)": "2450",
+          "Turning Radius (m)": "4.8",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "920 max",
+          "Gross Vehicle Weight (Kg)": "1355",
+          "Fuel Tank Capacity (L)": "37",
+          "Boot Space (L)": "265*"
+        },
+        "Transmission": {
+          "Transmission Type": "5MT"
+        },
+        "Engine": {
+          "Engine Type": "Z12E with ISS",
+          "Capacity (cc)": "1197 cc",
+          "Max Power (1 KW =1.35962 PS)": "60kW@5700 rpm or 81.58PS@5700 rpm ",
+          "Max Torque (Nm @ rpm)": "111.7Nm@4300rpm",
+          "Idle Start Stop": "Yes",
+          "No. of Cylinder": 3.0,
+          "Emission standard type": "BS VI"
+        },
+        "Brakes": {
+          "Front": "Ventilated Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut",
+          "Rear Suspension": "Torsion Beam"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "165/80 R14",
+          "Wheel Type": "Steel"
+        },
+        "EMISSION": {
+          "Bharat Stage Wise": "BS VI"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Headlamps: Halogen",
+          "LED Rear Combination Lamps",
+          "Antenna: Micropole",
+          "Full Wheel Covers",
+          "Bumper: Body Coloured "
+        ],
+        "Interior": [
+          "Front & Rear Bottle Holder",
+          "Multi-information Display: Segment"
+        ],
+        "Safety": [
+          "ABS with EBD",
+          "Speed Sensitive Automatic Door Lock",
+          "Side & Curtain Airbags",
+          "ISOFIX with Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "High-Speed Alert System",
+          "Immobilizer (Anti-Theft Security System)",
+          "Warning Lamps for Low Fuel & Door Ajar",
+          "Front Seat Belts with Pre-Tensioner and Force Limiter",
+          "Electronic Stability Program",
+          "Dual Front Airbags (Driver and Co-Driver)",
+          "Seat Belt Reminder with Buzzer (Front & Rear Seat) ",
+          "Hill Hold Assist"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Manually Adjustable Outside Rear View Mirrors",
+          "Electric Back Door Opener",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Accessory Socket: Front Accessory Socket",
+          "Rear Defogger",
+          "Gear Shift Indicator",
+          "Driver Side Foot Rest",
+          "Central Locking",
+          "Head Rest-Front Row: Adjustable Front Seat Headrests",
+          "Power Steering: Power & Tilt Steering"
+        ],
+        "Infotainment": [
+          "Tachometer",
+          "Gear Shift Indicator",
+          "Low Fuel Warning Light",
+          "Door Ajar Warning Lamp"
+        ],
+        "Audio & Entertainment": [
+          "Number of Speakers: 0.0",
+          "Tweeters: 0"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/swift/images/spinset360/sizzling-red-with-midnight-black-roof/2025.03.25_09.12.54_Swift_360_RedBlack_PathTracer_0054.png"
+    },
+    {
+      "code": "SIR4BV1",
+      "name": "Swift VXi MT",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": null,
+      "ex_showroom_surat": {
+        "metallic": 668090,
+        "non_metallic": 668090
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Efficiency (km/l)*": "24.80 km/l"
+        },
+        "Dimensions": {
+          "Length (mm)": "3860",
+          "Width (mm)": "1735",
+          "Height (mm)": "1520",
+          "Wheelbase (mm)": "2450",
+          "Turning Radius (m)": "4.8",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "920 max",
+          "Gross Vehicle Weight (Kg)": "1355",
+          "Fuel Tank Capacity (L)": "37",
+          "Boot Space (L)": "265 *"
+        },
+        "Transmission": {
+          "Transmission Type": "5MT"
+        },
+        "Engine": {
+          "Engine Type": "Z12E with ISS",
+          "Capacity (cc)": "1197 cc",
+          "Max Power (1 KW =1.35962 PS)": "60 kW @5700 rpm or 81.58 PS @5700 rpm",
+          "Max Torque (Nm @ rpm)": "111.7Nm@4300rpm",
+          "Idle Start Stop": "Yes",
+          "No. of Cylinder": 3.0
+        },
+        "Brakes": {
+          "Front": "Ventilated Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut",
+          "Rear Suspension": "Torsion Beam"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "165/80 R14",
+          "Wheel Type": "Steel"
+        },
+        "EMISSION": {
+          "Bharat Stage Wise": "BS VI"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Headlamps: Halogen",
+          "LED Rear Combination Lamps",
+          "Body Coloured Outside Rear View Mirrors",
+          "ORVM with Turn Indicator",
+          "Antenna: Micropole",
+          "Door Handles: Body Coloured",
+          "Full Wheel Covers",
+          "Bumper: Body Coloured"
+        ],
+        "Interior": [
+          "Chrome Parking Brake Lever Tip",
+          "Gear Shift Knob in Piano Black Finish",
+          "Front & Rear Bottle Holder",
+          "Multi-information Display: Segment",
+          "Driver Side Sunvisor with Ticket Holder",
+          "Passenger Side Sunvisor with Vanity Mirror",
+          "Rear Parcel Tray"
+        ],
+        "Safety": [
+          "ABS with EBD",
+          "Speed Sensitive Automatic Door Lock",
+          "Security Alarm System - Door & Hood",
+          "Side & Curtain Airbags",
+          "ISOFIX with Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "High-Speed Alert System",
+          "Immobilizer (Anti-Theft Security System)",
+          "Day/Night Adjustable IRVM: Manual",
+          "Warning Lamps for Low Fuel & Door Ajar",
+          "Front Seat Belts with Pre-Tensioner and Force Limiter",
+          "Electronic Stability Program",
+          "Dual Front Airbags (Driver and Co-Driver)",
+          "Seat Belt Reminder with Buzzer (Front & Rear Seat) ",
+          "Hill Hold Assist"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Electric Back Door Opener",
+          "Tyre repair kit",
+          "Gear Position Indicator: AMT only",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Accessory Socket: Front Accessory Socket",
+          "Rear Defogger",
+          "Gear Shift Indicator",
+          "Driver Side Foot Rest",
+          "USB Ports: Type A",
+          "Central Locking",
+          "Head Rest-Front Row: Adjustable Front Seat Headrests",
+          "Power Steering: Power & Tilt Steering ",
+          "Electrically Adjustable ORVMs"
+        ],
+        "Infotainment": [
+          "Tachometer",
+          "Gear Shift Indicator",
+          "Steering Mounted Controls: Audio and Bluetooth",
+          "Low Fuel Warning Light",
+          "Door Ajar Warning Lamp",
+          "Media Receiver (AM/FM/Bluetooth)"
+        ],
+        "Audio & Entertainment": [
+          "SmartPlay Pro: SmartPlay Pro with 17.78 cm Touch Screen",
+          "Onboard Voice Assistant",
+          "Bluetooth",
+          "Number of Speakers: 4.0",
+          "USB Connectivity/AUX",
+          "Over the Air (OTA) System Upgrades",
+          "Wireless Android Auto & Apple CarPlay",
+          "Steering Mounted Audio & Calling Controls",
+          "Tweeters: 0"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/swift/images/spinset360/sizzling-red-with-midnight-black-roof/2025.03.25_09.12.54_Swift_360_RedBlack_PathTracer_0054.png"
+    },
+    {
+      "code": "SIR4BV2",
+      "name": "Swift VXi (O) MT",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": null,
+      "ex_showroom_surat": {
+        "metallic": 694090,
+        "non_metallic": 694090
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Efficiency (km/l)*": "24.80 km/l"
+        },
+        "Dimensions": {
+          "Length (mm)": "3860",
+          "Width (mm)": "1735",
+          "Height (mm)": "1520",
+          "Wheelbase (mm)": "2450",
+          "Turning Radius (m)": "4.8",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "920 max",
+          "Gross Vehicle Weight (Kg)": "1355",
+          "Fuel Tank Capacity (L)": "37",
+          "Boot Space (L)": "265*"
+        },
+        "Transmission": {
+          "Transmission Type": "5MT"
+        },
+        "Engine": {
+          "Engine Type": "Z12E with ISS",
+          "Capacity (cc)": "1197 cc",
+          "Max Power (1 KW =1.35962 PS)": "60 kW @5700 rpm or 81.58 PS @5700 rpm",
+          "Max Torque (Nm @ rpm)": "111.7Nm@4300rpm",
+          "No. of Cylinder": 3.0
+        },
+        "Brakes": {
+          "Front": "Ventilated Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut",
+          "Rear Suspension": "Torsion Beam"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "165/80 R14",
+          "Wheel Type": "Steel"
+        },
+        "EMISSION": {
+          "Bharat Stage Wise": "BS VI"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Headlamps: Halogen",
+          "LED Rear Combination Lamps",
+          "Body Coloured Outside Rear View Mirrors",
+          "ORVM with Turn Indicator",
+          "Antenna: Micropole",
+          "Door Handles: Body Coloured",
+          "Full Wheel Covers",
+          "Bumper: Body Coloured"
+        ],
+        "Interior": [
+          "Chrome Parking Brake Lever Tip",
+          "Gear Shift Knob in Piano Black Finish",
+          "Front & Rear Bottle Holder",
+          "Multi-information Display: Segment",
+          "Driver Side Sunvisor with Ticket Holder",
+          "Passenger Side Sunvisor with Vanity Mirror",
+          "Rear Parcel Tray"
+        ],
+        "Safety & Security": [
+          "ABS with EBD",
+          "Speed Sensitive Automatic Door Lock",
+          "Security Alarm System - Door & Hood",
+          "Side & Curtain Airbags",
+          "ISOFIX with Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "High-Speed Alert System",
+          "Immobilizer (Anti-Theft Security System)",
+          "Day/Night Adjustable IRVM: Manual",
+          "Warning Lamps for Low Fuel & Door Ajar",
+          "Front Seat Belts with Pre-Tensioner and Force Limiter",
+          "Electronic Stability Program",
+          "Dual Front Airbags (Driver and Co-Driver)",
+          "Seat Belt Reminder with Buzzer (Front & Rear Seat) ",
+          "Hill Hold Assist"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Engine Push Start/Stop with Smart Key",
+          "Electric Back Door Opener",
+          "Tyre repair kit",
+          "Gear Position Indicator: AMT only",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Accessory Socket: Front Accessory Socket",
+          "Rear Defogger",
+          "Gear Shift Indicator",
+          "Driver Side Foot Rest",
+          "USB Ports: Type A",
+          "Central Locking",
+          "Head Rest-Front Row: Adjustable Front Seat Headrests",
+          "Power Steering: Power & Tilt Steering ",
+          "Electrically Adjustable ORVMs"
+        ],
+        "Infotainment": [
+          "Tachometer",
+          "Gear Shift Indicator",
+          "Steering Mounted Controls: Audio and Bluetooth",
+          "Low Fuel Warning Light",
+          "Door Ajar Warning Lamp",
+          "Media Receiver (AM/FM/Bluetooth)"
+        ],
+        "Audio & Entertainment": [
+          "SmartPlay Pro: SmartPlay Pro with 17.78 cm Touch Screen",
+          "Onboard Voice Assistant",
+          "Bluetooth",
+          "Number of Speakers: 4.0",
+          "USB Connectivity/AUX",
+          "Over the Air (OTA) System Upgrades",
+          "Wireless Android Auto & Apple CarPlay",
+          "Steering Mounted Audio & Calling Controls",
+          "Tweeters: 0"
+        ],
+        "Suzuki Connect": [
+          "Emergency Alerts",
+          "Breakdown notification",
+          "Stolen Vehicle Notification and Tracking",
+          "Immobilizer Request",
+          "Tow Away Alert and Tracking",
+          "Geofence",
+          "Valet Alert",
+          "Door Lock/Cancel Lock",
+          "Headlight Off",
+          "Hazard Lights On/Off ",
+          "Alarm On/Off",
+          "Smartwatch Connectivity",
+          "Suzuki Connect Skills for Amazon Alexa",
+          "Low Fuel & Low Range Alert",
+          "Over Speed Alert",
+          "AC Idling",
+          "Seat Belt Alert",
+          "Battery Status",
+          "Trip (Start & End)",
+          "Headlamp & Hazard Lights",
+          "Driving Score",
+          "View & Share Trip History",
+          "Dashboard View",
+          "Time Fence",
+          "Trip Summary"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/swift/images/spinset360/sizzling-red-with-midnight-black-roof/2025.03.25_09.12.54_Swift_360_RedBlack_PathTracer_0054.png"
+    },
+    {
+      "code": "SIA4BV1",
+      "name": "Swift VXi AMT",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": null,
+      "ex_showroom_surat": {
+        "metallic": 713090,
+        "non_metallic": 713090
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Efficiency (km/l)*": "25.75 km/l"
+        },
+        "Dimensions": {
+          "Length (mm)": "3860",
+          "Width (mm)": "1735",
+          "Height (mm)": "1520",
+          "Wheelbase (mm)": "2450",
+          "Turning Radius (m)": "4.8",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "925 max",
+          "Gross Vehicle Weight (Kg)": "1355",
+          "Fuel Tank Capacity (L)": "37",
+          "Boot Space (L)": "265 *"
+        },
+        "Transmission": {
+          "Transmission Type": "5AMT"
+        },
+        "Engine": {
+          "Engine Type": "Z12E with ISS",
+          "Capacity (cc)": "1197 cc",
+          "Max Power (1 KW =1.35962 PS)": "60 kW @5700 rpm or 81.58 PS @5700 rpm",
+          "Max Torque (Nm @ rpm)": "111.7Nm@4300rpm",
+          "Idle Start Stop": "Yes",
+          "No. of Cylinder": 3.0
+        },
+        "Brakes": {
+          "Front": "Ventilated Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut",
+          "Rear Suspension": "Torsion Beam"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "165/80 R14",
+          "Wheel Type": "Steel"
+        },
+        "EMISSION": {
+          "Bharat Stage Wise": "BS VI"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Headlamps: Halogen",
+          "LED Rear Combination Lamps",
+          "Body Coloured Outside Rear View Mirrors",
+          "ORVM with Turn Indicator",
+          "Antenna: Micropole",
+          "Door Handles: Body Coloured",
+          "Full Wheel Covers",
+          "Bumper: Body Coloured"
+        ],
+        "Interior": [
+          "Outside Temperature Display",
+          "Chrome Parking Brake Lever Tip",
+          "Gear Shift Knob in Piano Black Finish",
+          "Front & Rear Bottle Holder",
+          "Multi-information Display: Segment",
+          "Driver Side Sunvisor with Ticket Holder",
+          "Passenger Side Sunvisor with Vanity Mirror",
+          "Rear Parcel Tray"
+        ],
+        "Safety": [
+          "ABS with EBD",
+          "Speed Sensitive Automatic Door Lock",
+          "Security Alarm System - Door & Hood",
+          "Side & Curtain Airbags",
+          "ISOFIX with Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "High-Speed Alert System",
+          "Immobilizer (Anti-Theft Security System)",
+          "Day/Night Adjustable IRVM: Manual",
+          "Warning Lamps for Low Fuel & Door Ajar",
+          "Front Seat Belts with Pre-Tensioner and Force Limiter",
+          "Electronic Stability Program",
+          "Dual Front Airbags (Driver and Co-Driver)",
+          "Seat Belt Reminder with Buzzer (Front & Rear Seat) ",
+          "Hill Hold Assist"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Electric Back Door Opener",
+          "Tyre repair kit",
+          "Gear Position Indicator: AMT only",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Accessory Socket: Front Accessory Socket",
+          "Rear Defogger",
+          "Gear Shift Indicator",
+          "Driver Side Foot Rest",
+          "USB Ports: Type A",
+          "Central Locking",
+          "Head Rest-Front Row: Adjustable Front Seat Headrests",
+          "Power Steering: Power & Tilt Steering ",
+          "Electrically Adjustable ORVMs"
+        ],
+        "Infotainment": [
+          "Tachometer",
+          "Steering Mounted Controls: Audio and Bluetooth",
+          "Low Fuel Warning Light",
+          "Door Ajar Warning Lamp",
+          "Media Receiver (AM/FM/Bluetooth)"
+        ],
+        "Audio & Entertainment": [
+          "SmartPlay Pro: SmartPlay Pro with 17.78 cm Touch Screen",
+          "Onboard Voice Assistant",
+          "Bluetooth",
+          "Number of Speakers: 4.0",
+          "USB Connectivity/AUX",
+          "Over the Air (OTA) System Upgrades",
+          "Wireless Android Auto & Apple CarPlay",
+          "Steering Mounted Audio & Calling Controls",
+          "Tweeters: 0"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/swift/images/spinset360/sizzling-red-with-midnight-black-roof/2025.03.25_09.12.54_Swift_360_RedBlack_PathTracer_0054.png"
+    },
+    {
+      "code": "SIA4BV2",
+      "name": "Swift VXi (O) AMT",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": null,
+      "ex_showroom_surat": {
+        "metallic": 739090,
+        "non_metallic": 739090
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Efficiency (km/l)*": "25.75 km/l"
+        },
+        "Dimensions": {
+          "Length (mm)": "3860",
+          "Width (mm)": "1735",
+          "Height (mm)": "1520",
+          "Wheelbase (mm)": "2450",
+          "Turning Radius (m)": "4.8",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "925 max",
+          "Gross Vehicle Weight (Kg)": "1355",
+          "Fuel Tank Capacity (L)": "37",
+          "Boot Space (L)": "265*"
+        },
+        "Transmission": {
+          "Transmission Type": "5AMT"
+        },
+        "Engine": {
+          "Engine Type": "Z12E with ISS",
+          "Capacity (cc)": "1197 cc",
+          "Max Power (1 KW =1.35962 PS)": "60 kW @5700 rpm or 81.58 PS @5700 rpm",
+          "Max Torque (Nm @ rpm)": "111.7Nm@4300rpm",
+          "Idle Start Stop": "Yes",
+          "No. of Cylinder": 3.0
+        },
+        "Brakes": {
+          "Front": "Ventilated Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut",
+          "Rear Suspension": "Torsion Beam"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "165/80 R14",
+          "Wheel Type": "Steel"
+        },
+        "EMISSION": {
+          "Bharat Stage Wise": "BS VI"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Headlamps: Halogen",
+          "LED Rear Combination Lamps",
+          "Body Coloured Outside Rear View Mirrors",
+          "ORVM with Turn Indicator",
+          "Antenna: Micropole",
+          "Door Handles: Body Coloured",
+          "Full Wheel Covers",
+          "Bumper: Body Coloured"
+        ],
+        "Interior": [
+          "Outside Temperature Display",
+          "Chrome Parking Brake Lever Tip",
+          "Gear Shift Knob in Piano Black Finish",
+          "Front & Rear Bottle Holder",
+          "Multi-information Display: Segment",
+          "Driver Side Sunvisor with Ticket Holder",
+          "Passenger Side Sunvisor with Vanity Mirror",
+          "Rear Parcel Tray"
+        ],
+        "Safety & Security": [
+          "ABS with EBD",
+          "Speed Sensitive Automatic Door Lock",
+          "Security Alarm System - Door & Hood",
+          "Side & Curtain Airbags",
+          "ISOFIX with Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "High-Speed Alert System",
+          "Immobilizer (Anti-Theft Security System)",
+          "Day/Night Adjustable IRVM: Manual",
+          "Warning Lamps for Low Fuel & Door Ajar",
+          "Front Seat Belts with Pre-Tensioner and Force Limiter",
+          "Electronic Stability Program",
+          "Dual Front Airbags (Driver and Co-Driver)",
+          "Seat Belt Reminder with Buzzer (Front & Rear Seat) ",
+          "Hill Hold Assist"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Engine Push Start/Stop with Smart Key",
+          "Electric Back Door Opener",
+          "Tyre repair kit",
+          "Gear Position Indicator: AMT only",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Accessory Socket: Front Accessory Socket",
+          "Rear Defogger",
+          "Gear Shift Indicator",
+          "Driver Side Foot Rest",
+          "USB Ports: Type A",
+          "Central Locking",
+          "Head Rest-Front Row: Adjustable Front Seat Headrests",
+          "Power Steering: Power & Tilt Steering ",
+          "Electrically Adjustable ORVMs"
+        ],
+        "Infotainment": [
+          "Tachometer",
+          "Steering Mounted Controls: Audio and Bluetooth",
+          "Low Fuel Warning Light",
+          "Door Ajar Warning Lamp",
+          "Media Receiver (AM/FM/Bluetooth)"
+        ],
+        "Audio & Entertainment": [
+          "SmartPlay Pro: SmartPlay Pro with 17.78 cm Touch Screen",
+          "Onboard Voice Assistant",
+          "Bluetooth",
+          "Number of Speakers: 4.0",
+          "USB Connectivity/AUX",
+          "Over the Air (OTA) System Upgrades",
+          "Wireless Android Auto & Apple CarPlay",
+          "Steering Mounted Audio & Calling Controls",
+          "Tweeters: 0"
+        ],
+        "Suzuki Connect": [
+          "Emergency Alerts",
+          "Breakdown notification",
+          "Stolen Vehicle Notification and Tracking",
+          "Immobilizer Request",
+          "Tow Away Alert and Tracking",
+          "Geofence",
+          "Valet Alert",
+          "Door Lock/Cancel Lock",
+          "Headlight Off",
+          "Hazard Lights On/Off ",
+          "Alarm On/Off",
+          "Smartwatch Connectivity",
+          "Suzuki Connect Skills for Amazon Alexa",
+          "Low Fuel & Low Range Alert",
+          "Over Speed Alert",
+          "AC Idling",
+          "Door & Lock Status",
+          "Seat Belt Alert",
+          "Battery Status",
+          "Trip (Start & End)",
+          "Live Vehicle Tracking & Location sharing",
+          "Driving Score",
+          "View & Share Trip History",
+          "Dashboard View",
+          "Trip Summary"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/swift/images/spinset360/sizzling-red-with-midnight-black-roof/2025.03.25_09.12.54_Swift_360_RedBlack_PathTracer_0054.png"
+    },
+    {
+      "code": "SIRCBV1",
+      "name": "Swift VXi CNG",
+      "fuel": "CNG",
+      "transmission": "Manual",
+      "technology": [
+        "S-CNG"
+      ],
+      "airbags": null,
+      "ex_showroom_surat": {
+        "metallic": 757590,
+        "non_metallic": 757590
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol-CNG",
+          "Fuel Efficiency (km/l)*": "32.85 km/kg"
+        },
+        "Dimensions": {
+          "Length (mm)": "3860",
+          "Width (mm)": "1735",
+          "Height (mm)": "1520",
+          "Wheelbase (mm)": "2450",
+          "Turning Radius (m)": "4.8",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "990 max",
+          "Gross Vehicle Weight (Kg)": "1425",
+          "Fuel Tank Capacity (L)": "Petrol: 37; CNG: 55 (Water Filling Capacity",
+          "Boot Space (L)": "NA"
+        },
+        "Transmission": {
+          "Transmission Type": "5MT"
+        },
+        "Engine": {
+          "Engine Type": "Z12E without ISS",
+          "Capacity (cc)": "1197 cc",
+          "Max Power (1 KW =1.35962 PS)": "51.3 kW @5700rpm or 69.75 PS @5700rpm",
+          "Max Torque (Nm @ rpm)": "101.8 Nm @2900 rpm",
+          "No. of Cylinder": 3.0
+        },
+        "Brakes": {
+          "Front": "Ventilated Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut",
+          "Rear Suspension": "Torsion Beam"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "165/80 R14",
+          "Wheel Type": "Steel"
+        },
+        "EMISSION": {
+          "Bharat Stage Wise": "BS VI"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Headlamps: Halogen",
+          "LED Rear Combination Lamps",
+          "Body Coloured Outside Rear View Mirrors",
+          "ORVM with Turn Indicator",
+          "Antenna: Micropole",
+          "Door Handles: Body Coloured",
+          "Full Wheel Covers",
+          "Bumper: Body Coloured"
+        ],
+        "Interior": [
+          "Chrome Parking Brake Lever Tip",
+          "Gear Shift Knob in Piano Black Finish",
+          "Front & Rear Bottle Holder",
+          "Multi-information Display: Segment",
+          "Driver Side Sunvisor with Ticket Holder",
+          "Passenger Side Sunvisor with Vanity Mirror",
+          "Rear Parcel Tray"
+        ],
+        "Safety": [
+          "ABS with EBD",
+          "Speed Sensitive Automatic Door Lock",
+          "Security Alarm System - Door & Hood",
+          "Side & Curtain Airbags",
+          "ISOFIX with Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "High-Speed Alert System",
+          "Immobilizer (Anti-Theft Security System)",
+          "Day/Night Adjustable IRVM: Manual",
+          "Warning Lamps for Low Fuel & Door Ajar",
+          "Front Seat Belts with Pre-Tensioner and Force Limiter",
+          "Electronic Stability Program",
+          "Dual Front Airbags (Driver and Co-Driver)",
+          "Seat Belt Reminder with Buzzer (Front & Rear Seat) ",
+          "Hill Hold Assist"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Electric Back Door Opener",
+          "Tyre repair kit",
+          "Gear Position Indicator: AMT only",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Accessory Socket: Front Accessory Socket",
+          "Rear Defogger",
+          "Gear Shift Indicator",
+          "Driver Side Foot Rest",
+          "USB Ports: Type A",
+          "Central Locking",
+          "Head Rest-Front Row: Adjustable Front Seat Headrests",
+          "Power Steering: Power & Tilt Steering",
+          "Electrically Adjustable ORVMs"
+        ],
+        "Infotainment": [
+          "Tachometer",
+          "Steering Mounted Controls: Audio and Bluetooth",
+          "Low Fuel Warning Light",
+          "Door Ajar Warning Lamp",
+          "Media Receiver (AM/FM/Bluetooth)"
+        ],
+        "Audio & Entertainment": [
+          "SmartPlay Pro: SmartPlay Pro with 17.78 cm Touch Screen",
+          "Onboard Voice Assistant",
+          "Bluetooth",
+          "Number of Speakers: 4.0",
+          "USB Connectivity/AUX",
+          "Over the Air (OTA) System Upgrades",
+          "Wireless Android Auto & Apple CarPlay",
+          "Steering Mounted Audio & Calling Controls",
+          "Tweeters: 0"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/swift/images/spinset360/sizzling-red-with-midnight-black-roof/2025.03.25_09.12.54_Swift_360_RedBlack_PathTracer_0054.png"
+    },
+    {
+      "code": "SIR4BZ1",
+      "name": "Swift ZXi MT",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": null,
+      "ex_showroom_surat": {
+        "metallic": 762090,
+        "non_metallic": 762090
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Efficiency (km/l)*": "24.80 km/l"
+        },
+        "Dimensions": {
+          "Length (mm)": "3860",
+          "Width (mm)": "1735",
+          "Height (mm)": "1520",
+          "Wheelbase (mm)": "2450",
+          "Turning Radius (m)": "4.8",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "920 max",
+          "Gross Vehicle Weight (Kg)": "1355",
+          "Fuel Tank Capacity (L)": "37",
+          "Boot Space (L)": "265*"
+        },
+        "Transmission": {
+          "Transmission Type": "5MT"
+        },
+        "Engine": {
+          "Engine Type": "Z12E with ISS",
+          "Capacity (cc)": "1197 cc",
+          "Max Power (1 KW =1.35962 PS)": "60 kW @5700 rpm or 81.58 PS @5700 rpm",
+          "Max Torque (Nm @ rpm)": "111.7Nm@4300rpm",
+          "Idle Start Stop": "Yes",
+          "No. of Cylinder": 3.0
+        },
+        "Brakes": {
+          "Front": "Ventilated Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut",
+          "Rear Suspension": "Torsion Beam"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "185/65 R15 ",
+          "Wheel Type": "Painted Alloy"
+        },
+        "EMISSION": {
+          "Bharat Stage Wise": "BS VI"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Headlamps: LED",
+          "LED Daytime Running Lamps (DRL)",
+          "LED Rear Combination Lamps",
+          "Body Coloured Outside Rear View Mirrors",
+          "ORVM with Turn Indicator",
+          "Antenna: Micropole",
+          "Door Handles: Body Coloured",
+          "Bumper: Body Coloured"
+        ],
+        "Interior": [
+          "Outside Temperature Display",
+          "Chrome Parking Brake Lever Tip",
+          "Gear Shift Knob in Piano Black Finish",
+          "Front & Rear Bottle Holder",
+          "Multi-information Display: Segment",
+          "Height Adjustable Driver Seat",
+          "Driver Side Sunvisor with Ticket Holder",
+          "Passenger Side Sunvisor with Vanity Mirror",
+          "Rear Parcel Tray",
+          "Luggage Lamp"
+        ],
+        "Safety & Security": [
+          "ABS with EBD",
+          "Speed Sensitive Automatic Door Lock",
+          "Security Alarm System - Door & Hood",
+          "Side & Curtain Airbags",
+          "ISOFIX with Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "High-Speed Alert System",
+          "Immobilizer (Anti-Theft Security System)",
+          "Day/Night Adjustable IRVM: Manual",
+          "Warning Lamps for Low Fuel & Door Ajar",
+          "Front Seat Belts with Pre-Tensioner and Force Limiter",
+          "Electronic Stability Program",
+          "Dual Front Airbags (Driver and Co-Driver)",
+          "Seat Belt Reminder with Buzzer (Front & Rear Seat) ",
+          "Hill Hold Assist"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Engine Push Start/Stop with Smart Key",
+          "Auto Headlamps (Lead Me to Vehicle, Follow Me Home)",
+          "Electric Back Door Opener",
+          "Tyre repair kit",
+          "Gear Position Indicator: AMT only",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Accessory Socket: Front Accessory Socket",
+          "Rear Defogger",
+          "Gear Shift Indicator",
+          "Driver Side Foot Rest",
+          "USB Ports: Type A",
+          "Wireless Charger",
+          "Rear AC Vents",
+          "Central Locking",
+          "Head Rest-Front Row: Adjustable Front Seat Headrests",
+          "Head Rest-Second Row: Adjustable Rear Seat Headrests",
+          "Power Steering: Power & Tilt Steering"
+        ],
+        "Infotainment": [
+          "Tachometer",
+          "Gear Shift Indicator",
+          "Steering Mounted Controls: Audio and Bluetooth",
+          "Low Fuel Warning Light",
+          "Door Ajar Warning Lamp",
+          "Media Receiver (AM/FM/Bluetooth)"
+        ],
+        "Audio & Entertainment": [
+          "SmartPlay Pro: SmartPlay Pro with 17.78 cm Touch Screen",
+          "Onboard Voice Assistant",
+          "Bluetooth",
+          "Number of Speakers: 4.0",
+          "USB Connectivity/AUX",
+          "Over the Air (OTA) System Upgrades",
+          "Wireless Android Auto & Apple CarPlay",
+          "Steering Mounted Audio & Calling Controls",
+          "Tweeters: 2"
+        ],
+        "Suzuki Connect": [
+          "Emergency Alerts",
+          "Breakdown notification",
+          "Stolen Vehicle Notification and Tracking",
+          "Immobilizer Request",
+          "Tow Away Alert and Tracking",
+          "Geofence",
+          "Valet Alert",
+          "Remote AC Control ",
+          "Door Lock/Cancel Lock",
+          "Headlight Off",
+          "Hazard Lights On/Off ",
+          "Alarm On/Off",
+          "Smartwatch Connectivity",
+          "Suzuki Connect Skills for Amazon Alexa",
+          "Low Fuel & Low Range Alert",
+          "Over Speed Alert",
+          "AC Idling",
+          "Door & Lock Status",
+          "Seat Belt Alert",
+          "Battery Status",
+          "Trip (Start & End)",
+          "Headlamp & Hazard Lights",
+          "Live Vehicle Tracking & Location sharing",
+          "Driving Score",
+          "View & Share Trip History",
+          "Dashboard View",
+          "Time Fence",
+          "Trip Summary"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/swift/images/spinset360/sizzling-red-with-midnight-black-roof/2025.03.25_09.12.54_Swift_360_RedBlack_PathTracer_0054.png"
+    },
+    {
+      "code": "SIRCBV2",
+      "name": "Swift VXi (O) CNG",
+      "fuel": "CNG",
+      "transmission": "Manual",
+      "technology": [
+        "S-CNG"
+      ],
+      "airbags": null,
+      "ex_showroom_surat": {
+        "metallic": 783590,
+        "non_metallic": 783590
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol-CNG",
+          "Fuel Efficiency (km/l)*": "32.85 km/kg"
+        },
+        "Dimensions": {
+          "Length (mm)": "3860",
+          "Width (mm)": "1735",
+          "Height (mm)": "1520",
+          "Wheelbase (mm)": "2450",
+          "Turning Radius (m)": "4.8",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "990 max",
+          "Gross Vehicle Weight (Kg)": "1425",
+          "Fuel Tank Capacity (L)": "Petrol: 37; CNG: 55 (Water Filling Capacity",
+          "Boot Space (L)": "NA"
+        },
+        "Transmission": {
+          "Transmission Type": "5MT"
+        },
+        "Engine": {
+          "Engine Type": "Z12E without ISS",
+          "Capacity (cc)": "1197 cc",
+          "Max Power (1 KW =1.35962 PS)": "51.3 kW @5700rpm or 69.75 PS @5700rpm",
+          "Max Torque (Nm @ rpm)": "101.8 Nm @2900 rpm",
+          "No. of Cylinder": 3.0
+        },
+        "Brakes": {
+          "Front": "Ventilated Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut",
+          "Rear Suspension": "Torsion Beam"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "165/80 R14",
+          "Wheel Type": "Steel"
+        },
+        "EMISSION": {
+          "Bharat Stage Wise": "BS VI"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Headlamps: Halogen",
+          "LED Rear Combination Lamps",
+          "Body Coloured Outside Rear View Mirrors",
+          "ORVM with Turn Indicator",
+          "Antenna: Micropole",
+          "Door Handles: Body Coloured",
+          "Full Wheel Covers",
+          "Bumper: Body Coloured"
+        ],
+        "Interior": [
+          "Chrome Parking Brake Lever Tip",
+          "Gear Shift Knob in Piano Black Finish",
+          "Front & Rear Bottle Holder",
+          "Multi-information Display: Segment",
+          "Driver Side Sunvisor with Ticket Holder",
+          "Passenger Side Sunvisor with Vanity Mirror",
+          "Rear Parcel Tray"
+        ],
+        "Safety & Security": [
+          "ABS with EBD",
+          "Speed Sensitive Automatic Door Lock",
+          "Security Alarm System - Door & Hood",
+          "Side & Curtain Airbags",
+          "ISOFIX with Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "High-Speed Alert System",
+          "Immobilizer (Anti-Theft Security System)",
+          "Day/Night Adjustable IRVM: Manual",
+          "Warning Lamps for Low Fuel & Door Ajar",
+          "Front Seat Belts with Pre-Tensioner and Force Limiter",
+          "Electronic Stability Program",
+          "Dual Front Airbags (Driver and Co-Driver)",
+          "Seat Belt Reminder with Buzzer (Front & Rear Seat) ",
+          "Hill Hold Assist"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Engine Push Start/Stop with Smart Key",
+          "Electric Back Door Opener",
+          "Tyre repair kit",
+          "Gear Position Indicator: AMT only",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Accessory Socket: Front Accessory Socket",
+          "Rear Defogger",
+          "Gear Shift Indicator",
+          "Driver Side Foot Rest",
+          "USB Ports: Type A",
+          "Central Locking",
+          "Head Rest-Front Row: Adjustable Front Seat Headrests",
+          "Power Steering: Power & Tilt Steering",
+          "Electrically Adjustable ORVMs"
+        ],
+        "Infotainment": [
+          "Tachometer",
+          "Steering Mounted Controls: Audio and Bluetooth",
+          "Low Fuel Warning Light",
+          "Door Ajar Warning Lamp",
+          "Media Receiver (AM/FM/Bluetooth)"
+        ],
+        "Audio & Entertainment": [
+          "SmartPlay Pro: SmartPlay Pro with 17.78 cm Touch Screen",
+          "Onboard Voice Assistant",
+          "Bluetooth",
+          "Number of Speakers: 4.0",
+          "USB Connectivity/AUX",
+          "Over the Air (OTA) System Upgrades",
+          "Wireless Android Auto & Apple CarPlay",
+          "Steering Mounted Audio & Calling Controls",
+          "Tweeters: 0"
+        ],
+        "Suzuki Connect": [
+          "Emergency Alerts",
+          "Breakdown notification",
+          "Stolen Vehicle Notification and Tracking",
+          "Immobilizer Request",
+          "Tow Away Alert and Tracking",
+          "Geofence",
+          "Valet Alert",
+          "Remote AC Control ",
+          "Door Lock/Cancel Lock",
+          "Headlight Off",
+          "Hazard Lights On/Off ",
+          "Alarm On/Off",
+          "Smartwatch Connectivity",
+          "Suzuki Connect Skills for Amazon Alexa",
+          "Low Fuel & Low Range Alert",
+          "Over Speed Alert",
+          "AC Idling",
+          "Door & Lock Status",
+          "Seat Belt Alert",
+          "Battery Status",
+          "Trip (Start & End)",
+          "Headlamp & Hazard Lights",
+          "Live Vehicle Tracking & Location sharing",
+          "Driving Score",
+          "View & Share Trip History"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/swift/images/spinset360/sizzling-red-with-midnight-black-roof/2025.03.25_09.12.54_Swift_360_RedBlack_PathTracer_0054.png"
+    },
+    {
+      "code": "SIACBV1",
+      "name": "Swift VXi CNG AGS",
+      "fuel": "CNG",
+      "transmission": "Automatic",
+      "technology": [
+        "S-CNG"
+      ],
+      "airbags": null,
+      "ex_showroom_surat": {
+        "metallic": 792590,
+        "non_metallic": 792590
+      },
+      "specifications": {},
+      "features": {},
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/swift/images/spinset360/sizzling-red-with-midnight-black-roof/2025.03.25_09.12.54_Swift_360_RedBlack_PathTracer_0054.png"
+    },
+    {
+      "code": "SIA4BZ1",
+      "name": "Swift ZXi AMT",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": null,
+      "ex_showroom_surat": {
+        "metallic": 807090,
+        "non_metallic": 807090
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Efficiency (km/l)*": "25.75 km/l"
+        },
+        "Dimensions": {
+          "Length (mm)": "3860",
+          "Width (mm)": "1735",
+          "Height (mm)": "1520",
+          "Wheelbase (mm)": "2450",
+          "Turning Radius (m)": "4.8",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "925 max",
+          "Gross Vehicle Weight (Kg)": "1355",
+          "Fuel Tank Capacity (L)": "37",
+          "Boot Space (L)": "265*"
+        },
+        "Transmission": {
+          "Transmission Type": "5AMT"
+        },
+        "Engine": {
+          "Engine Type": "Z12E with ISS",
+          "Capacity (cc)": "1197 cc",
+          "Max Power (1 KW =1.35962 PS)": "60 kW @5700 rpm or 81.58 PS @5700 rpm",
+          "Max Torque (Nm @ rpm)": "111.7Nm@4300rpm",
+          "Idle Start Stop": "Yes",
+          "No. of Cylinder": 3.0
+        },
+        "Brakes": {
+          "Front": "Ventilated Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut",
+          "Rear Suspension": "Torsion Beam"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "185/65 R15",
+          "Wheel Type": "Painted Alloy"
+        },
+        "EMISSION": {
+          "Bharat Stage Wise": "BS VI"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Headlamps: LED",
+          "LED Daytime Running Lamps (DRL)",
+          "LED Rear Combination Lamps",
+          "Body Coloured Outside Rear View Mirrors",
+          "ORVM with Turn Indicator",
+          "Antenna: Micropole",
+          "Door Handles: Body Coloured",
+          "Bumper: Body Coloured"
+        ],
+        "Interior": [
+          "Outside Temperature Display",
+          "Chrome Parking Brake Lever Tip",
+          "Gear Shift Knob in Piano Black Finish",
+          "Front & Rear Bottle Holder",
+          "Multi-information Display: Segment",
+          "Height Adjustable Driver Seat",
+          "Driver Side Sunvisor with Ticket Holder",
+          "Passenger Side Sunvisor with Vanity Mirror",
+          "Rear Parcel Tray",
+          "Luggage Lamp"
+        ],
+        "Safety & Security": [
+          "ABS with EBD",
+          "Speed Sensitive Automatic Door Lock",
+          "Security Alarm System - Door & Hood",
+          "Side & Curtain Airbags",
+          "ISOFIX with Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "High-Speed Alert System",
+          "Immobilizer (Anti-Theft Security System)",
+          "Day/Night Adjustable IRVM: Manual",
+          "Warning Lamps for Low Fuel & Door Ajar",
+          "Front Seat Belts with Pre-Tensioner and Force Limiter",
+          "Electronic Stability Program",
+          "Dual Front Airbags (Driver and Co-Driver)",
+          "Seat Belt Reminder with Buzzer (Front & Rear Seat) ",
+          "Hill Hold Assist"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Engine Push Start/Stop with Smart Key",
+          "Auto Headlamps (Lead Me to Vehicle, Follow Me Home)",
+          "Electric Back Door Opener",
+          "Tyre repair kit",
+          "Gear Position Indicator: AMT only",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Accessory Socket: Front Accessory Socket",
+          "Rear Defogger",
+          "Gear Shift Indicator",
+          "Driver Side Foot Rest",
+          "USB Ports: Type A",
+          "Wireless Charger",
+          "Rear AC Vents",
+          "Central Locking",
+          "Head Rest-Front Row: Adjustable Front Seat Headrests",
+          "Head Rest-Second Row: Adjustable Rear Seat Headrests",
+          "Power Steering: Power & Tilt Steering",
+          "Electrically Adjustable ORVMs"
+        ],
+        "Infotainment": [
+          "Tachometer",
+          "Steering Mounted Controls: Audio and Bluetooth",
+          "Low Fuel Warning Light",
+          "Door Ajar Warning Lamp",
+          "Media Receiver (AM/FM/Bluetooth)"
+        ],
+        "Audio & Entertainment": [
+          "SmartPlay Pro: SmartPlay Pro with 17.78 cm Touch Screen",
+          "Onboard Voice Assistant",
+          "Bluetooth",
+          "Number of Speakers: 4.0",
+          "USB Connectivity/AUX",
+          "Over the Air (OTA) System Upgrades",
+          "Wireless Android Auto & Apple CarPlay",
+          "Steering Mounted Audio & Calling Controls",
+          "Tweeters: 2"
+        ],
+        "Suzuki Connect": [
+          "Emergency Alerts",
+          "Breakdown notification",
+          "Stolen Vehicle Notification and Tracking",
+          "Immobilizer Request",
+          "Tow Away Alert and Tracking",
+          "Geofence",
+          "Valet Alert",
+          "Remote AC Control ",
+          "Door Lock/Cancel Lock",
+          "Headlight Off",
+          "Hazard Lights On/Off ",
+          "Alarm On/Off",
+          "Smartwatch Connectivity",
+          "Suzuki Connect Skills for Amazon Alexa",
+          "Low Fuel & Low Range Alert",
+          "Over Speed Alert",
+          "AC Idling",
+          "Door & Lock Status",
+          "Seat Belt Alert",
+          "Battery Status",
+          "Trip (Start & End)",
+          "Headlamp & Hazard Lights",
+          "Live Vehicle Tracking & Location sharing",
+          "Driving Score",
+          "View & Share Trip History"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/swift/images/spinset360/sizzling-red-with-midnight-black-roof/2025.03.25_09.12.54_Swift_360_RedBlack_PathTracer_0054.png"
+    },
+    {
+      "code": "SIACBV2",
+      "name": "Swift VXi (O) CNG AGS",
+      "fuel": "CNG",
+      "transmission": "Automatic",
+      "technology": [
+        "S-CNG"
+      ],
+      "airbags": null,
+      "ex_showroom_surat": {
+        "metallic": 818590,
+        "non_metallic": 818590
+      },
+      "specifications": {},
+      "features": {},
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/swift/images/spinset360/sizzling-red-with-midnight-black-roof/2025.03.25_09.12.54_Swift_360_RedBlack_PathTracer_0054.png"
+    },
+    {
+      "code": "SIR4BZ2",
+      "name": "Swift  ZXi+ MT",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": null,
+      "ex_showroom_surat": {
+        "metallic": 829090,
+        "non_metallic": 829090,
+        "dual_tone": 844090
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Efficiency (km/l)*": "24.80 km/l"
+        },
+        "Dimensions": {
+          "Length (mm)": "3860",
+          "Width (mm)": "1735",
+          "Height (mm)": "1520",
+          "Wheelbase (mm)": "2450",
+          "Turning Radius (m)": "4.8",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "920 max",
+          "Gross Vehicle Weight (Kg)": "1355",
+          "Fuel Tank Capacity (L)": "37",
+          "Boot Space (L)": "265*"
+        },
+        "Transmission": {
+          "Transmission Type": "5MT"
+        },
+        "Engine": {
+          "Engine Type": "Z12E with ISS",
+          "Capacity (cc)": "1197 cc",
+          "Max Power (1 KW =1.35962 PS)": "60 kW @5700 rpm or 81.58 PS @5700 rpm",
+          "Max Torque (Nm @ rpm)": "111.7Nm@4300rpm",
+          "Idle Start Stop": "Yes",
+          "No. of Cylinder": 3.0
+        },
+        "Brakes": {
+          "Front": "Ventilated Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut",
+          "Rear Suspension": "Torsion Beam"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "185/65 R15",
+          "Wheel Type": "Painted Alloy"
+        },
+        "EMISSION": {
+          "Bharat Stage Wise": "BS VI"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Headlamps: LED",
+          "LED Daytime Running Lamps (DRL)",
+          "LED Rear Combination Lamps",
+          "Body Coloured Outside Rear View Mirrors",
+          "ORVM with Turn Indicator",
+          "Antenna: Micropole",
+          "Fog Lamps: Front LED Fog Lamps",
+          "Door Handles: Body Coloured",
+          "Bumper: Body Coloured"
+        ],
+        "Interior": [
+          "Leather Wrapped Steering Wheel: Leather Wrapped Steering Wheel (With Stitch)4 ",
+          "Outside Temperature Display",
+          "Chrome Parking Brake Lever Tip",
+          "Gear Shift Knob in Piano Black Finish",
+          "Front Footwell Illumination",
+          "Front & Rear Bottle Holder",
+          "Multi-information Display: Coloured",
+          "Height Adjustable Driver Seat",
+          "Driver Side Sunvisor with Ticket Holder",
+          "Passenger Side Sunvisor with Vanity Mirror",
+          "Rear Parcel Tray",
+          "Luggage Lamp"
+        ],
+        "Safety & Security": [
+          "ABS with EBD",
+          "Speed Sensitive Automatic Door Lock",
+          "Security Alarm System - Door & Hood: (Incl. Shock Sensor)",
+          "Side & Curtain Airbags",
+          "ISOFIX with Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "Rear Parking Camera",
+          "High-Speed Alert System",
+          "Immobilizer (Anti-Theft Security System)",
+          "Day/Night Adjustable IRVM: Manual",
+          "Warning Lamps for Low Fuel & Door Ajar",
+          "Front Seat Belts with Pre-Tensioner and Force Limiter",
+          "Electronic Stability Program",
+          "Dual Front Airbags (Driver and Co-Driver)",
+          "Seat Belt Reminder with Buzzer (Front & Rear Seat) ",
+          "Hill Hold Assist",
+          "Engine Immobilizer"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Engine Push Start/Stop with Smart Key",
+          "Auto Headlamps (Lead Me to Vehicle, Follow Me Home)",
+          "Electric Back Door Opener",
+          "Gear Position Indicator: AMT only",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Accessory Socket: Front Accessory Socket",
+          "Rear Defogger",
+          "Gear Shift Indicator",
+          "Driver Side Foot Rest",
+          "USB Ports: Type A",
+          "Wireless Charger",
+          "Rear AC Vents",
+          "Cruise Control",
+          "Central Locking",
+          "Head Rest-Front Row: Adjustable Front Seat Headrests",
+          "Head Rest-Second Row: Adjustable Rear Seat Headrests",
+          "Power Steering: Power & Tilt Steering",
+          "Electrically Adjustable ORVMs"
+        ],
+        "Infotainment": [
+          "Tachometer",
+          "Gear Shift Indicator",
+          "Steering Mounted Controls: Audio and Bluetooth",
+          "Low Fuel Warning Light",
+          "Door Ajar Warning Lamp",
+          "Media Receiver (AM/FM/Bluetooth)"
+        ],
+        "Audio & Entertainment": [
+          "SmartPlay Pro: SmartPlay Pro+ with 22.86 cm Touch Screen",
+          "Surround Sense Powered by ARKAMYS",
+          "Onboard Voice Assistant",
+          "Bluetooth",
+          "Number of Speakers: 4.0",
+          "USB Connectivity/AUX",
+          "Over the Air (OTA) System Upgrades",
+          "Wireless Android Auto & Apple CarPlay",
+          "Steering Mounted Audio & Calling Controls",
+          "Tweeters: 2"
+        ],
+        "Suzuki Connect": [
+          "Emergency Alerts",
+          "Breakdown notification",
+          "Stolen Vehicle Notification and Tracking",
+          "Immobilizer Request",
+          "Tow Away Alert and Tracking",
+          "Geofence",
+          "Valet Alert",
+          "Remote AC Control ",
+          "Door Lock/Cancel Lock",
+          "Headlight Off",
+          "Hazard Lights On/Off ",
+          "Alarm On/Off",
+          "Smartwatch Connectivity",
+          "Suzuki Connect Skills for Amazon Alexa",
+          "Low Fuel & Low Range Alert",
+          "Over Speed Alert",
+          "AC Idling",
+          "Door & Lock Status",
+          "Seat Belt Alert",
+          "Battery Status",
+          "Trip (Start & End)",
+          "Headlamp & Hazard Lights",
+          "Live Vehicle Tracking & Location sharing",
+          "Driving Score",
+          "View & Share Trip History"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/swift/images/spinset360/sizzling-red-with-midnight-black-roof/2025.03.25_09.12.54_Swift_360_RedBlack_PathTracer_0054.png"
+    },
+    {
+      "code": "SIRCBZ1",
+      "name": "Swift ZXi CNG 5MT",
+      "fuel": "CNG",
+      "transmission": "Manual",
+      "technology": [
+        "S-CNG"
+      ],
+      "airbags": null,
+      "ex_showroom_surat": {
+        "metallic": 851590,
+        "non_metallic": 851590
+      },
+      "specifications": {
+        "Brakes": {
+          "Front": "Ventilated Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut",
+          "Rear Suspension": "Torsion Beam"
+        },
+        "Transmission": {
+          "Transmission Type": "5MT"
+        },
+        "Dimensions": {
+          "Length (mm)": "3860",
+          "Width (mm)": "1735",
+          "Height (mm)": "1520",
+          "Wheelbase (mm)": "2450",
+          "Turning Radius (m)": "4.8",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "990 max",
+          "Gross Vehicle Weight (Kg)": "1425",
+          "Fuel Tank Capacity (L)": "Petrol: 37; CNG: 55 (Water Filling Capacity)",
+          "Boot Space (L)": "NA"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "185/65 R15",
+          "Wheel Type": "Painted Alloy"
+        },
+        "Engine": {
+          "Engine Type": "Z12E without ISS",
+          "Capacity (cc)": "1197 cc",
+          "Max Power (1 KW =1.35962 PS)": "51.3 kW @5700rpm",
+          "Max Torque (Nm @ rpm)": "101.8 Nm @2900 rpm",
+          "No. of Cylinder": 3.0
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol-CNG",
+          "Fuel Efficiency (km/l)*": "32.85 km/kg"
+        },
+        "EMISSION": {
+          "Bharat Stage Wise": "BS VI"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Headlamps: LED",
+          "LED Daytime Running Lamps (DRL)",
+          "LED Rear Combination Lamps",
+          "Body Coloured Outside Rear View Mirrors",
+          "ORVM with Turn Indicator",
+          "Antenna: Micropole",
+          "Door Handles: Body Coloured",
+          "Bumper: Body Coloured"
+        ],
+        "Interior": [
+          "Outside Temperature Display",
+          "Chrome Parking Brake Lever Tip",
+          "Gear Shift Knob in Piano Black Finish",
+          "Front & Rear Bottle Holder",
+          "Multi-information Display: Segment",
+          "Height Adjustable Driver Seat",
+          "Driver Side Sunvisor with Ticket Holder",
+          "Passenger Side Sunvisor with Vanity Mirror",
+          "Rear Parcel Tray",
+          "Luggage Lamp"
+        ],
+        "Safety & Security": [
+          "ABS with EBD",
+          "Speed Sensitive Automatic Door Lock",
+          "Security Alarm System - Door & Hood",
+          "Side & Curtain Airbags",
+          "ISOFIX with Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "High-Speed Alert System",
+          "Immobilizer (Anti-Theft Security System)",
+          "Day/Night Adjustable IRVM: Manual",
+          "Warning Lamps for Low Fuel & Door Ajar",
+          "Front Seat Belts with Pre-Tensioner and Force Limiter",
+          "Electronic Stability Program",
+          "Dual Front Airbags (Driver and Co-Driver)",
+          "Seat Belt Reminder with Buzzer (Front & Rear Seat) ",
+          "Hill Hold Assist"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Engine Push Start/Stop with Smart Key",
+          "Auto Headlamps (Lead Me to Vehicle, Follow Me Home)",
+          "Electric Back Door Opener",
+          "Tyre repair kit",
+          "Gear Position Indicator: AMT only",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Accessory Socket: Front Accessory Socket",
+          "Rear Defogger",
+          "Gear Shift Indicator",
+          "Driver Side Foot Rest",
+          "USB Ports: Type A",
+          "Wireless Charger",
+          "Rear AC Vents",
+          "Central Locking",
+          "Head Rest-Front Row: Adjustable Front Seat Headrests",
+          "Head Rest-Second Row: Adjustable Rear Seat Headrests",
+          "Power Steering: Power & Tilt Steering",
+          "Electrically Adjustable ORVMs"
+        ],
+        "Infotainment": [
+          "Tachometer",
+          "Steering Mounted Controls: Audio and Bluetooth",
+          "Low Fuel Warning Light",
+          "Door Ajar Warning Lamp",
+          "Media Receiver (AM/FM/Bluetooth)"
+        ],
+        "Audio & Entertainment": [
+          "SmartPlay Pro: SmartPlay Pro with 17.78 cm Touch Screen",
+          "Onboard Voice Assistant",
+          "Bluetooth",
+          "Number of Speakers: 4.0",
+          "USB Connectivity/AUX",
+          "Over the Air (OTA) System Upgrades",
+          "Wireless Android Auto & Apple CarPlay",
+          "Steering Mounted Audio & Calling Controls",
+          "Tweeters: 2"
+        ],
+        "Suzuki Connect": [
+          "Emergency Alerts",
+          "Breakdown notification",
+          "Stolen Vehicle Notification and Tracking",
+          "Immobilizer Request",
+          "Tow Away Alert and Tracking",
+          "Geofence",
+          "Valet Alert",
+          "Remote AC Control ",
+          "Door Lock/Cancel Lock",
+          "Headlight Off",
+          "Hazard Lights On/Off ",
+          "Alarm On/Off",
+          "Smartwatch Connectivity",
+          "Suzuki Connect Skills for Amazon Alexa",
+          "Low Fuel & Low Range Alert",
+          "Over Speed Alert",
+          "AC Idling",
+          "Door & Lock Status",
+          "Seat Belt Alert",
+          "Battery Status",
+          "Trip (Start & End)",
+          "Headlamp & Hazard Lights",
+          "Live Vehicle Tracking & Location sharing",
+          "Driving Score",
+          "View & Share Trip History",
+          "Time Fence",
+          "Trip Summary"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/swift/images/spinset360/sizzling-red-with-midnight-black-roof/2025.03.25_09.12.54_Swift_360_RedBlack_PathTracer_0054.png"
+    },
+    {
+      "code": "SIA4BZ2",
+      "name": "Swift ZXi+ AMT",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": null,
+      "ex_showroom_surat": {
+        "metallic": 874090,
+        "non_metallic": 874090,
+        "dual_tone": 889090
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Efficiency (km/l)*": "25.75 km/l"
+        },
+        "Dimensions": {
+          "Length (mm)": "3860",
+          "Width (mm)": "1735",
+          "Height (mm)": "1520",
+          "Wheelbase (mm)": "2450",
+          "Turning Radius (m)": "4.8",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "925 max",
+          "Gross Vehicle Weight (Kg)": "1355",
+          "Fuel Tank Capacity (L)": "37",
+          "Boot Space (L)": "265*"
+        },
+        "Transmission": {
+          "Transmission Type": "5AMT"
+        },
+        "Engine": {
+          "Engine Type": "Z12E with ISS",
+          "Capacity (cc)": "1197 cc",
+          "Max Power (1 KW =1.35962 PS)": "60 kW @ 5700 rpm or 81.58 PS @ 5700 rpm",
+          "Max Torque (Nm @ rpm)": "111.7Nm@4300rpm",
+          "Idle Start Stop": "Yes",
+          "No. of Cylinder": 3.0
+        },
+        "Brakes": {
+          "Front": "Ventilated Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "MacPherson Strut",
+          "Rear Suspension": "Torsion Beam"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "185/65 R15",
+          "Wheel Type": "Painted Alloy"
+        },
+        "EMISSION": {
+          "Bharat Stage Wise": "BS VI"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Headlamps: LED",
+          "LED Daytime Running Lamps (DRL)",
+          "LED Rear Combination Lamps",
+          "Body Coloured Outside Rear View Mirrors",
+          "ORVM with Turn Indicator",
+          "Antenna: Micropole",
+          "Fog Lamps: Front LED Fog Lamps",
+          "Door Handles: Body Coloured",
+          "Bumper: Body Coloured"
+        ],
+        "Interior": [
+          "Leather Wrapped Steering Wheel: Leather Wrapped Steering Wheel (With Stitch)4 ",
+          "Outside Temperature Display",
+          "Chrome Parking Brake Lever Tip",
+          "Gear Shift Knob in Piano Black Finish",
+          "Front Footwell Illumination",
+          "Front & Rear Bottle Holder",
+          "Multi-information Display: Coloured",
+          "Height Adjustable Driver Seat",
+          "Driver Side Sunvisor with Ticket Holder",
+          "Passenger Side Sunvisor with Vanity Mirror",
+          "Rear Parcel Tray",
+          "Luggage Lamp"
+        ],
+        "Safety & Security": [
+          "ABS with EBD",
+          "Speed Sensitive Automatic Door Lock",
+          "Security Alarm System - Door & Hood: (Incl. Shock Sensor)",
+          "Side & Curtain Airbags",
+          "ISOFIX with Child Seat Anchorages",
+          "Reverse Parking Sensors",
+          "Rear Parking Camera",
+          "High-Speed Alert System",
+          "Immobilizer (Anti-Theft Security System)",
+          "Day/Night Adjustable IRVM: Manual",
+          "Warning Lamps for Low Fuel & Door Ajar",
+          "Front Seat Belts with Pre-Tensioner and Force Limiter",
+          "Electronic Stability Program",
+          "Dual Front Airbags (Driver and Co-Driver)",
+          "Seat Belt Reminder with Buzzer (Front & Rear Seat) ",
+          "Hill Hold Assist"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Engine Push Start/Stop with Smart Key",
+          "Auto Headlamps (Lead Me to Vehicle, Follow Me Home)",
+          "Electric Back Door Opener",
+          "Gear Position Indicator: AMT only",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Accessory Socket: Front Accessory Socket",
+          "Rear Defogger",
+          "Gear Shift Indicator",
+          "Driver Side Foot Rest",
+          "USB Ports: Type A",
+          "Wireless Charger",
+          "Rear AC Vents",
+          "Cruise Control",
+          "Central Locking",
+          "Head Rest-Front Row: Adjustable Front Seat Headrests",
+          "Head Rest-Second Row: Adjustable Rear Seat Headrests",
+          "Power Steering: Power & Tilt Steering",
+          "Electrically Adjustable ORVMs"
+        ],
+        "Infotainment": [
+          "Tachometer",
+          "Steering Mounted Controls: Audio and Bluetooth",
+          "Low Fuel Warning Light",
+          "Door Ajar Warning Lamp",
+          "Media Receiver (AM/FM/Bluetooth)"
+        ],
+        "Audio & Entertainment": [
+          "SmartPlay Pro: SmartPlay Pro+ with 22.86 cm Touch Screen",
+          "Surround Sense Powered by ARKAMYS",
+          "Onboard Voice Assistant",
+          "Bluetooth",
+          "Number of Speakers: 4.0",
+          "USB Connectivity/AUX",
+          "Over the Air (OTA) System Upgrades",
+          "Wireless Android Auto & Apple CarPlay",
+          "Steering Mounted Audio & Calling Controls",
+          "Tweeters: 2"
+        ],
+        "Suzuki Connect": [
+          "Emergency Alerts",
+          "Breakdown notification",
+          "Stolen Vehicle Notification and Tracking",
+          "Immobilizer Request",
+          "Tow Away Alert and Tracking",
+          "Geofence",
+          "Valet Alert",
+          "Remote AC Control ",
+          "Door Lock/Cancel Lock",
+          "Headlight Off",
+          "Hazard Lights On/Off ",
+          "Alarm On/Off",
+          "Smartwatch Connectivity",
+          "Suzuki Connect Skills for Amazon Alexa",
+          "Low Fuel & Low Range Alert",
+          "Over Speed Alert",
+          "AC Idling",
+          "Door & Lock Status",
+          "Seat Belt Alert",
+          "Battery Status",
+          "Trip (Start & End)",
+          "Headlamp & Hazard Lights",
+          "Live Vehicle Tracking & Location sharing",
+          "Driving Score",
+          "View & Share Trip History"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/swift/images/spinset360/sizzling-red-with-midnight-black-roof/2025.03.25_09.12.54_Swift_360_RedBlack_PathTracer_0054.png"
+    },
+    {
+      "code": "SIACBZ1",
+      "name": "Swift ZXI CNG AGS",
+      "fuel": "CNG",
+      "transmission": "Automatic",
+      "technology": [
+        "S-CNG"
+      ],
+      "airbags": null,
+      "ex_showroom_surat": {
+        "metallic": 886590,
+        "non_metallic": 886590
+      },
+      "specifications": {},
+      "features": {},
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/swift/images/spinset360/sizzling-red-with-midnight-black-roof/2025.03.25_09.12.54_Swift_360_RedBlack_PathTracer_0054.png"
+    }
+  ],
+  "fetched_on": "2026-10-30"
+}

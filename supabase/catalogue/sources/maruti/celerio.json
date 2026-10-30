@@ -1,0 +1,1202 @@
+{
+  "brand": "Maruti Suzuki",
+  "model": "Celerio",
+  "slug": "celerio",
+  "model_code": "CL",
+  "channel": "Arena",
+  "official_page": "https://www.marutisuzuki.com/arena/celerio",
+  "brochure_pdf": "https://www.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/celerio/documents/Arena-Celerio-Brochure.pdf",
+  "price_city": "Surat, Gujarat",
+  "ex_showroom_min": 469852,
+  "ex_showroom_max": 675353,
+  "fuel_types": [
+    "CNG",
+    "Petrol"
+  ],
+  "transmissions": [
+    "Automatic",
+    "Manual"
+  ],
+  "colours": [
+    {
+      "name": "Metallic Glistening Grey",
+      "hex": [
+        "#4a4a4a"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Celerio LXi MT",
+        "Celerio VXi AGS",
+        "Celerio VXi CNG",
+        "Celerio VXi MT",
+        "Celerio ZXi+ AGS",
+        "Celerio ZXi+ MT",
+        "Celerio ZXi AGS",
+        "Celerio ZXi MT"
+      ]
+    },
+    {
+      "name": "Pearl Arctic White",
+      "hex": [
+        "#F3F3F3"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Celerio LXi MT",
+        "Celerio VXi AGS",
+        "Celerio VXi CNG",
+        "Celerio VXi MT",
+        "Celerio ZXi+ AGS",
+        "Celerio ZXi+ MT",
+        "Celerio ZXi AGS",
+        "Celerio ZXi MT"
+      ]
+    },
+    {
+      "name": "Metallic Silky Silver",
+      "hex": [
+        "#737373"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Celerio LXi MT",
+        "Celerio VXi AGS",
+        "Celerio VXi CNG",
+        "Celerio VXi MT",
+        "Celerio ZXi+ AGS",
+        "Celerio ZXi+ MT",
+        "Celerio ZXi AGS",
+        "Celerio ZXi MT"
+      ]
+    },
+    {
+      "name": "Metallic Speedy Blue",
+      "hex": [
+        "#1F47C2"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Celerio LXi MT",
+        "Celerio VXi AGS",
+        "Celerio VXi CNG",
+        "Celerio VXi MT",
+        "Celerio ZXi+ AGS",
+        "Celerio ZXi+ MT",
+        "Celerio ZXi AGS",
+        "Celerio ZXi MT"
+      ]
+    },
+    {
+      "name": "Pearl Caffeine Brown",
+      "hex": [
+        "#28201d"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Celerio LXi MT",
+        "Celerio VXi AGS",
+        "Celerio VXi CNG",
+        "Celerio VXi MT",
+        "Celerio ZXi+ AGS",
+        "Celerio ZXi+ MT",
+        "Celerio ZXi AGS",
+        "Celerio ZXi MT"
+      ]
+    },
+    {
+      "name": "Solid Fire Red",
+      "hex": [
+        "#8E0D0F"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Celerio LXi MT",
+        "Celerio VXi AGS",
+        "Celerio VXi CNG",
+        "Celerio VXi MT",
+        "Celerio ZXi+ AGS",
+        "Celerio ZXi+ MT",
+        "Celerio ZXi AGS",
+        "Celerio ZXi MT"
+      ]
+    },
+    {
+      "name": "Pearl Bluish Black",
+      "hex": [
+        "#141414"
+      ],
+      "paint": "metallic",
+      "variants": [
+        "Celerio VXi AGS",
+        "Celerio VXi CNG",
+        "Celerio VXi MT",
+        "Celerio ZXi+ AGS",
+        "Celerio ZXi+ MT",
+        "Celerio ZXi AGS",
+        "Celerio ZXi MT"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "code": "CLR4DL1",
+      "name": "Celerio LXi MT",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": null,
+      "ex_showroom_surat": {
+        "metallic": 469852,
+        "non_metallic": 469852
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Efficiency (km/l)*": "25.24 kmpl"
+        },
+        "Dimensions": {
+          "Length (mm)": "3695",
+          "Width (mm)": "1655",
+          "Height (mm)": "1555",
+          "Wheelbase (mm)": "2435",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "810",
+          "Gross Vehicle Weight (Kg)": "1260",
+          "Fuel Tank Capacity (L)": "32",
+          "Boot Space (L)": "292*"
+        },
+        "Transmission": {
+          "Transmission Type": "5MT"
+        },
+        "Engine": {
+          "Etype": "Aluminium",
+          "Engine Type": "K10C",
+          "Capacity (cc)": "998 cc",
+          "Max Power (1 KW =1.35962 PS)": "50.4 kW (68.5 PS) @ 5600 rpm",
+          "Max Torque (Nm @ rpm)": "91.1 Nm @ 3400 rpm",
+          "No. of Cylinder": 3.0,
+          "Number of valves in each cylinder": 4.0,
+          "Emission standard type": "BS VI + OBD II",
+          "Accelerator pedal type": "Electric Type"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "Mac Pherson Strut with Coil Spring",
+          "Rear Suspension": "Torsion Beam with Coil Spring"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "165/70 R14"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Front Grille: Chrome Accent on Front Grille",
+          "Bumper: Body Coloured Bumper"
+        ],
+        "Interior": [
+          "Rear Seat Adjustable Headrest: Integrated",
+          "Driver Side Sunvisor with Ticket Holder",
+          "Bottle holder: 6",
+          "Front cabin lamp",
+          "Illumination Colour: Reddish Amber",
+          "Front and rear door storage pockets",
+          "Two x front door and2 x rear door bottle holders: 6",
+          "Two spoke polygonal steering wheel"
+        ],
+        "Safety & Security": [
+          "ABS with EBD",
+          "Side & Curtain Airbags",
+          "Reverse Parking Sensors",
+          "High-Speed Alert System",
+          "Child-Proof Rear Door Locks",
+          "Immobilizer (Anti-Theft Security System)",
+          "Front Ventilated Disc Brakes",
+          "Headlamp Leveling",
+          "Front Seat Belts with Pre-Tensioner and Force Limiter",
+          "Electronic Stability Program",
+          "Dual Front Airbags (Driver and Co-Driver)",
+          "3 Point ELR Seat Belts for all Rear Seats ",
+          "Seat Belt Reminder with Buzzer (Front & Rear Seat) ",
+          "Pedestrian Protection"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Idle Start Stop (ISS)",
+          "Accessory Socket",
+          "Outside mirrors type: Flap Type",
+          "Gear Shift Indicator",
+          "Power Steering",
+          "Pm25 filter air cabin filter",
+          "Electrically Adjustable ORVMs: Flap Type"
+        ],
+        "Infotainment": [
+          "Gear Shift Indicator",
+          "Fuel Consumption (Instantaneous and Average)",
+          "Distance to Empty",
+          "Low Fuel Warning Light",
+          "Headlamp on Warning",
+          "Door Ajar Warning Lamp"
+        ],
+        "Audio & Entertainment": [
+          "Number of Speakers: 0.0"
+        ],
+        "Central Console & Instrument Panel": [
+          "Urethane Steering Wheel"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/celerio/images/spinset360/solid_fire_red_v1/2025.04.15_13.08.19_Celerio_360_Red_PathTracer_0054.png"
+    },
+    {
+      "code": "CLR4DV1",
+      "name": "Celerio VXi MT",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": null,
+      "ex_showroom_surat": {
+        "metallic": 518353,
+        "non_metallic": 518353
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Efficiency (km/l)*": "24.97 kmpl"
+        },
+        "Dimensions": {
+          "Length (mm)": "3695",
+          "Width (mm)": "1655",
+          "Height (mm)": "1555",
+          "Wheelbase (mm)": "2435",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "820",
+          "Gross Vehicle Weight (Kg)": "1260",
+          "Fuel Tank Capacity (L)": "32",
+          "Boot Space (L)": "292*"
+        },
+        "Transmission": {
+          "Transmission Type": "5MT"
+        },
+        "Engine": {
+          "Etype": "Aluminium",
+          "Engine Type": "K10C",
+          "Capacity (cc)": "998 cc",
+          "Max Power (1 KW =1.35962 PS)": "50.4 kW (68.5 PS) @ 5600 rpm",
+          "Max Torque (Nm @ rpm)": "91.1 Nm @ 3400 rpm",
+          "No. of Cylinder": 3.0,
+          "Number of valves in each cylinder": 4.0,
+          "Emission standard type": "BS VI + OBD II",
+          "Accelerator pedal type": "Electric Type"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "Mac Pherson Strut with Coil Spring",
+          "Rear Suspension": "Torsion Beam with Coil Spring"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "165/70 R14"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Body Coloured Outside Rear View Mirrors",
+          "Door Handles: Body Coloured Door Handles",
+          "Front Grille: Chrome Accent on Front Grille",
+          "Full Wheel Covers",
+          "Bumper: Body Coloured Bumper"
+        ],
+        "Interior": [
+          "Rear Seat Adjustable Headrest: Integrated",
+          "60:40 Folding Rear Seats",
+          "Driver Side Sunvisor with Ticket Holder",
+          "Passenger Side Sunvisor with Vanity Mirror",
+          "Rear Parcel Tray",
+          "IRVM",
+          "Bottle holder: 6",
+          "Front cabin lamp",
+          "Illumination Colour: Reddish Amber",
+          "Front and rear door storage pockets",
+          "Two x front door and2 x rear door bottle holders: 6",
+          "Two spoke polygonal steering wheel"
+        ],
+        "Safety & Security": [
+          "6 Airbags",
+          "ABS with EBD",
+          "Side & Curtain Airbags",
+          "Reverse Parking Sensors",
+          "High-Speed Alert System",
+          "Child-Proof Rear Door Locks",
+          "Immobilizer (Anti-Theft Security System)",
+          "Speed-Sensitive Auto Door Lock",
+          "Impact-Sensing Auto Door Unlock",
+          "Front Ventilated Disc Brakes",
+          "Headlamp Leveling",
+          "Front Seat Belts with Pre-Tensioner and Force Limiter",
+          "Electronic Stability Program",
+          "Dual Front Airbags (Driver and Co-Driver)",
+          "3 Point ELR Seat Belts for all Rear Seats ",
+          "Seat Belt Reminder with Buzzer (Front & Rear Seat) ",
+          "Pedestrian Protection"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Power Windows (Fr/Rr)",
+          "Idle Start Stop (ISS)",
+          "Accessory Socket",
+          "Power Windows (Fr/Rr) with Dr. Side Auto Down Function",
+          "Pollen filter",
+          "Outside mirrors type: Electrically Adjustable",
+          "Gear Shift Indicator",
+          "Central Locking",
+          "Power Steering",
+          "Pm25 filter air cabin filter",
+          "Electrically Adjustable ORVMs: Electrically Adjustable"
+        ],
+        "Infotainment": [
+          "Gear Shift Indicator",
+          "Fuel Consumption (Instantaneous and Average)",
+          "Distance to Empty",
+          "Low Fuel Warning Light",
+          "Headlamp on Warning",
+          "Door Ajar Warning Lamp"
+        ],
+        "Audio & Entertainment": [
+          "Number of Speakers: 0.0"
+        ],
+        "Central Console & Instrument Panel": [
+          "Urethane Steering Wheel"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/celerio/images/spinset360/solid_fire_red_v1/2025.04.15_13.08.19_Celerio_360_Red_PathTracer_0054.png"
+    },
+    {
+      "code": "CLA4DV1",
+      "name": "Celerio VXi AGS",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": null,
+      "ex_showroom_surat": {
+        "metallic": 563352,
+        "non_metallic": 563352
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Efficiency (km/l)*": "26.00 kmpl"
+        },
+        "Dimensions": {
+          "Length (mm)": "3695",
+          "Width (mm)": "1655",
+          "Height (mm)": "1555",
+          "Wheelbase (mm)": "2435",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "825",
+          "Gross Vehicle Weight (Kg)": "1260",
+          "Fuel Tank Capacity (L)": "32",
+          "Boot Space (L)": "292*"
+        },
+        "Engine": {
+          "Etype": "Aluminum",
+          "Engine Type": "K10C",
+          "Capacity (cc)": "998 cc",
+          "Max Power (1 KW =1.35962 PS)": "50.4 kW (68.5 PS) @ 5600 rpm",
+          "Max Torque (Nm @ rpm)": "91.1 Nm @ 3400 rpm",
+          "No. of Cylinder": 3.0,
+          "Number of valves in each cylinder": 4.0,
+          "Emission standard type": "BS VI + OBD II",
+          "Accelerator pedal type": "Electric Type"
+        },
+        "Transmission": {
+          "Transmission Type": "AGS"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "Mac Pherson Strut with Coil Spring",
+          "Rear Suspension": "Torsion Beam with Coil Spring"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "165/70 R14"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Body Coloured Outside Rear View Mirrors",
+          "Door Handles: Body Coloured Door Handles",
+          "Front Grille: Chrome Accent on Front Grille",
+          "Full Wheel Covers",
+          "Bumper: Body Coloured Bumper"
+        ],
+        "Interior": [
+          "Rear Seat Adjustable Headrest: Integrated",
+          "60:40 Folding Rear Seats",
+          "Driver Side Sunvisor with Ticket Holder",
+          "Passenger Side Sunvisor with Vanity Mirror",
+          "Rear Parcel Tray",
+          "IRVM",
+          "Bottle holder: 6",
+          "Front cabin lamp",
+          "Illumination Colour: Reddish Amber",
+          "Front and rear door storage pockets",
+          "Two x front door and2 x rear door bottle holders: 6",
+          "Two spoke polygonal steering wheel"
+        ],
+        "Safety & Security": [
+          "6 Airbags",
+          "ABS with EBD",
+          "Side & Curtain Airbags",
+          "Reverse Parking Sensors",
+          "High-Speed Alert System",
+          "Child-Proof Rear Door Locks",
+          "Immobilizer (Anti-Theft Security System)",
+          "Speed-Sensitive Auto Door Lock",
+          "Impact-Sensing Auto Door Unlock",
+          "Front Ventilated Disc Brakes",
+          "Headlamp Leveling",
+          "Front Seat Belts with Pre-Tensioner and Force Limiter",
+          "Electronic Stability Program",
+          "Dual Front Airbags (Driver and Co-Driver)",
+          "3 Point ELR Seat Belts for all Rear Seats ",
+          "Seat Belt Reminder with Buzzer (Front & Rear Seat) ",
+          "Pedestrian Protection",
+          "Hill Hold Assist"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Gear Position Indicator",
+          "Power Windows (Fr/Rr)",
+          "Idle Start Stop (ISS)",
+          "Accessory Socket",
+          "Power Windows (Fr/Rr) with Dr. Side Auto Down Function",
+          "Pollen filter",
+          "Outside mirrors type: Electrically Adjustable",
+          "Central Locking",
+          "Power Steering"
+        ],
+        "Infotainment": [
+          "Tachometer",
+          "Fuel Consumption (Instantaneous and Average)",
+          "Distance to Empty",
+          "Low Fuel Warning Light",
+          "Headlamp on Warning",
+          "Door Ajar Warning Lamp"
+        ],
+        "Audio & Entertainment": [
+          "Number of Speakers: 0.0"
+        ],
+        "Central Console & Instrument Panel": [
+          "Gear Position Indicator",
+          "Urethane Steering Wheel"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/celerio/images/spinset360/solid_fire_red_v1/2025.04.15_13.08.19_Celerio_360_Red_PathTracer_0054.png"
+    },
+    {
+      "code": "CLR4DZ1",
+      "name": "Celerio ZXi MT",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": null,
+      "ex_showroom_surat": {
+        "metallic": 573353,
+        "non_metallic": 573353
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Efficiency (km/l)*": "24.97 kmpl"
+        },
+        "Dimensions": {
+          "Length (mm)": "3695",
+          "Width (mm)": "1655",
+          "Height (mm)": "1555",
+          "Wheelbase (mm)": "2435",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "820",
+          "Gross Vehicle Weight (Kg)": "1260",
+          "Fuel Tank Capacity (L)": "32",
+          "Boot Space (L)": "292*"
+        },
+        "Transmission": {
+          "Transmission Type": "5MT"
+        },
+        "Engine": {
+          "Etype": "Aluminium",
+          "Engine Type": "K10C",
+          "Capacity (cc)": "998 cc",
+          "Max Power (1 KW =1.35962 PS)": "50.4 kW (68.5 PS) @ 5600 rpm",
+          "Max Torque (Nm @ rpm)": "91.1 Nm @ 3400 rpm",
+          "No. of Cylinder": 3.0,
+          "Number of valves in each cylinder": 4.0,
+          "Emission standard type": "BS VI + OBD II",
+          "Accelerator pedal type": "Electric Type"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "Mac Pherson Strut with Coil Spring",
+          "Rear Suspension": "Torsion Beam with Coil Spring"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "165/70 R14"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Body Coloured Outside Rear View Mirrors",
+          "ORVM with Turn Indicator",
+          "Rear Window Wiper & Washer",
+          "Door Handles: Body Coloured Door Handles",
+          "Front Grille: Chrome Accent on Front Grille",
+          "Full Wheel Covers",
+          "Bumper: Body Coloured Bumper"
+        ],
+        "Interior": [
+          "Rear Seat Adjustable Headrest: Integrated",
+          "60:40 Folding Rear Seats",
+          "Driver Side Sunvisor with Ticket Holder",
+          "Passenger Side Sunvisor with Vanity Mirror",
+          "Rear Parcel Tray",
+          "IRVM",
+          "Bottle holder: 6",
+          "Tilt steering",
+          "Front cabin lamp",
+          "Illumination Colour: Reddish Amber",
+          "Front and rear door storage pockets",
+          "Two x front door and2 x rear door bottle holders: 6",
+          "Two spoke polygonal steering wheel"
+        ],
+        "Safety & Security": [
+          "6 Airbags",
+          "ABS with EBD",
+          "Speed Sensitive Automatic Door Lock",
+          "Side & Curtain Airbags",
+          "Reverse Parking Sensors",
+          "High-Speed Alert System",
+          "Child-Proof Rear Door Locks",
+          "Immobilizer (Anti-Theft Security System)",
+          "Speed-Sensitive Auto Door Lock",
+          "Impact-Sensing Auto Door Unlock",
+          "Front Ventilated Disc Brakes",
+          "Headlamp Leveling",
+          "Front Seat Belts with Pre-Tensioner and Force Limiter",
+          "Electronic Stability Program",
+          "Dual Front Airbags (Driver and Co-Driver)",
+          "3 Point ELR Seat Belts for all Rear Seats ",
+          "Seat Belt Reminder with Buzzer (Front & Rear Seat) ",
+          "Pedestrian Protection"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Steering-Mounted Audio Controls",
+          "Idle Start Stop (ISS)",
+          "Accessory Socket",
+          "Power Windows (Fr/Rr) with Dr. Side Auto Down Function",
+          "Rear Defogger",
+          "Pollen filter",
+          "Outside mirrors type: Electrically Adjustable",
+          "Gear Shift Indicator",
+          "USB Ports",
+          "Central Locking",
+          "Security System",
+          "Power Steering",
+          "Pm25 filter air cabin filter",
+          "Electrically Adjustable ORVMs: Electrically Adjustable"
+        ],
+        "Infotainment": [
+          "Tachometer",
+          "Gear Shift Indicator",
+          "Steering Mounted Controls: Audio and Bluetooth",
+          "Fuel Consumption (Instantaneous and Average)",
+          "Distance to Empty",
+          "Low Fuel Warning Light",
+          "Headlamp on Warning",
+          "Door Ajar Warning Lamp"
+        ],
+        "Audio & Entertainment": [
+          "Number of Speakers: 4.0",
+          "USB Connectivity/AUX",
+          "Steering Mounted Audio & Calling Controls"
+        ],
+        "Central Console & Instrument Panel": [
+          "Urethane Steering Wheel"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/celerio/images/spinset360/solid_fire_red_v1/2025.04.15_13.08.19_Celerio_360_Red_PathTracer_0054.png"
+    },
+    {
+      "code": "CLRCDV1",
+      "name": "Celerio VXi CNG",
+      "fuel": "CNG",
+      "transmission": "Manual",
+      "technology": [
+        "S-CNG"
+      ],
+      "airbags": null,
+      "ex_showroom_surat": {
+        "metallic": 597853,
+        "non_metallic": 597853
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "CNG",
+          "Fuel Efficiency (km/l)*": "34.43 kmpl"
+        },
+        "Dimensions": {
+          "Length (mm)": "3695",
+          "Width (mm)": "1655",
+          "Height (mm)": "1555",
+          "Wheelbase (mm)": "2435",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "915",
+          "Gross Vehicle Weight (Kg)": "1320",
+          "Fuel Tank Capacity (L)": "Petrol: 32; CNG: 60",
+          "Boot Space (L)": "NA"
+        },
+        "Transmission": {
+          "Transmission Type": "5MT"
+        },
+        "Engine": {
+          "Etype": "Aluminum",
+          "Engine Type": "K10C",
+          "Capacity (cc)": "998 cc",
+          "Max Power (1 KW =1.35962 PS)": "CNG Mode: 41.7kW (56.70Ps) @ 5300 rpm; Gasoline Mode: 49.8 kW (67.709 PS) @ 5600 rpm",
+          "Max Torque (Nm @ rpm)": "CNG Mode: 82.1Nm @ 3400 rpm; Gasoline Mode: 91.1 Nm @ 3400 rpm",
+          "No. of Cylinder": 3.0,
+          "Number of valves in each cylinder": 4.0,
+          "Emission standard type": "BS VI + OBD II",
+          "Accelerator pedal type": "Electric Type"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "Mac Pherson Strut with Coil Spring",
+          "Rear Suspension": "Torsion Beam with Coil Spring"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "165/70 R14"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Body Coloured Outside Rear View Mirrors",
+          "Door Handles: Body Coloured Door Handles",
+          "Front Grille: Chrome Accent on Front Grille",
+          "Full Wheel Covers",
+          "Bumper: Body Coloured Bumper"
+        ],
+        "Interior": [
+          "Rear Seat Adjustable Headrest: Integrated",
+          "60:40 Folding Rear Seats",
+          "Driver Side Sunvisor with Ticket Holder",
+          "Passenger Side Sunvisor with Vanity Mirror",
+          "Rear Parcel Tray",
+          "IRVM",
+          "Bottle holder: 6",
+          "Front cabin lamp",
+          "Illumination Colour: Reddish Amber",
+          "Front and rear door storage pockets",
+          "Two x front door and2 x rear door bottle holders: 6",
+          "Two spoke polygonal steering wheel"
+        ],
+        "Safety & Security": [
+          "6 Airbags",
+          "ABS with EBD",
+          "Speed Sensitive Automatic Door Lock",
+          "Side & Curtain Airbags",
+          "Reverse Parking Sensors",
+          "High-Speed Alert System",
+          "Child-Proof Rear Door Locks",
+          "Immobilizer (Anti-Theft Security System)",
+          "Speed-Sensitive Auto Door Lock",
+          "Impact-Sensing Auto Door Unlock",
+          "Front Ventilated Disc Brakes",
+          "Headlamp Leveling",
+          "Front Seat Belts with Pre-Tensioner and Force Limiter",
+          "Electronic Stability Program",
+          "Dual Front Airbags (Driver and Co-Driver)",
+          "3 Point ELR Seat Belts for all Rear Seats ",
+          "Seat Belt Reminder with Buzzer (Front & Rear Seat) ",
+          "Pedestrian Protection"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Power Windows (Fr/Rr)",
+          "Accessory Socket",
+          "Power Windows (Fr/Rr) with Dr. Side Auto Down Function",
+          "Pollen filter",
+          "Outside mirrors type: Electrically Adjustable",
+          "Gear Shift Indicator",
+          "Central Locking",
+          "Power Steering"
+        ],
+        "Infotainment": [
+          "Gear Shift Indicator",
+          "Fuel Consumption (Instantaneous and Average)",
+          "Distance to Empty",
+          "Low Fuel Warning Light",
+          "Headlamp on Warning",
+          "Door Ajar Warning Lamp"
+        ],
+        "Audio & Entertainment": [
+          "Number of Speakers: 0.0"
+        ],
+        "Central Console & Instrument Panel": [
+          "Urethane Steering Wheel"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/celerio/images/spinset360/solid_fire_red_v1/2025.04.15_13.08.19_Celerio_360_Red_PathTracer_0054.png"
+    },
+    {
+      "code": "CLA4DZ1",
+      "name": "Celerio ZXi AGS",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": null,
+      "ex_showroom_surat": {
+        "metallic": 618353,
+        "non_metallic": 618353
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Efficiency (km/l)*": "26.00 kmpl"
+        },
+        "Dimensions": {
+          "Length (mm)": "3695",
+          "Width (mm)": "1655",
+          "Height (mm)": "1555",
+          "Wheelbase (mm)": "2435",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "830",
+          "Gross Vehicle Weight (Kg)": "1260",
+          "Fuel Tank Capacity (L)": "32",
+          "Boot Space (L)": "292*"
+        },
+        "Transmission": {
+          "Transmission Type": "AGS"
+        },
+        "Engine": {
+          "Etype": "Aluminum",
+          "Engine Type": "K10C",
+          "Capacity (cc)": "998 cc",
+          "Max Power (1 KW =1.35962 PS)": "50.4 kW (68.5 PS) @ 5600 rpm",
+          "Max Torque (Nm @ rpm)": "91.1 Nm @ 3400 rpm",
+          "No. of Cylinder": 3.0,
+          "Number of valves in each cylinder": 4.0,
+          "Emission standard type": "BS VI + OBD II",
+          "Accelerator pedal type": "Electric Type"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "Mac Pherson Strut with Coil Spring",
+          "Rear Suspension": "Torsion Beam with Coil Spring"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "165/70 R14"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Body Coloured Outside Rear View Mirrors",
+          "ORVM with Turn Indicator",
+          "Rear Window Wiper & Washer",
+          "Door Handles: Body Coloured Door Handles",
+          "Front Grille: Chrome Accent on Front Grille",
+          "Full Wheel Covers",
+          "Bumper: Body Coloured Bumper"
+        ],
+        "Interior": [
+          "Rear Seat Adjustable Headrest: Integrated",
+          "60:40 Folding Rear Seats",
+          "Driver Side Sunvisor with Ticket Holder",
+          "Passenger Side Sunvisor with Vanity Mirror",
+          "Rear Parcel Tray",
+          "IRVM",
+          "Bottle holder: 6",
+          "Tilt steering",
+          "Front cabin lamp",
+          "Illumination Colour: Reddish Amber",
+          "Front and rear door storage pockets",
+          "Two x front door and2 x rear door bottle holders: 6",
+          "Two spoke polygonal steering wheel"
+        ],
+        "Safety & Security": [
+          "6 Airbags",
+          "ABS with EBD",
+          "Side & Curtain Airbags",
+          "Reverse Parking Sensors",
+          "High-Speed Alert System",
+          "Child-Proof Rear Door Locks",
+          "Immobilizer (Anti-Theft Security System)",
+          "Speed-Sensitive Auto Door Lock",
+          "Impact-Sensing Auto Door Unlock",
+          "Front Ventilated Disc Brakes",
+          "Headlamp Leveling",
+          "Front Seat Belts with Pre-Tensioner and Force Limiter",
+          "Electronic Stability Program",
+          "Dual Front Airbags (Driver and Co-Driver)",
+          "3 Point ELR Seat Belts for all Rear Seats ",
+          "Seat Belt Reminder with Buzzer (Front & Rear Seat) ",
+          "Pedestrian Protection",
+          "Hill Hold Assist"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Gear Position Indicator",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Steering-Mounted Audio Controls",
+          "Idle Start Stop (ISS)",
+          "Accessory Socket",
+          "Power Windows (Fr/Rr) with Dr. Side Auto Down Function",
+          "Rear Defogger",
+          "Pollen filter",
+          "Outside mirrors type: Electrically Adjustable",
+          "USB Ports",
+          "Central Locking",
+          "Security System",
+          "Power Steering",
+          "Electrically Adjustable ORVMs: Electrically Adjustable"
+        ],
+        "Infotainment": [
+          "Tachometer",
+          "Steering Mounted Controls: Audio and Bluetooth",
+          "Fuel Consumption (Instantaneous and Average)",
+          "Distance to Empty",
+          "Low Fuel Warning Light",
+          "Headlamp on Warning",
+          "Door Ajar Warning Lamp"
+        ],
+        "Audio & Entertainment": [
+          "Number of Speakers: 4.0",
+          "USB Connectivity/AUX",
+          "Steering Mounted Audio & Calling Controls"
+        ],
+        "Central Console & Instrument Panel": [
+          "Gear Position Indicator",
+          "Urethane Steering Wheel"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/celerio/images/spinset360/solid_fire_red_v1/2025.04.15_13.08.19_Celerio_360_Red_PathTracer_0054.png"
+    },
+    {
+      "code": "CLR4DZ2",
+      "name": "Celerio ZXi+ MT",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": null,
+      "ex_showroom_surat": {
+        "metallic": 630352,
+        "non_metallic": 630352
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Efficiency (km/l)*": "24.97 kmpl"
+        },
+        "Dimensions": {
+          "Length (mm)": "3695",
+          "Width (mm)": "1655",
+          "Height (mm)": "1555",
+          "Wheelbase (mm)": "2435",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "830",
+          "Gross Vehicle Weight (Kg)": "1260",
+          "Fuel Tank Capacity (L)": "32",
+          "Boot Space (L)": "292*"
+        },
+        "Transmission": {
+          "Transmission Type": "5MT"
+        },
+        "Engine": {
+          "Etype": "Aluminium",
+          "Engine Type": "K10C",
+          "Capacity (cc)": "998 cc",
+          "Max Power (1 KW =1.35962 PS)": "50.4 kW (68.5 PS) @ 5600 rpm",
+          "Max Torque (Nm @ rpm)": "91.1 Nm @ 3400 rpm",
+          "No. of Cylinder": 3.0,
+          "Number of valves in each cylinder": 4.0,
+          "Emission standard type": "BS VI + OBD II",
+          "Accelerator pedal type": "Electric Tyoe"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "Mac Pherson Strut with Coil Spring",
+          "Rear Suspension": "Torsion Beam with Coil Spring"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "175/60 R15",
+          "Wheel Type": "R15 (38.02 cm) urbane black alloy wheels"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Body Coloured Outside Rear View Mirrors",
+          "ORVM with Turn Indicator",
+          "Rear Window Wiper & Washer",
+          "Fog Lamps: Front Fog Lamps",
+          "Door Handles: Body Coloured Door Handles",
+          "Front Grille: Chrome Accent on Front Grille",
+          "Bumper: Body Coloured Bumper",
+          "B Pillar Black Out Tape",
+          "Alloy Wheels"
+        ],
+        "Interior": [
+          "Rear Seat Adjustable Headrest: Integrated",
+          "Height Adjustable Driver Seat",
+          "60:40 Folding Rear Seats",
+          "Driver Side Sunvisor with Ticket Holder",
+          "Passenger Side Sunvisor with Vanity Mirror",
+          "Rear Parcel Tray",
+          "IRVM",
+          "Bottle holder: 6",
+          "Tilt steering",
+          "Front cabin lamp",
+          "Illumination Colour: Reddish Amber",
+          "Front and rear door storage pockets",
+          "Two x front door and2 x rear door bottle holders: 6",
+          "Two spoke polygonal steering wheel"
+        ],
+        "Safety & Security": [
+          "6 Airbags",
+          "ABS with EBD",
+          "Speed Sensitive Automatic Door Lock",
+          "Side & Curtain Airbags",
+          "Reverse Parking Sensors",
+          "High-Speed Alert System",
+          "Child-Proof Rear Door Locks",
+          "Immobilizer (Anti-Theft Security System)",
+          "Speed-Sensitive Auto Door Lock",
+          "Impact-Sensing Auto Door Unlock",
+          "Front Ventilated Disc Brakes",
+          "Headlamp Leveling",
+          "Front Seat Belts with Pre-Tensioner and Force Limiter",
+          "Electronic Stability Program",
+          "Dual Front Airbags (Driver and Co-Driver)",
+          "3 Point ELR Seat Belts for all Rear Seats ",
+          "Seat Belt Reminder with Buzzer (Front & Rear Seat) ",
+          "Pedestrian Protection"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Engine Push Start/Stop with Smart Key",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Electrically-Foldable ORVMs",
+          "Steering-Mounted Audio Controls",
+          "Idle Start Stop (ISS)",
+          "Accessory Socket",
+          "Power Windows (Fr/Rr) with Dr. Side Auto Down Function",
+          "Rear Defogger",
+          "Pollen filter",
+          "Outside mirrors type: Electrically Adjustable",
+          "Gear Shift Indicator",
+          "Central Locking",
+          "Security System",
+          "Power Steering",
+          "Pm25 filter air cabin filter",
+          "Electrically Adjustable ORVMs: Electrically Adjustable"
+        ],
+        "Infotainment": [
+          "Tachometer",
+          "Gear Shift Indicator",
+          "Steering Mounted Controls: Audio and Bluetooth",
+          "Fuel Consumption (Instantaneous and Average)",
+          "Distance to Empty",
+          "Low Fuel Warning Light",
+          "Headlamp on Warning",
+          "Door Ajar Warning Lamp"
+        ],
+        "Audio & Entertainment": [
+          "Android Auto and Apple CarPlay",
+          "Number of Speakers: 4.0",
+          "Steering Mounted Audio & Calling Controls"
+        ],
+        "Central Console & Instrument Panel": [
+          "Urethane Steering Wheel"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/celerio/images/spinset360/solid_fire_red_v1/2025.04.15_13.08.19_Celerio_360_Red_PathTracer_0054.png"
+    },
+    {
+      "code": "CLA4DZ2",
+      "name": "Celerio ZXi+ AGS",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "technology": [
+        "Petrol"
+      ],
+      "airbags": null,
+      "ex_showroom_surat": {
+        "metallic": 675353,
+        "non_metallic": 675353
+      },
+      "specifications": {
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Efficiency (km/l)*": "26.00 kmpl"
+        },
+        "Dimensions": {
+          "Length (mm)": "3695",
+          "Width (mm)": "1655",
+          "Height (mm)": "1555",
+          "Wheelbase (mm)": "2435",
+          "Seating Capacity (nos.)": "5",
+          "Kerb Weight (Kg)": "835",
+          "Gross Vehicle Weight (Kg)": "1260",
+          "Fuel Tank Capacity (L)": "32",
+          "Boot Space (L)": "292*"
+        },
+        "Transmission": {
+          "Transmission Type": "AGS"
+        },
+        "Engine": {
+          "Etype": "Aluminum",
+          "Engine Type": "K10C",
+          "Capacity (cc)": "998 cc",
+          "Max Power (1 KW =1.35962 PS)": "50.4 kW (68.5 PS) @ 5600 rpm",
+          "Max Torque (Nm @ rpm)": "91.1 Nm @ 3400 rpm",
+          "No. of Cylinder": 3.0,
+          "Number of valves in each cylinder": 4.0,
+          "Emission standard type": "BS VI + OBD II",
+          "Accelerator pedal type": "Electric Type"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Drum"
+        },
+        "Suspension": {
+          "Front Suspension": "Mac Pherson Strut with Coil Spring",
+          "Rear Suspension": "Torsion Beam with Coil Spring"
+        },
+        "Wheels and Tyre": {
+          "Tyre": "175/60 R15",
+          "Wheel Type": "R15 (38.02 cm) urbane black alloy wheels"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Body Coloured Outside Rear View Mirrors",
+          "ORVM with Turn Indicator",
+          "Rear Window Wiper & Washer",
+          "Fog Lamps: Front Fog Lamps",
+          "Door Handles: Body Coloured Door Handles",
+          "Front Grille: Chrome Accent on Front Grille",
+          "Bumper: Body Coloured Bumper",
+          "B Pillar Black Out Tape",
+          "Alloy Wheels"
+        ],
+        "Interior": [
+          "Rear Seat Adjustable Headrest: Integrated",
+          "Height Adjustable Driver Seat",
+          "60:40 Folding Rear Seats",
+          "Driver Side Sunvisor with Ticket Holder",
+          "Passenger Side Sunvisor with Vanity Mirror",
+          "Rear Parcel Tray",
+          "IRVM",
+          "Bottle holder: 6",
+          "Tilt steering",
+          "Front cabin lamp",
+          "Illumination Colour: Reddish Amber",
+          "Front and rear door storage pockets",
+          "Two x front door and2 x rear door bottle holders: 6",
+          "Two spoke polygonal steering wheel"
+        ],
+        "Safety & Security": [
+          "6 Airbags",
+          "ABS with EBD",
+          "Side & Curtain Airbags",
+          "Reverse Parking Sensors",
+          "High-Speed Alert System",
+          "Child-Proof Rear Door Locks",
+          "Speed-Sensitive Auto Door Lock",
+          "Impact-Sensing Auto Door Unlock",
+          "Front Ventilated Disc Brakes",
+          "Headlamp Leveling",
+          "Front Seat Belts with Pre-Tensioner and Force Limiter",
+          "Electronic Stability Program",
+          "Dual Front Airbags (Driver and Co-Driver)",
+          "3 Point ELR Seat Belts for all Rear Seats ",
+          "Seat Belt Reminder with Buzzer (Front & Rear Seat) ",
+          "Pedestrian Protection",
+          "Hill Hold Assist"
+        ],
+        "Comfort & Convenience": [
+          "Air Conditioner",
+          "Engine Push Start/Stop with Smart Key",
+          "Gear Position Indicator",
+          "Remote Keyless Entry",
+          "Power Windows (Fr/Rr)",
+          "Electrically-Foldable ORVMs",
+          "Steering-Mounted Audio Controls",
+          "Idle Start Stop (ISS)",
+          "Accessory Socket",
+          "Power Windows (Fr/Rr) with Dr. Side Auto Down Function",
+          "Rear Defogger",
+          "Pollen filter",
+          "Outside mirrors type: Electrically Adjustable",
+          "Central Locking",
+          "Security System",
+          "Power Steering",
+          "Pm25 filter air cabin filter",
+          "Electrically Adjustable ORVMs: Electrically Adjustable"
+        ],
+        "Infotainment": [
+          "Tachometer",
+          "Steering Mounted Controls: Audio and Bluetooth",
+          "Fuel Consumption (Instantaneous and Average)",
+          "Distance to Empty",
+          "Low Fuel Warning Light",
+          "Headlamp on Warning",
+          "Door Ajar Warning Lamp"
+        ],
+        "Audio & Entertainment": [
+          "Android Auto and Apple CarPlay",
+          "Number of Speakers: 4.0",
+          "Steering Mounted Audio & Calling Controls"
+        ],
+        "Central Console & Instrument Panel": [
+          "Urethane Steering Wheel"
+        ]
+      },
+      "reference_image": "https://prod-nexa.marutisuzuki.com/content/dam/msil/arena/in/en/assets/cars/celerio/images/spinset360/solid_fire_red_v1/2025.04.15_13.08.19_Celerio_360_Red_PathTracer_0054.png"
+    }
+  ],
+  "fetched_on": "2026-10-30"
+}
