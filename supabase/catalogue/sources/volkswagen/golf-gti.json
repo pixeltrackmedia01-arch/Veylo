@@ -1,0 +1,31 @@
+{
+  "brand": "Volkswagen",
+  "model": "Golf GTI",
+  "slug": "golf-gti",
+  "official_page": "https://www.volkswagen.co.in/en/models/golf-gti.html",
+  "brochure_pdf": "https://www.volkswagen.co.in/idhub/content/dam/onehub_pkw/importers/in/models/golf-gti/golf-gti-brochure.pdf",
+  "price_city": "Surat, Gujarat (Volkswagen publishes one national ex-showroom price list)",
+  "ex_showroom_min": 5090900,
+  "ex_showroom_max": 5090900,
+  "fuel_types": [
+    "Petrol"
+  ],
+  "transmissions": [
+    "DSG"
+  ],
+  "colours": [],
+  "variants": [
+    {
+      "name": "Golf GTI",
+      "fuel": "Petrol",
+      "transmission": "DSG",
+      "ex_showroom_surat": {
+        "standard": 5090900
+      },
+      "specifications": {},
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}

@@ -1,0 +1,41 @@
+{
+  "brand": "Volkswagen",
+  "model": "Tayron",
+  "slug": "tayron",
+  "official_page": "https://www.volkswagen.co.in/en/models/tayron.html",
+  "brochure_pdf": "https://www.volkswagen.co.in/idhub/content/dam/onehub_pkw/importers/in/models/tayron/tayron-brochure.pdf",
+  "price_city": "Surat, Gujarat (Volkswagen publishes one national ex-showroom price list)",
+  "ex_showroom_min": 4199000,
+  "ex_showroom_max": 4774000,
+  "fuel_types": [
+    "Petrol"
+  ],
+  "transmissions": [
+    "DSG"
+  ],
+  "colours": [],
+  "variants": [
+    {
+      "name": "Tayron Life",
+      "fuel": "Petrol",
+      "transmission": "DSG",
+      "ex_showroom_surat": {
+        "standard": 4199000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Tayron R-Line",
+      "fuel": "Petrol",
+      "transmission": "DSG",
+      "ex_showroom_surat": {
+        "standard": 4774000
+      },
+      "specifications": {},
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}

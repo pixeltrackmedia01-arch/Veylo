@@ -1,0 +1,133 @@
+{
+  "brand": "Volkswagen",
+  "model": "Taigun",
+  "slug": "taigun",
+  "official_page": "https://www.volkswagen.co.in/en/models/taigun.html",
+  "brochure_pdf": "https://www.volkswagen.co.in/idhub/content/dam/onehub_pkw/importers/in/models/new-taigun/the-new-taigun-brochure.pdf",
+  "price_city": "Surat, Gujarat (Volkswagen publishes one national ex-showroom price list)",
+  "ex_showroom_min": 1099900,
+  "ex_showroom_max": 1946900,
+  "fuel_types": [
+    "Petrol"
+  ],
+  "transmissions": [
+    "AT",
+    "DSG",
+    "MT"
+  ],
+  "colours": [],
+  "variants": [
+    {
+      "name": "Taigun Comfortline 1.0L TSI MT",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 1099900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Taigun Highline 1.0L TSI MT",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 1299900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Taigun Highline 1.0L TSI AT",
+      "fuel": "Petrol",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "standard": 1409900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Taigun Highline Plus 1.0L TSI MT",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 1441900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Taigun GT Line 1.0L TSI MT",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 1471900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Taigun Highline Plus 1.0L TSI AT",
+      "fuel": "Petrol",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "standard": 1556900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Taigun GT Line 1.0L TSI AT",
+      "fuel": "Petrol",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "standard": 1586900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Taigun Topline 1.0L TSI MT",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 1621900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Taigun Topline 1.0L TSI AT",
+      "fuel": "Petrol",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "standard": 1737900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Taigun GT Plus Chrome 1.5L TSI DSG",
+      "fuel": "Petrol",
+      "transmission": "DSG",
+      "ex_showroom_surat": {
+        "standard": 1916900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Taigun GT Plus Sport 1.5L TSI DSG",
+      "fuel": "Petrol",
+      "transmission": "DSG",
+      "ex_showroom_surat": {
+        "standard": 1946900
+      },
+      "specifications": {},
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}

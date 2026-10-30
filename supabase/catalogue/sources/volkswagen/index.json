@@ -1,0 +1,70 @@
+[
+  {
+    "model": "Virtus",
+    "slug": "virtus",
+    "channel": "Sedan",
+    "variants": 8,
+    "colours": 0,
+    "ex_showroom_min": 1070900,
+    "ex_showroom_max": 1884900,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "AT",
+      "DSG",
+      "MT"
+    ],
+    "brochure_pdf": "https://www.volkswagen.co.in/idhub/content/dam/onehub_pkw/importers/in/models/virtus/virtus-brochure.pdf"
+  },
+  {
+    "model": "Taigun",
+    "slug": "taigun",
+    "channel": "SUV",
+    "variants": 11,
+    "colours": 0,
+    "ex_showroom_min": 1099900,
+    "ex_showroom_max": 1946900,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "AT",
+      "DSG",
+      "MT"
+    ],
+    "brochure_pdf": "https://www.volkswagen.co.in/idhub/content/dam/onehub_pkw/importers/in/models/new-taigun/the-new-taigun-brochure.pdf"
+  },
+  {
+    "model": "Tayron",
+    "slug": "tayron",
+    "channel": "SUV",
+    "variants": 2,
+    "colours": 0,
+    "ex_showroom_min": 4199000,
+    "ex_showroom_max": 4774000,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "DSG"
+    ],
+    "brochure_pdf": "https://www.volkswagen.co.in/idhub/content/dam/onehub_pkw/importers/in/models/tayron/tayron-brochure.pdf"
+  },
+  {
+    "model": "Golf GTI",
+    "slug": "golf-gti",
+    "channel": "Hatchback",
+    "variants": 1,
+    "colours": 0,
+    "ex_showroom_min": 5090900,
+    "ex_showroom_max": 5090900,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "DSG"
+    ],
+    "brochure_pdf": "https://www.volkswagen.co.in/idhub/content/dam/onehub_pkw/importers/in/models/golf-gti/golf-gti-brochure.pdf"
+  }
+]

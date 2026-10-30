@@ -1,0 +1,103 @@
+{
+  "brand": "Volkswagen",
+  "model": "Virtus",
+  "slug": "virtus",
+  "official_page": "https://www.volkswagen.co.in/en/models/virtus.html",
+  "brochure_pdf": "https://www.volkswagen.co.in/idhub/content/dam/onehub_pkw/importers/in/models/virtus/virtus-brochure.pdf",
+  "price_city": "Surat, Gujarat (Volkswagen publishes one national ex-showroom price list)",
+  "ex_showroom_min": 1070900,
+  "ex_showroom_max": 1884900,
+  "fuel_types": [
+    "Petrol"
+  ],
+  "transmissions": [
+    "AT",
+    "DSG",
+    "MT"
+  ],
+  "colours": [],
+  "variants": [
+    {
+      "name": "Virtus Virtus 1.0 TSI MT Comfortline",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 1070900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Virtus Virtus 1.0 TSI MT Highline",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 1350900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Virtus Virtus 1.0 TSI MT Highline Plus",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 1390900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Virtus Virtus 1.0 TSI AT Highline",
+      "fuel": "Petrol",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "standard": 1470900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Virtus Virtus 1.0 TSI AT Highline Plus",
+      "fuel": "Petrol",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "standard": 1499900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Virtus Virtus 1.0 TSI MT Topline",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 1515900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Virtus Virtus 1.0 TSI AT Topline",
+      "fuel": "Petrol",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "standard": 1634900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Virtus Virtus GT Plus 1.5 TSI DSG",
+      "fuel": "Petrol",
+      "transmission": "DSG",
+      "ex_showroom_surat": {
+        "standard": 1884900
+      },
+      "specifications": {},
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}
