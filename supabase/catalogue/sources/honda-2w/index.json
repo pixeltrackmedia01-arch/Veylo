@@ -1,0 +1,394 @@
+[
+  {
+    "model": "QC3",
+    "slug": "qc3",
+    "channel": "Electric scooter",
+    "variants": 1,
+    "colours": 0,
+    "ex_showroom_min": 135000,
+    "ex_showroom_max": 135000,
+    "fuel_types": [
+      "Electric"
+    ],
+    "transmissions": [],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Shine 100",
+    "slug": "shine-100",
+    "channel": "Motorcycle",
+    "variants": 1,
+    "colours": 0,
+    "ex_showroom_min": 65775,
+    "ex_showroom_max": 65775,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Shine100 Dx",
+    "slug": "shine100-dx",
+    "channel": "Motorcycle",
+    "variants": 1,
+    "colours": 0,
+    "ex_showroom_min": 71344,
+    "ex_showroom_max": 71344,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Livo",
+    "slug": "livo",
+    "channel": "Motorcycle",
+    "variants": 2,
+    "colours": 0,
+    "ex_showroom_min": 81472,
+    "ex_showroom_max": 84039,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Shine 125",
+    "slug": "shine-125",
+    "channel": "Motorcycle",
+    "variants": 2,
+    "colours": 0,
+    "ex_showroom_min": 84564,
+    "ex_showroom_max": 88923,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Shine 125 Limited Edition",
+    "slug": "shine-125-limited-edition",
+    "channel": "Motorcycle",
+    "variants": 1,
+    "colours": 0,
+    "ex_showroom_min": 89223,
+    "ex_showroom_max": 89223,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [],
+    "brochure_pdf": null
+  },
+  {
+    "model": "SP125",
+    "slug": "sp125",
+    "channel": "Motorcycle",
+    "variants": 2,
+    "colours": 0,
+    "ex_showroom_min": 91619,
+    "ex_showroom_max": 99206,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Dio 125 X Edition",
+    "slug": "dio-125-x-edition",
+    "channel": "Motorcycle",
+    "variants": 1,
+    "colours": 0,
+    "ex_showroom_min": 93770,
+    "ex_showroom_max": 93770,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [],
+    "brochure_pdf": null
+  },
+  {
+    "model": "CB125 Hornet",
+    "slug": "cb125-hornet",
+    "channel": "Motorcycle",
+    "variants": 1,
+    "colours": 0,
+    "ex_showroom_min": 115485,
+    "ex_showroom_max": 115485,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Unicorn",
+    "slug": "unicorn",
+    "channel": "Motorcycle",
+    "variants": 1,
+    "colours": 0,
+    "ex_showroom_min": 115689,
+    "ex_showroom_max": 115689,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [],
+    "brochure_pdf": null
+  },
+  {
+    "model": "SP160",
+    "slug": "sp160",
+    "channel": "Motorcycle",
+    "variants": 2,
+    "colours": 0,
+    "ex_showroom_min": 119110,
+    "ex_showroom_max": 124620,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Hornet 2.0",
+    "slug": "hornet-2-0",
+    "channel": "Motorcycle",
+    "variants": 1,
+    "colours": 0,
+    "ex_showroom_min": 150433,
+    "ex_showroom_max": 150433,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [],
+    "brochure_pdf": null
+  },
+  {
+    "model": "NX200",
+    "slug": "nx200",
+    "channel": "Motorcycle",
+    "variants": 1,
+    "colours": 0,
+    "ex_showroom_min": 161428,
+    "ex_showroom_max": 161428,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [],
+    "brochure_pdf": null
+  },
+  {
+    "model": "ADV160",
+    "slug": "adv160",
+    "channel": "Motorcycle (BigWing)",
+    "variants": 1,
+    "colours": 0,
+    "ex_showroom_min": 170000,
+    "ex_showroom_max": 170000,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [],
+    "brochure_pdf": null
+  },
+  {
+    "model": "CB350 H'Ness",
+    "slug": "cb350-h-ness",
+    "channel": "Motorcycle (BigWing)",
+    "variants": 3,
+    "colours": 0,
+    "ex_showroom_min": 194037,
+    "ex_showroom_max": 198837,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [],
+    "brochure_pdf": null
+  },
+  {
+    "model": "CB350",
+    "slug": "cb350",
+    "channel": "Motorcycle (BigWing)",
+    "variants": 4,
+    "colours": 0,
+    "ex_showroom_min": 196098,
+    "ex_showroom_max": 200866,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [],
+    "brochure_pdf": null
+  },
+  {
+    "model": "CB350 Rs",
+    "slug": "cb350-rs",
+    "channel": "Motorcycle (BigWing)",
+    "variants": 3,
+    "colours": 0,
+    "ex_showroom_min": 200798,
+    "ex_showroom_max": 203398,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [],
+    "brochure_pdf": null
+  },
+  {
+    "model": "CB350C",
+    "slug": "cb350c",
+    "channel": "Motorcycle (BigWing)",
+    "variants": 5,
+    "colours": 0,
+    "ex_showroom_min": 201198,
+    "ex_showroom_max": 205598,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [],
+    "brochure_pdf": null
+  },
+  {
+    "model": "CB500",
+    "slug": "cb500",
+    "channel": "Motorcycle (BigWing)",
+    "variants": 3,
+    "colours": 0,
+    "ex_showroom_min": 275000,
+    "ex_showroom_max": 301900,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [],
+    "brochure_pdf": null
+  },
+  {
+    "model": "NX500 E-Clutch",
+    "slug": "nx500-e-clutch",
+    "channel": "Motorcycle (BigWing)",
+    "variants": 1,
+    "colours": 0,
+    "ex_showroom_min": 743900,
+    "ex_showroom_max": 743900,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [],
+    "brochure_pdf": null
+  },
+  {
+    "model": "CB 750 Hornet E-Clutch",
+    "slug": "cb-750-hornet-e-clutch",
+    "channel": "Motorcycle (BigWing)",
+    "variants": 1,
+    "colours": 0,
+    "ex_showroom_min": 1049000,
+    "ex_showroom_max": 1049000,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [],
+    "brochure_pdf": null
+  },
+  {
+    "model": "XL750 Transalp E-Clutch",
+    "slug": "xl750-transalp-e-clutch",
+    "channel": "Motorcycle (BigWing)",
+    "variants": 1,
+    "colours": 0,
+    "ex_showroom_min": 1320000,
+    "ex_showroom_max": 1320000,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Dio 110",
+    "slug": "dio-110",
+    "channel": "Scooter",
+    "variants": 2,
+    "colours": 0,
+    "ex_showroom_min": 74961,
+    "ex_showroom_max": 87389,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Activa 110",
+    "slug": "activa-110",
+    "channel": "Scooter",
+    "variants": 3,
+    "colours": 0,
+    "ex_showroom_min": 78746,
+    "ex_showroom_max": 92952,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Activa110 Anniversary Edition",
+    "slug": "activa110-anniversary-edition",
+    "channel": "Scooter",
+    "variants": 1,
+    "colours": 0,
+    "ex_showroom_min": 87727,
+    "ex_showroom_max": 87727,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Activa125 Anniversary Edition",
+    "slug": "activa125-anniversary-edition",
+    "channel": "Scooter",
+    "variants": 1,
+    "colours": 0,
+    "ex_showroom_min": 92831,
+    "ex_showroom_max": 92831,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Dio 125",
+    "slug": "dio-125",
+    "channel": "Scooter",
+    "variants": 2,
+    "colours": 0,
+    "ex_showroom_min": 94647,
+    "ex_showroom_max": 99597,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Activa 125",
+    "slug": "activa-125",
+    "channel": "Scooter",
+    "variants": 2,
+    "colours": 0,
+    "ex_showroom_min": 94854,
+    "ex_showroom_max": 99297,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [],
+    "brochure_pdf": null
+  }
+]

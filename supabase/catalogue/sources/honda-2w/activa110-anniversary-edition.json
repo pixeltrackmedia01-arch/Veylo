@@ -1,0 +1,29 @@
+{
+  "brand": "Honda (two-wheelers)",
+  "model": "Activa110 Anniversary Edition",
+  "slug": "activa110-anniversary-edition",
+  "official_page": "https://www.honda2wheelersindia.com/",
+  "brochure_pdf": null,
+  "price_city": "Gujarat (state ex-showroom price from honda2wheelersindia.com)",
+  "ex_showroom_min": 87727,
+  "ex_showroom_max": 87727,
+  "fuel_types": [
+    "Petrol"
+  ],
+  "transmissions": [],
+  "colours": [],
+  "variants": [
+    {
+      "name": "Activa110 Anniversary Edition",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 87727
+      },
+      "specifications": {},
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}

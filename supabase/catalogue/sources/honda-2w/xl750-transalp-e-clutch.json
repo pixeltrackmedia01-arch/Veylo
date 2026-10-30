@@ -1,0 +1,29 @@
+{
+  "brand": "Honda (two-wheelers)",
+  "model": "XL750 Transalp E-Clutch",
+  "slug": "xl750-transalp-e-clutch",
+  "official_page": "https://www.honda2wheelersindia.com/",
+  "brochure_pdf": null,
+  "price_city": "Gujarat (state ex-showroom price from honda2wheelersindia.com)",
+  "ex_showroom_min": 1320000,
+  "ex_showroom_max": 1320000,
+  "fuel_types": [
+    "Petrol"
+  ],
+  "transmissions": [],
+  "colours": [],
+  "variants": [
+    {
+      "name": "XL750 Transalp E-Clutch",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 1320000
+      },
+      "specifications": {},
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}

@@ -1,0 +1,49 @@
+{
+  "brand": "Honda (two-wheelers)",
+  "model": "CB500",
+  "slug": "cb500",
+  "official_page": "https://www.honda2wheelersindia.com/",
+  "brochure_pdf": null,
+  "price_city": "Gujarat (state ex-showroom price from honda2wheelersindia.com)",
+  "ex_showroom_min": 275000,
+  "ex_showroom_max": 301900,
+  "fuel_types": [
+    "Petrol"
+  ],
+  "transmissions": [],
+  "colours": [],
+  "variants": [
+    {
+      "name": "CB500 Alloy",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 275000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "CB500 Spoke",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 299900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "CB500 Spoke with Stripe",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 301900
+      },
+      "specifications": {},
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}

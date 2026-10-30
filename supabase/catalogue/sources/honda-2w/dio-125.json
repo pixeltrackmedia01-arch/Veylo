@@ -1,0 +1,39 @@
+{
+  "brand": "Honda (two-wheelers)",
+  "model": "Dio 125",
+  "slug": "dio-125",
+  "official_page": "https://www.honda2wheelersindia.com/",
+  "brochure_pdf": null,
+  "price_city": "Gujarat (state ex-showroom price from honda2wheelersindia.com)",
+  "ex_showroom_min": 94647,
+  "ex_showroom_max": 99597,
+  "fuel_types": [
+    "Petrol"
+  ],
+  "transmissions": [],
+  "colours": [],
+  "variants": [
+    {
+      "name": "DIO 125 STD",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 94647
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "DIO 125 SMART",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 99597
+      },
+      "specifications": {},
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}

@@ -1,0 +1,49 @@
+{
+  "brand": "Honda (two-wheelers)",
+  "model": "CB350 H'Ness",
+  "slug": "cb350-h-ness",
+  "official_page": "https://www.honda2wheelersindia.com/",
+  "brochure_pdf": null,
+  "price_city": "Gujarat (state ex-showroom price from honda2wheelersindia.com)",
+  "ex_showroom_min": 194037,
+  "ex_showroom_max": 198837,
+  "fuel_types": [
+    "Petrol"
+  ],
+  "transmissions": [],
+  "colours": [],
+  "variants": [
+    {
+      "name": "CB350 H'NESS DLX",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 194037
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "CB350 H'NESS DLX PRO",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 196837
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "CB350 H'NESS DLX PRO CHROME",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 198837
+      },
+      "specifications": {},
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}

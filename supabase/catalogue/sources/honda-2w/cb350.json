@@ -1,0 +1,59 @@
+{
+  "brand": "Honda (two-wheelers)",
+  "model": "CB350",
+  "slug": "cb350",
+  "official_page": "https://www.honda2wheelersindia.com/",
+  "brochure_pdf": null,
+  "price_city": "Gujarat (state ex-showroom price from honda2wheelersindia.com)",
+  "ex_showroom_min": 196098,
+  "ex_showroom_max": 200866,
+  "fuel_types": [
+    "Petrol"
+  ],
+  "transmissions": [],
+  "colours": [],
+  "variants": [
+    {
+      "name": "CB350 STD",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 196098
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "CB350 DLX",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 198798
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "CB350 Chrome",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 200798
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "CB350 DLX PRO",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 200866
+      },
+      "specifications": {},
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}

@@ -1,0 +1,39 @@
+{
+  "brand": "Honda (two-wheelers)",
+  "model": "Dio 110",
+  "slug": "dio-110",
+  "official_page": "https://www.honda2wheelersindia.com/",
+  "brochure_pdf": null,
+  "price_city": "Gujarat (state ex-showroom price from honda2wheelersindia.com)",
+  "ex_showroom_min": 74961,
+  "ex_showroom_max": 87389,
+  "fuel_types": [
+    "Petrol"
+  ],
+  "transmissions": [],
+  "colours": [],
+  "variants": [
+    {
+      "name": "DIO STD",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 74961
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "DIO DLX",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 87389
+      },
+      "specifications": {},
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}

@@ -1,0 +1,39 @@
+{
+  "brand": "Honda (two-wheelers)",
+  "model": "SP160",
+  "slug": "sp160",
+  "official_page": "https://www.honda2wheelersindia.com/",
+  "brochure_pdf": null,
+  "price_city": "Gujarat (state ex-showroom price from honda2wheelersindia.com)",
+  "ex_showroom_min": 119110,
+  "ex_showroom_max": 124620,
+  "fuel_types": [
+    "Petrol"
+  ],
+  "transmissions": [],
+  "colours": [],
+  "variants": [
+    {
+      "name": "SP160 FR DISC & RR DRUM",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 119110
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "SP160 FR DISC & RR DISC",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 124620
+      },
+      "specifications": {},
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}

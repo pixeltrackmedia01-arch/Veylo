@@ -1,0 +1,39 @@
+{
+  "brand": "Honda (two-wheelers)",
+  "model": "Livo",
+  "slug": "livo",
+  "official_page": "https://www.honda2wheelersindia.com/",
+  "brochure_pdf": null,
+  "price_city": "Gujarat (state ex-showroom price from honda2wheelersindia.com)",
+  "ex_showroom_min": 81472,
+  "ex_showroom_max": 84039,
+  "fuel_types": [
+    "Petrol"
+  ],
+  "transmissions": [],
+  "colours": [],
+  "variants": [
+    {
+      "name": "LIVO DRUM",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 81472
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "LIVO DISC",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 84039
+      },
+      "specifications": {},
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}
