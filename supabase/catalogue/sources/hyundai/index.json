@@ -1,0 +1,249 @@
+[
+  {
+    "model": "Grand i10 Nios",
+    "slug": "grand-i10-nios",
+    "ex_showroom_min": 559700,
+    "ex_showroom_max": 809000,
+    "fuel_types": [
+      "CNG",
+      "Petrol"
+    ],
+    "transmissions": [
+      "AMT",
+      "MT"
+    ],
+    "brochure_pdf": "https://www.hyundai.com/content/dam/hyundai/in/en/data/brochure/grand-i10-nios.pdf",
+    "channel": "Hatchback",
+    "variants": 15,
+    "colours": 7
+  },
+  {
+    "model": "i20",
+    "slug": "i20",
+    "ex_showroom_min": 599700,
+    "ex_showroom_max": 1068200,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "IVT",
+      "MT"
+    ],
+    "brochure_pdf": "https://www.hyundai.com/content/dam/hyundai/in/en/data/brochure/i20.pdf",
+    "channel": "Hatchback",
+    "variants": 12,
+    "colours": 7
+  },
+  {
+    "model": "i20 N Line",
+    "slug": "i20-n-line",
+    "ex_showroom_min": 932200,
+    "ex_showroom_max": 1178700,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "DCT",
+      "MT"
+    ],
+    "brochure_pdf": "https://www.hyundai.com/content/dam/hyundai/in/en/data/brochure/i20-n-line.pdf",
+    "channel": "Hatchback",
+    "variants": 3,
+    "colours": 6
+  },
+  {
+    "model": "Aura",
+    "slug": "aura",
+    "ex_showroom_min": 599990,
+    "ex_showroom_max": 867200,
+    "fuel_types": [
+      "CNG",
+      "Petrol"
+    ],
+    "transmissions": [
+      "AMT",
+      "MT"
+    ],
+    "brochure_pdf": "https://www.hyundai.com/content/dam/hyundai/in/en/data/brochure/aura.pdf",
+    "channel": "Sedan",
+    "variants": 8,
+    "colours": 4
+  },
+  {
+    "model": "Exter",
+    "slug": "exter",
+    "ex_showroom_min": 580600,
+    "ex_showroom_max": 964600,
+    "fuel_types": [
+      "CNG (dual cylinder)",
+      "Petrol"
+    ],
+    "transmissions": [
+      "AMT",
+      "MT"
+    ],
+    "brochure_pdf": "https://www.hyundai.com/content/dam/hyundai/in/en/data/brochure/exter.pdf",
+    "channel": "SUV",
+    "variants": 19,
+    "colours": 9
+  },
+  {
+    "model": "Venue",
+    "slug": "venue",
+    "ex_showroom_min": 799900,
+    "ex_showroom_max": 1582700,
+    "fuel_types": [
+      "Diesel",
+      "Petrol"
+    ],
+    "transmissions": [
+      "AT",
+      "DCT",
+      "MT"
+    ],
+    "brochure_pdf": "https://www.hyundai.com/content/dam/hyundai/in/en/data/brochure/venue.pdf",
+    "channel": "SUV",
+    "variants": 23,
+    "colours": 10
+  },
+  {
+    "model": "Venue N Line",
+    "slug": "venue-n-line",
+    "ex_showroom_min": 1066100,
+    "ex_showroom_max": 1566700,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "DCT",
+      "MT"
+    ],
+    "brochure_pdf": "https://www.hyundai.com/content/dam/hyundai/in/en/data/brochure/venue-n-line.pdf",
+    "channel": "SUV",
+    "variants": 3,
+    "colours": 8
+  },
+  {
+    "model": "Bayon",
+    "slug": "bayon",
+    "ex_showroom_min": 999900,
+    "ex_showroom_max": 1814900,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "IVT",
+      "MT"
+    ],
+    "brochure_pdf": "https://www.hyundai.com/content/dam/hyundai/in/en/data/brochure/bayon.pdf",
+    "channel": "SUV",
+    "variants": 11,
+    "colours": 10
+  },
+  {
+    "model": "Verna",
+    "slug": "verna",
+    "ex_showroom_min": 1099200,
+    "ex_showroom_max": 1846200,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "DCT",
+      "IVT",
+      "MT"
+    ],
+    "brochure_pdf": "https://www.hyundai.com/content/dam/hyundai/in/en/data/brochure/verna.pdf",
+    "channel": "Sedan",
+    "variants": 12,
+    "colours": 7
+  },
+  {
+    "model": "Creta",
+    "slug": "creta",
+    "ex_showroom_min": 1090700,
+    "ex_showroom_max": 2045700,
+    "fuel_types": [
+      "Diesel",
+      "Petrol"
+    ],
+    "transmissions": [
+      "AT",
+      "DCT",
+      "IVT",
+      "MT"
+    ],
+    "brochure_pdf": "https://www.hyundai.com/content/dam/hyundai/in/en/data/brochure/creta.pdf",
+    "channel": "SUV",
+    "variants": 27,
+    "colours": 9
+  },
+  {
+    "model": "Creta N Line",
+    "slug": "creta-n-line",
+    "ex_showroom_min": 1903300,
+    "ex_showroom_max": 2009990,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "DCT",
+      "MT"
+    ],
+    "brochure_pdf": "https://www.hyundai.com/content/dam/hyundai/in/en/data/brochure/creta-n-line.pdf",
+    "channel": "SUV",
+    "variants": 2,
+    "colours": 5
+  },
+  {
+    "model": "Creta Electric",
+    "slug": "creta-electric",
+    "ex_showroom_min": 1802800,
+    "ex_showroom_max": 2522100,
+    "fuel_types": [
+      "Electric"
+    ],
+    "transmissions": [
+      "Automatic (single-speed)"
+    ],
+    "brochure_pdf": "https://www.hyundai.com/content/dam/hyundai/in/en/data/brochure/creta-ev.pdf",
+    "channel": "Electric SUV",
+    "variants": 19,
+    "colours": 8
+  },
+  {
+    "model": "Alcazar",
+    "slug": "alcazar",
+    "ex_showroom_min": 1450700,
+    "ex_showroom_max": 2195700,
+    "fuel_types": [
+      "Diesel",
+      "Petrol"
+    ],
+    "transmissions": [
+      "AT",
+      "DCT",
+      "MT"
+    ],
+    "brochure_pdf": "https://www.hyundai.com/content/dam/hyundai/in/en/data/brochure/alcazar.pdf",
+    "channel": "SUV",
+    "variants": 15,
+    "colours": 7
+  },
+  {
+    "model": "Ioniq 5",
+    "slug": "ioniq-5",
+    "ex_showroom_min": 5570600,
+    "ex_showroom_max": 5570600,
+    "fuel_types": [
+      "Electric"
+    ],
+    "transmissions": [
+      "Automatic (single-speed)"
+    ],
+    "brochure_pdf": "https://www.hyundai.com/content/dam/hyundai/in/en/data/brochure/ioniq-5.pdf",
+    "channel": "Electric SUV",
+    "variants": 1,
+    "colours": 4
+  }
+]

@@ -1,0 +1,1636 @@
+{
+  "brand": "Hyundai",
+  "model": "Verna",
+  "slug": "verna",
+  "official_page": "https://www.hyundai.com/in/en/find-a-car/verna/highlights",
+  "brochure_pdf": "https://www.hyundai.com/content/dam/hyundai/in/en/data/brochure/verna.pdf",
+  "price_city": "Surat, Gujarat",
+  "ex_showroom_min": 1099200,
+  "ex_showroom_max": 1846200,
+  "fuel_types": [
+    "Petrol"
+  ],
+  "transmissions": [
+    "DCT",
+    "IVT",
+    "MT"
+  ],
+  "colours": [
+    {
+      "name": "Titanium black"
+    },
+    {
+      "name": "Atlas white"
+    },
+    {
+      "name": "Titan grey"
+    },
+    {
+      "name": "Atlas white with black roof"
+    },
+    {
+      "name": "Starry night"
+    },
+    {
+      "name": "Titan grey matte"
+    },
+    {
+      "name": "Classy blue"
+    }
+  ],
+  "engines": [
+    "1.5 l MPi Petrol",
+    "1.5 l Turbo GDi Petrol"
+  ],
+  "variants": [
+    {
+      "name": "VERNA 1.5 MPi MT HX 2",
+      "trim": "HX 2",
+      "brochure_trim": "HX 2",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 1099200
+      },
+      "engine": "1.5 l MPi Petrol",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "4 565",
+          "Overall Width (mm)": "1 765",
+          "Overall Height (mm)": "1 475",
+          "Wheelbase (mm)": "2 670",
+          "Size": "185/65 R15 (D=380.2 mm) Steel wheel with wheel cover (HX 2), Silver alloys (HX 4)",
+          "Front Tyres": "205/55 R16 (D=405.6 mm) Diamond cut alloy (HX 6, HX 6+, HX 8, HX 10), Dark grey alloy (Turbo)",
+          "Spare wheel": "185/65 R15 (D=380.2 mm) Steel (All trims)",
+          "Tyre Type": "Tubeless"
+        },
+        "Engine": {
+          "Engine Type": "1.5 l MPi",
+          "Displacement(cm3)": "1 497",
+          "Max. Power": "84.4 kW (115 PS) @ 6 300 r/min",
+          "Max. Torque": "143.8 Nm (14.7 kgm) @ 4 500 r/min"
+        },
+        "Transmission": {
+          "Transmission Type": "6 - Speed Manual & IVT"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson strut with coil spring",
+          "Suspension Rear": "Coupled torsion beam axle with coil spring",
+          "Suspension Shock Absorber": "Gas Type"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum (HX 2, HX 4, HX 6, HX 6+, HX 8) / Disc (HX 8 Turbo DCT, HX 10 iVT, HX 10 Turbo DCT)"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Tank Capacity": "45 l"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Driver & passenger",
+          "Airbag – Side & curtain",
+          "Hill-start assist control (HAC)",
+          "Electronic stability control (ESC)",
+          "Vehicle stability management (VSM)",
+          "ABS (Anti-lock braking system) with EBD",
+          "Emergency stop signal (ESS)",
+          "Emergency stop signal (ESS) – Rear parking sensors",
+          "Tyre pressure monitoring system (TPMS) highline – Day and night mirror",
+          "Automatic headlamps",
+          "Headlamp escort function",
+          "Central locking",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Speed sensing auto door lock – Foldable key",
+          "Rear defogger with timer",
+          "Seatbelt reminder (all seats)",
+          "Immobilizer",
+          "Dual horn",
+          "ISOFIX",
+          "Burglar alarm"
+        ],
+        "Exterior": [
+          "Projector headlamps"
+        ],
+        "Lighting": [
+          "Black chrome radiator grille",
+          "Satin chrome window belt line – Body colored",
+          "Shark fin antenna – R15 (D=380.2 mm) Steel wheel with wheel cover"
+        ],
+        "Interior color theme": [
+          "Seat upholstery – Cloth",
+          "D-cut steering wheel",
+          "D-cut steering wheel – Manual height adjust",
+          "Rear center armrest with cup holders",
+          "Height adjustable – Front"
+        ],
+        "Comfort & convenience": [
+          "Power window (Front & Rear)",
+          "Power window (Front & Rear) – Manual",
+          "Tilt steering",
+          "Type‑C USB Port (front & rear)",
+          "Power outlet",
+          "Luggage lamp",
+          "Luggage lamp – Electrically adjustable"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "VERNA 1.5 MPi MT HX 4",
+      "trim": "HX 4",
+      "brochure_trim": "HX 4",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 1231200
+      },
+      "engine": "1.5 l MPi Petrol",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "4 565",
+          "Overall Width (mm)": "1 765",
+          "Overall Height (mm)": "1 475",
+          "Wheelbase (mm)": "2 670",
+          "Size": "185/65 R15 (D=380.2 mm) Steel wheel with wheel cover (HX 2), Silver alloys (HX 4)",
+          "Front Tyres": "205/55 R16 (D=405.6 mm) Diamond cut alloy (HX 6, HX 6+, HX 8, HX 10), Dark grey alloy (Turbo)",
+          "Spare wheel": "185/65 R15 (D=380.2 mm) Steel (All trims)",
+          "Tyre Type": "Tubeless"
+        },
+        "Engine": {
+          "Engine Type": "1.5 l MPi",
+          "Displacement(cm3)": "1 497",
+          "Max. Power": "84.4 kW (115 PS) @ 6 300 r/min",
+          "Max. Torque": "143.8 Nm (14.7 kgm) @ 4 500 r/min"
+        },
+        "Transmission": {
+          "Transmission Type": "6 - Speed Manual & IVT"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson strut with coil spring",
+          "Suspension Rear": "Coupled torsion beam axle with coil spring",
+          "Suspension Shock Absorber": "Gas Type"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum (HX 2, HX 4, HX 6, HX 6+, HX 8) / Disc (HX 8 Turbo DCT, HX 10 iVT, HX 10 Turbo DCT)"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Tank Capacity": "45 l"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Driver & passenger",
+          "Airbag – Side & curtain",
+          "Hill-start assist control (HAC)",
+          "Electronic stability control (ESC)",
+          "Vehicle stability management (VSM)",
+          "ABS (Anti-lock braking system) with EBD",
+          "Emergency stop signal (ESS)",
+          "Emergency stop signal (ESS) – Rear parking sensors",
+          "Tyre pressure monitoring system (TPMS) highline",
+          "Tyre pressure monitoring system (TPMS) highline – Day and night mirror",
+          "Automatic headlamps",
+          "Headlamp escort function",
+          "Central locking",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Speed sensing auto door lock – Foldable key",
+          "Rear defogger with timer",
+          "Seatbelt reminder (all seats)",
+          "Immobilizer",
+          "Dual horn",
+          "ISOFIX",
+          "Burglar alarm"
+        ],
+        "Exterior": [
+          "Projector headlamps"
+        ],
+        "Lighting": [
+          "LED positioning lamp & DRLs",
+          "LED tail lamps",
+          "Rear spoiler",
+          "Black chrome radiator grille",
+          "Satin chrome window belt line – Body colored",
+          "Shark fin antenna",
+          "Shark fin antenna – R15 (D=380.2 mm) Silver alloys"
+        ],
+        "Interior color theme": [
+          "Seat upholstery – Cloth",
+          "D-cut steering wheel",
+          "D-cut steering wheel – Manual height adjust",
+          "Sliding front center armrest with storage",
+          "Rear center armrest with cup holders",
+          "Height adjustable – Front"
+        ],
+        "Infotainment & connectivity": [
+          "20.32 cm (8.0\") touchscreen infotainment system"
+        ],
+        "Infotainment system": [
+          "Digital cluster – Digital cluster with color TFT MID",
+          "Wireless Apple CarPlay & Android Auto**",
+          "Voice recognition**",
+          "Front & rear speakers",
+          "Bluetooth connectivity",
+          "Steering wheel with audio & bluetooth controls"
+        ],
+        "Comfort & convenience": [
+          "Idle stop & go (ISG)",
+          "Electric sunroof",
+          "Power window (Front & Rear)",
+          "Air conditioning – Fully automatic temperature control",
+          "Tilt steering",
+          "Telescopic steering",
+          "Rear AC vent",
+          "Glovebox cooling",
+          "Cruise control",
+          "Type‑C USB Port (front & rear)",
+          "Power outlet",
+          "LED map lamp",
+          "LED room lamp",
+          "Luggage lamp",
+          "Luggage lamp – Electrically adjustable"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "VERNA 1.5 MPi MT HX 6",
+      "trim": "HX 6",
+      "brochure_trim": "HX 6",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 1325200,
+        "dual_tone": 1340200
+      },
+      "engine": "1.5 l MPi Petrol",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "4 565",
+          "Overall Width (mm)": "1 765",
+          "Overall Height (mm)": "1 475",
+          "Wheelbase (mm)": "2 670",
+          "Size": "185/65 R15 (D=380.2 mm) Steel wheel with wheel cover (HX 2), Silver alloys (HX 4)",
+          "Front Tyres": "205/55 R16 (D=405.6 mm) Diamond cut alloy (HX 6, HX 6+, HX 8, HX 10), Dark grey alloy (Turbo)",
+          "Spare wheel": "185/65 R15 (D=380.2 mm) Steel (All trims)",
+          "Tyre Type": "Tubeless"
+        },
+        "Engine": {
+          "Engine Type": "1.5 l MPi",
+          "Displacement(cm3)": "1 497",
+          "Max. Power": "84.4 kW (115 PS) @ 6 300 r/min",
+          "Max. Torque": "143.8 Nm (14.7 kgm) @ 4 500 r/min"
+        },
+        "Transmission": {
+          "Transmission Type": "6 - Speed Manual & IVT"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson strut with coil spring",
+          "Suspension Rear": "Coupled torsion beam axle with coil spring",
+          "Suspension Shock Absorber": "Gas Type"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum (HX 2, HX 4, HX 6, HX 6+, HX 8) / Disc (HX 8 Turbo DCT, HX 10 iVT, HX 10 Turbo DCT)"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Tank Capacity": "45 l"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Driver & passenger",
+          "Airbag – Side & curtain",
+          "Hill-start assist control (HAC)",
+          "Electronic stability control (ESC)",
+          "Vehicle stability management (VSM)",
+          "ABS (Anti-lock braking system) with EBD",
+          "Emergency stop signal (ESS)",
+          "Emergency stop signal (ESS) – Rear parking sensors",
+          "Parking assist – Rear view camera",
+          "Parking assist – Front parking sensors",
+          "Driver rear view monitor (DRVM)",
+          "Tyre pressure monitoring system (TPMS) highline",
+          "Inside rear view mirror – Electro chromic mirror (ECM)",
+          "Automatic headlamps",
+          "Headlamp escort function",
+          "Central locking",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Keyless entry – Smart key with push button start",
+          "Rear defogger with timer",
+          "Seatbelt reminder (all seats)",
+          "Height adjustable front seat belts",
+          "Immobilizer",
+          "Dual horn",
+          "ISOFIX",
+          "Burglar alarm"
+        ],
+        "Exterior": [
+          "Dual LED projector headlamps"
+        ],
+        "Lighting": [
+          "LED positioning lamp & DRLs",
+          "LED tail lamps",
+          "Rear spoiler",
+          "Black chrome radiator grille",
+          "Satin chrome window belt line",
+          "Outside door handles – Satin chrome",
+          "Shark fin antenna"
+        ],
+        "Interior color theme": [
+          "Seat upholstery – Cloth",
+          "D-cut steering wheel",
+          "D-cut steering wheel – Manual height adjust",
+          "Passenger seat adjust – Steering wheel",
+          "Leather^^ pack – Gear knob",
+          "Sliding front center armrest with storage",
+          "Rear center armrest with cup holders",
+          "Height adjustable – Front",
+          "headrest – Rear"
+        ],
+        "Infotainment & connectivity": [
+          "20.32 cm (8.0\") touchscreen infotainment system"
+        ],
+        "Infotainment system": [
+          "Digital cluster – Digital cluster with color TFT MID",
+          "Wireless Apple CarPlay & Android Auto**",
+          "Voice recognition**",
+          "Front & rear speakers",
+          "Front tweeters",
+          "Bluetooth connectivity",
+          "Steering wheel with audio & bluetooth controls"
+        ],
+        "Comfort & convenience": [
+          "Rear window sunshade",
+          "Idle stop & go (ISG)",
+          "Electric sunroof",
+          "Smart trunk",
+          "Power window (Front & Rear)",
+          "Air conditioning – Fully automatic temperature control",
+          "Tilt steering",
+          "Telescopic steering",
+          "Rear AC vent",
+          "Smartphone wireless charger^",
+          "Ambient lighting (dashboard & door trims)",
+          "Glovebox cooling",
+          "Cruise control",
+          "Type‑C USB Port (front & rear)",
+          "Power outlet",
+          "LED map lamp",
+          "LED room lamp",
+          "Luggage lamp",
+          "Luggage lamp – Electrically adjustable",
+          "Outside mirrors – Electric folding"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "VERNA 1.5 MPi MT HX 6+",
+      "trim": "HX 6+",
+      "brochure_trim": "HX 6+",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 1387200,
+        "dual_tone": 1402200
+      },
+      "engine": "1.5 l MPi Petrol",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "4 565",
+          "Overall Width (mm)": "1 765",
+          "Overall Height (mm)": "1 475",
+          "Wheelbase (mm)": "2 670",
+          "Size": "185/65 R15 (D=380.2 mm) Steel wheel with wheel cover (HX 2), Silver alloys (HX 4)",
+          "Front Tyres": "205/55 R16 (D=405.6 mm) Diamond cut alloy (HX 6, HX 6+, HX 8, HX 10), Dark grey alloy (Turbo)",
+          "Spare wheel": "185/65 R15 (D=380.2 mm) Steel (All trims)",
+          "Tyre Type": "Tubeless"
+        },
+        "Engine": {
+          "Engine Type": "1.5 l MPi",
+          "Displacement(cm3)": "1 497",
+          "Max. Power": "84.4 kW (115 PS) @ 6 300 r/min",
+          "Max. Torque": "143.8 Nm (14.7 kgm) @ 4 500 r/min"
+        },
+        "Transmission": {
+          "Transmission Type": "6 - Speed Manual & IVT"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson strut with coil spring",
+          "Suspension Rear": "Coupled torsion beam axle with coil spring",
+          "Suspension Shock Absorber": "Gas Type"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum (HX 2, HX 4, HX 6, HX 6+, HX 8) / Disc (HX 8 Turbo DCT, HX 10 iVT, HX 10 Turbo DCT)"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Tank Capacity": "45 l"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Driver & passenger",
+          "Airbag – Side & curtain",
+          "Hill-start assist control (HAC)",
+          "Electronic stability control (ESC)",
+          "Vehicle stability management (VSM)",
+          "ABS (Anti-lock braking system) with EBD",
+          "Emergency stop signal (ESS)",
+          "Emergency stop signal (ESS) – Rear parking sensors",
+          "Parking assist – Rear view camera",
+          "Parking assist – Front parking sensors",
+          "Driver rear view monitor (DRVM)",
+          "Tyre pressure monitoring system (TPMS) highline",
+          "Inside rear view mirror – Electro chromic mirror (ECM)",
+          "Automatic headlamps",
+          "Headlamp escort function",
+          "Central locking",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Keyless entry – Smart key with push button start",
+          "Rear defogger with timer",
+          "Seatbelt reminder (all seats)",
+          "Height adjustable front seat belts",
+          "Immobilizer",
+          "Dual horn",
+          "ISOFIX",
+          "Burglar alarm"
+        ],
+        "Exterior": [
+          "Dual LED projector headlamps"
+        ],
+        "Lighting": [
+          "LED positioning lamp & DRLs",
+          "LED tail lamps",
+          "Rear spoiler",
+          "Black chrome radiator grille",
+          "Satin chrome window belt line",
+          "Outside door handles – Satin chrome",
+          "Shark fin antenna"
+        ],
+        "Interior color theme": [
+          "Seat upholstery – Leather^^",
+          "D-cut steering wheel",
+          "D-cut steering wheel – Manual height adjust",
+          "Passenger seat adjust – Steering wheel",
+          "Leather^^ pack – Gear knob",
+          "Sliding front center armrest with storage",
+          "Rear center armrest with cup holders",
+          "Height adjustable – Front",
+          "headrest – Rear"
+        ],
+        "Infotainment & connectivity": [
+          "20.32 cm (8.0\") touchscreen infotainment system"
+        ],
+        "Infotainment system": [
+          "Digital cluster – Digital cluster with color TFT MID",
+          "Wireless Apple CarPlay & Android Auto**",
+          "Voice recognition**",
+          "Front & rear speakers",
+          "Front tweeters",
+          "Bluetooth connectivity",
+          "Bose premium sound 8 speaker system",
+          "Steering wheel with audio & bluetooth controls"
+        ],
+        "Comfort & convenience": [
+          "Rear window sunshade",
+          "Front row ventilated seats",
+          "Idle stop & go (ISG)",
+          "Electric sunroof",
+          "Smart trunk",
+          "Power window (Front & Rear)",
+          "Air conditioning – Fully automatic temperature control",
+          "Tilt steering",
+          "Telescopic steering",
+          "Rear AC vent",
+          "Smartphone wireless charger^",
+          "Ambient lighting (dashboard & door trims)",
+          "Glovebox cooling",
+          "Cruise control",
+          "Type‑C USB Port (front & rear)",
+          "Power outlet",
+          "LED map lamp",
+          "LED room lamp",
+          "Luggage lamp",
+          "Luggage lamp – Electrically adjustable",
+          "Outside mirrors – Electric folding"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "VERNA 1.5 MPi IVT HX 6",
+      "trim": "HX 6",
+      "brochure_trim": "HX 6",
+      "fuel": "Petrol",
+      "transmission": "IVT",
+      "ex_showroom_surat": {
+        "standard": 1446200,
+        "dual_tone": 1461200
+      },
+      "engine": "1.5 l MPi Petrol",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "4 565",
+          "Overall Width (mm)": "1 765",
+          "Overall Height (mm)": "1 475",
+          "Wheelbase (mm)": "2 670",
+          "Size": "185/65 R15 (D=380.2 mm) Steel wheel with wheel cover (HX 2), Silver alloys (HX 4)",
+          "Front Tyres": "205/55 R16 (D=405.6 mm) Diamond cut alloy (HX 6, HX 6+, HX 8, HX 10), Dark grey alloy (Turbo)",
+          "Spare wheel": "185/65 R15 (D=380.2 mm) Steel (All trims)",
+          "Tyre Type": "Tubeless"
+        },
+        "Engine": {
+          "Engine Type": "1.5 l MPi",
+          "Displacement(cm3)": "1 497",
+          "Max. Power": "84.4 kW (115 PS) @ 6 300 r/min",
+          "Max. Torque": "143.8 Nm (14.7 kgm) @ 4 500 r/min"
+        },
+        "Transmission": {
+          "Transmission Type": "6 - Speed Manual & IVT"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson strut with coil spring",
+          "Suspension Rear": "Coupled torsion beam axle with coil spring",
+          "Suspension Shock Absorber": "Gas Type"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum (HX 2, HX 4, HX 6, HX 6+, HX 8) / Disc (HX 8 Turbo DCT, HX 10 iVT, HX 10 Turbo DCT)"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Tank Capacity": "45 l"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Driver & passenger",
+          "Airbag – Side & curtain",
+          "Hill-start assist control (HAC)",
+          "Electronic stability control (ESC)",
+          "Vehicle stability management (VSM)",
+          "ABS (Anti-lock braking system) with EBD",
+          "Emergency stop signal (ESS)",
+          "Emergency stop signal (ESS) – Rear parking sensors",
+          "Parking assist – Rear view camera",
+          "Parking assist – Front parking sensors",
+          "Driver rear view monitor (DRVM)",
+          "Tyre pressure monitoring system (TPMS) highline",
+          "Inside rear view mirror – Electro chromic mirror (ECM)",
+          "Automatic headlamps",
+          "Headlamp escort function",
+          "Central locking",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Keyless entry – Smart key with push button start",
+          "Rear defogger with timer",
+          "Seatbelt reminder (all seats)",
+          "Height adjustable front seat belts",
+          "Immobilizer",
+          "Dual horn",
+          "ISOFIX",
+          "Burglar alarm"
+        ],
+        "Exterior": [
+          "Dual LED projector headlamps"
+        ],
+        "Lighting": [
+          "LED positioning lamp & DRLs",
+          "LED tail lamps",
+          "Rear spoiler",
+          "Black chrome radiator grille",
+          "Satin chrome window belt line",
+          "Outside door handles – Satin chrome",
+          "Shark fin antenna"
+        ],
+        "Interior color theme": [
+          "Seat upholstery – Cloth",
+          "D-cut steering wheel",
+          "D-cut steering wheel – Manual height adjust",
+          "Passenger seat adjust – Steering wheel",
+          "Leather^^ pack – Gear knob",
+          "Sliding front center armrest with storage",
+          "Rear center armrest with cup holders",
+          "Height adjustable – Front",
+          "headrest – Rear"
+        ],
+        "Infotainment & connectivity": [
+          "20.32 cm (8.0\") touchscreen infotainment system"
+        ],
+        "Infotainment system": [
+          "Digital cluster – Digital cluster with color TFT MID",
+          "Wireless Apple CarPlay & Android Auto**",
+          "Voice recognition**",
+          "Front & rear speakers",
+          "Front tweeters",
+          "Bluetooth connectivity",
+          "Steering wheel with audio & bluetooth controls"
+        ],
+        "Comfort & convenience": [
+          "Rear window sunshade",
+          "Idle stop & go (ISG)",
+          "Electric sunroof",
+          "Smart trunk",
+          "Power window (Front & Rear)",
+          "Air conditioning – Fully automatic temperature control",
+          "Tilt steering",
+          "Telescopic steering",
+          "Rear AC vent",
+          "Smartphone wireless charger^",
+          "Ambient lighting (dashboard & door trims)",
+          "Glovebox cooling",
+          "Cruise control",
+          "Type‑C USB Port (front & rear)",
+          "Power outlet",
+          "LED map lamp",
+          "LED room lamp",
+          "Luggage lamp",
+          "Luggage lamp – Electrically adjustable",
+          "Outside mirrors – Electric folding"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "VERNA 1.5 MPi MT HX 8",
+      "trim": "HX 8",
+      "brochure_trim": "HX 8",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 1494200,
+        "dual_tone": 1509200
+      },
+      "engine": "1.5 l MPi Petrol",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "4 565",
+          "Overall Width (mm)": "1 765",
+          "Overall Height (mm)": "1 475",
+          "Wheelbase (mm)": "2 670",
+          "Size": "185/65 R15 (D=380.2 mm) Steel wheel with wheel cover (HX 2), Silver alloys (HX 4)",
+          "Front Tyres": "205/55 R16 (D=405.6 mm) Diamond cut alloy (HX 6, HX 6+, HX 8, HX 10), Dark grey alloy (Turbo)",
+          "Spare wheel": "185/65 R15 (D=380.2 mm) Steel (All trims)",
+          "Tyre Type": "Tubeless"
+        },
+        "Engine": {
+          "Engine Type": "1.5 l MPi",
+          "Displacement(cm3)": "1 497",
+          "Max. Power": "84.4 kW (115 PS) @ 6 300 r/min",
+          "Max. Torque": "143.8 Nm (14.7 kgm) @ 4 500 r/min"
+        },
+        "Transmission": {
+          "Transmission Type": "6 - Speed Manual & IVT"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson strut with coil spring",
+          "Suspension Rear": "Coupled torsion beam axle with coil spring",
+          "Suspension Shock Absorber": "Gas Type"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum (HX 2, HX 4, HX 6, HX 6+, HX 8) / Disc (HX 8 Turbo DCT, HX 10 iVT, HX 10 Turbo DCT)"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Tank Capacity": "45 l"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Driver & passenger",
+          "Airbag – Side & curtain",
+          "Hill-start assist control (HAC)",
+          "Electronic stability control (ESC)",
+          "Vehicle stability management (VSM)",
+          "ABS (Anti-lock braking system) with EBD",
+          "Emergency stop signal (ESS)",
+          "Emergency stop signal (ESS) – Rear parking sensors",
+          "Parking assist – Rear view camera",
+          "Parking assist – Front parking sensors",
+          "Driver rear view monitor (DRVM)",
+          "Tyre pressure monitoring system (TPMS) highline",
+          "Inside rear view mirror – Electro chromic mirror (ECM) with telematics switches",
+          "Automatic headlamps",
+          "Headlamp escort function",
+          "Central locking",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Keyless entry – Smart key with push button start",
+          "Rear defogger with timer",
+          "Seatbelt reminder (all seats)",
+          "Height adjustable front seat belts",
+          "Immobilizer",
+          "Dual horn",
+          "ISOFIX",
+          "Burglar alarm"
+        ],
+        "Exterior": [
+          "Dual LED projector headlamps"
+        ],
+        "Lighting": [
+          "LED positioning lamp & DRLs",
+          "LED tail lamps",
+          "Rear spoiler",
+          "Black chrome radiator grille",
+          "Satin chrome window belt line",
+          "Outside door handles – Satin chrome",
+          "Shark fin antenna"
+        ],
+        "Interior color theme": [
+          "Seat upholstery – Leather^^",
+          "D-cut steering wheel",
+          "Driver seat adjust – Electric 8-way",
+          "Driver seat adjust – Memory function",
+          "Passenger seat adjust – Steering wheel",
+          "Leather^^ pack – Gear knob",
+          "Sliding front center armrest with storage",
+          "Rear center armrest with cup holders",
+          "Height adjustable – Front",
+          "headrest – Rear"
+        ],
+        "Infotainment system": [
+          "26.03 cm (10.25\") HD audio video navigation system",
+          "Digital cluster – Digital cluster with color TFT MID",
+          "Hyundai Bluelink (Connected car technology)",
+          "Wireless Apple CarPlay & Android Auto**",
+          "Voice recognition**",
+          "Front & rear speakers",
+          "Front tweeters",
+          "Bluetooth connectivity",
+          "Bose premium sound 8 speaker system",
+          "Steering wheel with audio & bluetooth controls"
+        ],
+        "Comfort & convenience": [
+          "Rear window sunshade",
+          "Front row ventilated seats",
+          "Idle stop & go (ISG)",
+          "Electric sunroof",
+          "Smart trunk",
+          "Rain sensing wipers",
+          "Power window (Front & Rear)",
+          "Air conditioning – Fully automatic temperature control",
+          "Tilt steering",
+          "Telescopic steering",
+          "Rear AC vent",
+          "Smartphone wireless charger^",
+          "Ambient lighting (dashboard & door trims)",
+          "Glovebox cooling",
+          "Cruise control",
+          "Type‑C USB Port (front & rear)",
+          "Power outlet",
+          "LED map lamp",
+          "LED room lamp",
+          "Luggage lamp",
+          "Luggage lamp – Electrically adjustable",
+          "Outside mirrors – Electric folding"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "VERNA 1.5 MPi IVT HX 6+",
+      "trim": "HX 6+",
+      "brochure_trim": "HX 6+",
+      "fuel": "Petrol",
+      "transmission": "IVT",
+      "ex_showroom_surat": {
+        "standard": 1503200,
+        "dual_tone": 1518200
+      },
+      "engine": "1.5 l MPi Petrol",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "4 565",
+          "Overall Width (mm)": "1 765",
+          "Overall Height (mm)": "1 475",
+          "Wheelbase (mm)": "2 670",
+          "Size": "185/65 R15 (D=380.2 mm) Steel wheel with wheel cover (HX 2), Silver alloys (HX 4)",
+          "Front Tyres": "205/55 R16 (D=405.6 mm) Diamond cut alloy (HX 6, HX 6+, HX 8, HX 10), Dark grey alloy (Turbo)",
+          "Spare wheel": "185/65 R15 (D=380.2 mm) Steel (All trims)",
+          "Tyre Type": "Tubeless"
+        },
+        "Engine": {
+          "Engine Type": "1.5 l MPi",
+          "Displacement(cm3)": "1 497",
+          "Max. Power": "84.4 kW (115 PS) @ 6 300 r/min",
+          "Max. Torque": "143.8 Nm (14.7 kgm) @ 4 500 r/min"
+        },
+        "Transmission": {
+          "Transmission Type": "6 - Speed Manual & IVT"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson strut with coil spring",
+          "Suspension Rear": "Coupled torsion beam axle with coil spring",
+          "Suspension Shock Absorber": "Gas Type"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum (HX 2, HX 4, HX 6, HX 6+, HX 8) / Disc (HX 8 Turbo DCT, HX 10 iVT, HX 10 Turbo DCT)"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Tank Capacity": "45 l"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Driver & passenger",
+          "Airbag – Side & curtain",
+          "Hill-start assist control (HAC)",
+          "Electronic stability control (ESC)",
+          "Vehicle stability management (VSM)",
+          "ABS (Anti-lock braking system) with EBD",
+          "Emergency stop signal (ESS)",
+          "Emergency stop signal (ESS) – Rear parking sensors",
+          "Parking assist – Rear view camera",
+          "Parking assist – Front parking sensors",
+          "Driver rear view monitor (DRVM)",
+          "Tyre pressure monitoring system (TPMS) highline",
+          "Inside rear view mirror – Electro chromic mirror (ECM)",
+          "Automatic headlamps",
+          "Headlamp escort function",
+          "Central locking",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Keyless entry – Smart key with push button start",
+          "Rear defogger with timer",
+          "Seatbelt reminder (all seats)",
+          "Height adjustable front seat belts",
+          "Immobilizer",
+          "Dual horn",
+          "ISOFIX",
+          "Burglar alarm"
+        ],
+        "Exterior": [
+          "Dual LED projector headlamps"
+        ],
+        "Lighting": [
+          "LED positioning lamp & DRLs",
+          "LED tail lamps",
+          "Rear spoiler",
+          "Black chrome radiator grille",
+          "Satin chrome window belt line",
+          "Outside door handles – Satin chrome",
+          "Shark fin antenna"
+        ],
+        "Interior color theme": [
+          "Seat upholstery – Leather^^",
+          "D-cut steering wheel",
+          "D-cut steering wheel – Manual height adjust",
+          "Passenger seat adjust – Steering wheel",
+          "Leather^^ pack – Gear knob",
+          "Sliding front center armrest with storage",
+          "Rear center armrest with cup holders",
+          "Height adjustable – Front",
+          "headrest – Rear"
+        ],
+        "Infotainment & connectivity": [
+          "20.32 cm (8.0\") touchscreen infotainment system"
+        ],
+        "Infotainment system": [
+          "Digital cluster – Digital cluster with color TFT MID",
+          "Wireless Apple CarPlay & Android Auto**",
+          "Voice recognition**",
+          "Front & rear speakers",
+          "Front tweeters",
+          "Bluetooth connectivity",
+          "Bose premium sound 8 speaker system",
+          "Steering wheel with audio & bluetooth controls"
+        ],
+        "Comfort & convenience": [
+          "Rear window sunshade",
+          "Front row ventilated seats",
+          "Idle stop & go (ISG)",
+          "Electric sunroof",
+          "Smart trunk",
+          "Power window (Front & Rear)",
+          "Air conditioning – Fully automatic temperature control",
+          "Tilt steering",
+          "Telescopic steering",
+          "Rear AC vent",
+          "Smartphone wireless charger^",
+          "Ambient lighting (dashboard & door trims)",
+          "Glovebox cooling",
+          "Cruise control",
+          "Type‑C USB Port (front & rear)",
+          "Power outlet",
+          "LED map lamp",
+          "LED room lamp",
+          "Luggage lamp",
+          "Luggage lamp – Electrically adjustable",
+          "Outside mirrors – Electric folding"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "VERNA 1.5 MPi IVT HX 8",
+      "trim": "HX 8",
+      "brochure_trim": "HX 8",
+      "fuel": "Petrol",
+      "transmission": "IVT",
+      "ex_showroom_surat": {
+        "standard": 1615200,
+        "dual_tone": 1630200
+      },
+      "engine": "1.5 l MPi Petrol",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "4 565",
+          "Overall Width (mm)": "1 765",
+          "Overall Height (mm)": "1 475",
+          "Wheelbase (mm)": "2 670",
+          "Size": "185/65 R15 (D=380.2 mm) Steel wheel with wheel cover (HX 2), Silver alloys (HX 4)",
+          "Front Tyres": "205/55 R16 (D=405.6 mm) Diamond cut alloy (HX 6, HX 6+, HX 8, HX 10), Dark grey alloy (Turbo)",
+          "Spare wheel": "185/65 R15 (D=380.2 mm) Steel (All trims)",
+          "Tyre Type": "Tubeless"
+        },
+        "Engine": {
+          "Engine Type": "1.5 l MPi",
+          "Displacement(cm3)": "1 497",
+          "Max. Power": "84.4 kW (115 PS) @ 6 300 r/min",
+          "Max. Torque": "143.8 Nm (14.7 kgm) @ 4 500 r/min"
+        },
+        "Transmission": {
+          "Transmission Type": "6 - Speed Manual & IVT"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson strut with coil spring",
+          "Suspension Rear": "Coupled torsion beam axle with coil spring",
+          "Suspension Shock Absorber": "Gas Type"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum (HX 2, HX 4, HX 6, HX 6+, HX 8) / Disc (HX 8 Turbo DCT, HX 10 iVT, HX 10 Turbo DCT)"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Tank Capacity": "45 l"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Driver & passenger",
+          "Airbag – Side & curtain",
+          "Hill-start assist control (HAC)",
+          "Electronic stability control (ESC)",
+          "Vehicle stability management (VSM)",
+          "ABS (Anti-lock braking system) with EBD",
+          "Emergency stop signal (ESS)",
+          "Emergency stop signal (ESS) – Rear parking sensors",
+          "Parking assist – Rear view camera",
+          "Parking assist – Front parking sensors",
+          "Driver rear view monitor (DRVM)",
+          "Tyre pressure monitoring system (TPMS) highline",
+          "Inside rear view mirror – Electro chromic mirror (ECM) with telematics switches",
+          "Automatic headlamps",
+          "Headlamp escort function",
+          "Central locking",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Keyless entry – Smart key with push button start",
+          "Rear defogger with timer",
+          "Seatbelt reminder (all seats)",
+          "Height adjustable front seat belts",
+          "Immobilizer",
+          "Dual horn",
+          "ISOFIX",
+          "Burglar alarm"
+        ],
+        "Exterior": [
+          "Dual LED projector headlamps"
+        ],
+        "Lighting": [
+          "LED positioning lamp & DRLs",
+          "LED tail lamps",
+          "Rear spoiler",
+          "Black chrome radiator grille",
+          "Satin chrome window belt line",
+          "Outside door handles – Satin chrome",
+          "Shark fin antenna"
+        ],
+        "Interior color theme": [
+          "Seat upholstery – Leather^^",
+          "D-cut steering wheel",
+          "Driver seat adjust – Electric 8-way",
+          "Driver seat adjust – Memory function",
+          "Passenger seat adjust – Steering wheel",
+          "Leather^^ pack – Gear knob",
+          "Sliding front center armrest with storage",
+          "Rear center armrest with cup holders",
+          "Height adjustable – Front",
+          "headrest – Rear"
+        ],
+        "Infotainment system": [
+          "26.03 cm (10.25\") HD audio video navigation system",
+          "Digital cluster – Digital cluster with color TFT MID",
+          "Hyundai Bluelink (Connected car technology)",
+          "Wireless Apple CarPlay & Android Auto**",
+          "Voice recognition**",
+          "Front & rear speakers",
+          "Front tweeters",
+          "Bluetooth connectivity",
+          "Bose premium sound 8 speaker system",
+          "Steering wheel with audio & bluetooth controls"
+        ],
+        "Comfort & convenience": [
+          "Rear window sunshade",
+          "Front row ventilated seats",
+          "Idle stop & go (ISG)",
+          "Electric sunroof",
+          "Smart trunk",
+          "Rain sensing wipers",
+          "Power window (Front & Rear)",
+          "Air conditioning – Fully automatic temperature control",
+          "Tilt steering",
+          "Telescopic steering",
+          "Rear AC vent",
+          "Smartphone wireless charger^",
+          "Ambient lighting (dashboard & door trims)",
+          "Glovebox cooling",
+          "Cruise control",
+          "Type‑C USB Port (front & rear)",
+          "Power outlet",
+          "LED map lamp",
+          "LED room lamp",
+          "Luggage lamp",
+          "Luggage lamp – Electrically adjustable",
+          "Outside mirrors – Electric folding"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "VERNA 1.5 Turbo GDi MT HX 8",
+      "trim": "HX 8",
+      "brochure_trim": "HX 8",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 1634200,
+        "dual_tone": 1649200
+      },
+      "engine": "1.5 l Turbo GDi Petrol",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "4 565",
+          "Overall Width (mm)": "1 765",
+          "Overall Height (mm)": "1 475",
+          "Wheelbase (mm)": "2 670",
+          "Size": "185/65 R15 (D=380.2 mm) Steel wheel with wheel cover (HX 2), Silver alloys (HX 4)",
+          "Front Tyres": "205/55 R16 (D=405.6 mm) Diamond cut alloy (HX 6, HX 6+, HX 8, HX 10), Dark grey alloy (Turbo)",
+          "Spare wheel": "185/65 R15 (D=380.2 mm) Steel (All trims)",
+          "Tyre Type": "Tubeless"
+        },
+        "Engine": {
+          "Engine Type": "1.5 l Turbo GDi Petrol",
+          "Displacement(cm3)": "1 482",
+          "Max. Power": "117.5 kW (160 PS) @ 5 500 r/min",
+          "Max. Torque": "253 Nm (25.8 kgm) @ 1 500-3 500 r/min"
+        },
+        "Transmission": {
+          "Transmission Type": "6-Speed manual & 7-Speed DCT"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson strut with coil spring",
+          "Suspension Rear": "Coupled torsion beam axle with coil spring",
+          "Suspension Shock Absorber": "Gas Type"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum (HX 2, HX 4, HX 6, HX 6+, HX 8) / Disc (HX 8 Turbo DCT, HX 10 iVT, HX 10 Turbo DCT)"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Tank Capacity": "45 l"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Driver & passenger",
+          "Airbag – Side & curtain",
+          "Hill-start assist control (HAC)",
+          "Electronic stability control (ESC)",
+          "Vehicle stability management (VSM)",
+          "ABS (Anti-lock braking system) with EBD",
+          "Emergency stop signal (ESS)",
+          "Emergency stop signal (ESS) – Rear parking sensors",
+          "Parking assist – Rear view camera",
+          "Parking assist – Front parking sensors",
+          "Driver rear view monitor (DRVM)",
+          "Tyre pressure monitoring system (TPMS) highline",
+          "Inside rear view mirror – Electro chromic mirror (ECM) with telematics switches",
+          "Automatic headlamps",
+          "Headlamp escort function",
+          "Central locking",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Keyless entry – Smart key with push button start",
+          "Rear defogger with timer",
+          "Seatbelt reminder (all seats)",
+          "Height adjustable front seat belts",
+          "Immobilizer",
+          "Dual horn",
+          "ISOFIX",
+          "Burglar alarm"
+        ],
+        "Exterior": [
+          "Dual LED projector headlamps"
+        ],
+        "Lighting": [
+          "LED positioning lamp & DRLs",
+          "LED tail lamps",
+          "Rear spoiler",
+          "Black chrome radiator grille",
+          "Satin chrome window belt line",
+          "Outside door handles – Satin chrome",
+          "Shark fin antenna"
+        ],
+        "Interior color theme": [
+          "Seat upholstery – Leather^^",
+          "D-cut steering wheel",
+          "Driver seat adjust – Electric 8-way",
+          "Driver seat adjust – Memory function",
+          "Passenger seat adjust – Steering wheel",
+          "Leather^^ pack – Gear knob",
+          "Sliding front center armrest with storage",
+          "Rear center armrest with cup holders",
+          "Height adjustable – Front",
+          "headrest – Rear"
+        ],
+        "Infotainment system": [
+          "26.03 cm (10.25\") HD audio video navigation system",
+          "Digital cluster – Digital cluster with color TFT MID",
+          "Hyundai Bluelink (Connected car technology)",
+          "Wireless Apple CarPlay & Android Auto**",
+          "Voice recognition**",
+          "Front & rear speakers",
+          "Front tweeters",
+          "Bluetooth connectivity",
+          "Bose premium sound 8 speaker system",
+          "Steering wheel with audio & bluetooth controls"
+        ],
+        "Comfort & convenience": [
+          "Rear window sunshade",
+          "Front row ventilated seats",
+          "Idle stop & go (ISG)",
+          "Electric sunroof",
+          "Smart trunk",
+          "Rain sensing wipers",
+          "Power window (Front & Rear)",
+          "Air conditioning – Fully automatic temperature control",
+          "Tilt steering",
+          "Telescopic steering",
+          "Rear AC vent",
+          "Smartphone wireless charger^",
+          "Ambient lighting (dashboard & door trims)",
+          "Glovebox cooling",
+          "Cruise control",
+          "Type‑C USB Port (front & rear)",
+          "Power outlet",
+          "LED map lamp",
+          "LED room lamp",
+          "Luggage lamp",
+          "Luggage lamp – Electrically adjustable",
+          "Outside mirrors – Electric folding"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "VERNA 1.5 MPi IVT HX 10",
+      "trim": "HX 10",
+      "brochure_trim": "HX 10",
+      "fuel": "Petrol",
+      "transmission": "IVT",
+      "ex_showroom_surat": {
+        "standard": 1721200,
+        "dual_tone": 1736200
+      },
+      "engine": "1.5 l MPi Petrol",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "4 565",
+          "Overall Width (mm)": "1 765",
+          "Overall Height (mm)": "1 475",
+          "Wheelbase (mm)": "2 670",
+          "Size": "185/65 R15 (D=380.2 mm) Steel wheel with wheel cover (HX 2), Silver alloys (HX 4)",
+          "Front Tyres": "205/55 R16 (D=405.6 mm) Diamond cut alloy (HX 6, HX 6+, HX 8, HX 10), Dark grey alloy (Turbo)",
+          "Spare wheel": "185/65 R15 (D=380.2 mm) Steel (All trims)",
+          "Tyre Type": "Tubeless"
+        },
+        "Engine": {
+          "Engine Type": "1.5 l MPi",
+          "Displacement(cm3)": "1 497",
+          "Max. Power": "84.4 kW (115 PS) @ 6 300 r/min",
+          "Max. Torque": "143.8 Nm (14.7 kgm) @ 4 500 r/min"
+        },
+        "Transmission": {
+          "Transmission Type": "6 - Speed Manual & IVT"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson strut with coil spring",
+          "Suspension Rear": "Coupled torsion beam axle with coil spring",
+          "Suspension Shock Absorber": "Gas Type"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum (HX 2, HX 4, HX 6, HX 6+, HX 8) / Disc (HX 8 Turbo DCT, HX 10 iVT, HX 10 Turbo DCT)"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Tank Capacity": "45 l"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Driver & passenger",
+          "Airbag – Side & curtain",
+          "Airbag – Center side",
+          "Hill-start assist control (HAC)",
+          "Electronic stability control (ESC)",
+          "Vehicle stability management (VSM)",
+          "ABS (Anti-lock braking system) with EBD",
+          "Emergency stop signal (ESS)",
+          "Emergency stop signal (ESS) – Rear parking sensors",
+          "Parking assist – Rear view camera",
+          "Parking assist – Front parking sensors",
+          "Driver rear view monitor (DRVM)",
+          "Tyre pressure monitoring system (TPMS) highline",
+          "Inside rear view mirror – Electro chromic mirror (ECM) with telematics switches",
+          "Automatic headlamps",
+          "Headlamp escort function",
+          "Central locking",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Keyless entry – Smart key with push button start",
+          "Rear defogger with timer",
+          "Seatbelt reminder (all seats)",
+          "Height adjustable front seat belts",
+          "Immobilizer",
+          "Dual horn",
+          "ISOFIX",
+          "Burglar alarm",
+          "(Advanced driver – Surround view monitor (SVM)",
+          "(Advanced driver – Blind-spot view monitor (BVM)"
+        ],
+        "Exterior": [
+          "Dual LED projector headlamps"
+        ],
+        "Lighting": [
+          "LED positioning lamp & DRLs",
+          "LED tail lamps",
+          "Rear spoiler",
+          "Black chrome radiator grille",
+          "Satin chrome window belt line",
+          "Outside door handles – Satin chrome",
+          "Shark fin antenna"
+        ],
+        "Interior color theme": [
+          "Seat upholstery – Leather^^",
+          "D-cut steering wheel",
+          "Driver seat adjust – Electric 8-way",
+          "Driver seat adjust – Memory function",
+          "Driver seat adjust – Electric 4-way",
+          "Passenger seat adjust – Electric walk-in device",
+          "Passenger seat adjust – Steering wheel",
+          "Leather^^ pack – Gear knob",
+          "Sliding front center armrest with storage",
+          "Rear center armrest with cup holders",
+          "Height adjustable – Front",
+          "headrest – Rear"
+        ],
+        "Infotainment system": [
+          "26.03 cm (10.25\") HD audio video navigation system",
+          "Digital cluster – 26.03 cm (10.25\") Multi display digital cluster",
+          "Hyundai Bluelink (Connected car technology)",
+          "Wireless Apple CarPlay & Android Auto**",
+          "Voice recognition**",
+          "Front & rear speakers",
+          "Front tweeters",
+          "Bluetooth connectivity",
+          "Bose premium sound 8 speaker system",
+          "Steering wheel with audio & bluetooth controls"
+        ],
+        "Comfort & convenience": [
+          "Rear window sunshade",
+          "Front row ventilated seats",
+          "Idle stop & go (ISG)",
+          "Electric sunroof",
+          "Smart trunk",
+          "Rain sensing wipers",
+          "Power window (Front & Rear)",
+          "Air conditioning – Fully automatic temperature control",
+          "Tilt steering",
+          "Telescopic steering",
+          "Rear AC vent",
+          "Smartphone wireless charger^",
+          "Ambient lighting (dashboard & door trims)",
+          "Glovebox cooling",
+          "Cruise control",
+          "Type‑C USB Port (front & rear)",
+          "Power outlet",
+          "LED map lamp",
+          "LED room lamp",
+          "Luggage lamp",
+          "Luggage lamp – Electrically adjustable",
+          "Outside mirrors – Electric folding"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "VERNA 1.5 Turbo GDi DCT HX 8",
+      "trim": "HX 8",
+      "brochure_trim": "HX 8",
+      "fuel": "Petrol",
+      "transmission": "DCT",
+      "ex_showroom_surat": {
+        "standard": 1763200,
+        "dual_tone": 1778200
+      },
+      "engine": "1.5 l Turbo GDi Petrol",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "4 565",
+          "Overall Width (mm)": "1 765",
+          "Overall Height (mm)": "1 475",
+          "Wheelbase (mm)": "2 670",
+          "Size": "185/65 R15 (D=380.2 mm) Steel wheel with wheel cover (HX 2), Silver alloys (HX 4)",
+          "Front Tyres": "205/55 R16 (D=405.6 mm) Diamond cut alloy (HX 6, HX 6+, HX 8, HX 10), Dark grey alloy (Turbo)",
+          "Spare wheel": "185/65 R15 (D=380.2 mm) Steel (All trims)",
+          "Tyre Type": "Tubeless"
+        },
+        "Engine": {
+          "Engine Type": "1.5 l Turbo GDi Petrol",
+          "Displacement(cm3)": "1 482",
+          "Max. Power": "117.5 kW (160 PS) @ 5 500 r/min",
+          "Max. Torque": "253 Nm (25.8 kgm) @ 1 500-3 500 r/min"
+        },
+        "Transmission": {
+          "Transmission Type": "6-Speed manual & 7-Speed DCT"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson strut with coil spring",
+          "Suspension Rear": "Coupled torsion beam axle with coil spring",
+          "Suspension Shock Absorber": "Gas Type"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum (HX 2, HX 4, HX 6, HX 6+, HX 8) / Disc (HX 8 Turbo DCT, HX 10 iVT, HX 10 Turbo DCT)"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Tank Capacity": "45 l"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Driver & passenger",
+          "Airbag – Side & curtain",
+          "Hill-start assist control (HAC)",
+          "Electronic stability control (ESC)",
+          "Vehicle stability management (VSM)",
+          "ABS (Anti-lock braking system) with EBD",
+          "Emergency stop signal (ESS)",
+          "Emergency stop signal (ESS) – Rear parking sensors",
+          "Parking assist – Rear view camera",
+          "Parking assist – Front parking sensors",
+          "Driver rear view monitor (DRVM)",
+          "Tyre pressure monitoring system (TPMS) highline",
+          "Inside rear view mirror – Electro chromic mirror (ECM) with telematics switches",
+          "Automatic headlamps",
+          "Headlamp escort function",
+          "Central locking",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Keyless entry – Smart key with push button start",
+          "Rear defogger with timer",
+          "Seatbelt reminder (all seats)",
+          "Height adjustable front seat belts",
+          "Immobilizer",
+          "Dual horn",
+          "ISOFIX",
+          "Burglar alarm"
+        ],
+        "Exterior": [
+          "Dual LED projector headlamps"
+        ],
+        "Lighting": [
+          "LED positioning lamp & DRLs",
+          "LED tail lamps",
+          "Rear spoiler",
+          "Black chrome radiator grille",
+          "Satin chrome window belt line",
+          "Outside door handles – Satin chrome",
+          "Shark fin antenna"
+        ],
+        "Interior color theme": [
+          "Seat upholstery – Leather^^",
+          "D-cut steering wheel",
+          "Driver seat adjust – Electric 8-way",
+          "Driver seat adjust – Memory function",
+          "Passenger seat adjust – Steering wheel",
+          "Leather^^ pack – Gear knob",
+          "Sliding front center armrest with storage",
+          "Rear center armrest with cup holders",
+          "Height adjustable – Front",
+          "headrest – Rear"
+        ],
+        "Infotainment system": [
+          "26.03 cm (10.25\") HD audio video navigation system",
+          "Digital cluster – Digital cluster with color TFT MID",
+          "Hyundai Bluelink (Connected car technology)",
+          "Wireless Apple CarPlay & Android Auto**",
+          "Voice recognition**",
+          "Front & rear speakers",
+          "Front tweeters",
+          "Bluetooth connectivity",
+          "Bose premium sound 8 speaker system",
+          "Steering wheel with audio & bluetooth controls"
+        ],
+        "Comfort & convenience": [
+          "Rear window sunshade",
+          "Front row ventilated seats",
+          "Idle stop & go (ISG)",
+          "Electric sunroof",
+          "Smart trunk",
+          "Rain sensing wipers",
+          "Power window (Front & Rear)",
+          "Air conditioning – Fully automatic temperature control",
+          "Tilt steering",
+          "Telescopic steering",
+          "Rear AC vent",
+          "Smartphone wireless charger^",
+          "Ambient lighting (dashboard & door trims)",
+          "Glovebox cooling",
+          "Cruise control",
+          "Type‑C USB Port (front & rear)",
+          "Power outlet",
+          "LED map lamp",
+          "LED room lamp",
+          "Luggage lamp",
+          "Luggage lamp – Electrically adjustable",
+          "Outside mirrors – Electric folding"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "VERNA 1.5 Turbo GDi DCT HX 10",
+      "trim": "HX 10",
+      "brochure_trim": "HX 10",
+      "fuel": "Petrol",
+      "transmission": "DCT",
+      "ex_showroom_surat": {
+        "standard": 1831200,
+        "dual_tone": 1846200
+      },
+      "engine": "1.5 l Turbo GDi Petrol",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "4 565",
+          "Overall Width (mm)": "1 765",
+          "Overall Height (mm)": "1 475",
+          "Wheelbase (mm)": "2 670",
+          "Size": "185/65 R15 (D=380.2 mm) Steel wheel with wheel cover (HX 2), Silver alloys (HX 4)",
+          "Front Tyres": "205/55 R16 (D=405.6 mm) Diamond cut alloy (HX 6, HX 6+, HX 8, HX 10), Dark grey alloy (Turbo)",
+          "Spare wheel": "185/65 R15 (D=380.2 mm) Steel (All trims)",
+          "Tyre Type": "Tubeless"
+        },
+        "Engine": {
+          "Engine Type": "1.5 l Turbo GDi Petrol",
+          "Displacement(cm3)": "1 482",
+          "Max. Power": "117.5 kW (160 PS) @ 5 500 r/min",
+          "Max. Torque": "253 Nm (25.8 kgm) @ 1 500-3 500 r/min"
+        },
+        "Transmission": {
+          "Transmission Type": "6-Speed manual & 7-Speed DCT"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson strut with coil spring",
+          "Suspension Rear": "Coupled torsion beam axle with coil spring",
+          "Suspension Shock Absorber": "Gas Type"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum (HX 2, HX 4, HX 6, HX 6+, HX 8) / Disc (HX 8 Turbo DCT, HX 10 iVT, HX 10 Turbo DCT)"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Tank Capacity": "45 l"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Driver & passenger",
+          "Airbag – Side & curtain",
+          "Airbag – Center side",
+          "Hill-start assist control (HAC)",
+          "Electronic stability control (ESC)",
+          "Vehicle stability management (VSM)",
+          "ABS (Anti-lock braking system) with EBD",
+          "Emergency stop signal (ESS)",
+          "Emergency stop signal (ESS) – Rear parking sensors",
+          "Parking assist – Rear view camera",
+          "Parking assist – Front parking sensors",
+          "Driver rear view monitor (DRVM)",
+          "Tyre pressure monitoring system (TPMS) highline",
+          "Inside rear view mirror – Electro chromic mirror (ECM) with telematics switches",
+          "Automatic headlamps",
+          "Headlamp escort function",
+          "Central locking",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Keyless entry – Smart key with push button start",
+          "Rear defogger with timer",
+          "Seatbelt reminder (all seats)",
+          "Height adjustable front seat belts",
+          "Immobilizer",
+          "Dual horn",
+          "ISOFIX",
+          "Burglar alarm",
+          "(Advanced driver – Surround view monitor (SVM)",
+          "(Advanced driver – Blind-spot view monitor (BVM)"
+        ],
+        "Exterior": [
+          "Dual LED projector headlamps"
+        ],
+        "Lighting": [
+          "LED positioning lamp & DRLs",
+          "LED tail lamps",
+          "Rear spoiler",
+          "Black chrome radiator grille",
+          "Satin chrome window belt line",
+          "Outside door handles – Satin chrome",
+          "Shark fin antenna"
+        ],
+        "Interior color theme": [
+          "Seat upholstery – Leather^^",
+          "D-cut steering wheel",
+          "Driver seat adjust – Electric 8-way",
+          "Driver seat adjust – Memory function",
+          "Driver seat adjust – Electric 4-way",
+          "Passenger seat adjust – Electric walk-in device",
+          "Passenger seat adjust – Steering wheel",
+          "Leather^^ pack – Gear knob",
+          "Sliding front center armrest with storage",
+          "Rear center armrest with cup holders",
+          "Height adjustable – Front",
+          "headrest – Rear"
+        ],
+        "Infotainment system": [
+          "26.03 cm (10.25\") HD audio video navigation system",
+          "Digital cluster – 26.03 cm (10.25\") Multi display digital cluster",
+          "Hyundai Bluelink (Connected car technology)",
+          "Wireless Apple CarPlay & Android Auto**",
+          "Voice recognition**",
+          "Front & rear speakers",
+          "Front tweeters",
+          "Bluetooth connectivity",
+          "Bose premium sound 8 speaker system",
+          "Steering wheel with audio & bluetooth controls"
+        ],
+        "Comfort & convenience": [
+          "Rear window sunshade",
+          "Front row ventilated seats",
+          "Idle stop & go (ISG)",
+          "Electric sunroof",
+          "Smart trunk",
+          "Rain sensing wipers",
+          "Power window (Front & Rear)",
+          "Air conditioning – Fully automatic temperature control",
+          "Tilt steering",
+          "Telescopic steering",
+          "Rear AC vent",
+          "Smartphone wireless charger^",
+          "Ambient lighting (dashboard & door trims)",
+          "Glovebox cooling",
+          "Cruise control",
+          "Type‑C USB Port (front & rear)",
+          "Power outlet",
+          "LED map lamp",
+          "LED room lamp",
+          "Luggage lamp",
+          "Luggage lamp – Electrically adjustable",
+          "Outside mirrors – Electric folding"
+        ]
+      },
+      "airbags": 6
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}

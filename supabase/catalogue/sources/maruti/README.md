@@ -1,10 +1,11 @@
 # Maruti Suzuki catalogue (official data)
 
-Collected on 2026-10-30 from the official Maruti Suzuki sites (marutisuzuki.com for Arena,
-nexaexperience.com for Nexa). Prices are **ex-showroom, Surat (Gujarat)**, in ₹ lakh.
-Each `<model>.json` file has every variant with Surat prices by paint type, full
-technical specifications, the feature list by category, colours (with hex codes) and
-the official brochure link.
+Collected on 2026-10-30. Prices are **ex-showroom, Surat (Gujarat)**, in ₹ lakh.
+
+Source: the official Maruti Suzuki sites (marutisuzuki.com for Arena, nexaexperience.com for
+Nexa). Each `<model>.json` file has every variant with Surat prices by paint type, full
+technical specifications, the feature list by category, colours (with hex codes) and the
+official brochure link.
 
 **Images:** `reference_image` links point to Maruti Suzuki's own pictures. They are for
 reference only — publish them on our site only with permission from Maruti Suzuki or a
@@ -15,7 +16,7 @@ is treated as discontinued and is not included.
 
 ## Summary
 
-| # | Model | Showroom | Variants | Colours | Fuel | Transmission | Ex-showroom Surat (₹ lakh) |
+| # | Model | Showroom / type | Variants | Colours | Fuel | Transmission | Ex-showroom Surat (₹ lakh) |
 |---|---|---|---|---|---|---|---|
 | 1 | Alto K10 | Arena | 8 | 7 | CNG, Petrol | Automatic, Manual | 3.70 – 5.45 |
 | 2 | S-Presso | Arena | 8 | 7 | CNG, Petrol | Automatic, Manual | 3.50 – 5.27 |

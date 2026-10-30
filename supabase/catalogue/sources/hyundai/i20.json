@@ -1,0 +1,1867 @@
+{
+  "brand": "Hyundai",
+  "model": "i20",
+  "slug": "i20",
+  "official_page": "https://www.hyundai.com/in/en/find-a-car/i20/highlights",
+  "brochure_pdf": "https://www.hyundai.com/content/dam/hyundai/in/en/data/brochure/i20.pdf",
+  "price_city": "Surat, Gujarat",
+  "ex_showroom_min": 599700,
+  "ex_showroom_max": 1068200,
+  "fuel_types": [
+    "Petrol"
+  ],
+  "transmissions": [
+    "IVT",
+    "MT"
+  ],
+  "colours": [
+    {
+      "name": "Titanium black"
+    },
+    {
+      "name": "Fiery red"
+    },
+    {
+      "name": "Atlas white"
+    },
+    {
+      "name": "Titan grey"
+    },
+    {
+      "name": "Titan grey matte"
+    },
+    {
+      "name": "Starry night"
+    },
+    {
+      "name": "Atlas white with black roof"
+    }
+  ],
+  "engines": [
+    "1.2 Kappa Petrol"
+  ],
+  "variants": [
+    {
+      "name": "i20 1.2 Kappa MT ERA",
+      "trim": "ERA",
+      "brochure_trim": "Era",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 599700
+      },
+      "engine": "1.2 Kappa Petrol",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "3 995",
+          "Overall Width (mm)": "1 775",
+          "Overall Height (mm)": "1 505",
+          "Wheelbase (mm)": "2 580",
+          "Size": "185/70 R14 (D=354.8 mm) Steel (Era) ,185/65 R15 (D=380.2 mm) Steel (Magna) ,195/55 R16(D=405.6mm)",
+          "Front Tyres": "185/70 R14 (D=354.8 mm) Steel (Era) ,185/65 R15 (D=380.2 mm) Steel (Magna) ,195/55 R16(D=405.6mm)",
+          "Spare wheel": "185/70 R14 (D=354.8 mm) Steel (Era, Magna) ,185/65 R15 (D=380.2 mm) Steel (Sportz, Asta,Asta(O))",
+          "Tyre Type": "Tubeless"
+        },
+        "Engine": {
+          "Engine Type": "1.2 Kappa",
+          "Displacement(cm3)": "1 197",
+          "Max. Power": "61 kW (83 PS) @ 6 000 r/ min (MT) | 64.7 kW (88 PS) @ 6 000 r/ min (iVT)",
+          "Max. Torque": "114.7 Nm (11.7 kgm) @ 4 200 r/min"
+        },
+        "Transmission": {
+          "Transmission Type": "5 Speed Manual , Intelligent Vairable Transmission (IVT)"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson Strut",
+          "Suspension Rear": "Coupled Torsion Beam Axle",
+          "Suspension Shock Absorber": "Gas Type"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Tank Capacity": "37"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Airbags – Driver & passenger",
+          "Airbags – Side & curtain",
+          "Anti-lock braking system (ABS) with EBD",
+          "Electronic stability control (ESC)",
+          "Hill-start assist control (HAC)",
+          "Vehicle stability management control (VSM)",
+          "Rear parking sensors",
+          "Day & night mirror inside rear view mirror",
+          "Central locking (Door & tailgate)",
+          "Smart Pedal",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Clutch lock (MT only)",
+          "Seat belt pretensioners - driver & passenger",
+          "Child seat anchor (ISOFIX)",
+          "Speed alert system",
+          "Seatbelt reminder (All seats)",
+          "3 Point seatbelts (All seats)",
+          "Immobilizer",
+          "High mount stop lamp"
+        ],
+        "Exterior": [
+          "Headlamps – Halogen",
+          "Parametric jewel pattern grille",
+          "Parametric jewel pattern grille – Air curtain garnish",
+          "Parametric jewel pattern grille – Tailgate garnish",
+          "Painted black finish – Side Wing Spoiler",
+          "Painted black finish – Body coloured",
+          "Outside door handles – Silver finish",
+          "Skid plate – Body Colored",
+          "Roof Antenna – Pole (Micro)",
+          "Body colour bumpers",
+          "B pillar black out tape",
+          "R14 (D=354.8mm) Hub wheel covers"
+        ],
+        "Interior": [
+          "Front & rear door map pockets",
+          "Front passenger seat back pocket",
+          "Front passenger seat back pocket – 2 tone black & grey interiors with silver inserts"
+        ],
+        "Interior colour theme": [
+          "Fabric seat upholstery – 2 tone black & grey",
+          "Metal finish inside door handles",
+          "Sunglass holder",
+          "Digital cluster with TFT multi information display (MID)",
+          "Tachometer & tripmeter",
+          "Tachometer & tripmeter – Gear shift (MT Only)",
+          "Warning & Indicators – Parking sensor display",
+          "Warning & Indicators – Low fuel",
+          "Warning & Indicators – Door & tailgate ajar"
+        ],
+        "Seating": [
+          "Front seat adjustable headrest"
+        ],
+        "Comfort & Convenience": [
+          "Smart entry with push button start/stop – Manual AC",
+          "Cruise Control – Manually adjustable",
+          "Wireless charger – Front",
+          "Motor driven (electric) power steering",
+          "Tilt & telescopic steering",
+          "Clutch footrest",
+          "Passenger vanity mirror – Front (C type)",
+          "Front power outlet",
+          "Front map lamp",
+          "Battery saver"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "i20 1.2 Kappa MT Magna Executive",
+      "trim": "Magna Executive",
+      "brochure_trim": "Magna Executive",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 674600
+      },
+      "engine": "1.2 Kappa Petrol",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "3 995",
+          "Overall Width (mm)": "1 775",
+          "Overall Height (mm)": "1 505",
+          "Wheelbase (mm)": "2 580",
+          "Size": "185/70 R14 (D=354.8 mm) Steel (Era) ,185/65 R15 (D=380.2 mm) Steel (Magna) ,195/55 R16(D=405.6mm)",
+          "Front Tyres": "185/70 R14 (D=354.8 mm) Steel (Era) ,185/65 R15 (D=380.2 mm) Steel (Magna) ,195/55 R16(D=405.6mm)",
+          "Spare wheel": "185/70 R14 (D=354.8 mm) Steel (Era, Magna) ,185/65 R15 (D=380.2 mm) Steel (Sportz, Asta,Asta(O))",
+          "Tyre Type": "Tubeless"
+        },
+        "Engine": {
+          "Engine Type": "1.2 Kappa",
+          "Displacement(cm3)": "1 197",
+          "Max. Power": "61 kW (83 PS) @ 6 000 r/ min (MT) | 64.7 kW (88 PS) @ 6 000 r/ min (iVT)",
+          "Max. Torque": "114.7 Nm (11.7 kgm) @ 4 200 r/min"
+        },
+        "Transmission": {
+          "Transmission Type": "5 Speed Manual , Intelligent Vairable Transmission (IVT)"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson Strut",
+          "Suspension Rear": "Coupled Torsion Beam Axle",
+          "Suspension Shock Absorber": "Gas Type"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Tank Capacity": "37"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Airbags – Driver & passenger",
+          "Airbags – Side & curtain",
+          "Tyre pressure monitoring system (highline)",
+          "Anti-lock braking system (ABS) with EBD",
+          "Electronic stability control (ESC)",
+          "Hill-start assist control (HAC)",
+          "Vehicle stability management control (VSM)",
+          "Rear parking sensors",
+          "Day & night mirror inside rear view mirror",
+          "Automatic headlamps",
+          "Headlamp escort function",
+          "Central locking (Door & tailgate)",
+          "Smart Pedal",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Clutch lock (MT only)",
+          "Clutch lock (MT only) – Foldable Key",
+          "Seat belt pretensioners - driver & passenger",
+          "Child seat anchor (ISOFIX)",
+          "Speed alert system",
+          "Seatbelt reminder (All seats)",
+          "3 Point seatbelts (All seats)",
+          "Immobilizer",
+          "High mount stop lamp"
+        ],
+        "Exterior": [
+          "Headlamps – Halogen",
+          "Parametric jewel pattern grille",
+          "Parametric jewel pattern grille – Air curtain garnish",
+          "Parametric jewel pattern grille – Tailgate garnish",
+          "Painted black finish – Side Wing Spoiler",
+          "Painted black finish – Body coloured",
+          "Outside door handles – Silver finish",
+          "Skid plate – Body Colored",
+          "Roof Antenna – Sharkfin",
+          "Body colour bumpers",
+          "B pillar black out tape",
+          "R15 (D=380.2mm) Full wheel covers"
+        ],
+        "Interior": [
+          "Front & rear door map pockets",
+          "Front passenger seat back pocket",
+          "Front passenger seat back pocket – 2 tone black & grey interiors with silver inserts"
+        ],
+        "Interior colour theme": [
+          "Fabric seat upholstery – 2 tone black & grey",
+          "Metal finish inside door handles",
+          "Sunglass holder",
+          "Digital cluster with TFT multi information display (MID)",
+          "Tachometer & tripmeter",
+          "Tachometer & tripmeter – Gear shift (MT Only)",
+          "Tachometer & tripmeter – Low pressure warning (individual tyre)",
+          "Warning & Indicators – Parking sensor display",
+          "Warning & Indicators – Low fuel",
+          "Warning & Indicators – Door & tailgate ajar"
+        ],
+        "Seating": [
+          "Front seat adjustable headrest"
+        ],
+        "Infotainment & connectivity": [
+          "Bose premium 7 speaker system – Front & rear speakers",
+          "USB connectivity",
+          "Steering wheel with audio & bluetooth controls"
+        ],
+        "Comfort & Convenience": [
+          "Smart entry with push button start/stop – Manual AC",
+          "Outside mirrors – Electrically adjustable",
+          "Wireless charger – Front",
+          "Power windows – Rear",
+          "Power windows – Auto down (driver only)",
+          "Motor driven (electric) power steering",
+          "Tilt & telescopic steering",
+          "Clutch footrest",
+          "Passenger vanity mirror",
+          "Passenger vanity mirror – Front (C type)",
+          "Front power outlet",
+          "Front map lamp",
+          "Battery saver"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "i20 1.2 Kappa MT Magna",
+      "trim": "Magna",
+      "brochure_trim": "Magna",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 704900
+      },
+      "engine": "1.2 Kappa Petrol",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "3 995",
+          "Overall Width (mm)": "1 775",
+          "Overall Height (mm)": "1 505",
+          "Wheelbase (mm)": "2 580",
+          "Size": "185/70 R14 (D=354.8 mm) Steel (Era) ,185/65 R15 (D=380.2 mm) Steel (Magna) ,195/55 R16(D=405.6mm)",
+          "Front Tyres": "185/70 R14 (D=354.8 mm) Steel (Era) ,185/65 R15 (D=380.2 mm) Steel (Magna) ,195/55 R16(D=405.6mm)",
+          "Spare wheel": "185/70 R14 (D=354.8 mm) Steel (Era, Magna) ,185/65 R15 (D=380.2 mm) Steel (Sportz, Asta,Asta(O))",
+          "Tyre Type": "Tubeless"
+        },
+        "Engine": {
+          "Engine Type": "1.2 Kappa",
+          "Displacement(cm3)": "1 197",
+          "Max. Power": "61 kW (83 PS) @ 6 000 r/ min (MT) | 64.7 kW (88 PS) @ 6 000 r/ min (iVT)",
+          "Max. Torque": "114.7 Nm (11.7 kgm) @ 4 200 r/min"
+        },
+        "Transmission": {
+          "Transmission Type": "5 Speed Manual , Intelligent Vairable Transmission (IVT)"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson Strut",
+          "Suspension Rear": "Coupled Torsion Beam Axle",
+          "Suspension Shock Absorber": "Gas Type"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Tank Capacity": "37"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Airbags – Driver & passenger",
+          "Airbags – Side & curtain",
+          "Tyre pressure monitoring system (highline)",
+          "Anti-lock braking system (ABS) with EBD",
+          "Electronic stability control (ESC)",
+          "Hill-start assist control (HAC)",
+          "Vehicle stability management control (VSM)",
+          "Rear parking sensors",
+          "Day & night mirror inside rear view mirror",
+          "Automatic headlamps",
+          "Headlamp escort function",
+          "Central locking (Door & tailgate)",
+          "Smart Pedal",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Clutch lock (MT only)",
+          "Clutch lock (MT only) – Foldable Key",
+          "Seat belt pretensioners - driver & passenger",
+          "Child seat anchor (ISOFIX)",
+          "Speed alert system",
+          "Seatbelt reminder (All seats)",
+          "3 Point seatbelts (All seats)",
+          "Immobilizer",
+          "High mount stop lamp"
+        ],
+        "Exterior": [
+          "Headlamps – Halogen",
+          "Chrome beltline with flyback rear quarter glass – Near air curtain",
+          "Parametric jewel pattern grille",
+          "Parametric jewel pattern grille – Air curtain garnish",
+          "Parametric jewel pattern grille – Tailgate garnish",
+          "Painted black finish – Side Wing Spoiler",
+          "Painted black finish – Body coloured",
+          "Outside door handles – Silver finish",
+          "Skid plate – Body Colored",
+          "Roof Antenna – Sharkfin",
+          "Body colour bumpers",
+          "B pillar black out tape",
+          "R15 (D=380.2mm) Full wheel covers"
+        ],
+        "Interior": [
+          "Front & rear door map pockets",
+          "Front passenger seat back pocket",
+          "Front passenger seat back pocket – 2 tone black & grey interiors with silver inserts"
+        ],
+        "Interior colour theme": [
+          "Fabric seat upholstery – 2 tone black & grey",
+          "Metal finish inside door handles",
+          "Sunglass holder",
+          "Digital cluster with TFT multi information display (MID)",
+          "Tachometer & tripmeter",
+          "Tachometer & tripmeter – Gear shift (MT Only)",
+          "Tachometer & tripmeter – Low pressure warning (individual tyre)",
+          "Warning & Indicators – Parking sensor display",
+          "Warning & Indicators – Low fuel",
+          "Warning & Indicators – Door & tailgate ajar"
+        ],
+        "Seating": [
+          "Front seat adjustable headrest",
+          "Front centre console with – Fixed type armrest"
+        ],
+        "Infotainment & connectivity": [
+          "Bose premium 7 speaker system – Front & rear speakers",
+          "USB connectivity",
+          "Steering wheel with audio & bluetooth controls"
+        ],
+        "Comfort & Convenience": [
+          "Sunroof – Smart electric",
+          "Smart entry with push button start/stop – Manual AC",
+          "Outside mirrors – Electrically adjustable",
+          "Wireless charger – Front",
+          "Power windows – Rear",
+          "Power windows – Auto down (driver only)",
+          "Motor driven (electric) power steering",
+          "Rear AC vents",
+          "Tilt & telescopic steering",
+          "Clutch footrest",
+          "Passenger vanity mirror",
+          "Passenger vanity mirror – Front (C type)",
+          "USB Charger – Rear",
+          "Front power outlet",
+          "Front map lamp",
+          "Battery saver"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "i20 1.2 Kappa MT Sportz",
+      "trim": "Sportz",
+      "brochure_trim": "Sportz",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 785200
+      },
+      "engine": "1.2 Kappa Petrol",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "3 995",
+          "Overall Width (mm)": "1 775",
+          "Overall Height (mm)": "1 505",
+          "Wheelbase (mm)": "2 580",
+          "Size": "185/70 R14 (D=354.8 mm) Steel (Era) ,185/65 R15 (D=380.2 mm) Steel (Magna) ,195/55 R16(D=405.6mm)",
+          "Front Tyres": "185/70 R14 (D=354.8 mm) Steel (Era) ,185/65 R15 (D=380.2 mm) Steel (Magna) ,195/55 R16(D=405.6mm)",
+          "Spare wheel": "185/70 R14 (D=354.8 mm) Steel (Era, Magna) ,185/65 R15 (D=380.2 mm) Steel (Sportz, Asta,Asta(O))",
+          "Tyre Type": "Tubeless"
+        },
+        "Engine": {
+          "Engine Type": "1.2 Kappa",
+          "Displacement(cm3)": "1 197",
+          "Max. Power": "61 kW (83 PS) @ 6 000 r/ min (MT) | 64.7 kW (88 PS) @ 6 000 r/ min (iVT)",
+          "Max. Torque": "114.7 Nm (11.7 kgm) @ 4 200 r/min"
+        },
+        "Transmission": {
+          "Transmission Type": "5 Speed Manual , Intelligent Vairable Transmission (IVT)"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson Strut",
+          "Suspension Rear": "Coupled Torsion Beam Axle",
+          "Suspension Shock Absorber": "Gas Type"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Tank Capacity": "37"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Airbags – Driver & passenger",
+          "Airbags – Side & curtain",
+          "Tyre pressure monitoring system (highline)",
+          "Welcome function",
+          "Anti-lock braking system (ABS) with EBD",
+          "Electronic stability control (ESC)",
+          "Hill-start assist control (HAC)",
+          "Vehicle stability management control (VSM)",
+          "Rear parking sensors",
+          "Rear camera with dynamic guidelines",
+          "Day & night mirror inside rear view mirror",
+          "Driver rear view monitor (DRVM)",
+          "Automatic headlamps",
+          "Headlamp escort function",
+          "Emergency stop signal (ESS)",
+          "Central locking (Door & tailgate)",
+          "Smart Pedal",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Clutch lock (MT only)",
+          "Keyless Entry – Smart Key",
+          "Burglar alarm",
+          "Rear defogger with timer",
+          "Seat belt pretensioners - driver & passenger",
+          "Child seat anchor (ISOFIX)",
+          "Speed alert system",
+          "Seatbelt reminder (All seats)",
+          "3 Point seatbelts (All seats)",
+          "Immobilizer",
+          "High mount stop lamp"
+        ],
+        "Exterior": [
+          "Headlamps – Halogen",
+          "Z shaped LED tail lamps",
+          "Z shaped LED tail lamps – Chrome",
+          "Chrome beltline with flyback rear quarter glass",
+          "Chrome beltline with flyback rear quarter glass – Near air curtain",
+          "Parametric jewel pattern grille",
+          "Parametric jewel pattern grille – Air curtain garnish",
+          "Parametric jewel pattern grille – Tailgate garnish",
+          "Painted black finish – Side Wing Spoiler",
+          "Painted black finish – Body coloured",
+          "Outside door handles – Silver finish",
+          "Skid plate – Body Colored",
+          "Roof Antenna – Sharkfin",
+          "Body colour bumpers",
+          "B pillar black out tape",
+          "Turn indicators on outside mirrors",
+          "R15 (D=380.2mm) Full wheel covers – Dual tone"
+        ],
+        "Interior": [
+          "Front & rear door map pockets",
+          "Front passenger seat back pocket",
+          "Front passenger seat back pocket – 2 tone black & grey interiors with silver inserts"
+        ],
+        "Interior colour theme": [
+          "Fabric seat upholstery – 2 tone black & grey",
+          "Rear parcel tray",
+          "Metal finish inside door handles",
+          "Sunglass holder",
+          "Digital cluster with TFT multi information display (MID)",
+          "Tachometer & tripmeter",
+          "Tachometer & tripmeter – Gear shift (MT Only)",
+          "Tachometer & tripmeter – Low pressure warning (individual tyre)",
+          "Warning & Indicators – Parking sensor display",
+          "Warning & Indicators – Low fuel",
+          "Warning & Indicators – Door & tailgate ajar"
+        ],
+        "Seating": [
+          "Front seat adjustable headrest",
+          "Height adjustable driver seat",
+          "Front centre console with – Fixed type armrest"
+        ],
+        "Infotainment & connectivity": [
+          "Bose premium 7 speaker system – 20.32 cm (8\") touchscreen infotainment system",
+          "Bose premium 7 speaker system – Front & rear speakers",
+          "Speaker system – Front tweeters",
+          "USB connectivity",
+          "Bluetooth connectivity",
+          "Steering wheel with audio & bluetooth controls",
+          "Voice recognition**"
+        ],
+        "Comfort & Convenience": [
+          "Smart entry with push button start/stop",
+          "Air conditioning – FATC with digital display",
+          "Cruise Control",
+          "Outside mirrors – Electrically adjustable",
+          "Outside mirrors – Electric Folding with Auto Fold",
+          "Wireless charger – Front",
+          "Power windows – Rear",
+          "Power windows – Auto down (driver only)",
+          "Motor driven (electric) power steering",
+          "Rear AC vents",
+          "Tilt & telescopic steering",
+          "Clutch footrest",
+          "Passenger vanity mirror",
+          "Passenger vanity mirror – Front (C type)",
+          "USB Charger – Rear",
+          "Front power outlet",
+          "Front map lamp",
+          "Battery saver"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "i20 1.2 Kappa MT Sportz (O)",
+      "trim": "Sportz (O)",
+      "brochure_trim": "Sportz (O)",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 838700
+      },
+      "engine": "1.2 Kappa Petrol",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "3 995",
+          "Overall Width (mm)": "1 775",
+          "Overall Height (mm)": "1 505",
+          "Wheelbase (mm)": "2 580",
+          "Size": "185/70 R14 (D=354.8 mm) Steel (Era) ,185/65 R15 (D=380.2 mm) Steel (Magna) ,195/55 R16(D=405.6mm)",
+          "Front Tyres": "185/70 R14 (D=354.8 mm) Steel (Era) ,185/65 R15 (D=380.2 mm) Steel (Magna) ,195/55 R16(D=405.6mm)",
+          "Spare wheel": "185/70 R14 (D=354.8 mm) Steel (Era, Magna) ,185/65 R15 (D=380.2 mm) Steel (Sportz, Asta,Asta(O))",
+          "Tyre Type": "Tubeless"
+        },
+        "Engine": {
+          "Engine Type": "1.2 Kappa",
+          "Displacement(cm3)": "1 197",
+          "Max. Power": "61 kW (83 PS) @ 6 000 r/ min (MT) | 64.7 kW (88 PS) @ 6 000 r/ min (iVT)",
+          "Max. Torque": "114.7 Nm (11.7 kgm) @ 4 200 r/min"
+        },
+        "Transmission": {
+          "Transmission Type": "5 Speed Manual , Intelligent Vairable Transmission (IVT)"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson Strut",
+          "Suspension Rear": "Coupled Torsion Beam Axle",
+          "Suspension Shock Absorber": "Gas Type"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Tank Capacity": "37"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Airbags – Driver & passenger",
+          "Airbags – Side & curtain",
+          "Tyre pressure monitoring system (highline)",
+          "Welcome function",
+          "Anti-lock braking system (ABS) with EBD",
+          "Electronic stability control (ESC)",
+          "Hill-start assist control (HAC)",
+          "Vehicle stability management control (VSM)",
+          "Rear parking sensors",
+          "Rear camera with dynamic guidelines",
+          "Day & night mirror inside rear view mirror",
+          "Driver rear view monitor (DRVM)",
+          "Automatic headlamps",
+          "Headlamp escort function",
+          "Emergency stop signal (ESS)",
+          "Central locking (Door & tailgate)",
+          "Smart Pedal",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Clutch lock (MT only)",
+          "Keyless Entry – Smart Key",
+          "Burglar alarm",
+          "Rear defogger with timer",
+          "Seat belt pretensioners - driver & passenger",
+          "Child seat anchor (ISOFIX)",
+          "Speed alert system",
+          "Seatbelt reminder (All seats)",
+          "3 Point seatbelts (All seats)",
+          "Immobilizer",
+          "High mount stop lamp"
+        ],
+        "Exterior": [
+          "Headlamps – Halogen",
+          "Z shaped LED tail lamps",
+          "Z shaped LED tail lamps – Chrome",
+          "Chrome beltline with flyback rear quarter glass",
+          "Chrome beltline with flyback rear quarter glass – Near air curtain",
+          "Parametric jewel pattern grille",
+          "Parametric jewel pattern grille – Air curtain garnish",
+          "Parametric jewel pattern grille – Tailgate garnish",
+          "Painted black finish – Side Wing Spoiler",
+          "Painted black finish – Body coloured",
+          "Outside door handles – Silver finish",
+          "Skid plate – Body Colored",
+          "Roof Antenna – Sharkfin",
+          "Body colour bumpers",
+          "B pillar black out tape",
+          "Turn indicators on outside mirrors",
+          "R15 (D=380.2mm) Full wheel covers – Dual tone"
+        ],
+        "Interior": [
+          "Front & rear door map pockets",
+          "Front passenger seat back pocket",
+          "Front passenger seat back pocket – 2 tone black & grey interiors with silver inserts"
+        ],
+        "Interior colour theme": [
+          "Fabric seat upholstery – 2 tone black & grey",
+          "Door armrest covering (leather*)",
+          "Rear parcel tray",
+          "Metal finish inside door handles",
+          "Sunglass holder",
+          "Digital cluster with TFT multi information display (MID)",
+          "Tachometer & tripmeter",
+          "Tachometer & tripmeter – Gear shift (MT Only)",
+          "Tachometer & tripmeter – Low pressure warning (individual tyre)",
+          "Warning & Indicators – Parking sensor display",
+          "Warning & Indicators – Low fuel",
+          "Warning & Indicators – Door & tailgate ajar"
+        ],
+        "Seating": [
+          "Front seat adjustable headrest",
+          "Height adjustable driver seat",
+          "Front centre console with – Fixed type armrest"
+        ],
+        "Infotainment & connectivity": [
+          "Bose premium 7 speaker system",
+          "Bose premium 7 speaker system – 20.32 cm (8\") touchscreen infotainment system",
+          "Bose premium 7 speaker system – Front & rear speakers",
+          "Speaker system – Front tweeters",
+          "Speaker system – Sub-woofer",
+          "USB connectivity",
+          "Bluetooth connectivity",
+          "Steering wheel with audio & bluetooth controls",
+          "Voice recognition**"
+        ],
+        "Comfort & Convenience": [
+          "Sunroof – Smart electric",
+          "Smart entry with push button start/stop",
+          "Air conditioning – FATC with digital display",
+          "Cruise Control",
+          "Outside mirrors – Electrically adjustable",
+          "Outside mirrors – Electric Folding with Auto Fold",
+          "Wireless charger – Front",
+          "Power windows – Rear",
+          "Power windows – Auto down (driver only)",
+          "Motor driven (electric) power steering",
+          "Rear AC vents",
+          "Tilt & telescopic steering",
+          "Clutch footrest",
+          "Passenger vanity mirror",
+          "Passenger vanity mirror – Front (C type)",
+          "USB Charger – Rear",
+          "Front power outlet",
+          "Front map lamp",
+          "Battery saver"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "i20 1.2 Kappa MT Sportz (O) Knight Edition",
+      "trim": "Sportz (O) Knight Edition",
+      "brochure_trim": "Sportz (O) Knight",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 847700
+      },
+      "engine": "1.2 Kappa Petrol",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "3 995",
+          "Overall Width (mm)": "1 775",
+          "Overall Height (mm)": "1 505",
+          "Wheelbase (mm)": "2 580",
+          "Size": "185/70 R14 (D=354.8 mm) Steel (Era) ,185/65 R15 (D=380.2 mm) Steel (Magna) ,195/55 R16(D=405.6mm)",
+          "Front Tyres": "185/70 R14 (D=354.8 mm) Steel (Era) ,185/65 R15 (D=380.2 mm) Steel (Magna) ,195/55 R16(D=405.6mm)",
+          "Spare wheel": "185/70 R14 (D=354.8 mm) Steel (Era, Magna) ,185/65 R15 (D=380.2 mm) Steel (Sportz, Asta,Asta(O))",
+          "Tyre Type": "Tubeless"
+        },
+        "Engine": {
+          "Engine Type": "1.2 Kappa",
+          "Displacement(cm3)": "1 197",
+          "Max. Power": "61 kW (83 PS) @ 6 000 r/ min (MT) | 64.7 kW (88 PS) @ 6 000 r/ min (iVT)",
+          "Max. Torque": "114.7 Nm (11.7 kgm) @ 4 200 r/min"
+        },
+        "Transmission": {
+          "Transmission Type": "5 Speed Manual , Intelligent Vairable Transmission (IVT)"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson Strut",
+          "Suspension Rear": "Coupled Torsion Beam Axle",
+          "Suspension Shock Absorber": "Gas Type"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Tank Capacity": "37"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Airbags – Driver & passenger",
+          "Airbags – Side & curtain",
+          "Tyre pressure monitoring system (highline)",
+          "Welcome function",
+          "Anti-lock braking system (ABS) with EBD",
+          "Electronic stability control (ESC)",
+          "Hill-start assist control (HAC)",
+          "Vehicle stability management control (VSM)",
+          "Rear parking sensors",
+          "Rear camera with dynamic guidelines",
+          "Day & night mirror inside rear view mirror",
+          "Driver rear view monitor (DRVM)",
+          "Automatic headlamps",
+          "Headlamp escort function",
+          "Emergency stop signal (ESS)",
+          "Central locking (Door & tailgate)",
+          "Smart Pedal",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Clutch lock (MT only)",
+          "Keyless Entry – Smart Key",
+          "Burglar alarm",
+          "Rear defogger with timer",
+          "Seat belt pretensioners - driver & passenger",
+          "Child seat anchor (ISOFIX)",
+          "Speed alert system",
+          "Seatbelt reminder (All seats)",
+          "3 Point seatbelts (All seats)",
+          "Immobilizer",
+          "High mount stop lamp"
+        ],
+        "Exterior": [
+          "Headlamps – Halogen",
+          "Z shaped LED tail lamps",
+          "Tail lamps connecting garnish – Dark chrome",
+          "Chrome beltline with flyback rear quarter glass – Near air curtain",
+          "Parametric jewel pattern grille",
+          "Parametric jewel pattern grille – Air curtain garnish",
+          "Parametric jewel pattern grille – Tailgate garnish",
+          "Painted black finish – Sporty tailgate spoiler with side wings",
+          "Painted black finish – Body coloured",
+          "Skid plate – Black (Painted)",
+          "Roof Antenna – Sharkfin",
+          "Body colour bumpers",
+          "B pillar black out tape",
+          "Turn indicators on outside mirrors",
+          "Red brake calipers",
+          "Exclusive knight emblem"
+        ],
+        "Interior": [
+          "Front & rear door map pockets",
+          "Front passenger seat back pocket"
+        ],
+        "Interior colour theme": [
+          "All black interiors with brass coloured inserts",
+          "Fabric seat upholstery – All black with brass coloured highlights",
+          "Door armrest covering (leather*)",
+          "Sporty metal pedals",
+          "Rear parcel tray",
+          "Metal finish inside door handles",
+          "Sunglass holder",
+          "Digital cluster with TFT multi information display (MID)",
+          "Tachometer & tripmeter",
+          "Tachometer & tripmeter – Gear shift (MT Only)",
+          "Tachometer & tripmeter – Low pressure warning (individual tyre)",
+          "Warning & Indicators – Parking sensor display",
+          "Warning & Indicators – Low fuel",
+          "Warning & Indicators – Door & tailgate ajar"
+        ],
+        "Seating": [
+          "Front seat adjustable headrest",
+          "Height adjustable driver seat",
+          "Front centre console with – Fixed type armrest"
+        ],
+        "Infotainment & connectivity": [
+          "Bose premium 7 speaker system",
+          "Bose premium 7 speaker system – 20.32 cm (8\") touchscreen infotainment system",
+          "Bose premium 7 speaker system – Front & rear speakers",
+          "Speaker system – Front tweeters",
+          "Speaker system – Sub-woofer",
+          "USB connectivity",
+          "Bluetooth connectivity",
+          "Steering wheel with audio & bluetooth controls",
+          "Voice recognition**"
+        ],
+        "Comfort & Convenience": [
+          "Sunroof – Smart electric",
+          "Smart entry with push button start/stop",
+          "Air conditioning – FATC with digital display",
+          "Cruise Control",
+          "Outside mirrors – Electrically adjustable",
+          "Outside mirrors – Electric Folding with Auto Fold",
+          "Wireless charger – Front",
+          "Power windows – Rear",
+          "Power windows – Auto down (driver only)",
+          "Motor driven (electric) power steering",
+          "Rear AC vents",
+          "Tilt & telescopic steering",
+          "Clutch footrest",
+          "Passenger vanity mirror",
+          "Passenger vanity mirror – Front (C type)",
+          "USB Charger – Rear",
+          "Front power outlet",
+          "Front map lamp",
+          "Battery saver"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "i20 1.2 Kappa MT ASTA",
+      "trim": "ASTA",
+      "brochure_trim": "Asta",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 871200
+      },
+      "engine": "1.2 Kappa Petrol",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "3 995",
+          "Overall Width (mm)": "1 775",
+          "Overall Height (mm)": "1 505",
+          "Wheelbase (mm)": "2 580",
+          "Size": "185/70 R14 (D=354.8 mm) Steel (Era) ,185/65 R15 (D=380.2 mm) Steel (Magna) ,195/55 R16(D=405.6mm)",
+          "Front Tyres": "185/70 R14 (D=354.8 mm) Steel (Era) ,185/65 R15 (D=380.2 mm) Steel (Magna) ,195/55 R16(D=405.6mm)",
+          "Spare wheel": "185/70 R14 (D=354.8 mm) Steel (Era, Magna) ,185/65 R15 (D=380.2 mm) Steel (Sportz, Asta,Asta(O))",
+          "Tyre Type": "Tubeless"
+        },
+        "Engine": {
+          "Engine Type": "1.2 Kappa",
+          "Displacement(cm3)": "1 197",
+          "Max. Power": "61 kW (83 PS) @ 6 000 r/ min (MT) | 64.7 kW (88 PS) @ 6 000 r/ min (iVT)",
+          "Max. Torque": "114.7 Nm (11.7 kgm) @ 4 200 r/min"
+        },
+        "Transmission": {
+          "Transmission Type": "5 Speed Manual , Intelligent Vairable Transmission (IVT)"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson Strut",
+          "Suspension Rear": "Coupled Torsion Beam Axle",
+          "Suspension Shock Absorber": "Gas Type"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Tank Capacity": "37"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Airbags – Driver & passenger",
+          "Airbags – Side & curtain",
+          "Tyre pressure monitoring system (highline)",
+          "Welcome function",
+          "Anti-lock braking system (ABS) with EBD",
+          "Electronic stability control (ESC)",
+          "Hill-start assist control (HAC)",
+          "Vehicle stability management control (VSM)",
+          "Rear parking sensors",
+          "Rear camera with dynamic guidelines",
+          "Day & night mirror inside rear view mirror",
+          "Driver rear view monitor (DRVM)",
+          "Automatic headlamps",
+          "Headlamp escort function",
+          "Emergency stop signal (ESS)",
+          "Central locking (Door & tailgate)",
+          "Smart Pedal",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Clutch lock (MT only)",
+          "Keyless Entry – Smart Key",
+          "Burglar alarm",
+          "Rear defogger with timer",
+          "Seat belt pretensioners - driver & passenger",
+          "Child seat anchor (ISOFIX)",
+          "Speed alert system",
+          "Seatbelt reminder (All seats)",
+          "3 Point seatbelts (All seats)",
+          "Immobilizer",
+          "High mount stop lamp"
+        ],
+        "Exterior": [
+          "Headlamps – LED MFR",
+          "Z shaped LED tail lamps",
+          "Z shaped LED tail lamps – Chrome",
+          "Chrome beltline with flyback rear quarter glass",
+          "LED daytime running lamps (DRLs) – Inside headlamp unit with positioning lamp",
+          "Parametric jewel pattern grille",
+          "Parametric jewel pattern grille – Air curtain garnish",
+          "Parametric jewel pattern grille – Tailgate garnish",
+          "Painted black finish – Side sill garnish with i20 branding",
+          "Painted black finish – Sporty tailgate spoiler with side wings",
+          "Outside door handles – Chrome",
+          "Outside door handles – Silver finish",
+          "Skid plate – Body Colored",
+          "Roof Antenna – Sharkfin",
+          "Body colour bumpers",
+          "B pillar black out tape",
+          "Turn indicators on outside mirrors",
+          "R15 (D=380.2mm) Full wheel covers – Diamond cut"
+        ],
+        "Interior": [
+          "Front & rear door map pockets",
+          "Front passenger seat back pocket",
+          "Front passenger seat back pocket – 2 tone black & grey interiors with silver inserts"
+        ],
+        "Interior colour theme": [
+          "Fabric seat upholstery – 2 tone black & grey",
+          "Crashpad - soft touch finish",
+          "Door armrest covering (leather*)",
+          "Door armrest covering (leather*) – Blue",
+          "Rear parcel tray",
+          "Metal finish inside door handles",
+          "Leather* wrapped gear knob",
+          "Leather* wrapped steering wheel",
+          "Sunglass holder",
+          "Digital cluster with TFT multi information display (MID)",
+          "Tachometer & tripmeter",
+          "Tachometer & tripmeter – Gear shift (MT Only)",
+          "Tachometer & tripmeter – Low pressure warning (individual tyre)",
+          "Warning & Indicators – Parking sensor display",
+          "Warning & Indicators – Low fuel",
+          "Warning & Indicators – Door & tailgate ajar"
+        ],
+        "Seating": [
+          "Front seat adjustable headrest",
+          "Height adjustable driver seat",
+          "storage and armrest – Sliding type armrest"
+        ],
+        "Infotainment & connectivity": [
+          "Bose premium 7 speaker system",
+          "Bose premium 7 speaker system – 20.32 cm (8\") touchscreen infotainment system",
+          "Bose premium 7 speaker system – Front & rear speakers",
+          "Speaker system – Front tweeters",
+          "Speaker system – Sub-woofer",
+          "USB connectivity",
+          "Bluetooth connectivity",
+          "Steering wheel with audio & bluetooth controls",
+          "Voice recognition**"
+        ],
+        "Comfort & Convenience": [
+          "Sunroof – Smart electric",
+          "Smart entry with push button start/stop",
+          "Air conditioning – FATC with digital display",
+          "Cruise Control",
+          "Outside mirrors – Electrically adjustable",
+          "Outside mirrors – Electric Folding with Auto Fold",
+          "Wireless charger",
+          "Wireless charger – Front",
+          "Power windows – Rear",
+          "Power windows – Auto up/down with pinch guard (driver only)",
+          "Motor driven (electric) power steering",
+          "Rear AC vents",
+          "Tilt & telescopic steering",
+          "Rear wiper & washer",
+          "Clutch footrest",
+          "Passenger vanity mirror",
+          "Passenger vanity mirror – Front (C type)",
+          "USB Charger – Rear",
+          "Front power outlet",
+          "Front map lamp",
+          "Luggage lamp",
+          "Battery saver"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "i20 1.2 Kappa IVT Sportz",
+      "trim": "Sportz",
+      "brochure_trim": "Sportz",
+      "fuel": "Petrol",
+      "transmission": "IVT",
+      "ex_showroom_surat": {
+        "standard": 886200
+      },
+      "engine": "1.2 Kappa Petrol",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "3 995",
+          "Overall Width (mm)": "1 775",
+          "Overall Height (mm)": "1 505",
+          "Wheelbase (mm)": "2 580",
+          "Size": "185/70 R14 (D=354.8 mm) Steel (Era) ,185/65 R15 (D=380.2 mm) Steel (Magna) ,195/55 R16(D=405.6mm)",
+          "Front Tyres": "185/70 R14 (D=354.8 mm) Steel (Era) ,185/65 R15 (D=380.2 mm) Steel (Magna) ,195/55 R16(D=405.6mm)",
+          "Spare wheel": "185/70 R14 (D=354.8 mm) Steel (Era, Magna) ,185/65 R15 (D=380.2 mm) Steel (Sportz, Asta,Asta(O))",
+          "Tyre Type": "Tubeless"
+        },
+        "Engine": {
+          "Engine Type": "1.2 Kappa",
+          "Displacement(cm3)": "1 197",
+          "Max. Power": "61 kW (83 PS) @ 6 000 r/ min (MT) | 64.7 kW (88 PS) @ 6 000 r/ min (iVT)",
+          "Max. Torque": "114.7 Nm (11.7 kgm) @ 4 200 r/min"
+        },
+        "Transmission": {
+          "Transmission Type": "5 Speed Manual , Intelligent Vairable Transmission (IVT)"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson Strut",
+          "Suspension Rear": "Coupled Torsion Beam Axle",
+          "Suspension Shock Absorber": "Gas Type"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Tank Capacity": "37"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Airbags – Driver & passenger",
+          "Airbags – Side & curtain",
+          "Tyre pressure monitoring system (highline)",
+          "Welcome function",
+          "Anti-lock braking system (ABS) with EBD",
+          "Electronic stability control (ESC)",
+          "Hill-start assist control (HAC)",
+          "Vehicle stability management control (VSM)",
+          "Rear parking sensors",
+          "Rear camera with dynamic guidelines",
+          "Day & night mirror inside rear view mirror",
+          "Driver rear view monitor (DRVM)",
+          "Automatic headlamps",
+          "Headlamp escort function",
+          "Emergency stop signal (ESS)",
+          "Central locking (Door & tailgate)",
+          "Smart Pedal",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Clutch lock (MT only)",
+          "Keyless Entry – Smart Key",
+          "Burglar alarm",
+          "Rear defogger with timer",
+          "Seat belt pretensioners - driver & passenger",
+          "Child seat anchor (ISOFIX)",
+          "Speed alert system",
+          "Seatbelt reminder (All seats)",
+          "3 Point seatbelts (All seats)",
+          "Immobilizer",
+          "High mount stop lamp"
+        ],
+        "Exterior": [
+          "Headlamps – Halogen",
+          "Z shaped LED tail lamps",
+          "Z shaped LED tail lamps – Chrome",
+          "Chrome beltline with flyback rear quarter glass",
+          "Chrome beltline with flyback rear quarter glass – Near air curtain",
+          "Parametric jewel pattern grille",
+          "Parametric jewel pattern grille – Air curtain garnish",
+          "Parametric jewel pattern grille – Tailgate garnish",
+          "Painted black finish – Side Wing Spoiler",
+          "Painted black finish – Body coloured",
+          "Outside door handles – Silver finish",
+          "Skid plate – Body Colored",
+          "Roof Antenna – Sharkfin",
+          "Body colour bumpers",
+          "B pillar black out tape",
+          "Turn indicators on outside mirrors",
+          "R15 (D=380.2mm) Full wheel covers – Dual tone"
+        ],
+        "Interior": [
+          "Front & rear door map pockets",
+          "Front passenger seat back pocket",
+          "Front passenger seat back pocket – 2 tone black & grey interiors with silver inserts"
+        ],
+        "Interior colour theme": [
+          "Fabric seat upholstery – 2 tone black & grey",
+          "Rear parcel tray",
+          "Metal finish inside door handles",
+          "Sunglass holder",
+          "Digital cluster with TFT multi information display (MID)",
+          "Tachometer & tripmeter",
+          "Tachometer & tripmeter – Gear shift (MT Only)",
+          "Tachometer & tripmeter – Low pressure warning (individual tyre)",
+          "Warning & Indicators – Parking sensor display",
+          "Warning & Indicators – Low fuel",
+          "Warning & Indicators – Door & tailgate ajar"
+        ],
+        "Seating": [
+          "Front seat adjustable headrest",
+          "Height adjustable driver seat",
+          "Front centre console with – Fixed type armrest"
+        ],
+        "Infotainment & connectivity": [
+          "Bose premium 7 speaker system – 20.32 cm (8\") touchscreen infotainment system",
+          "Bose premium 7 speaker system – Front & rear speakers",
+          "Speaker system – Front tweeters",
+          "USB connectivity",
+          "Bluetooth connectivity",
+          "Steering wheel with audio & bluetooth controls",
+          "Voice recognition**"
+        ],
+        "Comfort & Convenience": [
+          "Smart entry with push button start/stop",
+          "Air conditioning – FATC with digital display",
+          "Cruise Control",
+          "Outside mirrors – Electrically adjustable",
+          "Outside mirrors – Electric Folding with Auto Fold",
+          "Wireless charger – Front",
+          "Power windows – Rear",
+          "Power windows – Auto down (driver only)",
+          "Motor driven (electric) power steering",
+          "Rear AC vents",
+          "Tilt & telescopic steering",
+          "Clutch footrest",
+          "Passenger vanity mirror",
+          "Passenger vanity mirror – Front (C type)",
+          "USB Charger – Rear",
+          "Front power outlet",
+          "Front map lamp",
+          "Battery saver"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "i20 1.2 Kappa MT ASTA (O)",
+      "trim": "ASTA (O)",
+      "brochure_trim": "Asta (O)",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 924700,
+        "dual_tone": 939700
+      },
+      "engine": "1.2 Kappa Petrol",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "3 995",
+          "Overall Width (mm)": "1 775",
+          "Overall Height (mm)": "1 505",
+          "Wheelbase (mm)": "2 580",
+          "Size": "185/70 R14 (D=354.8 mm) Steel (Era) ,185/65 R15 (D=380.2 mm) Steel (Magna) ,195/55 R16(D=405.6mm)",
+          "Front Tyres": "185/70 R14 (D=354.8 mm) Steel (Era) ,185/65 R15 (D=380.2 mm) Steel (Magna) ,195/55 R16(D=405.6mm)",
+          "Spare wheel": "185/70 R14 (D=354.8 mm) Steel (Era, Magna) ,185/65 R15 (D=380.2 mm) Steel (Sportz, Asta,Asta(O))",
+          "Tyre Type": "Tubeless"
+        },
+        "Engine": {
+          "Engine Type": "1.2 Kappa",
+          "Displacement(cm3)": "1 197",
+          "Max. Power": "61 kW (83 PS) @ 6 000 r/ min (MT) | 64.7 kW (88 PS) @ 6 000 r/ min (iVT)",
+          "Max. Torque": "114.7 Nm (11.7 kgm) @ 4 200 r/min"
+        },
+        "Transmission": {
+          "Transmission Type": "5 Speed Manual , Intelligent Vairable Transmission (IVT)"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson Strut",
+          "Suspension Rear": "Coupled Torsion Beam Axle",
+          "Suspension Shock Absorber": "Gas Type"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Tank Capacity": "37"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Airbags – Driver & passenger",
+          "Airbags – Side & curtain",
+          "Tyre pressure monitoring system (highline)",
+          "Puddle lamps",
+          "Welcome function",
+          "Anti-lock braking system (ABS) with EBD",
+          "Electronic stability control (ESC)",
+          "Hill-start assist control (HAC)",
+          "Vehicle stability management control (VSM)",
+          "Rear parking sensors",
+          "Rear camera with dynamic guidelines",
+          "Day & night mirror inside rear view mirror",
+          "Bluelink buttons (SOS, RSA & Bluelink) on inside rear view mirror",
+          "Driver rear view monitor (DRVM)",
+          "Automatic headlamps",
+          "Headlamp escort function",
+          "Emergency stop signal (ESS)",
+          "Central locking (Door & tailgate)",
+          "Smart Pedal",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Clutch lock (MT only)",
+          "Keyless Entry – Smart Key",
+          "Burglar alarm",
+          "Rear defogger with timer",
+          "Seat belt pretensioners - driver & passenger",
+          "Child seat anchor (ISOFIX)",
+          "Height Adjustment Seat Belt - Driver & Passenger",
+          "Speed alert system",
+          "Seatbelt reminder (All seats)",
+          "3 Point seatbelts (All seats)",
+          "Immobilizer",
+          "High mount stop lamp"
+        ],
+        "Exterior": [
+          "Headlamps – LED MFR",
+          "Z shaped LED tail lamps",
+          "Z shaped LED tail lamps – Chrome",
+          "Chrome beltline with flyback rear quarter glass",
+          "LED daytime running lamps (DRLs) – Inside headlamp unit with positioning lamp",
+          "Parametric jewel pattern grille",
+          "Parametric jewel pattern grille – Air curtain garnish",
+          "Parametric jewel pattern grille – Tailgate garnish",
+          "Painted black finish – Side sill garnish with i20 branding",
+          "Painted black finish – Sporty tailgate spoiler with side wings",
+          "Outside door handles – Chrome",
+          "Outside door handles – Silver finish",
+          "Skid plate – Body Colored",
+          "Roof Antenna – Sharkfin",
+          "Body colour bumpers",
+          "B pillar black out tape",
+          "Turn indicators on outside mirrors",
+          "R15 (D=380.2mm) Full wheel covers – Diamond cut"
+        ],
+        "Interior": [
+          "Front & rear door map pockets",
+          "Front passenger seat back pocket",
+          "Front passenger seat back pocket – 2 tone black & grey interiors with silver inserts"
+        ],
+        "Interior colour theme": [
+          "Fabric + leather* – 2 tone black & grey",
+          "Crashpad - soft touch finish",
+          "Door armrest covering (leather*)",
+          "Door armrest covering (leather*) – Blue",
+          "Rear parcel tray",
+          "Metal finish inside door handles",
+          "Leather* wrapped gear knob",
+          "Leather* wrapped steering wheel",
+          "Sunglass holder",
+          "Digital cluster with TFT multi information display (MID)",
+          "Tachometer & tripmeter",
+          "Tachometer & tripmeter – Gear shift (MT Only)",
+          "Tachometer & tripmeter – Low pressure warning (individual tyre)",
+          "Warning & Indicators – Parking sensor display",
+          "Warning & Indicators – Low fuel",
+          "Warning & Indicators – Door & tailgate ajar"
+        ],
+        "Seating": [
+          "Front seat adjustable headrest",
+          "Height adjustable driver seat",
+          "Rear seat adjustable headrest (LH & RH)",
+          "storage and armrest – Sliding type armrest"
+        ],
+        "Infotainment & connectivity": [
+          "Bose premium 7 speaker system",
+          "Bose premium 7 speaker system – Ambient sounds of nature",
+          "Bose premium 7 speaker system – Front & rear speakers",
+          "Speaker system – Front tweeters",
+          "Speaker system – Sub-woofer",
+          "USB connectivity",
+          "Bluetooth connectivity",
+          "Steering wheel with audio & bluetooth controls",
+          "Voice recognition**",
+          "Hyundai bluelink with over the air (OTA) map updates ##",
+          "Bluelink integrated smart watch app",
+          "Home to car (H2C) with Alexa^^^"
+        ],
+        "Comfort & Convenience": [
+          "Sunroof – Voice enabled smart electric",
+          "Smart entry with push button start/stop",
+          "Air conditioning – FATC with digital display",
+          "Cruise Control",
+          "Outside mirrors – Electrically adjustable",
+          "Outside mirrors – Electric Folding with Auto Fold",
+          "Wireless charger",
+          "Wireless charger – Front",
+          "Power windows – Rear",
+          "Power windows – Auto up/down with pinch guard (driver only)",
+          "Motor driven (electric) power steering",
+          "Rear AC vents",
+          "Tilt & telescopic steering",
+          "Rear wiper & washer",
+          "Clutch footrest",
+          "Passenger vanity mirror",
+          "Passenger vanity mirror – Front (C type)",
+          "USB Charger – Rear",
+          "Front power outlet",
+          "Front map lamp",
+          "Luggage lamp",
+          "Battery saver"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "i20 1.2 Kappa IVT Sportz (O)",
+      "trim": "Sportz (O)",
+      "brochure_trim": "Sportz (O)",
+      "fuel": "Petrol",
+      "transmission": "IVT",
+      "ex_showroom_surat": {
+        "standard": 930700
+      },
+      "engine": "1.2 Kappa Petrol",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "3 995",
+          "Overall Width (mm)": "1 775",
+          "Overall Height (mm)": "1 505",
+          "Wheelbase (mm)": "2 580",
+          "Size": "185/70 R14 (D=354.8 mm) Steel (Era) ,185/65 R15 (D=380.2 mm) Steel (Magna) ,195/55 R16(D=405.6mm)",
+          "Front Tyres": "185/70 R14 (D=354.8 mm) Steel (Era) ,185/65 R15 (D=380.2 mm) Steel (Magna) ,195/55 R16(D=405.6mm)",
+          "Spare wheel": "185/70 R14 (D=354.8 mm) Steel (Era, Magna) ,185/65 R15 (D=380.2 mm) Steel (Sportz, Asta,Asta(O))",
+          "Tyre Type": "Tubeless"
+        },
+        "Engine": {
+          "Engine Type": "1.2 Kappa",
+          "Displacement(cm3)": "1 197",
+          "Max. Power": "61 kW (83 PS) @ 6 000 r/ min (MT) | 64.7 kW (88 PS) @ 6 000 r/ min (iVT)",
+          "Max. Torque": "114.7 Nm (11.7 kgm) @ 4 200 r/min"
+        },
+        "Transmission": {
+          "Transmission Type": "5 Speed Manual , Intelligent Vairable Transmission (IVT)"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson Strut",
+          "Suspension Rear": "Coupled Torsion Beam Axle",
+          "Suspension Shock Absorber": "Gas Type"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Tank Capacity": "37"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Airbags – Driver & passenger",
+          "Airbags – Side & curtain",
+          "Tyre pressure monitoring system (highline)",
+          "Welcome function",
+          "Anti-lock braking system (ABS) with EBD",
+          "Electronic stability control (ESC)",
+          "Hill-start assist control (HAC)",
+          "Vehicle stability management control (VSM)",
+          "Rear parking sensors",
+          "Rear camera with dynamic guidelines",
+          "Day & night mirror inside rear view mirror",
+          "Driver rear view monitor (DRVM)",
+          "Automatic headlamps",
+          "Headlamp escort function",
+          "Emergency stop signal (ESS)",
+          "Central locking (Door & tailgate)",
+          "Smart Pedal",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Clutch lock (MT only)",
+          "Keyless Entry – Smart Key",
+          "Burglar alarm",
+          "Rear defogger with timer",
+          "Seat belt pretensioners - driver & passenger",
+          "Child seat anchor (ISOFIX)",
+          "Speed alert system",
+          "Seatbelt reminder (All seats)",
+          "3 Point seatbelts (All seats)",
+          "Immobilizer",
+          "High mount stop lamp"
+        ],
+        "Exterior": [
+          "Headlamps – Halogen",
+          "Z shaped LED tail lamps",
+          "Z shaped LED tail lamps – Chrome",
+          "Chrome beltline with flyback rear quarter glass",
+          "Chrome beltline with flyback rear quarter glass – Near air curtain",
+          "Parametric jewel pattern grille",
+          "Parametric jewel pattern grille – Air curtain garnish",
+          "Parametric jewel pattern grille – Tailgate garnish",
+          "Painted black finish – Side Wing Spoiler",
+          "Painted black finish – Body coloured",
+          "Outside door handles – Silver finish",
+          "Skid plate – Body Colored",
+          "Roof Antenna – Sharkfin",
+          "Body colour bumpers",
+          "B pillar black out tape",
+          "Turn indicators on outside mirrors",
+          "R15 (D=380.2mm) Full wheel covers – Dual tone"
+        ],
+        "Interior": [
+          "Front & rear door map pockets",
+          "Front passenger seat back pocket",
+          "Front passenger seat back pocket – 2 tone black & grey interiors with silver inserts"
+        ],
+        "Interior colour theme": [
+          "Fabric seat upholstery – 2 tone black & grey",
+          "Door armrest covering (leather*)",
+          "Rear parcel tray",
+          "Metal finish inside door handles",
+          "Sunglass holder",
+          "Digital cluster with TFT multi information display (MID)",
+          "Tachometer & tripmeter",
+          "Tachometer & tripmeter – Gear shift (MT Only)",
+          "Tachometer & tripmeter – Low pressure warning (individual tyre)",
+          "Warning & Indicators – Parking sensor display",
+          "Warning & Indicators – Low fuel",
+          "Warning & Indicators – Door & tailgate ajar"
+        ],
+        "Seating": [
+          "Front seat adjustable headrest",
+          "Height adjustable driver seat",
+          "Front centre console with – Fixed type armrest"
+        ],
+        "Infotainment & connectivity": [
+          "Bose premium 7 speaker system",
+          "Bose premium 7 speaker system – 20.32 cm (8\") touchscreen infotainment system",
+          "Bose premium 7 speaker system – Front & rear speakers",
+          "Speaker system – Front tweeters",
+          "Speaker system – Sub-woofer",
+          "USB connectivity",
+          "Bluetooth connectivity",
+          "Steering wheel with audio & bluetooth controls",
+          "Voice recognition**"
+        ],
+        "Comfort & Convenience": [
+          "Sunroof – Smart electric",
+          "Smart entry with push button start/stop",
+          "Air conditioning – FATC with digital display",
+          "Cruise Control",
+          "Outside mirrors – Electrically adjustable",
+          "Outside mirrors – Electric Folding with Auto Fold",
+          "Wireless charger – Front",
+          "Power windows – Rear",
+          "Power windows – Auto down (driver only)",
+          "Motor driven (electric) power steering",
+          "Rear AC vents",
+          "Tilt & telescopic steering",
+          "Clutch footrest",
+          "Passenger vanity mirror",
+          "Passenger vanity mirror – Front (C type)",
+          "USB Charger – Rear",
+          "Front power outlet",
+          "Front map lamp",
+          "Battery saver"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "i20 1.2 Kappa IVT ASTA (O)",
+      "trim": "ASTA (O)",
+      "brochure_trim": "Asta (O)",
+      "fuel": "Petrol",
+      "transmission": "IVT",
+      "ex_showroom_surat": {
+        "standard": 1043700,
+        "dual_tone": 1058700
+      },
+      "engine": "1.2 Kappa Petrol",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "3 995",
+          "Overall Width (mm)": "1 775",
+          "Overall Height (mm)": "1 505",
+          "Wheelbase (mm)": "2 580",
+          "Size": "185/70 R14 (D=354.8 mm) Steel (Era) ,185/65 R15 (D=380.2 mm) Steel (Magna) ,195/55 R16(D=405.6mm)",
+          "Front Tyres": "185/70 R14 (D=354.8 mm) Steel (Era) ,185/65 R15 (D=380.2 mm) Steel (Magna) ,195/55 R16(D=405.6mm)",
+          "Spare wheel": "185/70 R14 (D=354.8 mm) Steel (Era, Magna) ,185/65 R15 (D=380.2 mm) Steel (Sportz, Asta,Asta(O))",
+          "Tyre Type": "Tubeless"
+        },
+        "Engine": {
+          "Engine Type": "1.2 Kappa",
+          "Displacement(cm3)": "1 197",
+          "Max. Power": "61 kW (83 PS) @ 6 000 r/ min (MT) | 64.7 kW (88 PS) @ 6 000 r/ min (iVT)",
+          "Max. Torque": "114.7 Nm (11.7 kgm) @ 4 200 r/min"
+        },
+        "Transmission": {
+          "Transmission Type": "5 Speed Manual , Intelligent Vairable Transmission (IVT)"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson Strut",
+          "Suspension Rear": "Coupled Torsion Beam Axle",
+          "Suspension Shock Absorber": "Gas Type"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Tank Capacity": "37"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Airbags – Driver & passenger",
+          "Airbags – Side & curtain",
+          "Tyre pressure monitoring system (highline)",
+          "Puddle lamps",
+          "Welcome function",
+          "Anti-lock braking system (ABS) with EBD",
+          "Electronic stability control (ESC)",
+          "Hill-start assist control (HAC)",
+          "Vehicle stability management control (VSM)",
+          "Rear parking sensors",
+          "Rear camera with dynamic guidelines",
+          "Day & night mirror inside rear view mirror",
+          "Bluelink buttons (SOS, RSA & Bluelink) on inside rear view mirror",
+          "Driver rear view monitor (DRVM)",
+          "Automatic headlamps",
+          "Headlamp escort function",
+          "Emergency stop signal (ESS)",
+          "Central locking (Door & tailgate)",
+          "Smart Pedal",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Clutch lock (MT only)",
+          "Keyless Entry – Smart Key",
+          "Burglar alarm",
+          "Rear defogger with timer",
+          "Seat belt pretensioners - driver & passenger",
+          "Child seat anchor (ISOFIX)",
+          "Height Adjustment Seat Belt - Driver & Passenger",
+          "Speed alert system",
+          "Seatbelt reminder (All seats)",
+          "3 Point seatbelts (All seats)",
+          "Immobilizer",
+          "High mount stop lamp"
+        ],
+        "Exterior": [
+          "Headlamps – LED MFR",
+          "Z shaped LED tail lamps",
+          "Z shaped LED tail lamps – Chrome",
+          "Chrome beltline with flyback rear quarter glass",
+          "LED daytime running lamps (DRLs) – Inside headlamp unit with positioning lamp",
+          "Parametric jewel pattern grille",
+          "Parametric jewel pattern grille – Air curtain garnish",
+          "Parametric jewel pattern grille – Tailgate garnish",
+          "Painted black finish – Side sill garnish with i20 branding",
+          "Painted black finish – Sporty tailgate spoiler with side wings",
+          "Outside door handles – Chrome",
+          "Outside door handles – Silver finish",
+          "Skid plate – Body Colored",
+          "Roof Antenna – Sharkfin",
+          "Body colour bumpers",
+          "B pillar black out tape",
+          "Turn indicators on outside mirrors",
+          "R15 (D=380.2mm) Full wheel covers – Diamond cut"
+        ],
+        "Interior": [
+          "Front & rear door map pockets",
+          "Front passenger seat back pocket",
+          "Front passenger seat back pocket – 2 tone black & grey interiors with silver inserts"
+        ],
+        "Interior colour theme": [
+          "Fabric + leather* – 2 tone black & grey",
+          "Crashpad - soft touch finish",
+          "Door armrest covering (leather*)",
+          "Door armrest covering (leather*) – Blue",
+          "Rear parcel tray",
+          "Metal finish inside door handles",
+          "Leather* wrapped gear knob",
+          "Leather* wrapped steering wheel",
+          "Sunglass holder",
+          "Digital cluster with TFT multi information display (MID)",
+          "Tachometer & tripmeter",
+          "Tachometer & tripmeter – Gear shift (MT Only)",
+          "Tachometer & tripmeter – Low pressure warning (individual tyre)",
+          "Warning & Indicators – Parking sensor display",
+          "Warning & Indicators – Low fuel",
+          "Warning & Indicators – Door & tailgate ajar"
+        ],
+        "Seating": [
+          "Front seat adjustable headrest",
+          "Height adjustable driver seat",
+          "Rear seat adjustable headrest (LH & RH)",
+          "storage and armrest – Sliding type armrest"
+        ],
+        "Infotainment & connectivity": [
+          "Bose premium 7 speaker system",
+          "Bose premium 7 speaker system – Ambient sounds of nature",
+          "Bose premium 7 speaker system – Front & rear speakers",
+          "Speaker system – Front tweeters",
+          "Speaker system – Sub-woofer",
+          "USB connectivity",
+          "Bluetooth connectivity",
+          "Steering wheel with audio & bluetooth controls",
+          "Voice recognition**",
+          "Hyundai bluelink with over the air (OTA) map updates ##",
+          "Bluelink integrated smart watch app",
+          "Home to car (H2C) with Alexa^^^"
+        ],
+        "Comfort & Convenience": [
+          "Sunroof – Voice enabled smart electric",
+          "Smart entry with push button start/stop",
+          "Air conditioning – FATC with digital display",
+          "Cruise Control",
+          "Outside mirrors – Electrically adjustable",
+          "Outside mirrors – Electric Folding with Auto Fold",
+          "Wireless charger",
+          "Wireless charger – Front",
+          "Power windows – Rear",
+          "Power windows – Auto up/down with pinch guard (driver only)",
+          "Motor driven (electric) power steering",
+          "Rear AC vents",
+          "Tilt & telescopic steering",
+          "Rear wiper & washer",
+          "Clutch footrest",
+          "Passenger vanity mirror",
+          "Passenger vanity mirror – Front (C type)",
+          "USB Charger – Rear",
+          "Front power outlet",
+          "Front map lamp",
+          "Luggage lamp",
+          "Battery saver"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "i20 1.2 Kappa IVT ASTA (O) Knight Edition",
+      "trim": "ASTA (O) Knight Edition",
+      "brochure_trim": "Asta (O) Knight",
+      "fuel": "Petrol",
+      "transmission": "IVT",
+      "ex_showroom_surat": {
+        "standard": 1053200,
+        "dual_tone": 1068200
+      },
+      "engine": "1.2 Kappa Petrol",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "3 995",
+          "Overall Width (mm)": "1 775",
+          "Overall Height (mm)": "1 505",
+          "Wheelbase (mm)": "2 580",
+          "Size": "185/70 R14 (D=354.8 mm) Steel (Era) ,185/65 R15 (D=380.2 mm) Steel (Magna) ,195/55 R16(D=405.6mm)",
+          "Front Tyres": "185/70 R14 (D=354.8 mm) Steel (Era) ,185/65 R15 (D=380.2 mm) Steel (Magna) ,195/55 R16(D=405.6mm)",
+          "Spare wheel": "185/70 R14 (D=354.8 mm) Steel (Era, Magna) ,185/65 R15 (D=380.2 mm) Steel (Sportz, Asta,Asta(O))",
+          "Tyre Type": "Tubeless"
+        },
+        "Engine": {
+          "Engine Type": "1.2 Kappa",
+          "Displacement(cm3)": "1 197",
+          "Max. Power": "61 kW (83 PS) @ 6 000 r/ min (MT) | 64.7 kW (88 PS) @ 6 000 r/ min (iVT)",
+          "Max. Torque": "114.7 Nm (11.7 kgm) @ 4 200 r/min"
+        },
+        "Transmission": {
+          "Transmission Type": "5 Speed Manual , Intelligent Vairable Transmission (IVT)"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson Strut",
+          "Suspension Rear": "Coupled Torsion Beam Axle",
+          "Suspension Shock Absorber": "Gas Type"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Tank Capacity": "37"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Airbags – Driver & passenger",
+          "Airbags – Side & curtain",
+          "Tyre pressure monitoring system (highline)",
+          "Puddle lamps",
+          "Welcome function",
+          "Anti-lock braking system (ABS) with EBD",
+          "Electronic stability control (ESC)",
+          "Hill-start assist control (HAC)",
+          "Vehicle stability management control (VSM)",
+          "Rear parking sensors",
+          "Rear camera with dynamic guidelines",
+          "Day & night mirror inside rear view mirror",
+          "Bluelink buttons (SOS, RSA & Bluelink) on inside rear view mirror",
+          "Driver rear view monitor (DRVM)",
+          "Automatic headlamps",
+          "Headlamp escort function",
+          "Emergency stop signal (ESS)",
+          "Central locking (Door & tailgate)",
+          "Smart Pedal",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Clutch lock (MT only)",
+          "Keyless Entry – Smart Key",
+          "Burglar alarm",
+          "Rear defogger with timer",
+          "Seat belt pretensioners - driver & passenger",
+          "Child seat anchor (ISOFIX)",
+          "Height Adjustment Seat Belt - Driver & Passenger",
+          "Speed alert system",
+          "Seatbelt reminder (All seats)",
+          "3 Point seatbelts (All seats)",
+          "Immobilizer",
+          "High mount stop lamp"
+        ],
+        "Exterior": [
+          "Headlamps – LED MFR",
+          "Z shaped LED tail lamps",
+          "Tail lamps connecting garnish – Dark chrome",
+          "LED daytime running lamps (DRLs) – Inside headlamp unit with positioning lamp",
+          "Parametric jewel pattern grille",
+          "Parametric jewel pattern grille – Air curtain garnish",
+          "Parametric jewel pattern grille – Tailgate garnish",
+          "Painted black finish – Side sill garnish with i20 branding",
+          "Painted black finish – Sporty tailgate spoiler with side wings",
+          "Painted black finish – Body coloured",
+          "Skid plate – Black (Painted)",
+          "Roof Antenna – Sharkfin",
+          "Body colour bumpers",
+          "B pillar black out tape",
+          "Turn indicators on outside mirrors",
+          "R15 (D=380.2mm) Full wheel covers – Black (Painted)",
+          "Red brake calipers",
+          "Exclusive knight emblem"
+        ],
+        "Interior": [
+          "Front & rear door map pockets",
+          "Front passenger seat back pocket"
+        ],
+        "Interior colour theme": [
+          "All black interiors with brass coloured inserts",
+          "Fabric seat upholstery – All black with brass coloured highlights",
+          "Crashpad - soft touch finish",
+          "Door armrest covering (leather*)",
+          "Soothing ambient lighting – Amber",
+          "Sporty metal pedals",
+          "Rear parcel tray",
+          "Metal finish inside door handles",
+          "Leather* wrapped gear knob",
+          "Leather* wrapped steering wheel",
+          "Sunglass holder",
+          "Digital cluster with TFT multi information display (MID)",
+          "Tachometer & tripmeter",
+          "Tachometer & tripmeter – Gear shift (MT Only)",
+          "Tachometer & tripmeter – Low pressure warning (individual tyre)",
+          "Warning & Indicators – Parking sensor display",
+          "Warning & Indicators – Low fuel",
+          "Warning & Indicators – Door & tailgate ajar"
+        ],
+        "Seating": [
+          "Front seat adjustable headrest",
+          "Height adjustable driver seat",
+          "Rear seat adjustable headrest (LH & RH)",
+          "storage and armrest – Sliding type armrest"
+        ],
+        "Infotainment & connectivity": [
+          "Bose premium 7 speaker system",
+          "Bose premium 7 speaker system – Ambient sounds of nature",
+          "Bose premium 7 speaker system – Front & rear speakers",
+          "Speaker system – Front tweeters",
+          "Speaker system – Sub-woofer",
+          "USB connectivity",
+          "Bluetooth connectivity",
+          "Steering wheel with audio & bluetooth controls",
+          "Voice recognition**",
+          "Hyundai bluelink with over the air (OTA) map updates ##",
+          "Bluelink integrated smart watch app",
+          "Home to car (H2C) with Alexa^^^"
+        ],
+        "Comfort & Convenience": [
+          "Sunroof – Voice enabled smart electric",
+          "Smart entry with push button start/stop",
+          "Air conditioning – FATC with digital display",
+          "Cruise Control",
+          "Outside mirrors – Electrically adjustable",
+          "Outside mirrors – Electric Folding with Auto Fold",
+          "Wireless charger",
+          "Wireless charger – Front",
+          "Power windows – Rear",
+          "Power windows – Auto up/down with pinch guard (driver only)",
+          "Motor driven (electric) power steering",
+          "Rear AC vents",
+          "Tilt & telescopic steering",
+          "Rear wiper & washer",
+          "Clutch footrest",
+          "Passenger vanity mirror",
+          "Passenger vanity mirror – Front (C type)",
+          "USB Charger – Rear",
+          "Front power outlet",
+          "Front map lamp",
+          "Luggage lamp",
+          "Battery saver"
+        ]
+      },
+      "airbags": 6
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}

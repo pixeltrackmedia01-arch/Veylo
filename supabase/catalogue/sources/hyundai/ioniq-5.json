@@ -1,0 +1,173 @@
+{
+  "brand": "Hyundai",
+  "model": "Ioniq 5",
+  "slug": "ioniq-5",
+  "official_page": "https://www.hyundai.com/in/en/find-a-car/ioniq-5/highlights",
+  "brochure_pdf": "https://www.hyundai.com/content/dam/hyundai/in/en/data/brochure/ioniq-5.pdf",
+  "price_city": "Surat, Gujarat",
+  "ex_showroom_min": 5570600,
+  "ex_showroom_max": 5570600,
+  "fuel_types": [
+    "Electric"
+  ],
+  "transmissions": [
+    "Automatic (single-speed)"
+  ],
+  "colours": [
+    {
+      "name": "Midnight black pearl"
+    },
+    {
+      "name": "Optic white"
+    },
+    {
+      "name": "Gravity gold matte"
+    },
+    {
+      "name": "Titan grey"
+    }
+  ],
+  "engines": null,
+  "variants": [
+    {
+      "name": "Ioniq Automatic 72.6 kWh",
+      "trim": "72.6 kWh",
+      "brochure_trim": null,
+      "fuel": "Electric",
+      "transmission": "Automatic (single-speed)",
+      "ex_showroom_surat": {
+        "standard": 5570600
+      },
+      "engine": null,
+      "specifications": {
+        "Dimensions": {
+          "Overall length (mm)": "4 655",
+          "Overall width (mm)": "1 890",
+          "Overall height (mm)": "1 625",
+          "Wheelbase (mm)": "3 000"
+        },
+        "Electric motor": {
+          "Electric motor type": "Permanent magnet synchronous motor (PMSM)",
+          "Configuration": "Rear wheel drive (RWD)",
+          "Max power (kW (ps))": "168 (228.5)"
+        },
+        "High voltage battery & charging": {
+          "Battery type": "Liquid cooled lithium-ion with battery heating system",
+          "Capacity (kWh)": "84"
+        },
+        "Transmission": {
+          "Type": "Single speed reduction gear"
+        },
+        "Suspension": {
+          "Front": "McPherson strut",
+          "Rear": "Multi-link"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Disc"
+        },
+        "Wheel & tyre": {
+          "Size": "255/45 R20 (D = 512.8 mm) Aero alloy wheel",
+          "Spare tyre": "Tyre Mobility Kit (TMK)",
+          "Dimensions": "unit : mm"
+        },
+        "1 625***": {
+          "1 890": "3 000"
+        }
+      },
+      "features": {
+        "Exterior": [
+          "Parametric pixel LED headlamps & tail lamps",
+          "LED daytime running lights (DRL) & front LED accent lighting",
+          "Active air flap (AAF)",
+          "R20 (D = 512.8 mm) Aero alloy wheels",
+          "LED turn indicators on outside mirrors",
+          "Auto flush door handles",
+          "Rear spoiler with LED high mount stop lamp (HMSL)",
+          "Frunk (57 l)",
+          "Rear wiper"
+        ],
+        "Comfort & convenience": [
+          "Eco-processed leather seat upholstery",
+          "Eco-processed leather seat upholstery – Power adjustment seat with lumbar support",
+          "Front Seat – Relaxation seats",
+          "(Driver & Passenger) – Powered passenger seat walk-in device",
+          "(Driver & Passenger) – Ventilated & heated function",
+          "(Driver & Passenger) – Power sliding & manual reclining function",
+          "Rear seat",
+          "Rear seat – Heated function",
+          "Memory seat configuration (all seats)",
+          "Sliding center console",
+          "3-Spoke leather steering wheel with 4-dots illuminated design",
+          "Heated steering wheel",
+          "Vision roof",
+          "V2L (Vehicle-to-Load) : Inside and Outside",
+          "Hands free smart power tail gate with height adjustment",
+          "Heated outside mirrors",
+          "Column type shift-by-wire",
+          "Smart regenerative braking system",
+          "Rain sensing wipers",
+          "Dual zone automatic temperature control (DATC)",
+          "Drive mode select",
+          "Wireless phone charger",
+          "Rear window sunshade"
+        ],
+        "Infotainment & connectivity": [
+          "31.24 cm (12.3\") Full digital display cluster",
+          "31.24 cm (12.3\") ccNC Navigation system",
+          "Hyundai Bluelink connected car technology",
+          "Controller Over-the-Air (OTA) vehicle updates",
+          "In-car payment",
+          "Smartphone connectivity: Wireless Android Auto & Apple CarPlay",
+          "IONIQ 5",
+          "Bose premium sound system (8 Speakers)",
+          "Active sound design"
+        ],
+        "Safety": [
+          "6 Airbags (Driver, passenger, side & curtain)",
+          "Electronic stability control (ESC) & Vehicle stability management (VSM)",
+          "Hill-start assist control (HAC)",
+          "Multi collision-avoidance brake (MCB)",
+          "Electric parking brake (EPB)",
+          "Electro chromic mirror (ECM)",
+          "Tyre pressure monitoring system (TPMS) highline",
+          "Virtual engine sound system (VESS)",
+          "Child seat anchor (ISOFIX)",
+          "Child seat anchor (ISOFIX) – Rear parking sensor",
+          "Parking assist – Front parking sensor",
+          "Parking assist – Side parking sensor",
+          "Parking assist – Forward Collision Warning (FCW)",
+          "Parking assist – Forward Collision - Avoidance Assist - Car (FCA - Car)",
+          "Parking assist – Forward Collision - Avoidance Assist - Pedestrian (FCA - Ped)",
+          "Parking assist – Forward Collision - Avoidance Assist - Cycle (FCA - Cyl)",
+          "Parking assist – Forward Collision - Avoidance Assist - Junction Turning (FCA - JT)",
+          "Parking assist – Forward Collision - Avoidance Assist - Direct Oncoming (FCA - DO)",
+          "Parking assist – Blind-Spot Collision Warning (BCW)",
+          "Parking assist – Blind-Spot Collision - Avoidance Assist (BCA)",
+          "Parking assist – Lane Departure Warning (LDW)",
+          "Parking assist – Lane Keeping Assist (LKA)",
+          "Hyundai SmartSense",
+          "(Advanced Driver – Driver Attention Warning (DAW)",
+          "Assistance System)",
+          "Assistance System) – Safe Exit Warning (SEW)",
+          "Assistance System) – Safe Exit Assist (SEA)",
+          "Assistance System) – Smart Cruise Control with Stop & Go (SCC with S&G)",
+          "Assistance System) – Lane Following Assist (LFA)",
+          "Assistance System) – High Beam Assist (HBA)",
+          "Assistance System) – Leading Vehicle Departure Alert (LVDA)",
+          "Assistance System) – Rear Cross - Traffic Collision Warning (RCCW)",
+          "Assistance System) – Rear Cross - Traffic Collision - Avoidance Assist (RCCA)",
+          "Assistance System) – Parking Collision Avoidance Assist - Rear (PCA-R)",
+          "Assistance System) – Blind-Spot View Monitor (BVM)",
+          "Assistance System) – Surround View Monitor (SVM)",
+          "Charger",
+          "Portable charging cable",
+          "11 kW wallbox charger"
+        ]
+      },
+      "airbags": 6
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}

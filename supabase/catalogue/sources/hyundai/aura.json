@@ -1,0 +1,895 @@
+{
+  "brand": "Hyundai",
+  "model": "Aura",
+  "slug": "aura",
+  "official_page": "https://www.hyundai.com/in/en/find-a-car/aura/highlights",
+  "brochure_pdf": "https://www.hyundai.com/content/dam/hyundai/in/en/data/brochure/aura.pdf",
+  "price_city": "Surat, Gujarat",
+  "ex_showroom_min": 599990,
+  "ex_showroom_max": 867200,
+  "fuel_types": [
+    "CNG",
+    "Petrol"
+  ],
+  "transmissions": [
+    "AMT",
+    "MT"
+  ],
+  "colours": [
+    {
+      "name": "Typhoon silver"
+    },
+    {
+      "name": "Starry night"
+    },
+    {
+      "name": "Atlas white"
+    },
+    {
+      "name": "Titan grey"
+    }
+  ],
+  "engines": [
+    "1.2 l Bi-Fuel (Petrol with CNG)",
+    "1.2 l Kappa, AMT, Petrol"
+  ],
+  "variants": [
+    {
+      "name": "AURA 1.2 Kappa MT E",
+      "trim": "E",
+      "brochure_trim": "E",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 599990
+      },
+      "engine": "1.2 l Kappa, AMT, Petrol",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "3 995",
+          "Overall Width (mm)": "1 680",
+          "Overall Height (mm)": "1 520",
+          "Wheelbase (mm)": "2 450",
+          "Size": "175/60 R15(D=380.2mm)DT styled steel wheel(S,Corporate)& Diamond cut alloy (SX,SX+,SX(O))",
+          "Front Tyres": "165/70 R14(D=354.8 mm)Steel(E)",
+          "Spare wheel": "155/80 R13 (D=329.4 mm) steel (E), 165/70 R14 (D=354.8 mm) steel (E(CNG),S, SX, SX+, SX(O))",
+          "Tyre Type": "Tubeless"
+        },
+        "Engine": {
+          "Engine Type": "1.2 l Kappa",
+          "Fuel System": "Petrol",
+          "Displacement(cm3)": "1 197",
+          "Max. Power": "61 kW (83 PS) @ 6 000 r/min",
+          "Max. Torque": "113.8 Nm (11.6 kgm) @ 4 000 r/min"
+        },
+        "Transmission": {
+          "Transmission Type": "5 speed Manaul /Smart auto AMT"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson Strut",
+          "Suspension Rear": "Coupled Torsion Beam Axle",
+          "Suspension Shock Absorber": "Gas Type"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Tank Capacity": "37 l"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Driver",
+          "Airbag – Passenger",
+          "Airbag – Side",
+          "Airbag – Curtain",
+          "ABS (Anti-lock braking system) with EBD",
+          "Seat belt – Driver",
+          "& load limiters – Passenger",
+          "3 Points seat belts (all seats)",
+          "Immobilizer",
+          "Emergency stop signal",
+          "Rear parking sensors",
+          "Seatbelt reminder (all seats)",
+          "Speed alert system"
+        ],
+        "Exterior": [
+          "Stylish Z shaped LED taillamps",
+          "R15 (D=380.2 mm) diamond cut alloy wheel – Bumpers",
+          "Chrome outside door handles – Micro type",
+          "Rear chrome garnish"
+        ],
+        "Interior": [
+          "Footwell lighting",
+          "Front & rear door map pockets",
+          "Front & rear room lamps",
+          "Tachometer",
+          "Tachometer – Gear shift (MT only)",
+          "Warning & indicators – Door & tailgate ajar",
+          "Warning & indicators – Low fuel",
+          "8.89 cm (3.5\") Speedometer with multi information display",
+          "8.89 cm (3.5\") Speedometer with multi information display – Dual tripmeter",
+          "Multi information – Average vehicle speed",
+          "Multi information – Elapsed time",
+          "Multi information – Service reminder"
+        ],
+        "Comfort & convenience": [
+          "Motor driven (electric) power steering",
+          "Tilt steering – Manual AC with heater",
+          "Air conditioning – Front",
+          "Outside mirrors – Front",
+          "Driver seat height adjustment"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "AURA 1.2 Kappa MT S",
+      "trim": "S",
+      "brochure_trim": "S",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 698000
+      },
+      "engine": "1.2 l Kappa, AMT, Petrol",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "3 995",
+          "Overall Width (mm)": "1 680",
+          "Overall Height (mm)": "1 520",
+          "Wheelbase (mm)": "2 450",
+          "Size": "175/60 R15(D=380.2mm)DT styled steel wheel(S,Corporate)& Diamond cut alloy (SX,SX+,SX(O))",
+          "Front Tyres": "165/70 R14(D=354.8 mm)Steel(E)",
+          "Spare wheel": "155/80 R13 (D=329.4 mm) steel (E), 165/70 R14 (D=354.8 mm) steel (E(CNG),S, SX, SX+, SX(O))",
+          "Tyre Type": "Tubeless"
+        },
+        "Engine": {
+          "Engine Type": "1.2 l Kappa",
+          "Fuel System": "Petrol",
+          "Displacement(cm3)": "1 197",
+          "Max. Power": "61 kW (83 PS) @ 6 000 r/min",
+          "Max. Torque": "113.8 Nm (11.6 kgm) @ 4 000 r/min"
+        },
+        "Transmission": {
+          "Transmission Type": "5 speed Manaul /Smart auto AMT"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson Strut",
+          "Suspension Rear": "Coupled Torsion Beam Axle",
+          "Suspension Shock Absorber": "Gas Type"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Tank Capacity": "37 l"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Driver",
+          "Airbag – Passenger",
+          "Airbag – Side",
+          "Airbag – Curtain",
+          "ABS (Anti-lock braking system) with EBD",
+          "Seat belt – Driver",
+          "& load limiters – Passenger",
+          "Tyre pressure monitoring system - highline",
+          "Speed sensing auto door lock",
+          "Impact sensing auto door unlock",
+          "3 Points seat belts (all seats)",
+          "Immobilizer",
+          "Central locking",
+          "Burglar alarm",
+          "Emergency stop signal",
+          "Day & night inside rear view mirror",
+          "Rear parking sensors",
+          "Rear defogger",
+          "Seatbelt reminder (all seats)",
+          "Speed alert system",
+          "Headlamp escort function"
+        ],
+        "Exterior": [
+          "Painted black radiator grille",
+          "LED daytime running lamps (DRLs)",
+          "Rear wing spoiler",
+          "Stylish Z shaped LED taillamps",
+          "R15 (D=380.2 mm) dual tone styled steel wheel",
+          "R15 (D=380.2 mm) diamond cut alloy wheel – Bumpers",
+          "Body colored – Outside door mirrors",
+          "Body colored – Outside door handles",
+          "Chrome outside door handles – Micro type",
+          "B-pillar blackout",
+          "Rear chrome garnish"
+        ],
+        "Interior": [
+          "Footwell lighting",
+          "Rear centre armrest with cupholder",
+          "Front & rear door map pockets",
+          "Front & rear room lamps",
+          "Tachometer",
+          "Tachometer – Gear shift (MT only)",
+          "Warning & indicators – Door & tailgate ajar",
+          "Warning & indicators – Low fuel",
+          "8.89 cm (3.5\") Speedometer with multi information display",
+          "8.89 cm (3.5\") Speedometer with multi information display – Dual tripmeter",
+          "Multi information – Average vehicle speed",
+          "Multi information – Elapsed time",
+          "Multi information – Service reminder"
+        ],
+        "Audio": [
+          "2-DIN integrated audio system with AM/FM",
+          "Bluetooth connectivity",
+          "Steering wheel – Audio",
+          "mounted controls – Bluetooth",
+          "Front & rear speakers",
+          "USB port connectivity"
+        ],
+        "Comfort & convenience": [
+          "Keyless entry",
+          "Motor driven (electric) power steering",
+          "Tilt steering",
+          "Tilt steering – Manual AC with heater",
+          "Air conditioning – Rear AC vent",
+          "Air conditioning – Front",
+          "Power windows – Rear",
+          "Power windows – Auto down (driver only)",
+          "Power windows – Electrically adjustable",
+          "Outside mirrors – Front",
+          "Power outlet – Rear",
+          "Fast USB charger [Type C]",
+          "Driver seat height adjustment"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "AURA 1.2 Kappa MT SX",
+      "trim": "SX",
+      "brochure_trim": "SX",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 777200
+      },
+      "engine": "1.2 l Kappa, AMT, Petrol",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "3 995",
+          "Overall Width (mm)": "1 680",
+          "Overall Height (mm)": "1 520",
+          "Wheelbase (mm)": "2 450",
+          "Size": "175/60 R15(D=380.2mm)DT styled steel wheel(S,Corporate)& Diamond cut alloy (SX,SX+,SX(O))",
+          "Front Tyres": "165/70 R14(D=354.8 mm)Steel(E)",
+          "Spare wheel": "155/80 R13 (D=329.4 mm) steel (E), 165/70 R14 (D=354.8 mm) steel (E(CNG),S, SX, SX+, SX(O))",
+          "Tyre Type": "Tubeless"
+        },
+        "Engine": {
+          "Engine Type": "1.2 l Kappa",
+          "Fuel System": "Petrol",
+          "Displacement(cm3)": "1 197",
+          "Max. Power": "61 kW (83 PS) @ 6 000 r/min",
+          "Max. Torque": "113.8 Nm (11.6 kgm) @ 4 000 r/min"
+        },
+        "Transmission": {
+          "Transmission Type": "5 speed Manaul /Smart auto AMT"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson Strut",
+          "Suspension Rear": "Coupled Torsion Beam Axle",
+          "Suspension Shock Absorber": "Gas Type"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Tank Capacity": "37 l"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Driver",
+          "Airbag – Passenger",
+          "Airbag – Side",
+          "Airbag – Curtain",
+          "Electronic stability control (ESC)",
+          "Hill start assist control (HAC)",
+          "ABS (Anti-lock braking system) with EBD",
+          "Seat belt – Driver",
+          "& load limiters – Passenger",
+          "Tyre pressure monitoring system - highline",
+          "Speed sensing auto door lock",
+          "Impact sensing auto door unlock",
+          "3 Points seat belts (all seats)",
+          "Immobilizer",
+          "Central locking",
+          "Burglar alarm",
+          "Emergency stop signal",
+          "Day & night inside rear view mirror",
+          "Rear parking sensors",
+          "Rear camera with static guidelines",
+          "Rear defogger",
+          "Seatbelt reminder (all seats)",
+          "Speed alert system",
+          "Headlamp escort function"
+        ],
+        "Exterior": [
+          "Painted black radiator grille",
+          "Projector headlamps",
+          "LED daytime running lamps (DRLs)",
+          "Rear wing spoiler",
+          "Stylish Z shaped LED taillamps",
+          "R15 (D=380.2 mm) diamond cut alloy wheel",
+          "R15 (D=380.2 mm) diamond cut alloy wheel – Bumpers",
+          "Body colored – Outside door mirrors",
+          "Chrome outside door handles",
+          "Roof antenna – Shark fin",
+          "B-pillar blackout",
+          "Rear chrome garnish",
+          "Turn indicators on outside mirrors"
+        ],
+        "Interior": [
+          "Premium glossy black inserts",
+          "Footwell lighting",
+          "Rear centre armrest with cupholder",
+          "Leather-wrapped – Gear knob",
+          "Chrome finish – Parking lever tip",
+          "Front & rear door map pockets",
+          "Front & rear room lamps",
+          "Front passenger seat back pocket",
+          "Metal finish inside – Silver",
+          "Tachometer",
+          "Tachometer – Gear shift (MT only)",
+          "Warning & indicators – Door & tailgate ajar",
+          "Warning & indicators – Low fuel",
+          "8.89 cm (3.5\") Speedometer with multi information display",
+          "8.89 cm (3.5\") Speedometer with multi information display – Dual tripmeter",
+          "Multi information – Average vehicle speed",
+          "Multi information – Elapsed time",
+          "Multi information – Service reminder"
+        ],
+        "Audio": [
+          "smartphone connectivity*",
+          "Apple CarPlay & Android Auto",
+          "Voice recognition*",
+          "Bluetooth connectivity",
+          "Steering wheel – Audio",
+          "mounted controls – Bluetooth",
+          "Front & rear speakers",
+          "USB port connectivity"
+        ],
+        "Comfort & convenience": [
+          "Smart key with push button start/stop",
+          "Keyless entry",
+          "Motor driven (electric) power steering",
+          "Tilt steering",
+          "Tilt steering – Manual AC with heater",
+          "Tilt steering – Fully automatic temperature control",
+          "Air conditioning – Rear AC vent",
+          "Air conditioning – Front",
+          "Power windows – Rear",
+          "Power windows – Auto down (driver only)",
+          "Power windows – Electrically adjustable",
+          "Outside mirrors – Electric folding",
+          "Outside mirrors – Front",
+          "Power outlet – Rear",
+          "Fast USB charger [Type C]",
+          "Driver seat height adjustment",
+          "Passenger vanity mirror",
+          "Adjustable rear seat headrests"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "AURA 1.2 MT S CNG",
+      "trim": "S CNG",
+      "brochure_trim": "S",
+      "fuel": "CNG",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 789200
+      },
+      "engine": "1.2 l Bi-Fuel (Petrol with CNG)",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "3 995",
+          "Overall Width (mm)": "1 680",
+          "Overall Height (mm)": "1 520",
+          "Wheelbase (mm)": "2 450",
+          "Size": "175/60 R15(D=380.2mm)DT styled steel wheel(S,Corporate)& Diamond cut alloy (SX,SX+,SX(O))",
+          "Front Tyres": "165/70 R14(D=354.8 mm)Steel(E)",
+          "Spare wheel": "155/80 R13 (D=329.4 mm) steel (E), 165/70 R14 (D=354.8 mm) steel (E(CNG),S, SX, SX+, SX(O))",
+          "Tyre Type": "Tubeless"
+        },
+        "Engine": {
+          "Engine Type": "1.2 l Kappa",
+          "Displacement(cm3)": "1 197",
+          "Max. Power": "50.5 kW (69 PS) @ 6 000 r/min",
+          "Max. Torque": "95.2 Nm (9.7 kgm) @ 4 000 r/min"
+        },
+        "Transmission": {
+          "Transmission Type": "5-Speed Manual"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson Strut",
+          "Suspension Rear": "Coupled Torsion Beam Axle",
+          "Suspension Shock Absorber": "Gas Type"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum"
+        },
+        "Fuel": {
+          "Fuel Type": "CNG",
+          "Fuel Tank Capacity": "petrol: 37 CNG: 65 (water equivalent)"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Driver",
+          "Airbag – Passenger",
+          "Airbag – Side",
+          "Airbag – Curtain",
+          "ABS (Anti-lock braking system) with EBD",
+          "Seat belt – Driver",
+          "& load limiters – Passenger",
+          "Tyre pressure monitoring system - highline",
+          "Speed sensing auto door lock",
+          "Impact sensing auto door unlock",
+          "3 Points seat belts (all seats)",
+          "Immobilizer",
+          "Central locking",
+          "Burglar alarm",
+          "Emergency stop signal",
+          "Day & night inside rear view mirror",
+          "Rear parking sensors",
+          "Rear defogger",
+          "Seatbelt reminder (all seats)",
+          "Speed alert system",
+          "Headlamp escort function"
+        ],
+        "Exterior": [
+          "Painted black radiator grille",
+          "LED daytime running lamps (DRLs)",
+          "Rear wing spoiler",
+          "Stylish Z shaped LED taillamps",
+          "R15 (D=380.2 mm) dual tone styled steel wheel",
+          "R15 (D=380.2 mm) diamond cut alloy wheel – Bumpers",
+          "Body colored – Outside door mirrors",
+          "Body colored – Outside door handles",
+          "Chrome outside door handles – Micro type",
+          "B-pillar blackout",
+          "Rear chrome garnish"
+        ],
+        "Interior": [
+          "Footwell lighting",
+          "Rear centre armrest with cupholder",
+          "Front & rear door map pockets",
+          "Front & rear room lamps",
+          "Tachometer",
+          "Tachometer – Gear shift (MT only)",
+          "Warning & indicators – Door & tailgate ajar",
+          "Warning & indicators – Low fuel",
+          "8.89 cm (3.5\") Speedometer with multi information display",
+          "8.89 cm (3.5\") Speedometer with multi information display – Dual tripmeter",
+          "Multi information – Average vehicle speed",
+          "Multi information – Elapsed time",
+          "Multi information – Service reminder"
+        ],
+        "Audio": [
+          "2-DIN integrated audio system with AM/FM",
+          "Bluetooth connectivity",
+          "Steering wheel – Audio",
+          "mounted controls – Bluetooth",
+          "Front & rear speakers",
+          "USB port connectivity"
+        ],
+        "Comfort & convenience": [
+          "Keyless entry",
+          "Motor driven (electric) power steering",
+          "Tilt steering",
+          "Tilt steering – Manual AC with heater",
+          "Air conditioning – Rear AC vent",
+          "Air conditioning – Front",
+          "Power windows – Rear",
+          "Power windows – Auto down (driver only)",
+          "Power windows – Electrically adjustable",
+          "Outside mirrors – Front",
+          "Power outlet – Rear",
+          "Fast USB charger [Type C]",
+          "Driver seat height adjustment"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "AURA 1.2 MT Corporate CNG",
+      "trim": "Corporate CNG",
+      "brochure_trim": null,
+      "fuel": "CNG",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 798200
+      },
+      "engine": "1.2 l Bi-Fuel (Petrol with CNG)",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "3 995",
+          "Overall Width (mm)": "1 680",
+          "Overall Height (mm)": "1 520",
+          "Wheelbase (mm)": "2 450",
+          "Size": "175/60 R15(D=380.2mm)DT styled steel wheel(S,Corporate)& Diamond cut alloy (SX,SX+,SX(O))",
+          "Front Tyres": "165/70 R14(D=354.8 mm)Steel(E)",
+          "Spare wheel": "155/80 R13 (D=329.4 mm) steel (E), 165/70 R14 (D=354.8 mm) steel (E(CNG),S, SX, SX+, SX(O))",
+          "Tyre Type": "Tubeless"
+        },
+        "Engine": {
+          "Engine Type": "1.2 l Kappa",
+          "Displacement(cm3)": "1 197",
+          "Max. Power": "50.5 kW (69 PS) @ 6 000 r/min",
+          "Max. Torque": "95.2 Nm (9.7 kgm) @ 4 000 r/min"
+        },
+        "Transmission": {
+          "Transmission Type": "5-Speed Manual"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson Strut",
+          "Suspension Rear": "Coupled Torsion Beam Axle",
+          "Suspension Shock Absorber": "Gas Type"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum"
+        },
+        "Fuel": {
+          "Fuel Type": "CNG",
+          "Fuel Tank Capacity": "petrol: 37 CNG: 65 (water equivalent)"
+        }
+      },
+      "features": {},
+      "airbags": null
+    },
+    {
+      "name": "AURA 1.2 Kappa MT SX(O)",
+      "trim": "SX(O)",
+      "brochure_trim": "SX (O)",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 823200
+      },
+      "engine": "1.2 l Kappa, AMT, Petrol",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "3 995",
+          "Overall Width (mm)": "1 680",
+          "Overall Height (mm)": "1 520",
+          "Wheelbase (mm)": "2 450",
+          "Size": "175/60 R15(D=380.2mm)DT styled steel wheel(S,Corporate)& Diamond cut alloy (SX,SX+,SX(O))",
+          "Front Tyres": "165/70 R14(D=354.8 mm)Steel(E)",
+          "Spare wheel": "155/80 R13 (D=329.4 mm) steel (E), 165/70 R14 (D=354.8 mm) steel (E(CNG),S, SX, SX+, SX(O))",
+          "Tyre Type": "Tubeless"
+        },
+        "Engine": {
+          "Engine Type": "1.2 l Kappa",
+          "Fuel System": "Petrol",
+          "Displacement(cm3)": "1 197",
+          "Max. Power": "61 kW (83 PS) @ 6 000 r/min",
+          "Max. Torque": "113.8 Nm (11.6 kgm) @ 4 000 r/min"
+        },
+        "Transmission": {
+          "Transmission Type": "5 speed Manaul /Smart auto AMT"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson Strut",
+          "Suspension Rear": "Coupled Torsion Beam Axle",
+          "Suspension Shock Absorber": "Gas Type"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Tank Capacity": "37 l"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Driver",
+          "Airbag – Passenger",
+          "Airbag – Side",
+          "Airbag – Curtain",
+          "Electronic stability control (ESC)",
+          "Hill start assist control (HAC)",
+          "ABS (Anti-lock braking system) with EBD",
+          "Seat belt – Driver",
+          "& load limiters – Passenger",
+          "Tyre pressure monitoring system - highline",
+          "Child seat anchor (ISOFIX)",
+          "Speed sensing auto door lock",
+          "Impact sensing auto door unlock",
+          "3 Points seat belts (all seats)",
+          "Immobilizer",
+          "Central locking",
+          "Burglar alarm",
+          "Emergency stop signal",
+          "Day & night inside rear view mirror",
+          "Rear parking sensors",
+          "Rear camera with static guidelines",
+          "Rear defogger",
+          "Seatbelt reminder (all seats)",
+          "Speed alert system",
+          "Headlamp escort function"
+        ],
+        "Exterior": [
+          "Painted black radiator grille",
+          "Projector headlamps",
+          "LED daytime running lamps (DRLs)",
+          "Rear wing spoiler",
+          "Stylish Z shaped LED taillamps",
+          "R15 (D=380.2 mm) diamond cut alloy wheel",
+          "R15 (D=380.2 mm) diamond cut alloy wheel – Bumpers",
+          "Body colored – Outside door mirrors",
+          "Chrome outside door handles",
+          "Roof antenna – Shark fin",
+          "B-pillar blackout",
+          "Rear chrome garnish",
+          "Turn indicators on outside mirrors"
+        ],
+        "Interior": [
+          "Premium glossy black inserts",
+          "Footwell lighting",
+          "Rear centre armrest with cupholder",
+          "Rear centre armrest with cupholder – Steering wheel",
+          "Leather-wrapped – Gear knob",
+          "Leather-wrapped – Gear knob",
+          "Chrome finish – Parking lever tip",
+          "Front & rear door map pockets",
+          "Front & rear room lamps",
+          "Front passenger seat back pocket",
+          "Metal finish inside – Silver",
+          "Tachometer",
+          "Tachometer – Gear shift (MT only)",
+          "Warning & indicators – Door & tailgate ajar",
+          "Warning & indicators – Low fuel",
+          "8.89 cm (3.5\") Speedometer with multi information display",
+          "8.89 cm (3.5\") Speedometer with multi information display – Dual tripmeter",
+          "Multi information – Average vehicle speed",
+          "Multi information – Elapsed time",
+          "Multi information – Service reminder"
+        ],
+        "Audio": [
+          "smartphone connectivity*",
+          "Wireless Apple CarPlay & Android Auto#",
+          "Voice recognition*",
+          "Bluetooth connectivity",
+          "Steering wheel – Audio",
+          "mounted controls – Bluetooth",
+          "Front & rear speakers",
+          "USB port connectivity"
+        ],
+        "Comfort & convenience": [
+          "Smart key with push button start/stop",
+          "Keyless entry",
+          "Motor driven (electric) power steering",
+          "Tilt steering",
+          "Tilt steering – Fully automatic temperature control",
+          "Air conditioning – Rear AC vent",
+          "Air conditioning – Front",
+          "Power windows – Rear",
+          "Power windows – Auto down (driver only)",
+          "Power windows – Electrically adjustable",
+          "Outside mirrors – Electric folding",
+          "Outside mirrors – Front",
+          "Power outlet – Rear",
+          "Fast USB charger [Type C]",
+          "Driver seat height adjustment",
+          "Passenger vanity mirror",
+          "Adjustable rear seat headrests",
+          "Automatic headlamps"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "AURA 1.2 Kappa AMT SX+",
+      "trim": "SX+",
+      "brochure_trim": null,
+      "fuel": "Petrol",
+      "transmission": "AMT",
+      "ex_showroom_surat": {
+        "standard": 842200
+      },
+      "engine": "1.2 l Kappa, AMT, Petrol",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "3 995",
+          "Overall Width (mm)": "1 680",
+          "Overall Height (mm)": "1 520",
+          "Wheelbase (mm)": "2 450",
+          "Size": "175/60 R15(D=380.2mm)DT styled steel wheel(S,Corporate)& Diamond cut alloy (SX,SX+,SX(O))",
+          "Front Tyres": "165/70 R14(D=354.8 mm)Steel(E)",
+          "Spare wheel": "155/80 R13 (D=329.4 mm) steel (E), 165/70 R14 (D=354.8 mm) steel (E(CNG),S, SX, SX+, SX(O))",
+          "Tyre Type": "Tubeless"
+        },
+        "Engine": {
+          "Engine Type": "1.2 l Kappa",
+          "Fuel System": "Petrol",
+          "Displacement(cm3)": "1 197",
+          "Max. Power": "61 kW (83 PS) @ 6 000 r/min",
+          "Max. Torque": "113.8 Nm (11.6 kgm) @ 4 000 r/min"
+        },
+        "Transmission": {
+          "Transmission Type": "5 speed Manaul /Smart auto AMT"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson Strut",
+          "Suspension Rear": "Coupled Torsion Beam Axle",
+          "Suspension Shock Absorber": "Gas Type"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Tank Capacity": "37 l"
+        }
+      },
+      "features": {},
+      "airbags": null
+    },
+    {
+      "name": "AURA 1.2 MT SX CNG",
+      "trim": "SX CNG",
+      "brochure_trim": "SX",
+      "fuel": "CNG",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 867200
+      },
+      "engine": "1.2 l Bi-Fuel (Petrol with CNG)",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "3 995",
+          "Overall Width (mm)": "1 680",
+          "Overall Height (mm)": "1 520",
+          "Wheelbase (mm)": "2 450",
+          "Size": "175/60 R15(D=380.2mm)DT styled steel wheel(S,Corporate)& Diamond cut alloy (SX,SX+,SX(O))",
+          "Front Tyres": "165/70 R14(D=354.8 mm)Steel(E)",
+          "Spare wheel": "155/80 R13 (D=329.4 mm) steel (E), 165/70 R14 (D=354.8 mm) steel (E(CNG),S, SX, SX+, SX(O))",
+          "Tyre Type": "Tubeless"
+        },
+        "Engine": {
+          "Engine Type": "1.2 l Kappa",
+          "Displacement(cm3)": "1 197",
+          "Max. Power": "50.5 kW (69 PS) @ 6 000 r/min",
+          "Max. Torque": "95.2 Nm (9.7 kgm) @ 4 000 r/min"
+        },
+        "Transmission": {
+          "Transmission Type": "5-Speed Manual"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson Strut",
+          "Suspension Rear": "Coupled Torsion Beam Axle",
+          "Suspension Shock Absorber": "Gas Type"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum"
+        },
+        "Fuel": {
+          "Fuel Type": "CNG",
+          "Fuel Tank Capacity": "petrol: 37 CNG: 65 (water equivalent)"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Driver",
+          "Airbag – Passenger",
+          "Airbag – Side",
+          "Airbag – Curtain",
+          "Electronic stability control (ESC)",
+          "Hill start assist control (HAC)",
+          "ABS (Anti-lock braking system) with EBD",
+          "Seat belt – Driver",
+          "& load limiters – Passenger",
+          "Tyre pressure monitoring system - highline",
+          "Speed sensing auto door lock",
+          "Impact sensing auto door unlock",
+          "3 Points seat belts (all seats)",
+          "Immobilizer",
+          "Central locking",
+          "Burglar alarm",
+          "Emergency stop signal",
+          "Day & night inside rear view mirror",
+          "Rear parking sensors",
+          "Rear camera with static guidelines",
+          "Rear defogger",
+          "Seatbelt reminder (all seats)",
+          "Speed alert system",
+          "Headlamp escort function"
+        ],
+        "Exterior": [
+          "Painted black radiator grille",
+          "Projector headlamps",
+          "LED daytime running lamps (DRLs)",
+          "Rear wing spoiler",
+          "Stylish Z shaped LED taillamps",
+          "R15 (D=380.2 mm) diamond cut alloy wheel",
+          "R15 (D=380.2 mm) diamond cut alloy wheel – Bumpers",
+          "Body colored – Outside door mirrors",
+          "Chrome outside door handles",
+          "Roof antenna – Shark fin",
+          "B-pillar blackout",
+          "Rear chrome garnish",
+          "Turn indicators on outside mirrors"
+        ],
+        "Interior": [
+          "Premium glossy black inserts",
+          "Footwell lighting",
+          "Rear centre armrest with cupholder",
+          "Leather-wrapped – Gear knob",
+          "Chrome finish – Parking lever tip",
+          "Front & rear door map pockets",
+          "Front & rear room lamps",
+          "Front passenger seat back pocket",
+          "Metal finish inside – Silver",
+          "Tachometer",
+          "Tachometer – Gear shift (MT only)",
+          "Warning & indicators – Door & tailgate ajar",
+          "Warning & indicators – Low fuel",
+          "8.89 cm (3.5\") Speedometer with multi information display",
+          "8.89 cm (3.5\") Speedometer with multi information display – Dual tripmeter",
+          "Multi information – Average vehicle speed",
+          "Multi information – Elapsed time",
+          "Multi information – Service reminder"
+        ],
+        "Audio": [
+          "smartphone connectivity*",
+          "Apple CarPlay & Android Auto",
+          "Voice recognition*",
+          "Bluetooth connectivity",
+          "Steering wheel – Audio",
+          "mounted controls – Bluetooth",
+          "Front & rear speakers",
+          "USB port connectivity"
+        ],
+        "Comfort & convenience": [
+          "Smart key with push button start/stop",
+          "Keyless entry",
+          "Motor driven (electric) power steering",
+          "Tilt steering",
+          "Tilt steering – Manual AC with heater",
+          "Tilt steering – Fully automatic temperature control",
+          "Air conditioning – Rear AC vent",
+          "Air conditioning – Front",
+          "Power windows – Rear",
+          "Power windows – Auto down (driver only)",
+          "Power windows – Electrically adjustable",
+          "Outside mirrors – Electric folding",
+          "Outside mirrors – Front",
+          "Power outlet – Rear",
+          "Fast USB charger [Type C]",
+          "Driver seat height adjustment",
+          "Passenger vanity mirror",
+          "Adjustable rear seat headrests"
+        ]
+      },
+      "airbags": 6
+    }
+  ],
+  "notes": [
+    "No brochure feature column for: AURA 1.2 MT Corporate CNG, AURA 1.2 Kappa AMT SX+"
+  ],
+  "fetched_on": "2026-10-30"
+}

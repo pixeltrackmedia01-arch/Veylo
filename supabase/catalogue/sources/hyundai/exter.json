@@ -1,0 +1,2180 @@
+{
+  "brand": "Hyundai",
+  "model": "Exter",
+  "slug": "exter",
+  "official_page": "https://www.hyundai.com/in/en/find-a-car/exter/highlights",
+  "brochure_pdf": "https://www.hyundai.com/content/dam/hyundai/in/en/data/brochure/exter.pdf",
+  "price_city": "Surat, Gujarat",
+  "ex_showroom_min": 580600,
+  "ex_showroom_max": 964600,
+  "fuel_types": [
+    "CNG (dual cylinder)",
+    "Petrol"
+  ],
+  "transmissions": [
+    "AMT",
+    "MT"
+  ],
+  "colours": [
+    {
+      "name": "Golden bronze"
+    },
+    {
+      "name": "Titanium black matte"
+    },
+    {
+      "name": "Starry night"
+    },
+    {
+      "name": "Ecotronic grey"
+    },
+    {
+      "name": "Ecotronic grey matte"
+    },
+    {
+      "name": "Titanium black"
+    },
+    {
+      "name": "Atlas white"
+    },
+    {
+      "name": "Ranger khaki"
+    },
+    {
+      "name": "Ranger khaki with black roof"
+    }
+  ],
+  "engines": [
+    "1.2 l Bi-fuel Kappa petrol with CNG",
+    "1.2l Kappa Petrol"
+  ],
+  "variants": [
+    {
+      "name": "EXTER 1.2 Kappa MT HX 2",
+      "trim": "HX 2",
+      "brochure_trim": "HX 2",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 580600
+      },
+      "engine": "1.2l Kappa Petrol",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "3 830",
+          "Overall Width (mm)": "1 723",
+          "Overall Height (mm)": "1 643@@",
+          "Wheelbase (mm)": "2 450",
+          "Size": "175/65 R15(D=380.2mm)Dual tone styled steel wheel(HX4,HX4+)|175/65 R15(D=380.2mm)Monotone dark grey",
+          "Front Tyres": "styled steel wheel(HX6Knight)|175/65 R15(D=380.2mm)Black painted alloys(HX10 Knight)",
+          "Spare wheel": "165/70 R14 (D = 354.8 mm) Steel"
+        },
+        "Engine": {
+          "Engine Type": "1.2l Kappa Petrol",
+          "Fuel System": "Petrol",
+          "Displacement(cm3)": "1 197",
+          "Max. Power": "61 kW (83 PS) @ 6 000 r/min",
+          "Max. Torque": "113.8 Nm (11.6 kgm) @ 4 000 r/min"
+        },
+        "Transmission": {
+          "Transmission Type": "5-Speed Manual / Smart Auto AMT"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson strut",
+          "Suspension Rear": "Coupled torsion beam axle",
+          "Suspension Shock Absorber": "Gas type"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Tank Capacity": "37"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Driver",
+          "Airbag – Passenger",
+          "Airbag – Side",
+          "Airbag – Curtain",
+          "ABS (anti-lock braking system) with EBD",
+          "Electronic stability control (ESC)",
+          "Hill start assist control (HAC)",
+          "Vehicle stability management (VSM)",
+          "Rear parking sensors",
+          "Headlamp escort system",
+          "Central locking",
+          "Speed sensing auto door lock",
+          "Impact sensing auto door unlock",
+          "Seatbelt reminder (All seats)",
+          "3 Point seatbelts (All seats)",
+          "Child seat anchor (ISOFIX)",
+          "Immobilizer",
+          "Burglar alarm"
+        ],
+        "Exterior": [
+          "LED Tail lamp",
+          "Exclusive Knight Emblem – Silver",
+          "Wheel arch cladding (Add-On) – Silver"
+        ],
+        "Interior": [
+          "Black theme",
+          "Interior theme – Fabric"
+        ],
+        "Infotainment & connectivity": [
+          "Digital cluster with colour TFT MID"
+        ],
+        "Comfort & convenience": [
+          "Keyless entry – Foldable key",
+          "Air conditioning – Manual",
+          "Rear AC vents – Front",
+          "Driver seat height adjustment",
+          "Adjustable rear headrests",
+          "Front Power outlet"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "EXTER 1.2 Kappa MT HX 3",
+      "trim": "HX 3",
+      "brochure_trim": "HX 3",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 633600
+      },
+      "engine": "1.2l Kappa Petrol",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "3 830",
+          "Overall Width (mm)": "1 723",
+          "Overall Height (mm)": "1 643@@",
+          "Wheelbase (mm)": "2 450",
+          "Size": "175/65 R15(D=380.2mm)Dual tone styled steel wheel(HX4,HX4+)|175/65 R15(D=380.2mm)Monotone dark grey",
+          "Front Tyres": "styled steel wheel(HX6Knight)|175/65 R15(D=380.2mm)Black painted alloys(HX10 Knight)",
+          "Spare wheel": "165/70 R14 (D = 354.8 mm) Steel"
+        },
+        "Engine": {
+          "Engine Type": "1.2l Kappa Petrol",
+          "Fuel System": "Petrol",
+          "Displacement(cm3)": "1 197",
+          "Max. Power": "61 kW (83 PS) @ 6 000 r/min",
+          "Max. Torque": "113.8 Nm (11.6 kgm) @ 4 000 r/min"
+        },
+        "Transmission": {
+          "Transmission Type": "5-Speed Manual / Smart Auto AMT"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson strut",
+          "Suspension Rear": "Coupled torsion beam axle",
+          "Suspension Shock Absorber": "Gas type"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Tank Capacity": "37"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Driver",
+          "Airbag – Passenger",
+          "Airbag – Side",
+          "Airbag – Curtain",
+          "ABS (anti-lock braking system) with EBD",
+          "Electronic stability control (ESC)",
+          "Hill start assist control (HAC)",
+          "Vehicle stability management (VSM)",
+          "Rear parking sensors",
+          "Rear parking camera",
+          "Driver rear view monitor (DRVM)",
+          "Driver rear view monitor (DRVM) – Day & night mirror",
+          "Headlamp escort system",
+          "Central locking",
+          "Speed sensing auto door lock",
+          "Impact sensing auto door unlock",
+          "Seatbelt reminder (All seats)",
+          "3 Point seatbelts (All seats)",
+          "Child seat anchor (ISOFIX)",
+          "Immobilizer",
+          "Burglar alarm"
+        ],
+        "Exterior": [
+          "LED Tail lamp",
+          "Exclusive Knight Emblem – Silver",
+          "Wheel arch cladding (Add-On) – Silver",
+          "Red front brake calipers – Micro pole"
+        ],
+        "Interior": [
+          "Interior theme – Dual tone (Navy & Grey) theme",
+          "Interior theme – Semi Fabric"
+        ],
+        "Infotainment & connectivity": [
+          "Digital cluster with colour TFT MID",
+          "Infotainment system"
+        ],
+        "infotainment system": [
+          "Front & rear speakers",
+          "Wireless Android Auto & Apple Carplay**",
+          "Steering wheel with audio & bluetooth controls"
+        ],
+        "Comfort & convenience": [
+          "Keyless entry – Foldable key",
+          "Air conditioning – Manual",
+          "Rear AC vents – Front",
+          "Outside mirrors – Front",
+          "Driver seat height adjustment",
+          "Adjustable rear headrests",
+          "Front Power outlet"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "EXTER 1.2 Kappa AMT HX 3",
+      "trim": "HX 3",
+      "brochure_trim": "HX 3",
+      "fuel": "Petrol",
+      "transmission": "AMT",
+      "ex_showroom_surat": {
+        "standard": 698600
+      },
+      "engine": "1.2l Kappa Petrol",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "3 830",
+          "Overall Width (mm)": "1 723",
+          "Overall Height (mm)": "1 643@@",
+          "Wheelbase (mm)": "2 450",
+          "Size": "175/65 R15(D=380.2mm)Dual tone styled steel wheel(HX4,HX4+)|175/65 R15(D=380.2mm)Monotone dark grey",
+          "Front Tyres": "styled steel wheel(HX6Knight)|175/65 R15(D=380.2mm)Black painted alloys(HX10 Knight)",
+          "Spare wheel": "165/70 R14 (D = 354.8 mm) Steel"
+        },
+        "Engine": {
+          "Engine Type": "1.2l Kappa Petrol",
+          "Fuel System": "Petrol",
+          "Displacement(cm3)": "1 197",
+          "Max. Power": "61 kW (83 PS) @ 6 000 r/min",
+          "Max. Torque": "113.8 Nm (11.6 kgm) @ 4 000 r/min"
+        },
+        "Transmission": {
+          "Transmission Type": "5-Speed Manual / Smart Auto AMT"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson strut",
+          "Suspension Rear": "Coupled torsion beam axle",
+          "Suspension Shock Absorber": "Gas type"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Tank Capacity": "37"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Driver",
+          "Airbag – Passenger",
+          "Airbag – Side",
+          "Airbag – Curtain",
+          "ABS (anti-lock braking system) with EBD",
+          "Electronic stability control (ESC)",
+          "Hill start assist control (HAC)",
+          "Vehicle stability management (VSM)",
+          "Rear parking sensors",
+          "Rear parking camera",
+          "Driver rear view monitor (DRVM)",
+          "Driver rear view monitor (DRVM) – Day & night mirror",
+          "Headlamp escort system",
+          "Central locking",
+          "Speed sensing auto door lock",
+          "Impact sensing auto door unlock",
+          "Seatbelt reminder (All seats)",
+          "3 Point seatbelts (All seats)",
+          "Child seat anchor (ISOFIX)",
+          "Immobilizer",
+          "Burglar alarm"
+        ],
+        "Exterior": [
+          "LED Tail lamp",
+          "Exclusive Knight Emblem – Silver",
+          "Wheel arch cladding (Add-On) – Silver",
+          "Red front brake calipers – Micro pole"
+        ],
+        "Interior": [
+          "Interior theme – Dual tone (Navy & Grey) theme",
+          "Interior theme – Semi Fabric"
+        ],
+        "Infotainment & connectivity": [
+          "Digital cluster with colour TFT MID",
+          "Infotainment system"
+        ],
+        "infotainment system": [
+          "Front & rear speakers",
+          "Wireless Android Auto & Apple Carplay**",
+          "Steering wheel with audio & bluetooth controls"
+        ],
+        "Comfort & convenience": [
+          "Keyless entry – Foldable key",
+          "Air conditioning – Manual",
+          "Rear AC vents – Front",
+          "Outside mirrors – Front",
+          "Driver seat height adjustment",
+          "Adjustable rear headrests",
+          "Front Power outlet"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "EXTER 1.2 Kappa MT HX 2 CNG",
+      "trim": "HX 2",
+      "brochure_trim": "HX 2",
+      "fuel": "CNG (dual cylinder)",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 699900
+      },
+      "engine": "1.2 l Bi-fuel Kappa petrol with CNG",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "3 830",
+          "Overall Width (mm)": "1 723",
+          "Overall Height (mm)": "1 643@@",
+          "Wheelbase (mm)": "2 450",
+          "Size": "175/65 R15(D=380.2mm)Dual tone styled steel wheel(HX4,HX4+)|175/65 R15(D=380.2mm)Monotone dark grey",
+          "Front Tyres": "styled steel wheel(HX6Knight)|175/65 R15(D=380.2mm)Black painted alloys(HX10 Knight)",
+          "Spare wheel": "165/70 R14 (D = 354.8 mm) Steel"
+        },
+        "Engine": {
+          "Engine Type": "1.2 l Bi-fuel Kappa petrol with CNG",
+          "Fuel System": "Petrol + CNG",
+          "Displacement(cm3)": "1 197",
+          "Max. Power": "50.5 kW (69 PS) @ 6 000 r/min",
+          "Max. Torque": "95.2 Nm (9.7 kgm) @ 4 000 r/min"
+        },
+        "Transmission": {
+          "Transmission Type": "5-Speed Manual"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson strut",
+          "Suspension Rear": "Coupled torsion beam axle",
+          "Suspension Shock Absorber": "Gas type"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol + CNG",
+          "Fuel Tank Capacity": "Petrol: 37 CNG : 60 (Water equivalent)"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Driver",
+          "Airbag – Passenger",
+          "Airbag – Side",
+          "Airbag – Curtain",
+          "ABS (anti-lock braking system) with EBD",
+          "Electronic stability control (ESC)",
+          "Hill start assist control (HAC)",
+          "Vehicle stability management (VSM)",
+          "Rear parking sensors",
+          "Headlamp escort system",
+          "Central locking",
+          "Speed sensing auto door lock",
+          "Impact sensing auto door unlock",
+          "Seatbelt reminder (All seats)",
+          "3 Point seatbelts (All seats)",
+          "Child seat anchor (ISOFIX)",
+          "Immobilizer",
+          "Burglar alarm"
+        ],
+        "Exterior": [
+          "LED Tail lamp",
+          "Exclusive Knight Emblem – Silver",
+          "Wheel arch cladding (Add-On) – Silver"
+        ],
+        "Interior": [
+          "Black theme",
+          "Interior theme – Fabric"
+        ],
+        "Infotainment & connectivity": [
+          "Digital cluster with colour TFT MID"
+        ],
+        "Comfort & convenience": [
+          "Keyless entry – Foldable key",
+          "Air conditioning – Manual",
+          "Rear AC vents – Front",
+          "Driver seat height adjustment",
+          "Adjustable rear headrests",
+          "Front Power outlet"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "EXTER 1.2 Kappa MT HX 4",
+      "trim": "HX 4",
+      "brochure_trim": "HX 4",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 731600
+      },
+      "engine": "1.2l Kappa Petrol",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "3 830",
+          "Overall Width (mm)": "1 723",
+          "Overall Height (mm)": "1 643@@",
+          "Wheelbase (mm)": "2 450",
+          "Size": "175/65 R15(D=380.2mm)Dual tone styled steel wheel(HX4,HX4+)|175/65 R15(D=380.2mm)Monotone dark grey",
+          "Front Tyres": "styled steel wheel(HX6Knight)|175/65 R15(D=380.2mm)Black painted alloys(HX10 Knight)",
+          "Spare wheel": "165/70 R14 (D = 354.8 mm) Steel"
+        },
+        "Engine": {
+          "Engine Type": "1.2l Kappa Petrol",
+          "Fuel System": "Petrol",
+          "Displacement(cm3)": "1 197",
+          "Max. Power": "61 kW (83 PS) @ 6 000 r/min",
+          "Max. Torque": "113.8 Nm (11.6 kgm) @ 4 000 r/min"
+        },
+        "Transmission": {
+          "Transmission Type": "5-Speed Manual / Smart Auto AMT"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson strut",
+          "Suspension Rear": "Coupled torsion beam axle",
+          "Suspension Shock Absorber": "Gas type"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Tank Capacity": "37"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Driver",
+          "Airbag – Passenger",
+          "Airbag – Side",
+          "Airbag – Curtain",
+          "Tyre pressure monitoring system - Highline",
+          "ABS (anti-lock braking system) with EBD",
+          "Electronic stability control (ESC)",
+          "Hill start assist control (HAC)",
+          "Vehicle stability management (VSM)",
+          "Rear parking sensors",
+          "Rear parking camera",
+          "Driver rear view monitor (DRVM)",
+          "Driver rear view monitor (DRVM) – Day & night mirror",
+          "Headlamp escort system",
+          "Central locking",
+          "Speed sensing auto door lock",
+          "Impact sensing auto door unlock",
+          "Seatbelt reminder (All seats)",
+          "3 Point seatbelts (All seats)",
+          "Child seat anchor (ISOFIX)",
+          "Immobilizer",
+          "Burglar alarm"
+        ],
+        "Exterior": [
+          "LED daytime running lamps (DRLs)",
+          "LED Tail lamp",
+          "Exclusive Knight Emblem – Silver",
+          "Wheel arch cladding (Add-On) – Silver",
+          "R15 (D=380.2mm) – Dual tone",
+          "Red front brake calipers – Micro pole"
+        ],
+        "Interior": [
+          "Interior theme – Dual tone (Navy & Grey) theme",
+          "Interior theme – Semi Fabric"
+        ],
+        "Infotainment & connectivity": [
+          "Digital cluster with colour TFT MID",
+          "Infotainment system"
+        ],
+        "infotainment system": [
+          "Front & rear speakers",
+          "Wireless Android Auto & Apple Carplay**",
+          "Steering wheel with audio & bluetooth controls"
+        ],
+        "Comfort & convenience": [
+          "Keyless entry – Foldable key",
+          "Air conditioning – Manual",
+          "Rear AC vents",
+          "Rear AC vents – Front",
+          "Power windows – Rear",
+          "Power windows – Auto down (driver only)",
+          "Power windows – Electrically adjustable",
+          "Outside mirrors – Front",
+          "Type‑C USB Port – Rear",
+          "Driver seat height adjustment",
+          "Adjustable rear headrests",
+          "Front Power outlet"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "EXTER 1.2 Kappa MT HX 3 CNG",
+      "trim": "HX 3",
+      "brochure_trim": "HX 3",
+      "fuel": "CNG (dual cylinder)",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 749600
+      },
+      "engine": "1.2 l Bi-fuel Kappa petrol with CNG",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "3 830",
+          "Overall Width (mm)": "1 723",
+          "Overall Height (mm)": "1 643@@",
+          "Wheelbase (mm)": "2 450",
+          "Size": "175/65 R15(D=380.2mm)Dual tone styled steel wheel(HX4,HX4+)|175/65 R15(D=380.2mm)Monotone dark grey",
+          "Front Tyres": "styled steel wheel(HX6Knight)|175/65 R15(D=380.2mm)Black painted alloys(HX10 Knight)",
+          "Spare wheel": "165/70 R14 (D = 354.8 mm) Steel"
+        },
+        "Engine": {
+          "Engine Type": "1.2 l Bi-fuel Kappa petrol with CNG",
+          "Fuel System": "Petrol + CNG",
+          "Displacement(cm3)": "1 197",
+          "Max. Power": "50.5 kW (69 PS) @ 6 000 r/min",
+          "Max. Torque": "95.2 Nm (9.7 kgm) @ 4 000 r/min"
+        },
+        "Transmission": {
+          "Transmission Type": "5-Speed Manual"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson strut",
+          "Suspension Rear": "Coupled torsion beam axle",
+          "Suspension Shock Absorber": "Gas type"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol + CNG",
+          "Fuel Tank Capacity": "Petrol: 37 CNG : 60 (Water equivalent)"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Driver",
+          "Airbag – Passenger",
+          "Airbag – Side",
+          "Airbag – Curtain",
+          "ABS (anti-lock braking system) with EBD",
+          "Electronic stability control (ESC)",
+          "Hill start assist control (HAC)",
+          "Vehicle stability management (VSM)",
+          "Rear parking sensors",
+          "Rear parking camera",
+          "Driver rear view monitor (DRVM)",
+          "Driver rear view monitor (DRVM) – Day & night mirror",
+          "Headlamp escort system",
+          "Central locking",
+          "Speed sensing auto door lock",
+          "Impact sensing auto door unlock",
+          "Seatbelt reminder (All seats)",
+          "3 Point seatbelts (All seats)",
+          "Child seat anchor (ISOFIX)",
+          "Immobilizer",
+          "Burglar alarm"
+        ],
+        "Exterior": [
+          "LED Tail lamp",
+          "Exclusive Knight Emblem – Silver",
+          "Wheel arch cladding (Add-On) – Silver",
+          "Red front brake calipers – Micro pole"
+        ],
+        "Interior": [
+          "Interior theme – Dual tone (Navy & Grey) theme",
+          "Interior theme – Semi Fabric"
+        ],
+        "Infotainment & connectivity": [
+          "Digital cluster with colour TFT MID",
+          "Infotainment system"
+        ],
+        "infotainment system": [
+          "Front & rear speakers",
+          "Wireless Android Auto & Apple Carplay**",
+          "Steering wheel with audio & bluetooth controls"
+        ],
+        "Comfort & convenience": [
+          "Keyless entry – Foldable key",
+          "Air conditioning – Manual",
+          "Rear AC vents – Front",
+          "Outside mirrors – Front",
+          "Driver seat height adjustment",
+          "Adjustable rear headrests",
+          "Front Power outlet"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "EXTER 1.2 Kappa MT HX 6",
+      "trim": "HX 6",
+      "brochure_trim": "HX 6",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 802600,
+        "dual_tone": 817600
+      },
+      "engine": "1.2l Kappa Petrol",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "3 830",
+          "Overall Width (mm)": "1 723",
+          "Overall Height (mm)": "1 643@@",
+          "Wheelbase (mm)": "2 450",
+          "Size": "175/65 R15(D=380.2mm)Dual tone styled steel wheel(HX4,HX4+)|175/65 R15(D=380.2mm)Monotone dark grey",
+          "Front Tyres": "styled steel wheel(HX6Knight)|175/65 R15(D=380.2mm)Black painted alloys(HX10 Knight)",
+          "Spare wheel": "165/70 R14 (D = 354.8 mm) Steel"
+        },
+        "Engine": {
+          "Engine Type": "1.2l Kappa Petrol",
+          "Fuel System": "Petrol",
+          "Displacement(cm3)": "1 197",
+          "Max. Power": "61 kW (83 PS) @ 6 000 r/min",
+          "Max. Torque": "113.8 Nm (11.6 kgm) @ 4 000 r/min"
+        },
+        "Transmission": {
+          "Transmission Type": "5-Speed Manual / Smart Auto AMT"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson strut",
+          "Suspension Rear": "Coupled torsion beam axle",
+          "Suspension Shock Absorber": "Gas type"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Tank Capacity": "37"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Driver",
+          "Airbag – Passenger",
+          "Airbag – Side",
+          "Airbag – Curtain",
+          "Dashcam",
+          "Tyre pressure monitoring system - Highline",
+          "ABS (anti-lock braking system) with EBD",
+          "Electronic stability control (ESC)",
+          "Hill start assist control (HAC)",
+          "Vehicle stability management (VSM)",
+          "Rear parking sensors",
+          "Rear parking camera",
+          "Driver rear view monitor (DRVM)",
+          "Driver rear view monitor (DRVM) – Day & night mirror",
+          "Headlamp escort system",
+          "Rear defogger",
+          "Central locking",
+          "Speed sensing auto door lock",
+          "Impact sensing auto door unlock",
+          "Seatbelt reminder (All seats)",
+          "3 Point seatbelts (All seats)",
+          "Child seat anchor (ISOFIX)",
+          "Immobilizer",
+          "Burglar alarm"
+        ],
+        "Exterior": [
+          "Projector headlamps (Bi-Function)",
+          "LED daytime running lamps (DRLs)",
+          "LED Tail lamp",
+          "LED turn indicators on outside mirrors",
+          "Exclusive Knight Emblem – Silver",
+          "Wheel arch cladding (Add-On)",
+          "Wheel arch cladding (Add-On) – Silver",
+          "Roof rails",
+          "R15 (D=380.2mm) – Dual tone",
+          "Antenna – Shark fin"
+        ],
+        "Interior": [
+          "Interior theme – Dual tone (Navy & Grey) theme",
+          "Interior theme – Semi Fabric"
+        ],
+        "Infotainment & connectivity": [
+          "Digital cluster with colour TFT MID",
+          "Infotainment system"
+        ],
+        "infotainment system": [
+          "Front & rear speakers",
+          "Wireless Android Auto & Apple Carplay**",
+          "Steering wheel with audio & bluetooth controls"
+        ],
+        "Comfort & convenience": [
+          "Electric sunroof",
+          "Keyless entry – Smart key with push button start",
+          "Air conditioning – Fully automatic temperature control",
+          "Rear AC vents",
+          "Rear AC vents – Front",
+          "Power windows – Rear",
+          "Power windows – Auto down (driver only)",
+          "Power windows – Electrically adjustable",
+          "Outside mirrors – Electric folding",
+          "Outside mirrors – Front",
+          "Type‑C USB Port – Rear",
+          "Driver seat height adjustment",
+          "Folding driver armrest",
+          "Adjustable rear headrests",
+          "Front Power outlet"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "EXTER 1.2 Kappa AMT HX 4+",
+      "trim": "HX 4+",
+      "brochure_trim": "HX 4+",
+      "fuel": "Petrol",
+      "transmission": "AMT",
+      "ex_showroom_surat": {
+        "standard": 813600
+      },
+      "engine": "1.2l Kappa Petrol",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "3 830",
+          "Overall Width (mm)": "1 723",
+          "Overall Height (mm)": "1 643@@",
+          "Wheelbase (mm)": "2 450",
+          "Size": "175/65 R15(D=380.2mm)Dual tone styled steel wheel(HX4,HX4+)|175/65 R15(D=380.2mm)Monotone dark grey",
+          "Front Tyres": "styled steel wheel(HX6Knight)|175/65 R15(D=380.2mm)Black painted alloys(HX10 Knight)",
+          "Spare wheel": "165/70 R14 (D = 354.8 mm) Steel"
+        },
+        "Engine": {
+          "Engine Type": "1.2l Kappa Petrol",
+          "Fuel System": "Petrol",
+          "Displacement(cm3)": "1 197",
+          "Max. Power": "61 kW (83 PS) @ 6 000 r/min",
+          "Max. Torque": "113.8 Nm (11.6 kgm) @ 4 000 r/min"
+        },
+        "Transmission": {
+          "Transmission Type": "5-Speed Manual / Smart Auto AMT"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson strut",
+          "Suspension Rear": "Coupled torsion beam axle",
+          "Suspension Shock Absorber": "Gas type"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Tank Capacity": "37"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Driver",
+          "Airbag – Passenger",
+          "Airbag – Side",
+          "Airbag – Curtain",
+          "Tyre pressure monitoring system - Highline",
+          "ABS (anti-lock braking system) with EBD",
+          "Electronic stability control (ESC)",
+          "Hill start assist control (HAC)",
+          "Vehicle stability management (VSM)",
+          "Rear parking sensors",
+          "Rear parking camera",
+          "Driver rear view monitor (DRVM)",
+          "Driver rear view monitor (DRVM) – Day & night mirror",
+          "Headlamp escort system",
+          "Central locking",
+          "Speed sensing auto door lock",
+          "Impact sensing auto door unlock",
+          "Seatbelt reminder (All seats)",
+          "3 Point seatbelts (All seats)",
+          "Child seat anchor (ISOFIX)",
+          "Immobilizer",
+          "Burglar alarm"
+        ],
+        "Exterior": [
+          "LED daytime running lamps (DRLs)",
+          "LED Tail lamp",
+          "LED turn indicators on outside mirrors",
+          "Exclusive Knight Emblem – Silver",
+          "Wheel arch cladding (Add-On)",
+          "Wheel arch cladding (Add-On) – Silver",
+          "R15 (D=380.2mm) – Dual tone",
+          "Red front brake calipers – Micro pole"
+        ],
+        "Interior": [
+          "Interior theme – Dual tone (Navy & Grey) theme",
+          "Interior theme – Semi Fabric"
+        ],
+        "Infotainment & connectivity": [
+          "Digital cluster with colour TFT MID",
+          "Infotainment system"
+        ],
+        "infotainment system": [
+          "Front & rear speakers",
+          "Wireless Android Auto & Apple Carplay**",
+          "Steering wheel with audio & bluetooth controls"
+        ],
+        "Comfort & convenience": [
+          "Electric sunroof",
+          "Keyless entry – Foldable key",
+          "Air conditioning – Manual",
+          "Rear AC vents",
+          "Rear AC vents – Front",
+          "Power windows – Rear",
+          "Power windows – Auto down (driver only)",
+          "Power windows – Electrically adjustable",
+          "Outside mirrors – Electric folding",
+          "Outside mirrors – Front",
+          "Type‑C USB Port – Rear",
+          "Driver seat height adjustment",
+          "Adjustable rear headrests",
+          "Front Power outlet"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "EXTER 1.2 Kappa MT HX 6 Knight Edition",
+      "trim": "HX 6 Knight Edition",
+      "brochure_trim": "HX 6 Knight",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 817500
+      },
+      "engine": "1.2l Kappa Petrol",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "3 830",
+          "Overall Width (mm)": "1 723",
+          "Overall Height (mm)": "1 643@@",
+          "Wheelbase (mm)": "2 450",
+          "Size": "175/65 R15(D=380.2mm)Dual tone styled steel wheel(HX4,HX4+)|175/65 R15(D=380.2mm)Monotone dark grey",
+          "Front Tyres": "styled steel wheel(HX6Knight)|175/65 R15(D=380.2mm)Black painted alloys(HX10 Knight)",
+          "Spare wheel": "165/70 R14 (D = 354.8 mm) Steel"
+        },
+        "Engine": {
+          "Engine Type": "1.2l Kappa Petrol",
+          "Fuel System": "Petrol",
+          "Displacement(cm3)": "1 197",
+          "Max. Power": "61 kW (83 PS) @ 6 000 r/min",
+          "Max. Torque": "113.8 Nm (11.6 kgm) @ 4 000 r/min"
+        },
+        "Transmission": {
+          "Transmission Type": "5-Speed Manual / Smart Auto AMT"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson strut",
+          "Suspension Rear": "Coupled torsion beam axle",
+          "Suspension Shock Absorber": "Gas type"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Tank Capacity": "37"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Driver",
+          "Airbag – Passenger",
+          "Airbag – Side",
+          "Airbag – Curtain",
+          "Dashcam",
+          "Tyre pressure monitoring system - Highline",
+          "ABS (anti-lock braking system) with EBD",
+          "Electronic stability control (ESC)",
+          "Hill start assist control (HAC)",
+          "Vehicle stability management (VSM)",
+          "Rear parking sensors",
+          "Rear parking camera",
+          "Driver rear view monitor (DRVM)",
+          "Driver rear view monitor (DRVM) – Day & night mirror",
+          "Headlamp escort system",
+          "Rear defogger",
+          "Central locking",
+          "Speed sensing auto door lock",
+          "Impact sensing auto door unlock",
+          "Seatbelt reminder (All seats)",
+          "3 Point seatbelts (All seats)",
+          "Child seat anchor (ISOFIX)",
+          "Immobilizer",
+          "Burglar alarm"
+        ],
+        "Exterior": [
+          "Projector headlamps (Bi-Function)",
+          "LED daytime running lamps (DRLs)",
+          "LED Tail lamp",
+          "LED turn indicators on outside mirrors",
+          "Exclusive Knight Emblem",
+          "Front & rear bumper garnish – Dark grey",
+          "Wheel arch cladding (Add-On)",
+          "Side sill garnish – Dark grey",
+          "Roof rails",
+          "Styled steel wheel – Dark grey",
+          "Red front brake calipers",
+          "Antenna – Shark fin"
+        ],
+        "Interior": [
+          "Interior theme – Black theme with brass accents"
+        ],
+        "Infotainment & connectivity": [
+          "Digital cluster with colour TFT MID",
+          "Infotainment system"
+        ],
+        "infotainment system": [
+          "Front & rear speakers",
+          "Wireless Android Auto & Apple Carplay**",
+          "Steering wheel with audio & bluetooth controls"
+        ],
+        "Comfort & convenience": [
+          "Electric sunroof",
+          "Keyless entry – Smart key with push button start",
+          "Air conditioning – Fully automatic temperature control",
+          "Rear AC vents",
+          "Rear AC vents – Front",
+          "Power windows – Rear",
+          "Power windows – Auto down (driver only)",
+          "Power windows – Electrically adjustable",
+          "Outside mirrors – Electric folding",
+          "Outside mirrors – Front",
+          "Type‑C USB Port – Rear",
+          "Driver seat height adjustment",
+          "Folding driver armrest",
+          "Adjustable rear headrests",
+          "Front Power outlet"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "EXTER 1.2 Kappa MT HX 4 CNG",
+      "trim": "HX 4",
+      "brochure_trim": "HX 4",
+      "fuel": "CNG (dual cylinder)",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 832600
+      },
+      "engine": "1.2 l Bi-fuel Kappa petrol with CNG",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "3 830",
+          "Overall Width (mm)": "1 723",
+          "Overall Height (mm)": "1 643@@",
+          "Wheelbase (mm)": "2 450",
+          "Size": "175/65 R15(D=380.2mm)Dual tone styled steel wheel(HX4,HX4+)|175/65 R15(D=380.2mm)Monotone dark grey",
+          "Front Tyres": "styled steel wheel(HX6Knight)|175/65 R15(D=380.2mm)Black painted alloys(HX10 Knight)",
+          "Spare wheel": "165/70 R14 (D = 354.8 mm) Steel"
+        },
+        "Engine": {
+          "Engine Type": "1.2 l Bi-fuel Kappa petrol with CNG",
+          "Fuel System": "Petrol + CNG",
+          "Displacement(cm3)": "1 197",
+          "Max. Power": "50.5 kW (69 PS) @ 6 000 r/min",
+          "Max. Torque": "95.2 Nm (9.7 kgm) @ 4 000 r/min"
+        },
+        "Transmission": {
+          "Transmission Type": "5-Speed Manual"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson strut",
+          "Suspension Rear": "Coupled torsion beam axle",
+          "Suspension Shock Absorber": "Gas type"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol + CNG",
+          "Fuel Tank Capacity": "Petrol: 37 CNG : 60 (Water equivalent)"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Driver",
+          "Airbag – Passenger",
+          "Airbag – Side",
+          "Airbag – Curtain",
+          "Tyre pressure monitoring system - Highline",
+          "ABS (anti-lock braking system) with EBD",
+          "Electronic stability control (ESC)",
+          "Hill start assist control (HAC)",
+          "Vehicle stability management (VSM)",
+          "Rear parking sensors",
+          "Rear parking camera",
+          "Driver rear view monitor (DRVM)",
+          "Driver rear view monitor (DRVM) – Day & night mirror",
+          "Headlamp escort system",
+          "Central locking",
+          "Speed sensing auto door lock",
+          "Impact sensing auto door unlock",
+          "Seatbelt reminder (All seats)",
+          "3 Point seatbelts (All seats)",
+          "Child seat anchor (ISOFIX)",
+          "Immobilizer",
+          "Burglar alarm"
+        ],
+        "Exterior": [
+          "LED daytime running lamps (DRLs)",
+          "LED Tail lamp",
+          "Exclusive Knight Emblem – Silver",
+          "Wheel arch cladding (Add-On) – Silver",
+          "R15 (D=380.2mm) – Dual tone",
+          "Red front brake calipers – Micro pole"
+        ],
+        "Interior": [
+          "Interior theme – Dual tone (Navy & Grey) theme",
+          "Interior theme – Semi Fabric"
+        ],
+        "Infotainment & connectivity": [
+          "Digital cluster with colour TFT MID",
+          "Infotainment system"
+        ],
+        "infotainment system": [
+          "Front & rear speakers",
+          "Wireless Android Auto & Apple Carplay**",
+          "Steering wheel with audio & bluetooth controls"
+        ],
+        "Comfort & convenience": [
+          "Keyless entry – Foldable key",
+          "Air conditioning – Manual",
+          "Rear AC vents",
+          "Rear AC vents – Front",
+          "Power windows – Rear",
+          "Power windows – Auto down (driver only)",
+          "Power windows – Electrically adjustable",
+          "Outside mirrors – Front",
+          "Type‑C USB Port – Rear",
+          "Driver seat height adjustment",
+          "Adjustable rear headrests",
+          "Front Power outlet"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "EXTER 1.2 Kappa MT HX 8",
+      "trim": "HX 8",
+      "brochure_trim": "HX 8",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 843600
+      },
+      "engine": "1.2l Kappa Petrol",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "3 830",
+          "Overall Width (mm)": "1 723",
+          "Overall Height (mm)": "1 643@@",
+          "Wheelbase (mm)": "2 450",
+          "Size": "175/65 R15(D=380.2mm)Dual tone styled steel wheel(HX4,HX4+)|175/65 R15(D=380.2mm)Monotone dark grey",
+          "Front Tyres": "styled steel wheel(HX6Knight)|175/65 R15(D=380.2mm)Black painted alloys(HX10 Knight)",
+          "Spare wheel": "165/70 R14 (D = 354.8 mm) Steel"
+        },
+        "Engine": {
+          "Engine Type": "1.2l Kappa Petrol",
+          "Fuel System": "Petrol",
+          "Displacement(cm3)": "1 197",
+          "Max. Power": "61 kW (83 PS) @ 6 000 r/min",
+          "Max. Torque": "113.8 Nm (11.6 kgm) @ 4 000 r/min"
+        },
+        "Transmission": {
+          "Transmission Type": "5-Speed Manual / Smart Auto AMT"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson strut",
+          "Suspension Rear": "Coupled torsion beam axle",
+          "Suspension Shock Absorber": "Gas type"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Tank Capacity": "37"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Driver",
+          "Airbag – Passenger",
+          "Airbag – Side",
+          "Airbag – Curtain",
+          "Dashcam",
+          "Tyre pressure monitoring system - Highline",
+          "ABS (anti-lock braking system) with EBD",
+          "Electronic stability control (ESC)",
+          "Hill start assist control (HAC)",
+          "Vehicle stability management (VSM)",
+          "Rear parking sensors",
+          "Rear parking camera",
+          "Driver rear view monitor (DRVM)",
+          "Driver rear view monitor (DRVM) – Day & night mirror",
+          "Headlamp escort system",
+          "Rear defogger",
+          "Automatic headlamps",
+          "Central locking",
+          "Speed sensing auto door lock",
+          "Impact sensing auto door unlock",
+          "Seatbelt reminder (All seats)",
+          "3 Point seatbelts (All seats)",
+          "Child seat anchor (ISOFIX)",
+          "Immobilizer",
+          "Burglar alarm"
+        ],
+        "Exterior": [
+          "Projector headlamps (Bi-Function)",
+          "LED daytime running lamps (DRLs)",
+          "LED Tail lamp",
+          "LED turn indicators on outside mirrors",
+          "Exclusive Knight Emblem – Silver",
+          "Wheel arch cladding (Add-On)",
+          "Wheel arch cladding (Add-On) – Silver",
+          "Roof rails",
+          "Styled steel wheel – Diamond Cut",
+          "Antenna – Shark fin"
+        ],
+        "Interior": [
+          "Interior theme – Dual tone (Navy & Grey) theme",
+          "Interior theme – Semi Fabric",
+          "Footwell lighting – Blue",
+          "Leather@ pack – Steering wheel",
+          "Leather@ pack – Gear knob"
+        ],
+        "Infotainment & connectivity": [
+          "Digital cluster with colour TFT MID",
+          "Infotainment system"
+        ],
+        "infotainment system": [
+          "Front & rear speakers",
+          "Wireless Android Auto & Apple Carplay**",
+          "Steering wheel with audio & bluetooth controls"
+        ],
+        "Comfort & convenience": [
+          "Electric sunroof",
+          "Keyless entry – Smart key with push button start",
+          "Smartphone wireless charger^^",
+          "Air conditioning – Fully automatic temperature control",
+          "Rear AC vents",
+          "Rear AC vents – Front",
+          "Power windows – Rear",
+          "Power windows – Auto down (driver only)",
+          "Power windows – Electrically adjustable",
+          "Outside mirrors – Electric folding",
+          "Outside mirrors – Front",
+          "Type‑C USB Port – Rear",
+          "Driver seat height adjustment",
+          "Folding driver armrest",
+          "Adjustable rear headrests",
+          "Front Power outlet",
+          "Glovebox cooling",
+          "Rear wiper & washer"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "EXTER 1.2 Kappa AMT HX 6",
+      "trim": "HX 6",
+      "brochure_trim": "HX 6",
+      "fuel": "Petrol",
+      "transmission": "AMT",
+      "ex_showroom_surat": {
+        "standard": 862600,
+        "dual_tone": 877600
+      },
+      "engine": "1.2l Kappa Petrol",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "3 830",
+          "Overall Width (mm)": "1 723",
+          "Overall Height (mm)": "1 643@@",
+          "Wheelbase (mm)": "2 450",
+          "Size": "175/65 R15(D=380.2mm)Dual tone styled steel wheel(HX4,HX4+)|175/65 R15(D=380.2mm)Monotone dark grey",
+          "Front Tyres": "styled steel wheel(HX6Knight)|175/65 R15(D=380.2mm)Black painted alloys(HX10 Knight)",
+          "Spare wheel": "165/70 R14 (D = 354.8 mm) Steel"
+        },
+        "Engine": {
+          "Engine Type": "1.2l Kappa Petrol",
+          "Fuel System": "Petrol",
+          "Displacement(cm3)": "1 197",
+          "Max. Power": "61 kW (83 PS) @ 6 000 r/min",
+          "Max. Torque": "113.8 Nm (11.6 kgm) @ 4 000 r/min"
+        },
+        "Transmission": {
+          "Transmission Type": "5-Speed Manual / Smart Auto AMT"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson strut",
+          "Suspension Rear": "Coupled torsion beam axle",
+          "Suspension Shock Absorber": "Gas type"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Tank Capacity": "37"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Driver",
+          "Airbag – Passenger",
+          "Airbag – Side",
+          "Airbag – Curtain",
+          "Dashcam",
+          "Tyre pressure monitoring system - Highline",
+          "ABS (anti-lock braking system) with EBD",
+          "Electronic stability control (ESC)",
+          "Hill start assist control (HAC)",
+          "Vehicle stability management (VSM)",
+          "Rear parking sensors",
+          "Rear parking camera",
+          "Driver rear view monitor (DRVM)",
+          "Driver rear view monitor (DRVM) – Day & night mirror",
+          "Headlamp escort system",
+          "Rear defogger",
+          "Central locking",
+          "Speed sensing auto door lock",
+          "Impact sensing auto door unlock",
+          "Seatbelt reminder (All seats)",
+          "3 Point seatbelts (All seats)",
+          "Child seat anchor (ISOFIX)",
+          "Immobilizer",
+          "Burglar alarm"
+        ],
+        "Exterior": [
+          "Projector headlamps (Bi-Function)",
+          "LED daytime running lamps (DRLs)",
+          "LED Tail lamp",
+          "LED turn indicators on outside mirrors",
+          "Exclusive Knight Emblem – Silver",
+          "Wheel arch cladding (Add-On)",
+          "Wheel arch cladding (Add-On) – Silver",
+          "Roof rails",
+          "R15 (D=380.2mm) – Dual tone",
+          "Antenna – Shark fin"
+        ],
+        "Interior": [
+          "Interior theme – Dual tone (Navy & Grey) theme",
+          "Interior theme – Semi Fabric"
+        ],
+        "Infotainment & connectivity": [
+          "Digital cluster with colour TFT MID",
+          "Infotainment system"
+        ],
+        "infotainment system": [
+          "Front & rear speakers",
+          "Wireless Android Auto & Apple Carplay**",
+          "Steering wheel with audio & bluetooth controls"
+        ],
+        "Comfort & convenience": [
+          "Electric sunroof",
+          "Keyless entry – Smart key with push button start",
+          "Air conditioning – Fully automatic temperature control",
+          "Rear AC vents",
+          "Rear AC vents – Front",
+          "Power windows – Rear",
+          "Power windows – Auto down (driver only)",
+          "Power windows – Electrically adjustable",
+          "Outside mirrors – Electric folding",
+          "Outside mirrors – Front",
+          "Type‑C USB Port – Rear",
+          "Driver seat height adjustment",
+          "Folding driver armrest",
+          "Adjustable rear headrests",
+          "Front Power outlet"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "EXTER 1.2 Kappa AMT HX 6 Knight Edition",
+      "trim": "HX 6 Knight Edition",
+      "brochure_trim": "HX 6 Knight",
+      "fuel": "Petrol",
+      "transmission": "AMT",
+      "ex_showroom_surat": {
+        "standard": 877500
+      },
+      "engine": "1.2l Kappa Petrol",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "3 830",
+          "Overall Width (mm)": "1 723",
+          "Overall Height (mm)": "1 643@@",
+          "Wheelbase (mm)": "2 450",
+          "Size": "175/65 R15(D=380.2mm)Dual tone styled steel wheel(HX4,HX4+)|175/65 R15(D=380.2mm)Monotone dark grey",
+          "Front Tyres": "styled steel wheel(HX6Knight)|175/65 R15(D=380.2mm)Black painted alloys(HX10 Knight)",
+          "Spare wheel": "165/70 R14 (D = 354.8 mm) Steel"
+        },
+        "Engine": {
+          "Engine Type": "1.2l Kappa Petrol",
+          "Fuel System": "Petrol",
+          "Displacement(cm3)": "1 197",
+          "Max. Power": "61 kW (83 PS) @ 6 000 r/min",
+          "Max. Torque": "113.8 Nm (11.6 kgm) @ 4 000 r/min"
+        },
+        "Transmission": {
+          "Transmission Type": "5-Speed Manual / Smart Auto AMT"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson strut",
+          "Suspension Rear": "Coupled torsion beam axle",
+          "Suspension Shock Absorber": "Gas type"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Tank Capacity": "37"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Driver",
+          "Airbag – Passenger",
+          "Airbag – Side",
+          "Airbag – Curtain",
+          "Dashcam",
+          "Tyre pressure monitoring system - Highline",
+          "ABS (anti-lock braking system) with EBD",
+          "Electronic stability control (ESC)",
+          "Hill start assist control (HAC)",
+          "Vehicle stability management (VSM)",
+          "Rear parking sensors",
+          "Rear parking camera",
+          "Driver rear view monitor (DRVM)",
+          "Driver rear view monitor (DRVM) – Day & night mirror",
+          "Headlamp escort system",
+          "Rear defogger",
+          "Central locking",
+          "Speed sensing auto door lock",
+          "Impact sensing auto door unlock",
+          "Seatbelt reminder (All seats)",
+          "3 Point seatbelts (All seats)",
+          "Child seat anchor (ISOFIX)",
+          "Immobilizer",
+          "Burglar alarm"
+        ],
+        "Exterior": [
+          "Projector headlamps (Bi-Function)",
+          "LED daytime running lamps (DRLs)",
+          "LED Tail lamp",
+          "LED turn indicators on outside mirrors",
+          "Exclusive Knight Emblem",
+          "Front & rear bumper garnish – Dark grey",
+          "Wheel arch cladding (Add-On)",
+          "Side sill garnish – Dark grey",
+          "Roof rails",
+          "Styled steel wheel – Dark grey",
+          "Red front brake calipers",
+          "Antenna – Shark fin"
+        ],
+        "Interior": [
+          "Interior theme – Black theme with brass accents"
+        ],
+        "Infotainment & connectivity": [
+          "Digital cluster with colour TFT MID",
+          "Infotainment system"
+        ],
+        "infotainment system": [
+          "Front & rear speakers",
+          "Wireless Android Auto & Apple Carplay**",
+          "Steering wheel with audio & bluetooth controls"
+        ],
+        "Comfort & convenience": [
+          "Electric sunroof",
+          "Keyless entry – Smart key with push button start",
+          "Air conditioning – Fully automatic temperature control",
+          "Rear AC vents",
+          "Rear AC vents – Front",
+          "Power windows – Rear",
+          "Power windows – Auto down (driver only)",
+          "Power windows – Electrically adjustable",
+          "Outside mirrors – Electric folding",
+          "Outside mirrors – Front",
+          "Type‑C USB Port – Rear",
+          "Driver seat height adjustment",
+          "Folding driver armrest",
+          "Adjustable rear headrests",
+          "Front Power outlet"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "EXTER 1.2 Kappa MT HX 6 CNG",
+      "trim": "HX 6",
+      "brochure_trim": "HX 6",
+      "fuel": "CNG (dual cylinder)",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 899600,
+        "dual_tone": 914600
+      },
+      "engine": "1.2 l Bi-fuel Kappa petrol with CNG",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "3 830",
+          "Overall Width (mm)": "1 723",
+          "Overall Height (mm)": "1 643@@",
+          "Wheelbase (mm)": "2 450",
+          "Size": "175/65 R15(D=380.2mm)Dual tone styled steel wheel(HX4,HX4+)|175/65 R15(D=380.2mm)Monotone dark grey",
+          "Front Tyres": "styled steel wheel(HX6Knight)|175/65 R15(D=380.2mm)Black painted alloys(HX10 Knight)",
+          "Spare wheel": "165/70 R14 (D = 354.8 mm) Steel"
+        },
+        "Engine": {
+          "Engine Type": "1.2 l Bi-fuel Kappa petrol with CNG",
+          "Fuel System": "Petrol + CNG",
+          "Displacement(cm3)": "1 197",
+          "Max. Power": "50.5 kW (69 PS) @ 6 000 r/min",
+          "Max. Torque": "95.2 Nm (9.7 kgm) @ 4 000 r/min"
+        },
+        "Transmission": {
+          "Transmission Type": "5-Speed Manual"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson strut",
+          "Suspension Rear": "Coupled torsion beam axle",
+          "Suspension Shock Absorber": "Gas type"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol + CNG",
+          "Fuel Tank Capacity": "Petrol: 37 CNG : 60 (Water equivalent)"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Driver",
+          "Airbag – Passenger",
+          "Airbag – Side",
+          "Airbag – Curtain",
+          "Dashcam",
+          "Tyre pressure monitoring system - Highline",
+          "ABS (anti-lock braking system) with EBD",
+          "Electronic stability control (ESC)",
+          "Hill start assist control (HAC)",
+          "Vehicle stability management (VSM)",
+          "Rear parking sensors",
+          "Rear parking camera",
+          "Driver rear view monitor (DRVM)",
+          "Driver rear view monitor (DRVM) – Day & night mirror",
+          "Headlamp escort system",
+          "Rear defogger",
+          "Central locking",
+          "Speed sensing auto door lock",
+          "Impact sensing auto door unlock",
+          "Seatbelt reminder (All seats)",
+          "3 Point seatbelts (All seats)",
+          "Child seat anchor (ISOFIX)",
+          "Immobilizer",
+          "Burglar alarm"
+        ],
+        "Exterior": [
+          "Projector headlamps (Bi-Function)",
+          "LED daytime running lamps (DRLs)",
+          "LED Tail lamp",
+          "LED turn indicators on outside mirrors",
+          "Exclusive Knight Emblem – Silver",
+          "Wheel arch cladding (Add-On)",
+          "Wheel arch cladding (Add-On) – Silver",
+          "Roof rails",
+          "R15 (D=380.2mm) – Dual tone",
+          "Antenna – Shark fin"
+        ],
+        "Interior": [
+          "Interior theme – Dual tone (Navy & Grey) theme",
+          "Interior theme – Semi Fabric"
+        ],
+        "Infotainment & connectivity": [
+          "Digital cluster with colour TFT MID",
+          "Infotainment system"
+        ],
+        "infotainment system": [
+          "Front & rear speakers",
+          "Wireless Android Auto & Apple Carplay**",
+          "Steering wheel with audio & bluetooth controls"
+        ],
+        "Comfort & convenience": [
+          "Electric sunroof",
+          "Keyless entry – Smart key with push button start",
+          "Air conditioning – Fully automatic temperature control",
+          "Rear AC vents",
+          "Rear AC vents – Front",
+          "Power windows – Rear",
+          "Power windows – Auto down (driver only)",
+          "Power windows – Electrically adjustable",
+          "Outside mirrors – Electric folding",
+          "Outside mirrors – Front",
+          "Type‑C USB Port – Rear",
+          "Driver seat height adjustment",
+          "Folding driver armrest",
+          "Adjustable rear headrests",
+          "Front Power outlet"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "EXTER 1.2 Kappa MT HX 6 Knight Edition CNG",
+      "trim": "HX 6 Knight Edition",
+      "brochure_trim": "HX 6 Knight",
+      "fuel": "CNG (dual cylinder)",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 914500
+      },
+      "engine": "1.2 l Bi-fuel Kappa petrol with CNG",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "3 830",
+          "Overall Width (mm)": "1 723",
+          "Overall Height (mm)": "1 643@@",
+          "Wheelbase (mm)": "2 450",
+          "Size": "175/65 R15(D=380.2mm)Dual tone styled steel wheel(HX4,HX4+)|175/65 R15(D=380.2mm)Monotone dark grey",
+          "Front Tyres": "styled steel wheel(HX6Knight)|175/65 R15(D=380.2mm)Black painted alloys(HX10 Knight)",
+          "Spare wheel": "165/70 R14 (D = 354.8 mm) Steel"
+        },
+        "Engine": {
+          "Engine Type": "1.2 l Bi-fuel Kappa petrol with CNG",
+          "Fuel System": "Petrol + CNG",
+          "Displacement(cm3)": "1 197",
+          "Max. Power": "50.5 kW (69 PS) @ 6 000 r/min",
+          "Max. Torque": "95.2 Nm (9.7 kgm) @ 4 000 r/min"
+        },
+        "Transmission": {
+          "Transmission Type": "5-Speed Manual"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson strut",
+          "Suspension Rear": "Coupled torsion beam axle",
+          "Suspension Shock Absorber": "Gas type"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol + CNG",
+          "Fuel Tank Capacity": "Petrol: 37 CNG : 60 (Water equivalent)"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Driver",
+          "Airbag – Passenger",
+          "Airbag – Side",
+          "Airbag – Curtain",
+          "Dashcam",
+          "Tyre pressure monitoring system - Highline",
+          "ABS (anti-lock braking system) with EBD",
+          "Electronic stability control (ESC)",
+          "Hill start assist control (HAC)",
+          "Vehicle stability management (VSM)",
+          "Rear parking sensors",
+          "Rear parking camera",
+          "Driver rear view monitor (DRVM)",
+          "Driver rear view monitor (DRVM) – Day & night mirror",
+          "Headlamp escort system",
+          "Rear defogger",
+          "Central locking",
+          "Speed sensing auto door lock",
+          "Impact sensing auto door unlock",
+          "Seatbelt reminder (All seats)",
+          "3 Point seatbelts (All seats)",
+          "Child seat anchor (ISOFIX)",
+          "Immobilizer",
+          "Burglar alarm"
+        ],
+        "Exterior": [
+          "Projector headlamps (Bi-Function)",
+          "LED daytime running lamps (DRLs)",
+          "LED Tail lamp",
+          "LED turn indicators on outside mirrors",
+          "Exclusive Knight Emblem",
+          "Front & rear bumper garnish – Dark grey",
+          "Wheel arch cladding (Add-On)",
+          "Side sill garnish – Dark grey",
+          "Roof rails",
+          "Styled steel wheel – Dark grey",
+          "Red front brake calipers",
+          "Antenna – Shark fin"
+        ],
+        "Interior": [
+          "Interior theme – Black theme with brass accents"
+        ],
+        "Infotainment & connectivity": [
+          "Digital cluster with colour TFT MID",
+          "Infotainment system"
+        ],
+        "infotainment system": [
+          "Front & rear speakers",
+          "Wireless Android Auto & Apple Carplay**",
+          "Steering wheel with audio & bluetooth controls"
+        ],
+        "Comfort & convenience": [
+          "Electric sunroof",
+          "Keyless entry – Smart key with push button start",
+          "Air conditioning – Fully automatic temperature control",
+          "Rear AC vents",
+          "Rear AC vents – Front",
+          "Power windows – Rear",
+          "Power windows – Auto down (driver only)",
+          "Power windows – Electrically adjustable",
+          "Outside mirrors – Electric folding",
+          "Outside mirrors – Front",
+          "Type‑C USB Port – Rear",
+          "Driver seat height adjustment",
+          "Folding driver armrest",
+          "Adjustable rear headrests",
+          "Front Power outlet"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "EXTER 1.2 Kappa AMT HX 8",
+      "trim": "HX 8",
+      "brochure_trim": "HX 8",
+      "fuel": "Petrol",
+      "transmission": "AMT",
+      "ex_showroom_surat": {
+        "standard": 915600
+      },
+      "engine": "1.2l Kappa Petrol",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "3 830",
+          "Overall Width (mm)": "1 723",
+          "Overall Height (mm)": "1 643@@",
+          "Wheelbase (mm)": "2 450",
+          "Size": "175/65 R15(D=380.2mm)Dual tone styled steel wheel(HX4,HX4+)|175/65 R15(D=380.2mm)Monotone dark grey",
+          "Front Tyres": "styled steel wheel(HX6Knight)|175/65 R15(D=380.2mm)Black painted alloys(HX10 Knight)",
+          "Spare wheel": "165/70 R14 (D = 354.8 mm) Steel"
+        },
+        "Engine": {
+          "Engine Type": "1.2l Kappa Petrol",
+          "Fuel System": "Petrol",
+          "Displacement(cm3)": "1 197",
+          "Max. Power": "61 kW (83 PS) @ 6 000 r/min",
+          "Max. Torque": "113.8 Nm (11.6 kgm) @ 4 000 r/min"
+        },
+        "Transmission": {
+          "Transmission Type": "5-Speed Manual / Smart Auto AMT"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson strut",
+          "Suspension Rear": "Coupled torsion beam axle",
+          "Suspension Shock Absorber": "Gas type"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Tank Capacity": "37"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Driver",
+          "Airbag – Passenger",
+          "Airbag – Side",
+          "Airbag – Curtain",
+          "Dashcam",
+          "Tyre pressure monitoring system - Highline",
+          "ABS (anti-lock braking system) with EBD",
+          "Electronic stability control (ESC)",
+          "Hill start assist control (HAC)",
+          "Vehicle stability management (VSM)",
+          "Rear parking sensors",
+          "Rear parking camera",
+          "Driver rear view monitor (DRVM)",
+          "Driver rear view monitor (DRVM) – Day & night mirror",
+          "Headlamp escort system",
+          "Rear defogger",
+          "Automatic headlamps",
+          "Central locking",
+          "Speed sensing auto door lock",
+          "Impact sensing auto door unlock",
+          "Seatbelt reminder (All seats)",
+          "3 Point seatbelts (All seats)",
+          "Child seat anchor (ISOFIX)",
+          "Immobilizer",
+          "Burglar alarm"
+        ],
+        "Exterior": [
+          "Projector headlamps (Bi-Function)",
+          "LED daytime running lamps (DRLs)",
+          "LED Tail lamp",
+          "LED turn indicators on outside mirrors",
+          "Exclusive Knight Emblem – Silver",
+          "Wheel arch cladding (Add-On)",
+          "Wheel arch cladding (Add-On) – Silver",
+          "Roof rails",
+          "Styled steel wheel – Diamond Cut",
+          "Antenna – Shark fin"
+        ],
+        "Interior": [
+          "Interior theme – Dual tone (Navy & Grey) theme",
+          "Interior theme – Semi Fabric",
+          "Footwell lighting – Blue",
+          "Leather@ pack – Steering wheel",
+          "Leather@ pack – Gear knob"
+        ],
+        "Infotainment & connectivity": [
+          "Digital cluster with colour TFT MID",
+          "Infotainment system"
+        ],
+        "infotainment system": [
+          "Front & rear speakers",
+          "Wireless Android Auto & Apple Carplay**",
+          "Steering wheel with audio & bluetooth controls"
+        ],
+        "Comfort & convenience": [
+          "Electric sunroof",
+          "Keyless entry – Smart key with push button start",
+          "Smartphone wireless charger^^",
+          "Air conditioning – Fully automatic temperature control",
+          "Rear AC vents",
+          "Rear AC vents – Front",
+          "Power windows – Rear",
+          "Power windows – Auto down (driver only)",
+          "Power windows – Electrically adjustable",
+          "Outside mirrors – Electric folding",
+          "Outside mirrors – Front",
+          "Type‑C USB Port – Rear",
+          "Driver seat height adjustment",
+          "Folding driver armrest",
+          "Adjustable rear headrests",
+          "Front Power outlet",
+          "Glovebox cooling",
+          "Rear wiper & washer"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "EXTER 1.2 Kappa MT HX 8 CNG",
+      "trim": "HX 8",
+      "brochure_trim": "HX 8",
+      "fuel": "CNG (dual cylinder)",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 946600
+      },
+      "engine": "1.2 l Bi-fuel Kappa petrol with CNG",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "3 830",
+          "Overall Width (mm)": "1 723",
+          "Overall Height (mm)": "1 643@@",
+          "Wheelbase (mm)": "2 450",
+          "Size": "175/65 R15(D=380.2mm)Dual tone styled steel wheel(HX4,HX4+)|175/65 R15(D=380.2mm)Monotone dark grey",
+          "Front Tyres": "styled steel wheel(HX6Knight)|175/65 R15(D=380.2mm)Black painted alloys(HX10 Knight)",
+          "Spare wheel": "165/70 R14 (D = 354.8 mm) Steel"
+        },
+        "Engine": {
+          "Engine Type": "1.2 l Bi-fuel Kappa petrol with CNG",
+          "Fuel System": "Petrol + CNG",
+          "Displacement(cm3)": "1 197",
+          "Max. Power": "50.5 kW (69 PS) @ 6 000 r/min",
+          "Max. Torque": "95.2 Nm (9.7 kgm) @ 4 000 r/min"
+        },
+        "Transmission": {
+          "Transmission Type": "5-Speed Manual"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson strut",
+          "Suspension Rear": "Coupled torsion beam axle",
+          "Suspension Shock Absorber": "Gas type"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol + CNG",
+          "Fuel Tank Capacity": "Petrol: 37 CNG : 60 (Water equivalent)"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Driver",
+          "Airbag – Passenger",
+          "Airbag – Side",
+          "Airbag – Curtain",
+          "Dashcam",
+          "Tyre pressure monitoring system - Highline",
+          "ABS (anti-lock braking system) with EBD",
+          "Electronic stability control (ESC)",
+          "Hill start assist control (HAC)",
+          "Vehicle stability management (VSM)",
+          "Rear parking sensors",
+          "Rear parking camera",
+          "Driver rear view monitor (DRVM)",
+          "Driver rear view monitor (DRVM) – Day & night mirror",
+          "Headlamp escort system",
+          "Rear defogger",
+          "Automatic headlamps",
+          "Central locking",
+          "Speed sensing auto door lock",
+          "Impact sensing auto door unlock",
+          "Seatbelt reminder (All seats)",
+          "3 Point seatbelts (All seats)",
+          "Child seat anchor (ISOFIX)",
+          "Immobilizer",
+          "Burglar alarm"
+        ],
+        "Exterior": [
+          "Projector headlamps (Bi-Function)",
+          "LED daytime running lamps (DRLs)",
+          "LED Tail lamp",
+          "LED turn indicators on outside mirrors",
+          "Exclusive Knight Emblem – Silver",
+          "Wheel arch cladding (Add-On)",
+          "Wheel arch cladding (Add-On) – Silver",
+          "Roof rails",
+          "Styled steel wheel – Diamond Cut",
+          "Antenna – Shark fin"
+        ],
+        "Interior": [
+          "Interior theme – Dual tone (Navy & Grey) theme",
+          "Interior theme – Semi Fabric",
+          "Footwell lighting – Blue",
+          "Leather@ pack – Steering wheel",
+          "Leather@ pack – Gear knob"
+        ],
+        "Infotainment & connectivity": [
+          "Digital cluster with colour TFT MID",
+          "Infotainment system"
+        ],
+        "infotainment system": [
+          "Front & rear speakers",
+          "Wireless Android Auto & Apple Carplay**",
+          "Steering wheel with audio & bluetooth controls"
+        ],
+        "Comfort & convenience": [
+          "Electric sunroof",
+          "Keyless entry – Smart key with push button start",
+          "Smartphone wireless charger^^",
+          "Air conditioning – Fully automatic temperature control",
+          "Rear AC vents",
+          "Rear AC vents – Front",
+          "Power windows – Rear",
+          "Power windows – Auto down (driver only)",
+          "Power windows – Electrically adjustable",
+          "Outside mirrors – Electric folding",
+          "Outside mirrors – Front",
+          "Type‑C USB Port – Rear",
+          "Driver seat height adjustment",
+          "Folding driver armrest",
+          "Adjustable rear headrests",
+          "Front Power outlet",
+          "Glovebox cooling",
+          "Rear wiper & washer"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "EXTER 1.2 Kappa AMT HX 10",
+      "trim": "HX 10",
+      "brochure_trim": "HX 10",
+      "fuel": "Petrol",
+      "transmission": "AMT",
+      "ex_showroom_surat": {
+        "standard": 949600,
+        "dual_tone": 964600
+      },
+      "engine": "1.2l Kappa Petrol",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "3 830",
+          "Overall Width (mm)": "1 723",
+          "Overall Height (mm)": "1 643@@",
+          "Wheelbase (mm)": "2 450",
+          "Size": "175/65 R15(D=380.2mm)Dual tone styled steel wheel(HX4,HX4+)|175/65 R15(D=380.2mm)Monotone dark grey",
+          "Front Tyres": "styled steel wheel(HX6Knight)|175/65 R15(D=380.2mm)Black painted alloys(HX10 Knight)",
+          "Spare wheel": "165/70 R14 (D = 354.8 mm) Steel"
+        },
+        "Engine": {
+          "Engine Type": "1.2l Kappa Petrol",
+          "Fuel System": "Petrol",
+          "Displacement(cm3)": "1 197",
+          "Max. Power": "61 kW (83 PS) @ 6 000 r/min",
+          "Max. Torque": "113.8 Nm (11.6 kgm) @ 4 000 r/min"
+        },
+        "Transmission": {
+          "Transmission Type": "5-Speed Manual / Smart Auto AMT"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson strut",
+          "Suspension Rear": "Coupled torsion beam axle",
+          "Suspension Shock Absorber": "Gas type"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Tank Capacity": "37"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Driver",
+          "Airbag – Passenger",
+          "Airbag – Side",
+          "Airbag – Curtain",
+          "Dashcam",
+          "Tyre pressure monitoring system - Highline",
+          "ABS (anti-lock braking system) with EBD",
+          "Electronic stability control (ESC)",
+          "Hill start assist control (HAC)",
+          "Vehicle stability management (VSM)",
+          "Rear parking sensors",
+          "Rear parking camera",
+          "Driver rear view monitor (DRVM)",
+          "Driver rear view monitor (DRVM) – Day & night mirror",
+          "Inside rear view mirror – Telematics switches (SOS, RSA & Bluelink)",
+          "Headlamp escort system",
+          "Rear defogger",
+          "Automatic headlamps",
+          "Central locking",
+          "Speed sensing auto door lock",
+          "Impact sensing auto door unlock",
+          "Seatbelt reminder (All seats)",
+          "3 Point seatbelts (All seats)",
+          "Child seat anchor (ISOFIX)",
+          "Immobilizer",
+          "Burglar alarm"
+        ],
+        "Exterior": [
+          "Projector headlamps (Bi-Function)",
+          "LED daytime running lamps (DRLs)",
+          "LED Tail lamp",
+          "LED turn indicators on outside mirrors",
+          "Exclusive Knight Emblem – Silver",
+          "Wheel arch cladding (Add-On)",
+          "Wheel arch cladding (Add-On) – Silver",
+          "Roof rails",
+          "Styled steel wheel – Diamond Cut",
+          "Antenna – Shark fin"
+        ],
+        "Interior": [
+          "Interior theme – Dual tone (Navy & Grey) theme",
+          "Interior theme – Semi Fabric",
+          "Footwell lighting – Blue",
+          "Leather@ pack – Steering wheel",
+          "Leather@ pack – Gear knob",
+          "Metal pedals"
+        ],
+        "Infotainment & connectivity": [
+          "Digital cluster with colour TFT MID"
+        ],
+        "infotainment system": [
+          "Hyundai Bluelink (Connected car technology)",
+          "Front & rear speakers",
+          "Home to car (H2C) with Alexa***",
+          "Over-the-Air (OTA) update for maps & infotainment",
+          "Wireless Android Auto & Apple Carplay**",
+          "Steering wheel with audio & bluetooth controls"
+        ],
+        "Comfort & convenience": [
+          "Electric sunroof",
+          "Keyless entry – Smart key with push button start",
+          "Smartphone wireless charger^^",
+          "Air conditioning – Fully automatic temperature control",
+          "Rear AC vents",
+          "Rear AC vents – Front",
+          "Power windows – Rear",
+          "Power windows – Auto down (driver only)",
+          "Power windows – Electrically adjustable",
+          "Outside mirrors – Electric folding",
+          "Outside mirrors – Front",
+          "Type‑C USB Port – Rear",
+          "Driver seat height adjustment",
+          "Folding driver armrest",
+          "Adjustable rear headrests",
+          "Front Power outlet",
+          "Glovebox cooling",
+          "Rear wiper & washer"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "EXTER 1.2 Kappa AMT HX 10 Knight Edition",
+      "trim": "HX 10 Knight Edition",
+      "brochure_trim": "HX 10 Knight",
+      "fuel": "Petrol",
+      "transmission": "AMT",
+      "ex_showroom_surat": {
+        "standard": 964500
+      },
+      "engine": "1.2l Kappa Petrol",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "3 830",
+          "Overall Width (mm)": "1 723",
+          "Overall Height (mm)": "1 643@@",
+          "Wheelbase (mm)": "2 450",
+          "Size": "175/65 R15(D=380.2mm)Dual tone styled steel wheel(HX4,HX4+)|175/65 R15(D=380.2mm)Monotone dark grey",
+          "Front Tyres": "styled steel wheel(HX6Knight)|175/65 R15(D=380.2mm)Black painted alloys(HX10 Knight)",
+          "Spare wheel": "165/70 R14 (D = 354.8 mm) Steel"
+        },
+        "Engine": {
+          "Engine Type": "1.2l Kappa Petrol",
+          "Fuel System": "Petrol",
+          "Displacement(cm3)": "1 197",
+          "Max. Power": "61 kW (83 PS) @ 6 000 r/min",
+          "Max. Torque": "113.8 Nm (11.6 kgm) @ 4 000 r/min"
+        },
+        "Transmission": {
+          "Transmission Type": "5-Speed Manual / Smart Auto AMT"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson strut",
+          "Suspension Rear": "Coupled torsion beam axle",
+          "Suspension Shock Absorber": "Gas type"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Tank Capacity": "37"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Driver",
+          "Airbag – Passenger",
+          "Airbag – Side",
+          "Airbag – Curtain",
+          "Dashcam",
+          "Tyre pressure monitoring system - Highline",
+          "ABS (anti-lock braking system) with EBD",
+          "Electronic stability control (ESC)",
+          "Hill start assist control (HAC)",
+          "Vehicle stability management (VSM)",
+          "Rear parking sensors",
+          "Rear parking camera",
+          "Driver rear view monitor (DRVM)",
+          "Driver rear view monitor (DRVM) – Day & night mirror",
+          "Inside rear view mirror – Telematics switches (SOS, RSA & Bluelink)",
+          "Headlamp escort system",
+          "Rear defogger",
+          "Automatic headlamps",
+          "Central locking",
+          "Speed sensing auto door lock",
+          "Impact sensing auto door unlock",
+          "Seatbelt reminder (All seats)",
+          "3 Point seatbelts (All seats)",
+          "Child seat anchor (ISOFIX)",
+          "Immobilizer",
+          "Burglar alarm"
+        ],
+        "Exterior": [
+          "Projector headlamps (Bi-Function)",
+          "LED daytime running lamps (DRLs)",
+          "LED Tail lamp",
+          "LED turn indicators on outside mirrors",
+          "Exclusive Knight Emblem",
+          "Front & rear bumper garnish – Dark grey",
+          "Wheel arch cladding (Add-On)",
+          "Side sill garnish – Dark grey",
+          "Roof rails",
+          "Styled steel wheel – Black painted",
+          "Red front brake calipers",
+          "Antenna – Shark fin"
+        ],
+        "Interior": [
+          "Interior theme – Black theme with brass accents",
+          "Footwell lighting – Amber",
+          "Leather@ pack – Steering wheel",
+          "Leather@ pack – Gear knob",
+          "Metal pedals"
+        ],
+        "Infotainment & connectivity": [
+          "Digital cluster with colour TFT MID"
+        ],
+        "infotainment system": [
+          "Hyundai Bluelink (Connected car technology)",
+          "Front & rear speakers",
+          "Home to car (H2C) with Alexa***",
+          "Over-the-Air (OTA) update for maps & infotainment",
+          "Wireless Android Auto & Apple Carplay**",
+          "Steering wheel with audio & bluetooth controls"
+        ],
+        "Comfort & convenience": [
+          "Electric sunroof",
+          "Keyless entry – Smart key with push button start",
+          "Smartphone wireless charger^^",
+          "Air conditioning – Fully automatic temperature control",
+          "Rear AC vents",
+          "Rear AC vents – Front",
+          "Power windows – Rear",
+          "Power windows – Auto down (driver only)",
+          "Power windows – Electrically adjustable",
+          "Outside mirrors – Electric folding",
+          "Outside mirrors – Front",
+          "Type‑C USB Port – Rear",
+          "Driver seat height adjustment",
+          "Folding driver armrest",
+          "Adjustable rear headrests",
+          "Front Power outlet",
+          "Glovebox cooling",
+          "Rear wiper & washer"
+        ]
+      },
+      "airbags": 6
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}

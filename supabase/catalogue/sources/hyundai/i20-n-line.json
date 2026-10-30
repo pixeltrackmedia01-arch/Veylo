@@ -1,0 +1,568 @@
+{
+  "brand": "Hyundai",
+  "model": "i20 N Line",
+  "slug": "i20-n-line",
+  "official_page": "https://www.hyundai.com/in/en/find-a-car/i20-n-line/highlights",
+  "brochure_pdf": "https://www.hyundai.com/content/dam/hyundai/in/en/data/brochure/i20-n-line.pdf",
+  "price_city": "Surat, Gujarat",
+  "ex_showroom_min": 932200,
+  "ex_showroom_max": 1178700,
+  "fuel_types": [
+    "Petrol"
+  ],
+  "transmissions": [
+    "DCT",
+    "MT"
+  ],
+  "colours": [
+    {
+      "name": "Thunder blue with black roof"
+    },
+    {
+      "name": "Atlas white with black roof"
+    },
+    {
+      "name": "Titanium black"
+    },
+    {
+      "name": "Atlas white"
+    },
+    {
+      "name": "Starry night"
+    },
+    {
+      "name": "Titan grey"
+    }
+  ],
+  "engines": [
+    "1.0 l Turbo GDi petrol 7-speed DCT",
+    "1.0 l Turbo GDi petrol MT"
+  ],
+  "variants": [
+    {
+      "name": "i20 N Line 1.0 Turbo MT N 6",
+      "trim": "N 6",
+      "brochure_trim": "N6",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 932200
+      },
+      "engine": "1.0 l Turbo GDi petrol MT",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "3 995 mm",
+          "Overall Width (mm)": "1 775 mm",
+          "Overall Height (mm)": "1 505 mm",
+          "Wheelbase (mm)": "2 580 mm",
+          "Size": "195/55 R16 (D=405.6 mm) Diamond cut alloy wheel",
+          "Front Tyres": "195/55 R16 (D=405.6 mm) Diamond cut alloy wheel",
+          "Spare wheel": "185/65 R15 (D=380.2 mm) steel",
+          "Tyre Type": "Tubeless"
+        },
+        "Engine": {
+          "Engine Type": "1.0 l Turbo GDi",
+          "Fuel System": "Petrol",
+          "Displacement(cm3)": "998 cm3",
+          "Max. Power": "88.3 kW (120 PS) @ 6 000 r/ min",
+          "Max. Torque": "172 Nm (17.5 kgm) @ 1 500 - 4 000 r/min",
+          "Valvetrain Type": "DOHC"
+        },
+        "Transmission": {
+          "Transmission Type": "6-speed manual transmission (MT)"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson strut",
+          "Suspension Rear": "Coupled torsion beam axle",
+          "Suspension Shock Absorber": "Gas type"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Disc"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Tank Capacity": "37 l"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Airbags – Driver & passenger",
+          "Airbags – Side & curtain",
+          "Tyre pressure monitoring system (highline)",
+          "Anti-lock braking system (ABS) with EBD",
+          "Electronic stability control (ESC)",
+          "Hill-start assist control (HAC)",
+          "Vehicle stability management control (VSM)",
+          "Vehicle stability management control (VSM) – Front disc brakes with red caliper",
+          "Disc brakes – Rear disc brakes",
+          "Rear parking sensors",
+          "Rear camera with dynamic guidelines",
+          "Driver rear view monitor (DRVM)",
+          "Front projector fog lamps",
+          "Automatic headlamps",
+          "Emergency stop signal (ESS)",
+          "Inside rear view mirror – Day & night mirror",
+          "Central locking (door & tailgate)",
+          "Smart pedal",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Headlamp escort function",
+          "Headlamp escort function – Foldable key",
+          "Rear defogger with timer",
+          "Seat belt pretensioners - driver & passenger",
+          "Child seat anchor (ISOFIX)",
+          "Speed alert system",
+          "Seatbelt reminder (all seats)",
+          "3 Point seatbelts (all seats)",
+          "Immobilizer",
+          "High mount stop lamp"
+        ],
+        "Exterior": [
+          "Halogen",
+          "Z-shaped LED tail lamps",
+          "Dark chrome connecting tail lamp garnish",
+          "R16 (D=405.6mm) diamond cut alloy wheels with N Logo",
+          "Sporty twin tip muffler",
+          "Sporty tailgate spoiler with side wings",
+          "Sporty tailgate spoiler with side wings – Front skid plate",
+          "Athletic red highlights – Side sill garnish",
+          "Front fog lamp chrome garnish",
+          "Front fog lamp chrome garnish – Tailgate garnish",
+          "High gloss painted black finish – Front & rear skid plates",
+          "High gloss painted black finish – Outside rear view mirror",
+          "Body coloured outside door handles",
+          "Body coloured outside door handles – Front radiator grille",
+          "N Line emblem – Side fenders (left & right)",
+          "N Line emblem – Tailgate",
+          "B-pillar black out tape",
+          "Turn indicators on outside mirrors",
+          "Sharkfin antenna"
+        ],
+        "Interior": [
+          "Sporty black interiors with athletic red inserts",
+          "Chequered flag design leather*seats with N logo",
+          "3-spoke steering wheel with N logo",
+          "3-spoke steering wheel with N logo – Steering wheel cover with red stitches",
+          "Perforated leather* wrapped – Gear knob with N logo",
+          "Paddle shifters (DCT only)",
+          "Sporty metal pedals",
+          "Front & rear door map pockets",
+          "Front passenger seat back pocket",
+          "Rear parcel tray",
+          "Dark metal finish inside door handles",
+          "Sunglass holder",
+          "Digital cluster with TFT multi information display (MID)",
+          "Tachometer & tripmeter",
+          "Tachometer & tripmeter – GearShift (MT Only)",
+          "Tachometer & tripmeter – Low pressure warning (individual tyre)",
+          "Warning & indicators – Parking sensor display",
+          "Warning & indicators – Low fuel",
+          "Warning & indicators – Door & tailgate ajar"
+        ],
+        "Seating": [
+          "Front seat adjustable headrest",
+          "Height adjustable driver seat",
+          "Front centre console with – Fixed type armrest"
+        ],
+        "Infotainment & connectivity": [
+          "20.32 cm (8\") touchscreen infotainment system",
+          "Wireless Android Auto & Apple CarPlay",
+          "Bose premium 7 speaker system – Front & rear speakers",
+          "Speaker system – Front tweeters",
+          "USB connectivity",
+          "Bluetooth connectivity",
+          "Steering wheel with audio & bluetooth controls",
+          "Voice recognition**"
+        ],
+        "Comfort & convenience": [
+          "Sunroof – Smart electric",
+          "Air conditioning – FATC with digital display",
+          "Cruise control",
+          "Outside mirror – Electrically adjustable",
+          "Outside mirror – Electric folding with auto fold function",
+          "Wireless charger – Front",
+          "Wireless charger – Rear",
+          "Power windows – Auto down (driver only)",
+          "Motor driven (electric) power steering",
+          "Rear AC vents",
+          "Glove box cooling",
+          "Tilt & telescopic steering",
+          "Clutch footrest",
+          "Passenger vanity mirror",
+          "Front power outlet",
+          "Front power outlet – Front (type C)",
+          "USB charger – Rear",
+          "Front map lamp",
+          "Lane change indicator",
+          "Battery saver"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "i20 N Line 1.0 Turbo MT N 8",
+      "trim": "N 8",
+      "brochure_trim": "N8",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 1063200,
+        "dual_tone": 1078200
+      },
+      "engine": "1.0 l Turbo GDi petrol MT",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "3 995 mm",
+          "Overall Width (mm)": "1 775 mm",
+          "Overall Height (mm)": "1 505 mm",
+          "Wheelbase (mm)": "2 580 mm",
+          "Size": "195/55 R16 (D=405.6 mm) Diamond cut alloy wheel",
+          "Front Tyres": "195/55 R16 (D=405.6 mm) Diamond cut alloy wheel",
+          "Spare wheel": "185/65 R15 (D=380.2 mm) steel",
+          "Tyre Type": "Tubeless"
+        },
+        "Engine": {
+          "Engine Type": "1.0 l Turbo GDi",
+          "Fuel System": "Petrol",
+          "Displacement(cm3)": "998 cm3",
+          "Max. Power": "88.3 kW (120 PS) @ 6 000 r/ min",
+          "Max. Torque": "172 Nm (17.5 kgm) @ 1 500 - 4 000 r/min",
+          "Valvetrain Type": "DOHC"
+        },
+        "Transmission": {
+          "Transmission Type": "6-speed manual transmission (MT)"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson strut",
+          "Suspension Rear": "Coupled torsion beam axle",
+          "Suspension Shock Absorber": "Gas type"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Disc"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Tank Capacity": "37 l"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Airbags – Driver & passenger",
+          "Airbags – Side & curtain",
+          "Dashcam",
+          "Tyre pressure monitoring system (highline)",
+          "Puddle lamps with welcome function",
+          "Anti-lock braking system (ABS) with EBD",
+          "Electronic stability control (ESC)",
+          "Hill-start assist control (HAC)",
+          "Vehicle stability management control (VSM)",
+          "Vehicle stability management control (VSM) – Front disc brakes with red caliper",
+          "Disc brakes – Rear disc brakes",
+          "Rear parking sensors",
+          "Rear camera with dynamic guidelines",
+          "Driver rear view monitor (DRVM)",
+          "Front projector fog lamps",
+          "Automatic headlamps",
+          "Emergency stop signal (ESS)",
+          "Emergency stop signal (ESS) – Electrochromic (ECM)",
+          "Bluelink button (SOS, RSA, Bluelink) on inside rear view mirror",
+          "Central locking (door & tailgate)",
+          "Smart pedal",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Headlamp escort function",
+          "Keyless entry – Smart key",
+          "Burglar alarm",
+          "Rear defogger with timer",
+          "Seat belt pretensioners - driver & passenger",
+          "Child seat anchor (ISOFIX)",
+          "Height adjustable seat belt - driver & passenger",
+          "Speed alert system",
+          "Seatbelt reminder (all seats)",
+          "3 Point seatbelts (all seats)",
+          "Immobilizer",
+          "High mount stop lamp"
+        ],
+        "Exterior": [
+          "Headlamps",
+          "Headlamps – LED MFR",
+          "Z-shaped LED tail lamps",
+          "Dark chrome connecting tail lamp garnish",
+          "R16 (D=405.6mm) diamond cut alloy wheels with N Logo",
+          "Sporty twin tip muffler",
+          "Sporty tailgate spoiler with side wings",
+          "Sporty tailgate spoiler with side wings – Front skid plate",
+          "Athletic red highlights – Side sill garnish",
+          "Front fog lamp chrome garnish",
+          "Front fog lamp chrome garnish – Tailgate garnish",
+          "High gloss painted black finish – Front & rear skid plates",
+          "High gloss painted black finish – Outside rear view mirror",
+          "Body coloured outside door handles",
+          "Body coloured outside door handles – Front radiator grille",
+          "N Line emblem – Side fenders (left & right)",
+          "N Line emblem – Tailgate",
+          "B-pillar black out tape",
+          "Turn indicators on outside mirrors",
+          "Sharkfin antenna"
+        ],
+        "Interior": [
+          "Sporty black interiors with athletic red inserts",
+          "Chequered flag design leather*seats with N logo",
+          "3-spoke steering wheel with N logo",
+          "3-spoke steering wheel with N logo – Steering wheel cover with red stitches",
+          "Perforated leather* wrapped – Gear knob with N logo",
+          "Crashpad - soft touch finish",
+          "Door armrest covering (leather*)",
+          "Paddle shifters (DCT only)",
+          "Exciting red ambient lights",
+          "Sporty metal pedals",
+          "Front & rear door map pockets",
+          "Front passenger seat back pocket",
+          "Rear parcel tray",
+          "Dark metal finish inside door handles",
+          "Sunglass holder",
+          "Digital cluster with TFT multi information display (MID)",
+          "Tachometer & tripmeter",
+          "Tachometer & tripmeter – GearShift (MT Only)",
+          "Tachometer & tripmeter – Low pressure warning (individual tyre)",
+          "Warning & indicators – Parking sensor display",
+          "Warning & indicators – Low fuel",
+          "Warning & indicators – Door & tailgate ajar"
+        ],
+        "Seating": [
+          "Front seat adjustable headrest",
+          "Height adjustable driver seat",
+          "Rear seat adjustable headrest (LH & RH)",
+          "storage and armrest – Sliding type armrest"
+        ],
+        "Infotainment & connectivity": [
+          "Ambient sounds of nature",
+          "Wireless Android Auto & Apple CarPlay",
+          "Bose premium 7 speaker system",
+          "Bose premium 7 speaker system – Front & rear speakers",
+          "Speaker system – Front tweeters",
+          "Speaker system – Sub-woofer",
+          "USB connectivity",
+          "Bluetooth connectivity",
+          "Steering wheel with audio & bluetooth controls",
+          "Voice recognition**",
+          "Hyundai bluelink with over-the-air (OTA) map updates##",
+          "Bluelink integrated smart watch app",
+          "Home-to-car (H2C) with Alexa^^^"
+        ],
+        "Comfort & convenience": [
+          "Sunroof – Voice enabled smart electric",
+          "Smart entry with push button start/stop",
+          "Air conditioning – FATC with digital display",
+          "Cruise control",
+          "Outside mirror – Electrically adjustable",
+          "Outside mirror – Electric folding with auto fold function",
+          "Wireless charger",
+          "Wireless charger – Front",
+          "Wireless charger – Rear",
+          "Power windows – Auto up/down with pinch guard (driver only)",
+          "Motor driven (electric) power steering",
+          "Rear AC vents",
+          "Glove box cooling",
+          "Tilt & telescopic steering",
+          "Rear wiper & washer",
+          "Clutch footrest",
+          "Passenger vanity mirror",
+          "Front power outlet",
+          "Front power outlet – Front (type C)",
+          "USB charger – Rear",
+          "Front map lamp",
+          "Lane change indicator",
+          "Luggage lamp",
+          "Battery saver"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "i20 N Line 1.0 Turbo DCT N 8",
+      "trim": "N 8",
+      "brochure_trim": "N8",
+      "fuel": "Petrol",
+      "transmission": "DCT",
+      "ex_showroom_surat": {
+        "standard": 1163700,
+        "dual_tone": 1178700
+      },
+      "engine": "1.0 l Turbo GDi petrol 7-speed DCT",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "3 995 mm",
+          "Overall Width (mm)": "1 775 mm",
+          "Overall Height (mm)": "1 505 mm",
+          "Wheelbase (mm)": "2 580 mm",
+          "Size": "195/55 R16 (D=405.6 mm) Diamond cut alloy wheel",
+          "Front Tyres": "195/55 R16 (D=405.6 mm) Diamond cut alloy wheel",
+          "Spare wheel": "185/65 R15 (D=380.2 mm) Steel",
+          "Tyre Type": "Tubeless"
+        },
+        "Engine": {
+          "Engine Type": "1.0 l Turbo GDi",
+          "Fuel System": "Petrol",
+          "Displacement(cm3)": "998 cm3",
+          "Max. Power": "88.3 kW (120 PS) @ 6 000 r/ min",
+          "Max. Torque": "172 Nm (17.5 kgm) @ 1 500 - 4 000 r/min",
+          "Valvetrain Type": "DOHC"
+        },
+        "Transmission": {
+          "Transmission Type": "7-speed dual clutch transmission (7 DCT)"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson strut",
+          "Suspension Rear": "Coupled torsion beam axle",
+          "Suspension Shock Absorber": "Gas type"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Disc"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Tank Capacity": "37 l"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Airbags – Driver & passenger",
+          "Airbags – Side & curtain",
+          "Dashcam",
+          "Tyre pressure monitoring system (highline)",
+          "Puddle lamps with welcome function",
+          "Anti-lock braking system (ABS) with EBD",
+          "Electronic stability control (ESC)",
+          "Hill-start assist control (HAC)",
+          "Vehicle stability management control (VSM)",
+          "Vehicle stability management control (VSM) – Front disc brakes with red caliper",
+          "Disc brakes – Rear disc brakes",
+          "Rear parking sensors",
+          "Rear camera with dynamic guidelines",
+          "Driver rear view monitor (DRVM)",
+          "Front projector fog lamps",
+          "Automatic headlamps",
+          "Emergency stop signal (ESS)",
+          "Emergency stop signal (ESS) – Electrochromic (ECM)",
+          "Bluelink button (SOS, RSA, Bluelink) on inside rear view mirror",
+          "Central locking (door & tailgate)",
+          "Smart pedal",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Headlamp escort function",
+          "Keyless entry – Smart key",
+          "Burglar alarm",
+          "Rear defogger with timer",
+          "Seat belt pretensioners - driver & passenger",
+          "Child seat anchor (ISOFIX)",
+          "Height adjustable seat belt - driver & passenger",
+          "Speed alert system",
+          "Seatbelt reminder (all seats)",
+          "3 Point seatbelts (all seats)",
+          "Immobilizer",
+          "High mount stop lamp"
+        ],
+        "Exterior": [
+          "Headlamps",
+          "Headlamps – LED MFR",
+          "Z-shaped LED tail lamps",
+          "Dark chrome connecting tail lamp garnish",
+          "R16 (D=405.6mm) diamond cut alloy wheels with N Logo",
+          "Sporty twin tip muffler",
+          "Sporty tailgate spoiler with side wings",
+          "Sporty tailgate spoiler with side wings – Front skid plate",
+          "Athletic red highlights – Side sill garnish",
+          "Front fog lamp chrome garnish",
+          "Front fog lamp chrome garnish – Tailgate garnish",
+          "High gloss painted black finish – Front & rear skid plates",
+          "High gloss painted black finish – Outside rear view mirror",
+          "Body coloured outside door handles",
+          "Body coloured outside door handles – Front radiator grille",
+          "N Line emblem – Side fenders (left & right)",
+          "N Line emblem – Tailgate",
+          "B-pillar black out tape",
+          "Turn indicators on outside mirrors",
+          "Sharkfin antenna"
+        ],
+        "Interior": [
+          "Sporty black interiors with athletic red inserts",
+          "Chequered flag design leather*seats with N logo",
+          "3-spoke steering wheel with N logo",
+          "3-spoke steering wheel with N logo – Steering wheel cover with red stitches",
+          "Perforated leather* wrapped – Gear knob with N logo",
+          "Crashpad - soft touch finish",
+          "Door armrest covering (leather*)",
+          "Paddle shifters (DCT only)",
+          "Exciting red ambient lights",
+          "Sporty metal pedals",
+          "Front & rear door map pockets",
+          "Front passenger seat back pocket",
+          "Rear parcel tray",
+          "Dark metal finish inside door handles",
+          "Sunglass holder",
+          "Digital cluster with TFT multi information display (MID)",
+          "Tachometer & tripmeter",
+          "Tachometer & tripmeter – GearShift (MT Only)",
+          "Tachometer & tripmeter – Low pressure warning (individual tyre)",
+          "Warning & indicators – Parking sensor display",
+          "Warning & indicators – Low fuel",
+          "Warning & indicators – Door & tailgate ajar"
+        ],
+        "Seating": [
+          "Front seat adjustable headrest",
+          "Height adjustable driver seat",
+          "Rear seat adjustable headrest (LH & RH)",
+          "storage and armrest – Sliding type armrest"
+        ],
+        "Infotainment & connectivity": [
+          "Ambient sounds of nature",
+          "Wireless Android Auto & Apple CarPlay",
+          "Bose premium 7 speaker system",
+          "Bose premium 7 speaker system – Front & rear speakers",
+          "Speaker system – Front tweeters",
+          "Speaker system – Sub-woofer",
+          "USB connectivity",
+          "Bluetooth connectivity",
+          "Steering wheel with audio & bluetooth controls",
+          "Voice recognition**",
+          "Hyundai bluelink with over-the-air (OTA) map updates##",
+          "Bluelink integrated smart watch app",
+          "Home-to-car (H2C) with Alexa^^^"
+        ],
+        "Comfort & convenience": [
+          "Sunroof – Voice enabled smart electric",
+          "Smart entry with push button start/stop",
+          "Air conditioning – FATC with digital display",
+          "Cruise control",
+          "Outside mirror – Electrically adjustable",
+          "Outside mirror – Electric folding with auto fold function",
+          "Wireless charger",
+          "Wireless charger – Front",
+          "Wireless charger – Rear",
+          "Power windows – Auto up/down with pinch guard (driver only)",
+          "Motor driven (electric) power steering",
+          "Rear AC vents",
+          "Glove box cooling",
+          "Tilt & telescopic steering",
+          "Rear wiper & washer",
+          "Clutch footrest",
+          "Passenger vanity mirror",
+          "Front power outlet",
+          "Front power outlet – Front (type C)",
+          "USB charger – Rear",
+          "Front map lamp",
+          "Lane change indicator",
+          "Luggage lamp",
+          "Battery saver"
+        ]
+      },
+      "airbags": 6
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}

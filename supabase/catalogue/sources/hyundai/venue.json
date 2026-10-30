@@ -1,0 +1,3224 @@
+{
+  "brand": "Hyundai",
+  "model": "Venue",
+  "slug": "venue",
+  "official_page": "https://www.hyundai.com/in/en/find-a-car/venue/highlights",
+  "brochure_pdf": "https://www.hyundai.com/content/dam/hyundai/in/en/data/brochure/venue.pdf",
+  "price_city": "Surat, Gujarat",
+  "ex_showroom_min": 799900,
+  "ex_showroom_max": 1582700,
+  "fuel_types": [
+    "Diesel",
+    "Petrol"
+  ],
+  "transmissions": [
+    "AT",
+    "DCT",
+    "MT"
+  ],
+  "colours": [
+    {
+      "name": "Mystic sapphire"
+    },
+    {
+      "name": "Mystic sapphire matte"
+    },
+    {
+      "name": "Hazel blue"
+    },
+    {
+      "name": "Hazel blue matte"
+    },
+    {
+      "name": "Dragon red"
+    },
+    {
+      "name": "Atlas white"
+    },
+    {
+      "name": "Titan grey"
+    },
+    {
+      "name": "Titanium black"
+    },
+    {
+      "name": "Atlas white with black roof"
+    },
+    {
+      "name": "Hazel blue with black roof"
+    }
+  ],
+  "engines": [
+    "Kappa 1.0 I Turbo GDi Petrol",
+    "Kappa 1.2 I Mpi Petrol",
+    "U2 1.5 I CRDi Diesel"
+  ],
+  "variants": [
+    {
+      "name": "VENUE 1.2 Kappa MT HX2",
+      "trim": "HX2",
+      "brochure_trim": "HX 2",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 799900
+      },
+      "engine": "Kappa 1.2 I Mpi Petrol",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "3 995",
+          "Overall Width (mm)": "1 800",
+          "Overall Height (mm)": "1 665^",
+          "Wheelbase (mm)": "2 520",
+          "Size": "195/65 R15 (D = 380.2 mm) Steel wheel with cover | 215/60 R16 (D = 405.6 mm) Styled Steel wheel",
+          "Front Tyres": "215/60 R16(D =405.6 mm) Diamond cut alloy wheel |215/60 R16(D =405.6 mm) Black painted alloy wheel",
+          "Spare wheel": "195 / 65 R15 (D = 380.2 mm) steel wheel"
+        },
+        "Engine": {
+          "Engine Type": "Kappa 1.2 MPi Petrol",
+          "Displacement(cm3)": "1 197",
+          "Max. Power": "61 kW (83 PS) @ 6 000 r/min",
+          "Max. Torque": "114.7 Nm (11.7 kgm) @ 4200 r/min"
+        },
+        "Transmission": {
+          "Transmission Type": "5-Speed Manual"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson strut with coil spring",
+          "Suspension Rear": "Coupled torsion beam axle with coil spring"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum / Disc"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Tank Capacity": "45 l"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Airbag – Driver & passenger",
+          "Airbag – Side & curtain",
+          "Rollover sensor",
+          "ABS (Anti-lock braking system) with EBD",
+          "Electronic stability control (ESC)",
+          "Vehicle stability management (VSM)",
+          "Hill-start assist control (HAC)",
+          "Tyre pressure monitoring system (TPMS) highline – Front",
+          "Seat belt pretensioners - driver & passenger",
+          "3 Point seat belts (all seats)",
+          "Seatbelt reminder (all seats)",
+          "ISOFIX",
+          "Emergency Stop Signal (ESS)",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Immobilizer",
+          "Burglar alarm",
+          "Central locking",
+          "Central locking – Day & night mirror",
+          "Headlamp escort function",
+          "Puddle lamps with welcome function – Rear parking sensor"
+        ],
+        "Exterior": [
+          "Wheels – R16 (D=405.6 mm) dual tone styled steel wheels",
+          "Bold skid plate (Front & rear) – Silver",
+          "Signature C-pillar garnish",
+          "Signature C-pillar garnish – Projector headlamps (Bi-function)",
+          "Signature C-pillar garnish – LED DRLs & positioning lamps",
+          "Lighting – LED high mounted stop lamp (HMSL)",
+          "Lighting – LED tail lamps",
+          "Lighting – Black painted",
+          "Radiator grille – Body colour",
+          "Outside door mirrors (ORVM) – Body coloured",
+          "Shark fin antenna",
+          "Rear spoiler - body colour"
+        ],
+        "Interior": [
+          "Dual integrated displays",
+          "Dual curved panoramic displays – All black",
+          "Interior color theme – Fabric",
+          "Leather^^ pack – Front",
+          "D-Cut steering wheel"
+        ],
+        "Infotainment & Connectivity": [
+          "26.03 cm (10.25”) ccNC infotainment system"
+        ],
+        "Infotainment system": [
+          "Smartphone connectivity - – Wireless",
+          "Android Auto & Apple Carplay – Digital cluster with 10.66 cm color TFT display",
+          "Front & rear speakers",
+          "Bluetooth connectivity",
+          "Steering wheel with audio and bluetooth controls",
+          "Voice recognition*"
+        ],
+        "Comfort & Convenience": [
+          "Sunroof – Manual",
+          "Keyless entry – Electrically adjustable",
+          "Rear AC vents",
+          "Rear AC vents – Front (x2)",
+          "USB charger (C -Type) – Rear (x2)",
+          "Front & rear power windows",
+          "Power outlet",
+          "Motor driven power steering with tilt function",
+          "Map lamps"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "VENUE 1.0 Turbo MT HX2",
+      "trim": "HX2",
+      "brochure_trim": "HX 2",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 893600
+      },
+      "engine": "Kappa 1.0 I Turbo GDi Petrol",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "3 995",
+          "Overall Width (mm)": "1 800",
+          "Overall Height (mm)": "1 665^",
+          "Wheelbase (mm)": "2 520",
+          "Size": "195/65 R15 (D = 380.2 mm) Steel wheel with cover | 215/60 R16 (D = 405.6 mm) Styled Steel wheel",
+          "Front Tyres": "215/60 R16(D =405.6 mm) Diamond cut alloy wheel |215/60 R16(D =405.6 mm) Black painted alloy wheel",
+          "Spare wheel": "195 / 65 R15 (D = 380.2 mm) steel wheel"
+        },
+        "Engine": {
+          "Engine Type": "Kappa 1.0 Turbo GDi",
+          "Displacement(cm3)": "998",
+          "Max. Power": "88.3 kW (120 PS) @6 000 r/min",
+          "Max. Torque": "172 Nm (17.5 kgm) @ 1500-4000 r/min"
+        },
+        "Transmission": {
+          "Transmission Type": "6-speed manual ,7-Speed DCT"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson strut with coil spring",
+          "Suspension Rear": "Coupled torsion beam axle with coil spring"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum / Disc"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Tank Capacity": "45 l"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Airbag – Driver & passenger",
+          "Airbag – Side & curtain",
+          "Rollover sensor",
+          "ABS (Anti-lock braking system) with EBD",
+          "Electronic stability control (ESC)",
+          "Vehicle stability management (VSM)",
+          "Hill-start assist control (HAC)",
+          "Tyre pressure monitoring system (TPMS) highline – Front",
+          "Seat belt pretensioners - driver & passenger",
+          "3 Point seat belts (all seats)",
+          "Seatbelt reminder (all seats)",
+          "ISOFIX",
+          "Emergency Stop Signal (ESS)",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Immobilizer",
+          "Burglar alarm",
+          "Central locking",
+          "Central locking – Day & night mirror",
+          "Headlamp escort function",
+          "Puddle lamps with welcome function – Rear parking sensor"
+        ],
+        "Exterior": [
+          "Wheels – R16 (D=405.6 mm) dual tone styled steel wheels",
+          "Bold skid plate (Front & rear) – Silver",
+          "Signature C-pillar garnish",
+          "Signature C-pillar garnish – Projector headlamps (Bi-function)",
+          "Signature C-pillar garnish – LED DRLs & positioning lamps",
+          "Lighting – LED high mounted stop lamp (HMSL)",
+          "Lighting – LED tail lamps",
+          "Lighting – Black painted",
+          "Radiator grille – Body colour",
+          "Outside door mirrors (ORVM) – Body coloured",
+          "Shark fin antenna",
+          "Rear spoiler - body colour"
+        ],
+        "Interior": [
+          "Dual integrated displays",
+          "Dual curved panoramic displays – All black",
+          "Interior color theme – Fabric",
+          "Leather^^ pack – Front",
+          "D-Cut steering wheel"
+        ],
+        "Infotainment & Connectivity": [
+          "26.03 cm (10.25”) ccNC infotainment system"
+        ],
+        "Infotainment system": [
+          "Smartphone connectivity - – Wireless",
+          "Android Auto & Apple Carplay – Digital cluster with 10.66 cm color TFT display",
+          "Front & rear speakers",
+          "Bluetooth connectivity",
+          "Steering wheel with audio and bluetooth controls",
+          "Voice recognition*"
+        ],
+        "Comfort & Convenience": [
+          "Sunroof – Manual",
+          "Keyless entry – Electrically adjustable",
+          "Rear AC vents",
+          "Rear AC vents – Front (x2)",
+          "USB charger (C -Type) – Rear (x2)",
+          "Front & rear power windows",
+          "Power outlet",
+          "Motor driven power steering with tilt function",
+          "Map lamps"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "VENUE 1.2 Kappa MT HX4",
+      "trim": "HX4",
+      "brochure_trim": "HX 4",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 899900
+      },
+      "engine": "Kappa 1.2 I Mpi Petrol",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "3 995",
+          "Overall Width (mm)": "1 800",
+          "Overall Height (mm)": "1 665^",
+          "Wheelbase (mm)": "2 520",
+          "Size": "195/65 R15 (D = 380.2 mm) Steel wheel with cover | 215/60 R16 (D = 405.6 mm) Styled Steel wheel",
+          "Front Tyres": "215/60 R16(D =405.6 mm) Diamond cut alloy wheel |215/60 R16(D =405.6 mm) Black painted alloy wheel",
+          "Spare wheel": "195 / 65 R15 (D = 380.2 mm) steel wheel"
+        },
+        "Engine": {
+          "Engine Type": "Kappa 1.2 MPi Petrol",
+          "Displacement(cm3)": "1 197",
+          "Max. Power": "61 kW (83 PS) @ 6 000 r/min",
+          "Max. Torque": "114.7 Nm (11.7 kgm) @ 4200 r/min"
+        },
+        "Transmission": {
+          "Transmission Type": "5-Speed Manual"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson strut with coil spring",
+          "Suspension Rear": "Coupled torsion beam axle with coil spring"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum / Disc"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Tank Capacity": "45 l"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Airbag – Driver & passenger",
+          "Airbag – Side & curtain",
+          "Rollover sensor",
+          "ABS (Anti-lock braking system) with EBD",
+          "Electronic stability control (ESC)",
+          "Vehicle stability management (VSM)",
+          "Hill-start assist control (HAC)",
+          "Tyre pressure monitoring system (TPMS) highline",
+          "Tyre pressure monitoring system (TPMS) highline – Front",
+          "Seat belt pretensioners - driver & passenger",
+          "3 Point seat belts (all seats)",
+          "Seatbelt reminder (all seats)",
+          "ISOFIX",
+          "Emergency Stop Signal (ESS)",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Immobilizer",
+          "Burglar alarm",
+          "Central locking",
+          "Central locking – Day & night mirror",
+          "Headlamp escort function",
+          "Rear defogger with timer",
+          "Puddle lamps with welcome function – Rear parking sensor",
+          "Puddle lamps with welcome function – Rear camera with dynamic guidelines",
+          "Driver rear view monitor (DRVM)"
+        ],
+        "Exterior": [
+          "Bold skid plate (Front & rear) – Silver",
+          "Signature C-pillar garnish",
+          "Signature C-pillar garnish – Projector headlamps (Bi-function)",
+          "Signature C-pillar garnish – LED DRLs & positioning lamps",
+          "Lighting – LED high mounted stop lamp (HMSL)",
+          "Lighting – LED tail lamps",
+          "Lighting – Turn indicators on outside mirrors (ORVM)",
+          "Lighting – Black painted",
+          "Radiator grille – Body colour",
+          "Outside door mirrors (ORVM) – Body coloured",
+          "Shark fin antenna",
+          "Rear spoiler - body colour"
+        ],
+        "Interior": [
+          "Dual integrated displays",
+          "Interior color theme – Dual tone (Dark grey and dove grey)",
+          "Interior color theme – Dual tone fabric",
+          "Leather^^ pack – Front",
+          "Height adjustable headrest – Manual height adjust",
+          "D-Cut steering wheel"
+        ],
+        "Infotainment & Connectivity": [
+          "26.03 cm (10.25”) ccNC infotainment system"
+        ],
+        "Infotainment system": [
+          "Smartphone connectivity - – Wireless",
+          "Android Auto & Apple Carplay – Digital cluster with 10.66 cm color TFT display",
+          "Front & rear speakers",
+          "Bluetooth connectivity",
+          "Steering wheel with audio and bluetooth controls",
+          "Voice recognition*"
+        ],
+        "Comfort & Convenience": [
+          "Sunroof – Manual",
+          "Keyless entry – Electrically adjustable",
+          "Outside mirrors – Electric folding",
+          "Outside mirrors – Auto fold",
+          "Rear AC vents",
+          "Rear AC vents – Front (x2)",
+          "USB charger (C -Type) – Rear (x2)",
+          "Front & rear power windows",
+          "Power outlet",
+          "Motor driven power steering with tilt function",
+          "Map lamps"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "VENUE 1.2 Kappa MT HX5",
+      "trim": "HX5",
+      "brochure_trim": "HX 5",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 955600
+      },
+      "engine": "Kappa 1.2 I Mpi Petrol",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "3 995",
+          "Overall Width (mm)": "1 800",
+          "Overall Height (mm)": "1 665^",
+          "Wheelbase (mm)": "2 520",
+          "Size": "195/65 R15 (D = 380.2 mm) Steel wheel with cover | 215/60 R16 (D = 405.6 mm) Styled Steel wheel",
+          "Front Tyres": "215/60 R16(D =405.6 mm) Diamond cut alloy wheel |215/60 R16(D =405.6 mm) Black painted alloy wheel",
+          "Spare wheel": "195 / 65 R15 (D = 380.2 mm) steel wheel"
+        },
+        "Engine": {
+          "Engine Type": "Kappa 1.2 MPi Petrol",
+          "Displacement(cm3)": "1 197",
+          "Max. Power": "61 kW (83 PS) @ 6 000 r/min",
+          "Max. Torque": "114.7 Nm (11.7 kgm) @ 4200 r/min"
+        },
+        "Transmission": {
+          "Transmission Type": "5-Speed Manual"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson strut with coil spring",
+          "Suspension Rear": "Coupled torsion beam axle with coil spring"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum / Disc"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Tank Capacity": "45 l"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Airbag – Driver & passenger",
+          "Airbag – Side & curtain",
+          "Rollover sensor",
+          "ABS (Anti-lock braking system) with EBD",
+          "Electronic stability control (ESC)",
+          "Vehicle stability management (VSM)",
+          "Hill-start assist control (HAC)",
+          "Tyre pressure monitoring system (TPMS) highline",
+          "Tyre pressure monitoring system (TPMS) highline – Front",
+          "Seat belt pretensioners - driver & passenger",
+          "3 Point seat belts (all seats)",
+          "Seatbelt reminder (all seats)",
+          "ISOFIX",
+          "Emergency Stop Signal (ESS)",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Immobilizer",
+          "Burglar alarm",
+          "Central locking",
+          "Central locking – Day & night mirror",
+          "Headlamp escort function",
+          "Rear defogger with timer",
+          "Puddle lamps with welcome function – Rear parking sensor",
+          "Puddle lamps with welcome function – Rear camera with dynamic guidelines",
+          "Driver rear view monitor (DRVM)"
+        ],
+        "Exterior": [
+          "Wheels – R16 (D=405.6 mm) dual tone styled steel wheels",
+          "Bold skid plate (Front & rear) – Silver",
+          "Signature C-pillar garnish",
+          "Signature C-pillar garnish – Projector headlamps (Bi-function)",
+          "Signature C-pillar garnish – LED DRLs & positioning lamps",
+          "Lighting – LED high mounted stop lamp (HMSL)",
+          "Lighting – LED tail lamps",
+          "Lighting – Turn indicators on outside mirrors (ORVM)",
+          "Radiator grille – Dark chrome",
+          "Radiator grille – Body colour",
+          "Outside door mirrors (ORVM) – Body coloured",
+          "Shark fin antenna",
+          "Rear spoiler - body colour"
+        ],
+        "Interior": [
+          "Dual integrated displays",
+          "Interior color theme – Dual tone (Dark grey and dove grey)",
+          "Interior color theme – Dual tone fabric",
+          "Leather^^ pack – Front",
+          "Height adjustable headrest – Manual height adjust",
+          "D-Cut steering wheel"
+        ],
+        "Infotainment & Connectivity": [
+          "26.03 cm (10.25”) ccNC infotainment system"
+        ],
+        "Infotainment system": [
+          "Smartphone connectivity - – Wireless",
+          "Android Auto & Apple Carplay – Digital cluster with 10.66 cm color TFT display",
+          "Front & rear speakers",
+          "Bluetooth connectivity",
+          "Steering wheel with audio and bluetooth controls",
+          "Voice recognition*"
+        ],
+        "Comfort & Convenience": [
+          "Sunroof – Smart electric",
+          "Sunroof – Manual",
+          "Paddle shifters",
+          "Keyless entry – Electrically adjustable",
+          "Outside mirrors – Electric folding",
+          "Outside mirrors – Auto fold",
+          "Driver console armrest with storage",
+          "Rear AC vents",
+          "Rear AC vents – Front (x2)",
+          "USB charger (C -Type) – Rear (x2)",
+          "Front & rear power windows",
+          "Power outlet",
+          "Motor driven power steering with tilt function",
+          "Map lamps"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "VENUE 1.2 Kappa MT HX5 Knight",
+      "trim": "HX5 Knight",
+      "brochure_trim": "HX 5 Knight",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 970500
+      },
+      "engine": "Kappa 1.2 I Mpi Petrol",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "3 995",
+          "Overall Width (mm)": "1 800",
+          "Overall Height (mm)": "1 665^",
+          "Wheelbase (mm)": "2 520",
+          "Size": "195/65 R15 (D = 380.2 mm) Steel wheel with cover | 215/60 R16 (D = 405.6 mm) Styled Steel wheel",
+          "Front Tyres": "215/60 R16(D =405.6 mm) Diamond cut alloy wheel |215/60 R16(D =405.6 mm) Black painted alloy wheel",
+          "Spare wheel": "195 / 65 R15 (D = 380.2 mm) steel wheel"
+        },
+        "Engine": {
+          "Engine Type": "Kappa 1.2 MPi Petrol",
+          "Displacement(cm3)": "1 197",
+          "Max. Power": "61 kW (83 PS) @ 6 000 r/min",
+          "Max. Torque": "114.7 Nm (11.7 kgm) @ 4200 r/min"
+        },
+        "Transmission": {
+          "Transmission Type": "5-Speed Manual"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson strut with coil spring",
+          "Suspension Rear": "Coupled torsion beam axle with coil spring"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum / Disc"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Tank Capacity": "45 l"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Airbag – Driver & passenger",
+          "Airbag – Side & curtain",
+          "Rollover sensor",
+          "ABS (Anti-lock braking system) with EBD",
+          "Electronic stability control (ESC)",
+          "Vehicle stability management (VSM)",
+          "Hill-start assist control (HAC)",
+          "Tyre pressure monitoring system (TPMS) highline",
+          "Tyre pressure monitoring system (TPMS) highline – Front",
+          "Seat belt pretensioners - driver & passenger",
+          "3 Point seat belts (all seats)",
+          "Seatbelt reminder (all seats)",
+          "ISOFIX",
+          "Emergency Stop Signal (ESS)",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Immobilizer",
+          "Burglar alarm",
+          "Central locking",
+          "Central locking – Day & night mirror",
+          "Headlamp escort function",
+          "Rear defogger with timer",
+          "Puddle lamps with welcome function – Rear parking sensor",
+          "Puddle lamps with welcome function – Rear camera with dynamic guidelines",
+          "Driver rear view monitor (DRVM)"
+        ],
+        "Exterior": [
+          "Bold skid plate (Front & rear) – Black painted",
+          "Signature C-pillar garnish",
+          "Signature C-pillar garnish – Projector headlamps (Bi-function)",
+          "Signature C-pillar garnish – LED DRLs & positioning lamps",
+          "Lighting – LED high mounted stop lamp (HMSL)",
+          "Lighting – LED tail lamps",
+          "Lighting – Turn indicators on outside mirrors (ORVM)",
+          "Lighting – Black painted",
+          "Outside door mirrors (ORVM) – Black painted",
+          "Outside door mirrors (ORVM) – Body coloured",
+          "Shark fin antenna",
+          "Exclusive Knight emblem",
+          "Red brake calipers",
+          "Rear spoiler - body colour"
+        ],
+        "Interior": [
+          "Dual integrated displays",
+          "Interior color theme – All Black interiors with brass coloured inserts",
+          "Seat upholstery – Exclusive black fabric seat upholstery",
+          "Leather^^ pack – Front",
+          "Height adjustable headrest – Manual height adjust",
+          "D-Cut steering wheel"
+        ],
+        "Infotainment & Connectivity": [
+          "26.03 cm (10.25”) ccNC infotainment system"
+        ],
+        "Infotainment system": [
+          "Smartphone connectivity - – Wireless",
+          "Android Auto & Apple Carplay – Digital cluster with 10.66 cm color TFT display",
+          "Front & rear speakers",
+          "Bluetooth connectivity",
+          "Steering wheel with audio and bluetooth controls",
+          "Voice recognition*"
+        ],
+        "Comfort & Convenience": [
+          "Sunroof – Smart electric",
+          "Sunroof – Manual",
+          "Keyless entry – Electrically adjustable",
+          "Outside mirrors – Electric folding",
+          "Outside mirrors – Auto fold",
+          "Rear AC vents",
+          "Rear AC vents – Front (x2)",
+          "USB charger (C -Type) – Rear (x2)",
+          "Front & rear power windows",
+          "Power outlet",
+          "Motor driven power steering with tilt function",
+          "Map lamps"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "VENUE 1.0 Turbo MT HX5",
+      "trim": "HX5",
+      "brochure_trim": "HX 5",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 993100
+      },
+      "engine": "Kappa 1.0 I Turbo GDi Petrol",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "3 995",
+          "Overall Width (mm)": "1 800",
+          "Overall Height (mm)": "1 665^",
+          "Wheelbase (mm)": "2 520",
+          "Size": "195/65 R15 (D = 380.2 mm) Steel wheel with cover | 215/60 R16 (D = 405.6 mm) Styled Steel wheel",
+          "Front Tyres": "215/60 R16(D =405.6 mm) Diamond cut alloy wheel |215/60 R16(D =405.6 mm) Black painted alloy wheel",
+          "Spare wheel": "195 / 65 R15 (D = 380.2 mm) steel wheel"
+        },
+        "Engine": {
+          "Engine Type": "Kappa 1.0 Turbo GDi",
+          "Displacement(cm3)": "998",
+          "Max. Power": "88.3 kW (120 PS) @6 000 r/min",
+          "Max. Torque": "172 Nm (17.5 kgm) @ 1500-4000 r/min"
+        },
+        "Transmission": {
+          "Transmission Type": "6-speed manual ,7-Speed DCT"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson strut with coil spring",
+          "Suspension Rear": "Coupled torsion beam axle with coil spring"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum / Disc"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Tank Capacity": "45 l"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Airbag – Driver & passenger",
+          "Airbag – Side & curtain",
+          "Rollover sensor",
+          "ABS (Anti-lock braking system) with EBD",
+          "Electronic stability control (ESC)",
+          "Vehicle stability management (VSM)",
+          "Hill-start assist control (HAC)",
+          "Tyre pressure monitoring system (TPMS) highline",
+          "Tyre pressure monitoring system (TPMS) highline – Front",
+          "Seat belt pretensioners - driver & passenger",
+          "3 Point seat belts (all seats)",
+          "Seatbelt reminder (all seats)",
+          "ISOFIX",
+          "Emergency Stop Signal (ESS)",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Immobilizer",
+          "Burglar alarm",
+          "Central locking",
+          "Central locking – Day & night mirror",
+          "Headlamp escort function",
+          "Rear defogger with timer",
+          "Puddle lamps with welcome function – Rear parking sensor",
+          "Puddle lamps with welcome function – Rear camera with dynamic guidelines",
+          "Driver rear view monitor (DRVM)"
+        ],
+        "Exterior": [
+          "Wheels – R16 (D=405.6 mm) dual tone styled steel wheels",
+          "Bold skid plate (Front & rear) – Silver",
+          "Signature C-pillar garnish",
+          "Signature C-pillar garnish – Projector headlamps (Bi-function)",
+          "Signature C-pillar garnish – LED DRLs & positioning lamps",
+          "Lighting – LED high mounted stop lamp (HMSL)",
+          "Lighting – LED tail lamps",
+          "Lighting – Turn indicators on outside mirrors (ORVM)",
+          "Radiator grille – Dark chrome",
+          "Radiator grille – Body colour",
+          "Outside door mirrors (ORVM) – Body coloured",
+          "Shark fin antenna",
+          "Rear spoiler - body colour"
+        ],
+        "Interior": [
+          "Dual integrated displays",
+          "Interior color theme – Dual tone (Dark grey and dove grey)",
+          "Interior color theme – Dual tone fabric",
+          "Leather^^ pack – Front",
+          "Height adjustable headrest – Manual height adjust",
+          "D-Cut steering wheel"
+        ],
+        "Infotainment & Connectivity": [
+          "26.03 cm (10.25”) ccNC infotainment system"
+        ],
+        "Infotainment system": [
+          "Smartphone connectivity - – Wireless",
+          "Android Auto & Apple Carplay – Digital cluster with 10.66 cm color TFT display",
+          "Front & rear speakers",
+          "Bluetooth connectivity",
+          "Steering wheel with audio and bluetooth controls",
+          "Voice recognition*"
+        ],
+        "Comfort & Convenience": [
+          "Sunroof – Smart electric",
+          "Sunroof – Manual",
+          "Paddle shifters",
+          "Keyless entry – Electrically adjustable",
+          "Outside mirrors – Electric folding",
+          "Outside mirrors – Auto fold",
+          "Driver console armrest with storage",
+          "Rear AC vents",
+          "Rear AC vents – Front (x2)",
+          "USB charger (C -Type) – Rear (x2)",
+          "Front & rear power windows",
+          "Power outlet",
+          "Motor driven power steering with tilt function",
+          "Map lamps"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "VENUE 1.5 CRDi MT DSL HX2",
+      "trim": "DSL HX2",
+      "brochure_trim": "HX 2",
+      "fuel": "Diesel",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 994600
+      },
+      "engine": "U2 1.5 I CRDi Diesel",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "3 995",
+          "Overall Width (mm)": "1 800",
+          "Overall Height (mm)": "1 665^",
+          "Wheelbase (mm)": "2 520",
+          "Size": "195/65 R15 (D = 380.2 mm) Steel wheel with cover | 215/60 R16 (D = 405.6 mm) Styled Steel wheel",
+          "Front Tyres": "215/60 R16(D =405.6 mm) Diamond cut alloy wheel |215/60 R16(D =405.6 mm) Black painted alloy wheel",
+          "Spare wheel": "195 / 65 R15 (D = 380.2 mm) steel wheel"
+        },
+        "Engine": {
+          "Engine Type": "U2 1.5 l CRDi Diesel",
+          "Displacement(cm3)": "1 493",
+          "Max. Power": "85 kW (116 PS) @ 4 000 r/min",
+          "Max. Torque": "250 Nm (25.5 kgm) @ 1500-2750 r/min"
+        },
+        "Transmission": {
+          "Transmission Type": "6-Speed Manual, 6 -speed automatic"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson strut with coil spring",
+          "Suspension Rear": "Coupled torsion beam axle with coil spring"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum / Disc"
+        },
+        "Fuel": {
+          "Fuel Type": "Diesel",
+          "Fuel Tank Capacity": "45 l"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Airbag – Driver & passenger",
+          "Airbag – Side & curtain",
+          "Rollover sensor",
+          "ABS (Anti-lock braking system) with EBD",
+          "Electronic stability control (ESC)",
+          "Vehicle stability management (VSM)",
+          "Hill-start assist control (HAC)",
+          "Tyre pressure monitoring system (TPMS) highline – Front",
+          "Seat belt pretensioners - driver & passenger",
+          "3 Point seat belts (all seats)",
+          "Seatbelt reminder (all seats)",
+          "ISOFIX",
+          "Emergency Stop Signal (ESS)",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Immobilizer",
+          "Burglar alarm",
+          "Central locking",
+          "Central locking – Day & night mirror",
+          "Headlamp escort function",
+          "Puddle lamps with welcome function – Rear parking sensor"
+        ],
+        "Exterior": [
+          "Wheels – R16 (D=405.6 mm) dual tone styled steel wheels",
+          "Bold skid plate (Front & rear) – Silver",
+          "Signature C-pillar garnish",
+          "Signature C-pillar garnish – Projector headlamps (Bi-function)",
+          "Signature C-pillar garnish – LED DRLs & positioning lamps",
+          "Lighting – LED high mounted stop lamp (HMSL)",
+          "Lighting – LED tail lamps",
+          "Lighting – Black painted",
+          "Radiator grille – Body colour",
+          "Outside door mirrors (ORVM) – Body coloured",
+          "Shark fin antenna",
+          "Rear spoiler - body colour"
+        ],
+        "Interior": [
+          "Dual integrated displays",
+          "Dual curved panoramic displays – All black",
+          "Interior color theme – Fabric",
+          "Leather^^ pack – Front",
+          "D-Cut steering wheel"
+        ],
+        "Infotainment & Connectivity": [
+          "26.03 cm (10.25”) ccNC infotainment system"
+        ],
+        "Infotainment system": [
+          "Smartphone connectivity - – Wireless",
+          "Android Auto & Apple Carplay – Digital cluster with 10.66 cm color TFT display",
+          "Front & rear speakers",
+          "Bluetooth connectivity",
+          "Steering wheel with audio and bluetooth controls",
+          "Voice recognition*"
+        ],
+        "Comfort & Convenience": [
+          "Sunroof – Manual",
+          "Keyless entry – Electrically adjustable",
+          "Rear AC vents",
+          "Rear AC vents – Front (x2)",
+          "USB charger (C -Type) – Rear (x2)",
+          "Front & rear power windows",
+          "Power outlet",
+          "Motor driven power steering with tilt function",
+          "Map lamps"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "VENUE 1.2 Kappa MT HX 5+",
+      "trim": "HX 5+",
+      "brochure_trim": "HX 5+",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 999900,
+        "dual_tone": 1017900
+      },
+      "engine": "Kappa 1.2 I Mpi Petrol",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "3 995",
+          "Overall Width (mm)": "1 800",
+          "Overall Height (mm)": "1 665^",
+          "Wheelbase (mm)": "2 520",
+          "Size": "195/65 R15 (D = 380.2 mm) Steel wheel with cover | 215/60 R16 (D = 405.6 mm) Styled Steel wheel",
+          "Front Tyres": "215/60 R16(D =405.6 mm) Diamond cut alloy wheel |215/60 R16(D =405.6 mm) Black painted alloy wheel",
+          "Spare wheel": "195 / 65 R15 (D = 380.2 mm) steel wheel"
+        },
+        "Engine": {
+          "Engine Type": "Kappa 1.2 MPi Petrol",
+          "Displacement(cm3)": "1 197",
+          "Max. Power": "61 kW (83 PS) @ 6 000 r/min",
+          "Max. Torque": "114.7 Nm (11.7 kgm) @ 4200 r/min"
+        },
+        "Transmission": {
+          "Transmission Type": "5-Speed Manual"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson strut with coil spring",
+          "Suspension Rear": "Coupled torsion beam axle with coil spring"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum / Disc"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Tank Capacity": "45 l"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Airbag – Driver & passenger",
+          "Airbag – Side & curtain",
+          "Rollover sensor",
+          "ABS (Anti-lock braking system) with EBD",
+          "Electronic stability control (ESC)",
+          "Vehicle stability management (VSM)",
+          "Hill-start assist control (HAC)",
+          "Tyre pressure monitoring system (TPMS) highline",
+          "Tyre pressure monitoring system (TPMS) highline – Front",
+          "Seat belt pretensioners - driver & passenger",
+          "3 Point seat belts (all seats)",
+          "Seatbelt reminder (all seats)",
+          "ISOFIX",
+          "Emergency Stop Signal (ESS)",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Driver power window with auto up down & safety",
+          "Immobilizer",
+          "Burglar alarm",
+          "Central locking",
+          "Central locking – Day & night mirror",
+          "Headlamp escort function",
+          "Rear defogger with timer",
+          "Puddle lamps with welcome function – Rear parking sensor",
+          "Puddle lamps with welcome function – Rear camera with dynamic guidelines",
+          "Driver rear view monitor (DRVM)"
+        ],
+        "Exterior": [
+          "Bold skid plate (Front & rear) – Silver",
+          "Signature C-pillar garnish",
+          "Signature C-pillar garnish – Quad beam LED headlamps",
+          "Signature C-pillar garnish – LED DRLs & positioning lamps",
+          "Lighting – LED high mounted stop lamp (HMSL)",
+          "Lighting – LED tail lamps",
+          "Lighting – Turn indicators on outside mirrors (ORVM)",
+          "Radiator grille – Dark chrome",
+          "Radiator grille – Body colour",
+          "Outside door mirrors (ORVM) – Body coloured",
+          "Outside door handles – Silver",
+          "Shark fin antenna",
+          "Rear spoiler - body colour",
+          "Dual tone pack – Rear spoiler",
+          "(Painted black) – Outside door mirrors (ORVM)"
+        ],
+        "Interior": [
+          "Dual integrated displays",
+          "Interior color theme – Dual tone (Dark grey and dove grey)",
+          "Interior color theme – Dual tone fabric",
+          "Leather^^ pack – Front",
+          "Height adjustable headrest – Manual height adjust",
+          "Rear window sunshade",
+          "D-Cut steering wheel"
+        ],
+        "Infotainment & Connectivity": [
+          "26.03 cm (10.25”) ccNC infotainment system"
+        ],
+        "Infotainment system": [
+          "Smartphone connectivity - – Wireless",
+          "Android Auto & Apple Carplay – Digital cluster with 10.66 cm color TFT display",
+          "Front & rear speakers",
+          "Bluetooth connectivity",
+          "Steering wheel with audio and bluetooth controls",
+          "Voice recognition*"
+        ],
+        "Comfort & Convenience": [
+          "Sunroof – Smart electric",
+          "Sunroof – Manual",
+          "Smartphone wireless charger*",
+          "Keyless entry – Electrically adjustable",
+          "Outside mirrors – Electric folding",
+          "Outside mirrors – Auto fold",
+          "Driver console armrest with storage",
+          "Rear AC vents",
+          "Rear AC vents – Front (x2)",
+          "USB charger (C -Type) – Rear (x2)",
+          "Front & rear power windows",
+          "Power outlet",
+          "Motor driven power steering with tilt function",
+          "Rear wiper & washer",
+          "Map lamps"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "VENUE 1.2 Kappa MT HX6T",
+      "trim": "HX6T",
+      "brochure_trim": "HX 6T",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 1089000,
+        "dual_tone": 1107000
+      },
+      "engine": "Kappa 1.2 I Mpi Petrol",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "3 995",
+          "Overall Width (mm)": "1 800",
+          "Overall Height (mm)": "1 665^",
+          "Wheelbase (mm)": "2 520",
+          "Size": "195/65 R15 (D = 380.2 mm) Steel wheel with cover | 215/60 R16 (D = 405.6 mm) Styled Steel wheel",
+          "Front Tyres": "215/60 R16(D =405.6 mm) Diamond cut alloy wheel |215/60 R16(D =405.6 mm) Black painted alloy wheel",
+          "Spare wheel": "195 / 65 R15 (D = 380.2 mm) steel wheel"
+        },
+        "Engine": {
+          "Engine Type": "Kappa 1.2 MPi Petrol",
+          "Displacement(cm3)": "1 197",
+          "Max. Power": "61 kW (83 PS) @ 6 000 r/min",
+          "Max. Torque": "114.7 Nm (11.7 kgm) @ 4200 r/min"
+        },
+        "Transmission": {
+          "Transmission Type": "5-Speed Manual"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson strut with coil spring",
+          "Suspension Rear": "Coupled torsion beam axle with coil spring"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum / Disc"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Tank Capacity": "45 l"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Airbag – Driver & passenger",
+          "Airbag – Side & curtain",
+          "Rollover sensor",
+          "ABS (Anti-lock braking system) with EBD",
+          "Electronic stability control (ESC)",
+          "Vehicle stability management (VSM)",
+          "Hill-start assist control (HAC)",
+          "Tyre pressure monitoring system (TPMS) highline",
+          "Tyre pressure monitoring system (TPMS) highline – Front",
+          "Seat belt pretensioners - driver & passenger",
+          "3 Point seat belts (all seats)",
+          "Seatbelt reminder (all seats)",
+          "ISOFIX",
+          "Emergency Stop Signal (ESS)",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Driver power window with auto up down & safety",
+          "Immobilizer",
+          "Burglar alarm",
+          "Central locking",
+          "Central locking – Day & night mirror",
+          "Automatic headlamps",
+          "Headlamp escort function",
+          "Rear defogger with timer",
+          "Puddle lamps with welcome function – Rear parking sensor",
+          "Puddle lamps with welcome function – Rear camera with dynamic guidelines",
+          "Driver rear view monitor (DRVM)",
+          "Dashcam"
+        ],
+        "Exterior": [
+          "Bold skid plate (Front & rear) – Silver",
+          "Signature C-pillar garnish",
+          "Signature C-pillar garnish – Quad beam LED headlamps",
+          "Signature C-pillar garnish – LED DRLs & positioning lamps",
+          "Lighting – LED high mounted stop lamp (HMSL)",
+          "Lighting – LED tail lamps",
+          "Lighting – Turn indicators on outside mirrors (ORVM)",
+          "Radiator grille – Dark chrome",
+          "Radiator grille – Body colour",
+          "Outside door handles – Dark chrome",
+          "Outside door handles – Silver",
+          "Shark fin antenna",
+          "Rear spoiler - body colour",
+          "Dual tone pack – Rear spoiler",
+          "(Painted black) – Outside door mirrors (ORVM)"
+        ],
+        "Interior": [
+          "Dual integrated displays",
+          "Interior color theme – Dual tone (Dark grey and dove grey)",
+          "Interior color theme – Dual tone fabric",
+          "Leather^^ pack – Gear shift knob",
+          "Leather^^ pack – Front",
+          "Height adjustable headrest – Manual height adjust",
+          "Rear window sunshade",
+          "Rear parcel tray",
+          "D-Cut steering wheel"
+        ],
+        "Infotainment & Connectivity": [
+          "26.03 cm (10.25”) ccNC infotainment system"
+        ],
+        "Infotainment system": [
+          "Smartphone connectivity - – Wireless",
+          "Android Auto & Apple Carplay – Digital cluster with 10.66 cm color TFT display",
+          "Front & rear speakers",
+          "Front tweeters",
+          "Bluetooth connectivity",
+          "Steering wheel with audio and bluetooth controls",
+          "Voice recognition*",
+          "Hyundai Bluelink** – 26.03 cm (10.25”) ccNC Infotainment system",
+          "Controller Over-the-Air (OTA) vehicle updates"
+        ],
+        "Comfort & Convenience": [
+          "Sunroof – Smart electric",
+          "Air conditioning – Fully automatic temperature control",
+          "Smartphone wireless charger*",
+          "Keyless entry – Electrically adjustable",
+          "Outside mirrors – Electric folding",
+          "Outside mirrors – Auto fold",
+          "Driver console armrest with storage",
+          "Rear AC vents",
+          "Rear AC vents – Front (x2)",
+          "USB charger (C -Type) – Rear (x2)",
+          "Front & rear power windows",
+          "Power outlet",
+          "Motor driven power steering with tilt function",
+          "Rear wiper & washer",
+          "Passenger vanity mirror",
+          "Map lamps"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "VENUE 1.0 Turbo DCT HX5",
+      "trim": "HX5",
+      "brochure_trim": "HX 5",
+      "fuel": "Petrol",
+      "transmission": "DCT",
+      "ex_showroom_surat": {
+        "standard": 1094600
+      },
+      "engine": "Kappa 1.0 I Turbo GDi Petrol",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "3 995",
+          "Overall Width (mm)": "1 800",
+          "Overall Height (mm)": "1 665^",
+          "Wheelbase (mm)": "2 520",
+          "Size": "195/65 R15 (D = 380.2 mm) Steel wheel with cover | 215/60 R16 (D = 405.6 mm) Styled Steel wheel",
+          "Front Tyres": "215/60 R16(D =405.6 mm) Diamond cut alloy wheel |215/60 R16(D =405.6 mm) Black painted alloy wheel",
+          "Spare wheel": "195 / 65 R15 (D = 380.2 mm) steel wheel"
+        },
+        "Engine": {
+          "Engine Type": "Kappa 1.0 Turbo GDi",
+          "Displacement(cm3)": "998",
+          "Max. Power": "88.3 kW (120 PS) @6 000 r/min",
+          "Max. Torque": "172 Nm (17.5 kgm) @ 1500-4000 r/min"
+        },
+        "Transmission": {
+          "Transmission Type": "6-speed manual ,7-Speed DCT"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson strut with coil spring",
+          "Suspension Rear": "Coupled torsion beam axle with coil spring"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum / Disc"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Tank Capacity": "45 l"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Airbag – Driver & passenger",
+          "Airbag – Side & curtain",
+          "Rollover sensor",
+          "ABS (Anti-lock braking system) with EBD",
+          "Electronic stability control (ESC)",
+          "Vehicle stability management (VSM)",
+          "Hill-start assist control (HAC)",
+          "Tyre pressure monitoring system (TPMS) highline",
+          "Tyre pressure monitoring system (TPMS) highline – Front",
+          "Seat belt pretensioners - driver & passenger",
+          "3 Point seat belts (all seats)",
+          "Seatbelt reminder (all seats)",
+          "ISOFIX",
+          "Emergency Stop Signal (ESS)",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Immobilizer",
+          "Burglar alarm",
+          "Central locking",
+          "Central locking – Day & night mirror",
+          "Headlamp escort function",
+          "Rear defogger with timer",
+          "Puddle lamps with welcome function – Rear parking sensor",
+          "Puddle lamps with welcome function – Rear camera with dynamic guidelines",
+          "Driver rear view monitor (DRVM)"
+        ],
+        "Exterior": [
+          "Wheels – R16 (D=405.6 mm) dual tone styled steel wheels",
+          "Bold skid plate (Front & rear) – Silver",
+          "Signature C-pillar garnish",
+          "Signature C-pillar garnish – Projector headlamps (Bi-function)",
+          "Signature C-pillar garnish – LED DRLs & positioning lamps",
+          "Lighting – LED high mounted stop lamp (HMSL)",
+          "Lighting – LED tail lamps",
+          "Lighting – Turn indicators on outside mirrors (ORVM)",
+          "Radiator grille – Dark chrome",
+          "Radiator grille – Body colour",
+          "Outside door mirrors (ORVM) – Body coloured",
+          "Shark fin antenna",
+          "Rear spoiler - body colour"
+        ],
+        "Interior": [
+          "Dual integrated displays",
+          "Interior color theme – Dual tone (Dark grey and dove grey)",
+          "Interior color theme – Dual tone fabric",
+          "Leather^^ pack – Front",
+          "Height adjustable headrest – Manual height adjust",
+          "D-Cut steering wheel"
+        ],
+        "Infotainment & Connectivity": [
+          "26.03 cm (10.25”) ccNC infotainment system"
+        ],
+        "Infotainment system": [
+          "Smartphone connectivity - – Wireless",
+          "Android Auto & Apple Carplay – Digital cluster with 10.66 cm color TFT display",
+          "Front & rear speakers",
+          "Bluetooth connectivity",
+          "Steering wheel with audio and bluetooth controls",
+          "Voice recognition*"
+        ],
+        "Comfort & Convenience": [
+          "Sunroof – Smart electric",
+          "Sunroof – Manual",
+          "Paddle shifters",
+          "Keyless entry – Electrically adjustable",
+          "Outside mirrors – Electric folding",
+          "Outside mirrors – Auto fold",
+          "Driver console armrest with storage",
+          "Rear AC vents",
+          "Rear AC vents – Front (x2)",
+          "USB charger (C -Type) – Rear (x2)",
+          "Front & rear power windows",
+          "Power outlet",
+          "Motor driven power steering with tilt function",
+          "Map lamps"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "VENUE 1.5 CRDi MT DSL HX5",
+      "trim": "DSL HX5",
+      "brochure_trim": "HX 5",
+      "fuel": "Diesel",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 1099600
+      },
+      "engine": "U2 1.5 I CRDi Diesel",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "3 995",
+          "Overall Width (mm)": "1 800",
+          "Overall Height (mm)": "1 665^",
+          "Wheelbase (mm)": "2 520",
+          "Size": "195/65 R15 (D = 380.2 mm) Steel wheel with cover | 215/60 R16 (D = 405.6 mm) Styled Steel wheel",
+          "Front Tyres": "215/60 R16(D =405.6 mm) Diamond cut alloy wheel |215/60 R16(D =405.6 mm) Black painted alloy wheel",
+          "Spare wheel": "195 / 65 R15 (D = 380.2 mm) steel wheel"
+        },
+        "Engine": {
+          "Engine Type": "U2 1.5 l CRDi Diesel",
+          "Displacement(cm3)": "1 493",
+          "Max. Power": "85 kW (116 PS) @ 4 000 r/min",
+          "Max. Torque": "250 Nm (25.5 kgm) @ 1500-2750 r/min"
+        },
+        "Transmission": {
+          "Transmission Type": "6-Speed Manual, 6 -speed automatic"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson strut with coil spring",
+          "Suspension Rear": "Coupled torsion beam axle with coil spring"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum / Disc"
+        },
+        "Fuel": {
+          "Fuel Type": "Diesel",
+          "Fuel Tank Capacity": "45 l"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Airbag – Driver & passenger",
+          "Airbag – Side & curtain",
+          "Rollover sensor",
+          "ABS (Anti-lock braking system) with EBD",
+          "Electronic stability control (ESC)",
+          "Vehicle stability management (VSM)",
+          "Hill-start assist control (HAC)",
+          "Tyre pressure monitoring system (TPMS) highline",
+          "Tyre pressure monitoring system (TPMS) highline – Front",
+          "Seat belt pretensioners - driver & passenger",
+          "3 Point seat belts (all seats)",
+          "Seatbelt reminder (all seats)",
+          "ISOFIX",
+          "Emergency Stop Signal (ESS)",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Immobilizer",
+          "Burglar alarm",
+          "Central locking",
+          "Central locking – Day & night mirror",
+          "Headlamp escort function",
+          "Rear defogger with timer",
+          "Puddle lamps with welcome function – Rear parking sensor",
+          "Puddle lamps with welcome function – Rear camera with dynamic guidelines",
+          "Driver rear view monitor (DRVM)"
+        ],
+        "Exterior": [
+          "Wheels – R16 (D=405.6 mm) dual tone styled steel wheels",
+          "Bold skid plate (Front & rear) – Silver",
+          "Signature C-pillar garnish",
+          "Signature C-pillar garnish – Projector headlamps (Bi-function)",
+          "Signature C-pillar garnish – LED DRLs & positioning lamps",
+          "Lighting – LED high mounted stop lamp (HMSL)",
+          "Lighting – LED tail lamps",
+          "Lighting – Turn indicators on outside mirrors (ORVM)",
+          "Radiator grille – Dark chrome",
+          "Radiator grille – Body colour",
+          "Outside door mirrors (ORVM) – Body coloured",
+          "Shark fin antenna",
+          "Rear spoiler - body colour"
+        ],
+        "Interior": [
+          "Dual integrated displays",
+          "Interior color theme – Dual tone (Dark grey and dove grey)",
+          "Interior color theme – Dual tone fabric",
+          "Leather^^ pack – Front",
+          "Height adjustable headrest – Manual height adjust",
+          "D-Cut steering wheel"
+        ],
+        "Infotainment & Connectivity": [
+          "26.03 cm (10.25”) ccNC infotainment system"
+        ],
+        "Infotainment system": [
+          "Smartphone connectivity - – Wireless",
+          "Android Auto & Apple Carplay – Digital cluster with 10.66 cm color TFT display",
+          "Front & rear speakers",
+          "Bluetooth connectivity",
+          "Steering wheel with audio and bluetooth controls",
+          "Voice recognition*"
+        ],
+        "Comfort & Convenience": [
+          "Sunroof – Smart electric",
+          "Sunroof – Manual",
+          "Paddle shifters",
+          "Keyless entry – Electrically adjustable",
+          "Outside mirrors – Electric folding",
+          "Outside mirrors – Auto fold",
+          "Driver console armrest with storage",
+          "Rear AC vents",
+          "Rear AC vents – Front (x2)",
+          "USB charger (C -Type) – Rear (x2)",
+          "Front & rear power windows",
+          "Power outlet",
+          "Motor driven power steering with tilt function",
+          "Map lamps"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "VENUE 1.2 Kappa MT HX6T Knight",
+      "trim": "HX6T Knight",
+      "brochure_trim": "HX 6T Knight",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 1103900,
+        "dual_tone": 1121900
+      },
+      "engine": "Kappa 1.2 I Mpi Petrol",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "3 995",
+          "Overall Width (mm)": "1 800",
+          "Overall Height (mm)": "1 665^",
+          "Wheelbase (mm)": "2 520",
+          "Size": "195/65 R15 (D = 380.2 mm) Steel wheel with cover | 215/60 R16 (D = 405.6 mm) Styled Steel wheel",
+          "Front Tyres": "215/60 R16(D =405.6 mm) Diamond cut alloy wheel |215/60 R16(D =405.6 mm) Black painted alloy wheel",
+          "Spare wheel": "195 / 65 R15 (D = 380.2 mm) steel wheel"
+        },
+        "Engine": {
+          "Engine Type": "Kappa 1.2 MPi Petrol",
+          "Displacement(cm3)": "1 197",
+          "Max. Power": "61 kW (83 PS) @ 6 000 r/min",
+          "Max. Torque": "114.7 Nm (11.7 kgm) @ 4200 r/min"
+        },
+        "Transmission": {
+          "Transmission Type": "5-Speed Manual"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson strut with coil spring",
+          "Suspension Rear": "Coupled torsion beam axle with coil spring"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum / Disc"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Tank Capacity": "45 l"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Airbag – Driver & passenger",
+          "Airbag – Side & curtain",
+          "Rollover sensor",
+          "ABS (Anti-lock braking system) with EBD",
+          "Electronic stability control (ESC)",
+          "Vehicle stability management (VSM)",
+          "Hill-start assist control (HAC)",
+          "Tyre pressure monitoring system (TPMS) highline",
+          "Tyre pressure monitoring system (TPMS) highline – Front",
+          "Seat belt pretensioners - driver & passenger",
+          "3 Point seat belts (all seats)",
+          "Seatbelt reminder (all seats)",
+          "ISOFIX",
+          "Emergency Stop Signal (ESS)",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Driver power window with auto up down & safety",
+          "Immobilizer",
+          "Burglar alarm",
+          "Central locking",
+          "Central locking – Day & night mirror",
+          "Automatic headlamps",
+          "Headlamp escort function",
+          "Rear defogger with timer",
+          "Puddle lamps with welcome function – Rear parking sensor",
+          "Puddle lamps with welcome function – Rear camera with dynamic guidelines",
+          "Driver rear view monitor (DRVM)",
+          "Dashcam"
+        ],
+        "Exterior": [
+          "Bold skid plate (Front & rear) – Black painted",
+          "Signature C-pillar garnish",
+          "Signature C-pillar garnish – Quad beam LED headlamps",
+          "Signature C-pillar garnish – LED DRLs & positioning lamps",
+          "Lighting – LED high mounted stop lamp (HMSL)",
+          "Lighting – LED tail lamps",
+          "Lighting – Turn indicators on outside mirrors (ORVM)",
+          "Lighting – Black painted",
+          "Outside door mirrors (ORVM) – Black painted",
+          "Outside door mirrors (ORVM) – Body coloured",
+          "Roof rails – Black painted",
+          "Shark fin antenna",
+          "Exclusive Knight emblem",
+          "Red brake calipers",
+          "Rear spoiler - body colour",
+          "Dual tone pack – Rear spoiler",
+          "(Painted black) – Outside door mirrors (ORVM)"
+        ],
+        "Interior": [
+          "Dual integrated displays",
+          "Interior color theme – All Black interiors with brass coloured inserts",
+          "Seat upholstery – Exclusive black fabric seat upholstery",
+          "Leather^^ pack – Gear shift knob",
+          "Leather^^ pack – Front",
+          "Height adjustable headrest – Manual height adjust",
+          "Rear window sunshade",
+          "Rear parcel tray",
+          "D-Cut steering wheel"
+        ],
+        "Infotainment & Connectivity": [
+          "26.03 cm (10.25”) ccNC infotainment system"
+        ],
+        "Infotainment system": [
+          "Smartphone connectivity - – Wireless",
+          "Android Auto & Apple Carplay – Digital cluster with 10.66 cm color TFT display",
+          "Front & rear speakers",
+          "Front tweeters",
+          "Bluetooth connectivity",
+          "Steering wheel with audio and bluetooth controls",
+          "Voice recognition*",
+          "Hyundai Bluelink** – 26.03 cm (10.25”) ccNC Infotainment system",
+          "Controller Over-the-Air (OTA) vehicle updates"
+        ],
+        "Comfort & Convenience": [
+          "Sunroof – Smart electric",
+          "Air conditioning – Fully automatic temperature control",
+          "Smartphone wireless charger*",
+          "Keyless entry – Electrically adjustable",
+          "Outside mirrors – Electric folding",
+          "Outside mirrors – Auto fold",
+          "Driver console armrest with storage",
+          "Rear AC vents",
+          "Rear AC vents – Front (x2)",
+          "USB charger (C -Type) – Rear (x2)",
+          "Front & rear power windows",
+          "Power outlet",
+          "Motor driven power steering with tilt function",
+          "Rear wiper & washer",
+          "Passenger vanity mirror",
+          "Map lamps"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "VENUE 1.5 CRDi MT DSL HX5 Knight",
+      "trim": "DSL HX5 Knight",
+      "brochure_trim": "HX 5 Knight",
+      "fuel": "Diesel",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 1118500
+      },
+      "engine": "U2 1.5 I CRDi Diesel",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "3 995",
+          "Overall Width (mm)": "1 800",
+          "Overall Height (mm)": "1 665^",
+          "Wheelbase (mm)": "2 520",
+          "Size": "195/65 R15 (D = 380.2 mm) Steel wheel with cover | 215/60 R16 (D = 405.6 mm) Styled Steel wheel",
+          "Front Tyres": "215/60 R16(D =405.6 mm) Diamond cut alloy wheel |215/60 R16(D =405.6 mm) Black painted alloy wheel",
+          "Spare wheel": "195 / 65 R15 (D = 380.2 mm) steel wheel"
+        },
+        "Engine": {
+          "Engine Type": "U2 1.5 l CRDi Diesel",
+          "Displacement(cm3)": "1 493",
+          "Max. Power": "85 kW (116 PS) @ 4 000 r/min",
+          "Max. Torque": "250 Nm (25.5 kgm) @ 1500-2750 r/min"
+        },
+        "Transmission": {
+          "Transmission Type": "6-Speed Manual, 6 -speed automatic"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson strut with coil spring",
+          "Suspension Rear": "Coupled torsion beam axle with coil spring"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum / Disc"
+        },
+        "Fuel": {
+          "Fuel Type": "Diesel",
+          "Fuel Tank Capacity": "45 l"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Airbag – Driver & passenger",
+          "Airbag – Side & curtain",
+          "Rollover sensor",
+          "ABS (Anti-lock braking system) with EBD",
+          "Electronic stability control (ESC)",
+          "Vehicle stability management (VSM)",
+          "Hill-start assist control (HAC)",
+          "Tyre pressure monitoring system (TPMS) highline",
+          "Tyre pressure monitoring system (TPMS) highline – Front",
+          "Seat belt pretensioners - driver & passenger",
+          "3 Point seat belts (all seats)",
+          "Seatbelt reminder (all seats)",
+          "ISOFIX",
+          "Emergency Stop Signal (ESS)",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Immobilizer",
+          "Burglar alarm",
+          "Central locking",
+          "Central locking – Day & night mirror",
+          "Headlamp escort function",
+          "Rear defogger with timer",
+          "Puddle lamps with welcome function – Rear parking sensor",
+          "Puddle lamps with welcome function – Rear camera with dynamic guidelines",
+          "Driver rear view monitor (DRVM)"
+        ],
+        "Exterior": [
+          "Bold skid plate (Front & rear) – Black painted",
+          "Signature C-pillar garnish",
+          "Signature C-pillar garnish – Projector headlamps (Bi-function)",
+          "Signature C-pillar garnish – LED DRLs & positioning lamps",
+          "Lighting – LED high mounted stop lamp (HMSL)",
+          "Lighting – LED tail lamps",
+          "Lighting – Turn indicators on outside mirrors (ORVM)",
+          "Lighting – Black painted",
+          "Outside door mirrors (ORVM) – Black painted",
+          "Outside door mirrors (ORVM) – Body coloured",
+          "Shark fin antenna",
+          "Exclusive Knight emblem",
+          "Red brake calipers",
+          "Rear spoiler - body colour"
+        ],
+        "Interior": [
+          "Dual integrated displays",
+          "Interior color theme – All Black interiors with brass coloured inserts",
+          "Seat upholstery – Exclusive black fabric seat upholstery",
+          "Leather^^ pack – Front",
+          "Height adjustable headrest – Manual height adjust",
+          "D-Cut steering wheel"
+        ],
+        "Infotainment & Connectivity": [
+          "26.03 cm (10.25”) ccNC infotainment system"
+        ],
+        "Infotainment system": [
+          "Smartphone connectivity - – Wireless",
+          "Android Auto & Apple Carplay – Digital cluster with 10.66 cm color TFT display",
+          "Front & rear speakers",
+          "Bluetooth connectivity",
+          "Steering wheel with audio and bluetooth controls",
+          "Voice recognition*"
+        ],
+        "Comfort & Convenience": [
+          "Sunroof – Smart electric",
+          "Sunroof – Manual",
+          "Keyless entry – Electrically adjustable",
+          "Outside mirrors – Electric folding",
+          "Outside mirrors – Auto fold",
+          "Rear AC vents",
+          "Rear AC vents – Front (x2)",
+          "USB charger (C -Type) – Rear (x2)",
+          "Front & rear power windows",
+          "Power outlet",
+          "Motor driven power steering with tilt function",
+          "Map lamps"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "VENUE 1.5 CRDi AT DSL HX5",
+      "trim": "DSL HX5",
+      "brochure_trim": "HX 5",
+      "fuel": "Diesel",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "standard": 1194100
+      },
+      "engine": "U2 1.5 I CRDi Diesel",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "3 995",
+          "Overall Width (mm)": "1 800",
+          "Overall Height (mm)": "1 665^",
+          "Wheelbase (mm)": "2 520",
+          "Size": "195/65 R15 (D = 380.2 mm) Steel wheel with cover | 215/60 R16 (D = 405.6 mm) Styled Steel wheel",
+          "Front Tyres": "215/60 R16(D =405.6 mm) Diamond cut alloy wheel |215/60 R16(D =405.6 mm) Black painted alloy wheel",
+          "Spare wheel": "195 / 65 R15 (D = 380.2 mm) steel wheel"
+        },
+        "Engine": {
+          "Engine Type": "U2 1.5 l CRDi Diesel",
+          "Displacement(cm3)": "1 493",
+          "Max. Power": "85 kW (116 PS) @ 4 000 r/min",
+          "Max. Torque": "250 Nm (25.5 kgm) @ 1500-2750 r/min"
+        },
+        "Transmission": {
+          "Transmission Type": "6-Speed Manual, 6 -speed automatic"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson strut with coil spring",
+          "Suspension Rear": "Coupled torsion beam axle with coil spring"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum / Disc"
+        },
+        "Fuel": {
+          "Fuel Type": "Diesel",
+          "Fuel Tank Capacity": "45 l"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Airbag – Driver & passenger",
+          "Airbag – Side & curtain",
+          "Rollover sensor",
+          "ABS (Anti-lock braking system) with EBD",
+          "Electronic stability control (ESC)",
+          "Vehicle stability management (VSM)",
+          "Hill-start assist control (HAC)",
+          "Tyre pressure monitoring system (TPMS) highline",
+          "Tyre pressure monitoring system (TPMS) highline – Front",
+          "Seat belt pretensioners - driver & passenger",
+          "3 Point seat belts (all seats)",
+          "Seatbelt reminder (all seats)",
+          "ISOFIX",
+          "Emergency Stop Signal (ESS)",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Immobilizer",
+          "Burglar alarm",
+          "Central locking",
+          "Central locking – Day & night mirror",
+          "Headlamp escort function",
+          "Rear defogger with timer",
+          "Puddle lamps with welcome function – Rear parking sensor",
+          "Puddle lamps with welcome function – Rear camera with dynamic guidelines",
+          "Driver rear view monitor (DRVM)"
+        ],
+        "Exterior": [
+          "Wheels – R16 (D=405.6 mm) dual tone styled steel wheels",
+          "Bold skid plate (Front & rear) – Silver",
+          "Signature C-pillar garnish",
+          "Signature C-pillar garnish – Projector headlamps (Bi-function)",
+          "Signature C-pillar garnish – LED DRLs & positioning lamps",
+          "Lighting – LED high mounted stop lamp (HMSL)",
+          "Lighting – LED tail lamps",
+          "Lighting – Turn indicators on outside mirrors (ORVM)",
+          "Radiator grille – Dark chrome",
+          "Radiator grille – Body colour",
+          "Outside door mirrors (ORVM) – Body coloured",
+          "Shark fin antenna",
+          "Rear spoiler - body colour"
+        ],
+        "Interior": [
+          "Dual integrated displays",
+          "Interior color theme – Dual tone (Dark grey and dove grey)",
+          "Interior color theme – Dual tone fabric",
+          "Leather^^ pack – Front",
+          "Height adjustable headrest – Manual height adjust",
+          "D-Cut steering wheel"
+        ],
+        "Infotainment & Connectivity": [
+          "26.03 cm (10.25”) ccNC infotainment system"
+        ],
+        "Infotainment system": [
+          "Smartphone connectivity - – Wireless",
+          "Android Auto & Apple Carplay – Digital cluster with 10.66 cm color TFT display",
+          "Front & rear speakers",
+          "Bluetooth connectivity",
+          "Steering wheel with audio and bluetooth controls",
+          "Voice recognition*"
+        ],
+        "Comfort & Convenience": [
+          "Sunroof – Smart electric",
+          "Sunroof – Manual",
+          "Paddle shifters",
+          "Keyless entry – Electrically adjustable",
+          "Outside mirrors – Electric folding",
+          "Outside mirrors – Auto fold",
+          "Driver console armrest with storage",
+          "Rear AC vents",
+          "Rear AC vents – Front (x2)",
+          "USB charger (C -Type) – Rear (x2)",
+          "Front & rear power windows",
+          "Power outlet",
+          "Motor driven power steering with tilt function",
+          "Map lamps"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "VENUE 1.0 Turbo MT HX8",
+      "trim": "HX8",
+      "brochure_trim": "HX 8",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 1194400,
+        "dual_tone": 1212400
+      },
+      "engine": "Kappa 1.0 I Turbo GDi Petrol",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "3 995",
+          "Overall Width (mm)": "1 800",
+          "Overall Height (mm)": "1 665^",
+          "Wheelbase (mm)": "2 520",
+          "Size": "195/65 R15 (D = 380.2 mm) Steel wheel with cover | 215/60 R16 (D = 405.6 mm) Styled Steel wheel",
+          "Front Tyres": "215/60 R16(D =405.6 mm) Diamond cut alloy wheel |215/60 R16(D =405.6 mm) Black painted alloy wheel",
+          "Spare wheel": "195 / 65 R15 (D = 380.2 mm) steel wheel"
+        },
+        "Engine": {
+          "Engine Type": "Kappa 1.0 Turbo GDi",
+          "Displacement(cm3)": "998",
+          "Max. Power": "88.3 kW (120 PS) @6 000 r/min",
+          "Max. Torque": "172 Nm (17.5 kgm) @ 1500-4000 r/min"
+        },
+        "Transmission": {
+          "Transmission Type": "6-speed manual ,7-Speed DCT"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson strut with coil spring",
+          "Suspension Rear": "Coupled torsion beam axle with coil spring"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum / Disc"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Tank Capacity": "45 l"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Airbag – Driver & passenger",
+          "Airbag – Side & curtain",
+          "Rollover sensor",
+          "ABS (Anti-lock braking system) with EBD",
+          "Electronic stability control (ESC)",
+          "Vehicle stability management (VSM)",
+          "Hill-start assist control (HAC)",
+          "Tyre pressure monitoring system (TPMS) highline",
+          "Tyre pressure monitoring system (TPMS) highline – Front",
+          "Disc brakes – Rear",
+          "Seat belt pretensioners - driver & passenger",
+          "3 Point seat belts (all seats)",
+          "Seatbelt reminder (all seats)",
+          "ISOFIX",
+          "Emergency Stop Signal (ESS)",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Driver power window with auto up down & safety",
+          "Immobilizer",
+          "Burglar alarm",
+          "Central locking",
+          "Central locking – Day & night mirror",
+          "Automatic headlamps",
+          "Headlamp escort function",
+          "Rear defogger with timer",
+          "Puddle lamps with welcome function",
+          "Puddle lamps with welcome function – Rear parking sensor",
+          "Puddle lamps with welcome function – Rear camera with dynamic guidelines",
+          "Driver rear view monitor (DRVM)"
+        ],
+        "Exterior": [
+          "Wheels – R16 (D=405.6 mm) diamond cut alloys",
+          "Bold skid plate (Front & rear) – Silver",
+          "Signature C-pillar garnish",
+          "Signature C-pillar garnish – Quad beam LED headlamps",
+          "Signature C-pillar garnish – LED DRLs & positioning lamps",
+          "Signature C-pillar garnish – Horizon LED positioning lamp",
+          "Lighting – LED high mounted stop lamp (HMSL)",
+          "Lighting – LED tail lamps",
+          "Lighting – Rear horizon LED lamp",
+          "Lighting – LED turn indicators",
+          "Lighting – Turn indicators on outside mirrors (ORVM)",
+          "Radiator grille – Dark chrome",
+          "Radiator grille – Body colour",
+          "Outside door handles – Dark chrome",
+          "Outside door handles – Silver",
+          "Shark fin antenna",
+          "Rear spoiler - body colour",
+          "Dual tone pack – Rear spoiler",
+          "(Painted black) – Outside door mirrors (ORVM)"
+        ],
+        "Interior": [
+          "Dual integrated displays",
+          "Interior color theme – Dual tone (Dark navy & dove grey) with terrazzo texture",
+          "Interior color theme – Dual tone leather^^ seats with VENUE branding",
+          "Seat upholstery – Steering wheel",
+          "Leather^^ pack – Premium door armrest",
+          "Leather^^ pack – Gear shift knob",
+          "Leather^^ pack – Front",
+          "Height adjustable headrest – Rear",
+          "Driver seat adjust – Electric 4-way",
+          "60:40 split rear seat",
+          "2-step rear reclining seat",
+          "Rear window sunshade",
+          "Rear window sunshade – Crashpad",
+          "Ambient lighting (Moon white) – Centre console",
+          "Rear parcel tray",
+          "D-Cut steering wheel"
+        ],
+        "Infotainment & Connectivity": [
+          "26.03 cm (10.25”) ccNC infotainment system"
+        ],
+        "Infotainment system": [
+          "Smartphone connectivity - – Wireless",
+          "Android Auto & Apple Carplay – Digital cluster with 10.66 cm color TFT display",
+          "Front & rear speakers",
+          "Front tweeters",
+          "Bluetooth connectivity",
+          "Steering wheel with audio and bluetooth controls",
+          "Voice recognition*",
+          "Hyundai Bluelink** – 26.03 cm (10.25”) ccNC Infotainment system",
+          "Controller Over-the-Air (OTA) vehicle updates"
+        ],
+        "Comfort & Convenience": [
+          "Sunroof – Smart electric",
+          "Air conditioning – Fully automatic temperature control",
+          "Front row ventilated seats",
+          "Electric parking brake with auto hold",
+          "Smartphone wireless charger*",
+          "Drive mode select (Eco, Normal, Sport)",
+          "Traction control modes (Sand, mud, snow)",
+          "Paddle shifters",
+          "Keyless entry – Electrically adjustable",
+          "Outside mirrors – Electric folding",
+          "Outside mirrors – Auto fold",
+          "Driver console armrest with storage",
+          "Rear centre armrest with cupholders",
+          "Rear AC vents",
+          "Rear AC vents – Front (x2)",
+          "USB charger (C -Type) – Rear (x2)",
+          "Front & rear power windows",
+          "Power outlet",
+          "Motor driven power steering with tilt function",
+          "Luggage lamp",
+          "Rear wiper & washer",
+          "Passenger vanity mirror",
+          "Map lamps",
+          "Glovebox cooling"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "VENUE 1.0 Turbo DCT HX6",
+      "trim": "HX6",
+      "brochure_trim": "HX 6",
+      "fuel": "Petrol",
+      "transmission": "DCT",
+      "ex_showroom_surat": {
+        "standard": 1220500,
+        "dual_tone": 1238500
+      },
+      "engine": "Kappa 1.0 I Turbo GDi Petrol",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "3 995",
+          "Overall Width (mm)": "1 800",
+          "Overall Height (mm)": "1 665^",
+          "Wheelbase (mm)": "2 520",
+          "Size": "195/65 R15 (D = 380.2 mm) Steel wheel with cover | 215/60 R16 (D = 405.6 mm) Styled Steel wheel",
+          "Front Tyres": "215/60 R16(D =405.6 mm) Diamond cut alloy wheel |215/60 R16(D =405.6 mm) Black painted alloy wheel",
+          "Spare wheel": "195 / 65 R15 (D = 380.2 mm) steel wheel"
+        },
+        "Engine": {
+          "Engine Type": "Kappa 1.0 Turbo GDi",
+          "Displacement(cm3)": "998",
+          "Max. Power": "88.3 kW (120 PS) @6 000 r/min",
+          "Max. Torque": "172 Nm (17.5 kgm) @ 1500-4000 r/min"
+        },
+        "Transmission": {
+          "Transmission Type": "6-speed manual ,7-Speed DCT"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson strut with coil spring",
+          "Suspension Rear": "Coupled torsion beam axle with coil spring"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum / Disc"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Tank Capacity": "45 l"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Airbag – Driver & passenger",
+          "Airbag – Side & curtain",
+          "Rollover sensor",
+          "ABS (Anti-lock braking system) with EBD",
+          "Electronic stability control (ESC)",
+          "Vehicle stability management (VSM)",
+          "Hill-start assist control (HAC)",
+          "Tyre pressure monitoring system (TPMS) highline",
+          "Tyre pressure monitoring system (TPMS) highline – Front",
+          "Seat belt pretensioners - driver & passenger",
+          "3 Point seat belts (all seats)",
+          "Seatbelt reminder (all seats)",
+          "ISOFIX",
+          "Emergency Stop Signal (ESS)",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Driver power window with auto up down & safety",
+          "Immobilizer",
+          "Burglar alarm",
+          "Central locking",
+          "Central locking – Day & night mirror",
+          "Headlamp escort function",
+          "Rear defogger with timer",
+          "Puddle lamps with welcome function",
+          "Puddle lamps with welcome function – Rear parking sensor",
+          "Puddle lamps with welcome function – Rear camera with dynamic guidelines",
+          "Driver rear view monitor (DRVM)"
+        ],
+        "Exterior": [
+          "Wheels – R16 (D=405.6 mm) dual tone styled steel wheels",
+          "Bold skid plate (Front & rear) – Silver",
+          "Signature C-pillar garnish",
+          "Signature C-pillar garnish – Quad beam LED headlamps",
+          "Signature C-pillar garnish – LED DRLs & positioning lamps",
+          "Lighting – LED high mounted stop lamp (HMSL)",
+          "Lighting – LED tail lamps",
+          "Lighting – Turn indicators on outside mirrors (ORVM)",
+          "Radiator grille – Dark chrome",
+          "Radiator grille – Body colour",
+          "Outside door handles – Dark chrome",
+          "Outside door handles – Silver",
+          "Shark fin antenna",
+          "Rear spoiler - body colour",
+          "Dual tone pack – Rear spoiler",
+          "(Painted black) – Outside door mirrors (ORVM)"
+        ],
+        "Interior": [
+          "Dual integrated displays",
+          "Interior color theme – Dual tone (Dark grey and dove grey)",
+          "Interior color theme – Dual tone fabric",
+          "Seat upholstery – Steering wheel",
+          "Leather^^ pack – Gear shift knob",
+          "Leather^^ pack – Front",
+          "Height adjustable headrest – Rear",
+          "Height adjustable headrest – Manual height adjust",
+          "60:40 split rear seat",
+          "2-step rear reclining seat",
+          "Rear window sunshade",
+          "Rear parcel tray",
+          "D-Cut steering wheel"
+        ],
+        "Infotainment & Connectivity": [
+          "26.03 cm (10.25”) ccNC infotainment system"
+        ],
+        "Infotainment system": [
+          "Smartphone connectivity - – Wireless",
+          "Android Auto & Apple Carplay – Digital cluster with 10.66 cm color TFT display",
+          "Front & rear speakers",
+          "Front tweeters",
+          "Bluetooth connectivity",
+          "Steering wheel with audio and bluetooth controls",
+          "Voice recognition*"
+        ],
+        "Comfort & Convenience": [
+          "Sunroof – Smart electric",
+          "Air conditioning – Fully automatic temperature control",
+          "Smartphone wireless charger*",
+          "Paddle shifters",
+          "Keyless entry – Electrically adjustable",
+          "Outside mirrors – Electric folding",
+          "Outside mirrors – Auto fold",
+          "Driver console armrest with storage",
+          "Rear centre armrest with cupholders",
+          "Rear AC vents",
+          "Rear AC vents – Front (x2)",
+          "USB charger (C -Type) – Rear (x2)",
+          "Front & rear power windows",
+          "Power outlet",
+          "Motor driven power steering with tilt function",
+          "Luggage lamp",
+          "Rear wiper & washer",
+          "Passenger vanity mirror",
+          "Map lamps",
+          "Glovebox cooling"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "VENUE 1.5 CRDi MT DSL HX7",
+      "trim": "DSL HX7",
+      "brochure_trim": "HX 7",
+      "fuel": "Diesel",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 1281800,
+        "dual_tone": 1299800
+      },
+      "engine": "U2 1.5 I CRDi Diesel",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "3 995",
+          "Overall Width (mm)": "1 800",
+          "Overall Height (mm)": "1 665^",
+          "Wheelbase (mm)": "2 520",
+          "Size": "195/65 R15 (D = 380.2 mm) Steel wheel with cover | 215/60 R16 (D = 405.6 mm) Styled Steel wheel",
+          "Front Tyres": "215/60 R16(D =405.6 mm) Diamond cut alloy wheel |215/60 R16(D =405.6 mm) Black painted alloy wheel",
+          "Spare wheel": "195 / 65 R15 (D = 380.2 mm) steel wheel"
+        },
+        "Engine": {
+          "Engine Type": "U2 1.5 l CRDi Diesel",
+          "Displacement(cm3)": "1 493",
+          "Max. Power": "85 kW (116 PS) @ 4 000 r/min",
+          "Max. Torque": "250 Nm (25.5 kgm) @ 1500-2750 r/min"
+        },
+        "Transmission": {
+          "Transmission Type": "6-Speed Manual, 6 -speed automatic"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson strut with coil spring",
+          "Suspension Rear": "Coupled torsion beam axle with coil spring"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum / Disc"
+        },
+        "Fuel": {
+          "Fuel Type": "Diesel",
+          "Fuel Tank Capacity": "45 l"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Airbag – Driver & passenger",
+          "Airbag – Side & curtain",
+          "Rollover sensor",
+          "ABS (Anti-lock braking system) with EBD",
+          "Electronic stability control (ESC)",
+          "Vehicle stability management (VSM)",
+          "Hill-start assist control (HAC)",
+          "Tyre pressure monitoring system (TPMS) highline",
+          "Tyre pressure monitoring system (TPMS) highline – Front",
+          "Seat belt pretensioners - driver & passenger",
+          "3 Point seat belts (all seats)",
+          "Seatbelt reminder (all seats)",
+          "ISOFIX",
+          "Emergency Stop Signal (ESS)",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Driver power window with auto up down & safety",
+          "Immobilizer",
+          "Burglar alarm",
+          "Central locking",
+          "Central locking – Day & night mirror",
+          "Automatic headlamps",
+          "Headlamp escort function",
+          "Rear defogger with timer",
+          "Puddle lamps with welcome function",
+          "Puddle lamps with welcome function – Rear parking sensor",
+          "Puddle lamps with welcome function – Rear camera with dynamic guidelines",
+          "Driver rear view monitor (DRVM)"
+        ],
+        "Exterior": [
+          "Wheels – R16 (D=405.6 mm) diamond cut alloys",
+          "Bold skid plate (Front & rear) – Silver",
+          "Signature C-pillar garnish",
+          "Signature C-pillar garnish – Quad beam LED headlamps",
+          "Signature C-pillar garnish – LED DRLs & positioning lamps",
+          "Signature C-pillar garnish – Horizon LED positioning lamp",
+          "Lighting – LED high mounted stop lamp (HMSL)",
+          "Lighting – LED tail lamps",
+          "Lighting – Rear horizon LED lamp",
+          "Lighting – LED turn indicators",
+          "Lighting – Turn indicators on outside mirrors (ORVM)",
+          "Radiator grille – Dark chrome",
+          "Radiator grille – Body colour",
+          "Outside door handles – Dark chrome",
+          "Outside door handles – Silver",
+          "Shark fin antenna",
+          "Rear spoiler - body colour",
+          "Dual tone pack – Rear spoiler",
+          "(Painted black) – Outside door mirrors (ORVM)"
+        ],
+        "Interior": [
+          "Dual integrated displays",
+          "Interior color theme – Dual tone (Dark grey and dove grey)",
+          "Interior color theme – Dual tone fabric",
+          "Seat upholstery – Steering wheel",
+          "Leather^^ pack – Gear shift knob",
+          "Leather^^ pack – Front",
+          "Height adjustable headrest – Rear",
+          "Height adjustable headrest – Manual height adjust",
+          "60:40 split rear seat",
+          "2-step rear reclining seat",
+          "Rear window sunshade",
+          "Rear window sunshade – Crashpad",
+          "Rear parcel tray",
+          "D-Cut steering wheel"
+        ],
+        "Infotainment & Connectivity": [
+          "26.03 cm (10.25”) ccNC infotainment system"
+        ],
+        "Infotainment system": [
+          "Smartphone connectivity - – Wireless",
+          "Android Auto & Apple Carplay – Digital cluster with 10.66 cm color TFT display",
+          "Front & rear speakers",
+          "Front tweeters",
+          "Bluetooth connectivity",
+          "Steering wheel with audio and bluetooth controls",
+          "Voice recognition*",
+          "Hyundai Bluelink** – 26.03 cm (10.25”) ccNC Infotainment system",
+          "Controller Over-the-Air (OTA) vehicle updates"
+        ],
+        "Comfort & Convenience": [
+          "Sunroof – Smart electric",
+          "Air conditioning – Fully automatic temperature control",
+          "Smartphone wireless charger*",
+          "Keyless entry – Electrically adjustable",
+          "Outside mirrors – Electric folding",
+          "Outside mirrors – Auto fold",
+          "Driver console armrest with storage",
+          "Rear centre armrest with cupholders",
+          "Rear AC vents",
+          "Rear AC vents – Front (x2)",
+          "USB charger (C -Type) – Rear (x2)",
+          "Front & rear power windows",
+          "Power outlet",
+          "Motor driven power steering with tilt function",
+          "Luggage lamp",
+          "Rear wiper & washer",
+          "Passenger vanity mirror",
+          "Map lamps",
+          "Glovebox cooling"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "VENUE 1.0 Turbo DCT HX8",
+      "trim": "HX8",
+      "brochure_trim": "HX 8",
+      "fuel": "Petrol",
+      "transmission": "DCT",
+      "ex_showroom_surat": {
+        "standard": 1302900,
+        "dual_tone": 1320900
+      },
+      "engine": "Kappa 1.0 I Turbo GDi Petrol",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "3 995",
+          "Overall Width (mm)": "1 800",
+          "Overall Height (mm)": "1 665^",
+          "Wheelbase (mm)": "2 520",
+          "Size": "195/65 R15 (D = 380.2 mm) Steel wheel with cover | 215/60 R16 (D = 405.6 mm) Styled Steel wheel",
+          "Front Tyres": "215/60 R16(D =405.6 mm) Diamond cut alloy wheel |215/60 R16(D =405.6 mm) Black painted alloy wheel",
+          "Spare wheel": "195 / 65 R15 (D = 380.2 mm) steel wheel"
+        },
+        "Engine": {
+          "Engine Type": "Kappa 1.0 Turbo GDi",
+          "Displacement(cm3)": "998",
+          "Max. Power": "88.3 kW (120 PS) @6 000 r/min",
+          "Max. Torque": "172 Nm (17.5 kgm) @ 1500-4000 r/min"
+        },
+        "Transmission": {
+          "Transmission Type": "6-speed manual ,7-Speed DCT"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson strut with coil spring",
+          "Suspension Rear": "Coupled torsion beam axle with coil spring"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum / Disc"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Tank Capacity": "45 l"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Airbag – Driver & passenger",
+          "Airbag – Side & curtain",
+          "Rollover sensor",
+          "ABS (Anti-lock braking system) with EBD",
+          "Electronic stability control (ESC)",
+          "Vehicle stability management (VSM)",
+          "Hill-start assist control (HAC)",
+          "Tyre pressure monitoring system (TPMS) highline",
+          "Tyre pressure monitoring system (TPMS) highline – Front",
+          "Disc brakes – Rear",
+          "Seat belt pretensioners - driver & passenger",
+          "3 Point seat belts (all seats)",
+          "Seatbelt reminder (all seats)",
+          "ISOFIX",
+          "Emergency Stop Signal (ESS)",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Driver power window with auto up down & safety",
+          "Immobilizer",
+          "Burglar alarm",
+          "Central locking",
+          "Central locking – Day & night mirror",
+          "Automatic headlamps",
+          "Headlamp escort function",
+          "Rear defogger with timer",
+          "Puddle lamps with welcome function",
+          "Puddle lamps with welcome function – Rear parking sensor",
+          "Puddle lamps with welcome function – Rear camera with dynamic guidelines",
+          "Driver rear view monitor (DRVM)"
+        ],
+        "Exterior": [
+          "Wheels – R16 (D=405.6 mm) diamond cut alloys",
+          "Bold skid plate (Front & rear) – Silver",
+          "Signature C-pillar garnish",
+          "Signature C-pillar garnish – Quad beam LED headlamps",
+          "Signature C-pillar garnish – LED DRLs & positioning lamps",
+          "Signature C-pillar garnish – Horizon LED positioning lamp",
+          "Lighting – LED high mounted stop lamp (HMSL)",
+          "Lighting – LED tail lamps",
+          "Lighting – Rear horizon LED lamp",
+          "Lighting – LED turn indicators",
+          "Lighting – Turn indicators on outside mirrors (ORVM)",
+          "Radiator grille – Dark chrome",
+          "Radiator grille – Body colour",
+          "Outside door handles – Dark chrome",
+          "Outside door handles – Silver",
+          "Shark fin antenna",
+          "Rear spoiler - body colour",
+          "Dual tone pack – Rear spoiler",
+          "(Painted black) – Outside door mirrors (ORVM)"
+        ],
+        "Interior": [
+          "Dual integrated displays",
+          "Interior color theme – Dual tone (Dark navy & dove grey) with terrazzo texture",
+          "Interior color theme – Dual tone leather^^ seats with VENUE branding",
+          "Seat upholstery – Steering wheel",
+          "Leather^^ pack – Premium door armrest",
+          "Leather^^ pack – Gear shift knob",
+          "Leather^^ pack – Front",
+          "Height adjustable headrest – Rear",
+          "Driver seat adjust – Electric 4-way",
+          "60:40 split rear seat",
+          "2-step rear reclining seat",
+          "Rear window sunshade",
+          "Rear window sunshade – Crashpad",
+          "Ambient lighting (Moon white) – Centre console",
+          "Rear parcel tray",
+          "D-Cut steering wheel"
+        ],
+        "Infotainment & Connectivity": [
+          "26.03 cm (10.25”) ccNC infotainment system"
+        ],
+        "Infotainment system": [
+          "Smartphone connectivity - – Wireless",
+          "Android Auto & Apple Carplay – Digital cluster with 10.66 cm color TFT display",
+          "Front & rear speakers",
+          "Front tweeters",
+          "Bluetooth connectivity",
+          "Steering wheel with audio and bluetooth controls",
+          "Voice recognition*",
+          "Hyundai Bluelink** – 26.03 cm (10.25”) ccNC Infotainment system",
+          "Controller Over-the-Air (OTA) vehicle updates"
+        ],
+        "Comfort & Convenience": [
+          "Sunroof – Smart electric",
+          "Air conditioning – Fully automatic temperature control",
+          "Front row ventilated seats",
+          "Electric parking brake with auto hold",
+          "Smartphone wireless charger*",
+          "Drive mode select (Eco, Normal, Sport)",
+          "Traction control modes (Sand, mud, snow)",
+          "Paddle shifters",
+          "Keyless entry – Electrically adjustable",
+          "Outside mirrors – Electric folding",
+          "Outside mirrors – Auto fold",
+          "Driver console armrest with storage",
+          "Rear centre armrest with cupholders",
+          "Rear AC vents",
+          "Rear AC vents – Front (x2)",
+          "USB charger (C -Type) – Rear (x2)",
+          "Front & rear power windows",
+          "Power outlet",
+          "Motor driven power steering with tilt function",
+          "Luggage lamp",
+          "Rear wiper & washer",
+          "Passenger vanity mirror",
+          "Map lamps",
+          "Glovebox cooling"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "VENUE 1.5 CRDi AT DSL HX 8",
+      "trim": "DSL HX 8",
+      "brochure_trim": "HX 8",
+      "fuel": "Diesel",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "standard": 1376600,
+        "dual_tone": 1394600
+      },
+      "engine": "U2 1.5 I CRDi Diesel",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "3 995",
+          "Overall Width (mm)": "1 800",
+          "Overall Height (mm)": "1 665^",
+          "Wheelbase (mm)": "2 520",
+          "Size": "195/65 R15 (D = 380.2 mm) Steel wheel with cover | 215/60 R16 (D = 405.6 mm) Styled Steel wheel",
+          "Front Tyres": "215/60 R16(D =405.6 mm) Diamond cut alloy wheel |215/60 R16(D =405.6 mm) Black painted alloy wheel",
+          "Spare wheel": "195 / 65 R15 (D = 380.2 mm) steel wheel"
+        },
+        "Engine": {
+          "Engine Type": "U2 1.5 l CRDi Diesel",
+          "Displacement(cm3)": "1 493",
+          "Max. Power": "85 kW (116 PS) @ 4 000 r/min",
+          "Max. Torque": "250 Nm (25.5 kgm) @ 1500-2750 r/min"
+        },
+        "Transmission": {
+          "Transmission Type": "6-Speed Manual, 6 -speed automatic"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson strut with coil spring",
+          "Suspension Rear": "Coupled torsion beam axle with coil spring"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum / Disc"
+        },
+        "Fuel": {
+          "Fuel Type": "Diesel",
+          "Fuel Tank Capacity": "45 l"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Airbag – Driver & passenger",
+          "Airbag – Side & curtain",
+          "Rollover sensor",
+          "ABS (Anti-lock braking system) with EBD",
+          "Electronic stability control (ESC)",
+          "Vehicle stability management (VSM)",
+          "Hill-start assist control (HAC)",
+          "Tyre pressure monitoring system (TPMS) highline",
+          "Tyre pressure monitoring system (TPMS) highline – Front",
+          "Disc brakes – Rear",
+          "Seat belt pretensioners - driver & passenger",
+          "3 Point seat belts (all seats)",
+          "Seatbelt reminder (all seats)",
+          "ISOFIX",
+          "Emergency Stop Signal (ESS)",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Driver power window with auto up down & safety",
+          "Immobilizer",
+          "Burglar alarm",
+          "Central locking",
+          "Central locking – Day & night mirror",
+          "Automatic headlamps",
+          "Headlamp escort function",
+          "Rear defogger with timer",
+          "Puddle lamps with welcome function",
+          "Puddle lamps with welcome function – Rear parking sensor",
+          "Puddle lamps with welcome function – Rear camera with dynamic guidelines",
+          "Driver rear view monitor (DRVM)"
+        ],
+        "Exterior": [
+          "Wheels – R16 (D=405.6 mm) diamond cut alloys",
+          "Bold skid plate (Front & rear) – Silver",
+          "Signature C-pillar garnish",
+          "Signature C-pillar garnish – Quad beam LED headlamps",
+          "Signature C-pillar garnish – LED DRLs & positioning lamps",
+          "Signature C-pillar garnish – Horizon LED positioning lamp",
+          "Lighting – LED high mounted stop lamp (HMSL)",
+          "Lighting – LED tail lamps",
+          "Lighting – Rear horizon LED lamp",
+          "Lighting – LED turn indicators",
+          "Lighting – Turn indicators on outside mirrors (ORVM)",
+          "Radiator grille – Dark chrome",
+          "Radiator grille – Body colour",
+          "Outside door handles – Dark chrome",
+          "Outside door handles – Silver",
+          "Shark fin antenna",
+          "Rear spoiler - body colour",
+          "Dual tone pack – Rear spoiler",
+          "(Painted black) – Outside door mirrors (ORVM)"
+        ],
+        "Interior": [
+          "Dual integrated displays",
+          "Interior color theme – Dual tone (Dark navy & dove grey) with terrazzo texture",
+          "Interior color theme – Dual tone leather^^ seats with VENUE branding",
+          "Seat upholstery – Steering wheel",
+          "Leather^^ pack – Premium door armrest",
+          "Leather^^ pack – Gear shift knob",
+          "Leather^^ pack – Front",
+          "Height adjustable headrest – Rear",
+          "Driver seat adjust – Electric 4-way",
+          "60:40 split rear seat",
+          "2-step rear reclining seat",
+          "Rear window sunshade",
+          "Rear window sunshade – Crashpad",
+          "Ambient lighting (Moon white) – Centre console",
+          "Rear parcel tray",
+          "D-Cut steering wheel"
+        ],
+        "Infotainment & Connectivity": [
+          "26.03 cm (10.25”) ccNC infotainment system"
+        ],
+        "Infotainment system": [
+          "Smartphone connectivity - – Wireless",
+          "Android Auto & Apple Carplay – Digital cluster with 10.66 cm color TFT display",
+          "Front & rear speakers",
+          "Front tweeters",
+          "Bluetooth connectivity",
+          "Steering wheel with audio and bluetooth controls",
+          "Voice recognition*",
+          "Hyundai Bluelink** – 26.03 cm (10.25”) ccNC Infotainment system",
+          "Controller Over-the-Air (OTA) vehicle updates"
+        ],
+        "Comfort & Convenience": [
+          "Sunroof – Smart electric",
+          "Air conditioning – Fully automatic temperature control",
+          "Front row ventilated seats",
+          "Electric parking brake with auto hold",
+          "Smartphone wireless charger*",
+          "Drive mode select (Eco, Normal, Sport)",
+          "Traction control modes (Sand, mud, snow)",
+          "Paddle shifters",
+          "Keyless entry – Electrically adjustable",
+          "Outside mirrors – Electric folding",
+          "Outside mirrors – Auto fold",
+          "Driver console armrest with storage",
+          "Rear centre armrest with cupholders",
+          "Rear AC vents",
+          "Rear AC vents – Front (x2)",
+          "USB charger (C -Type) – Rear (x2)",
+          "Front & rear power windows",
+          "Power outlet",
+          "Motor driven power steering with tilt function",
+          "Luggage lamp",
+          "Rear wiper & washer",
+          "Passenger vanity mirror",
+          "Map lamps",
+          "Glovebox cooling"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "VENUE 1.5 CRDi AT DSL HX 8 Knight",
+      "trim": "DSL HX 8 Knight",
+      "brochure_trim": "HX 8 Knight",
+      "fuel": "Diesel",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "standard": 1391500,
+        "dual_tone": 1409500
+      },
+      "engine": "U2 1.5 I CRDi Diesel",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "3 995",
+          "Overall Width (mm)": "1 800",
+          "Overall Height (mm)": "1 665^",
+          "Wheelbase (mm)": "2 520",
+          "Size": "195/65 R15 (D = 380.2 mm) Steel wheel with cover | 215/60 R16 (D = 405.6 mm) Styled Steel wheel",
+          "Front Tyres": "215/60 R16(D =405.6 mm) Diamond cut alloy wheel |215/60 R16(D =405.6 mm) Black painted alloy wheel",
+          "Spare wheel": "195 / 65 R15 (D = 380.2 mm) steel wheel"
+        },
+        "Engine": {
+          "Engine Type": "U2 1.5 l CRDi Diesel",
+          "Displacement(cm3)": "1 493",
+          "Max. Power": "85 kW (116 PS) @ 4 000 r/min",
+          "Max. Torque": "250 Nm (25.5 kgm) @ 1500-2750 r/min"
+        },
+        "Transmission": {
+          "Transmission Type": "6-Speed Manual, 6 -speed automatic"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson strut with coil spring",
+          "Suspension Rear": "Coupled torsion beam axle with coil spring"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum / Disc"
+        },
+        "Fuel": {
+          "Fuel Type": "Diesel",
+          "Fuel Tank Capacity": "45 l"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Airbag – Driver & passenger",
+          "Airbag – Side & curtain",
+          "Rollover sensor",
+          "ABS (Anti-lock braking system) with EBD",
+          "Electronic stability control (ESC)",
+          "Vehicle stability management (VSM)",
+          "Hill-start assist control (HAC)",
+          "Tyre pressure monitoring system (TPMS) highline",
+          "Tyre pressure monitoring system (TPMS) highline – Front",
+          "Disc brakes – Rear",
+          "Seat belt pretensioners - driver & passenger",
+          "3 Point seat belts (all seats)",
+          "Seatbelt reminder (all seats)",
+          "ISOFIX",
+          "Emergency Stop Signal (ESS)",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Driver power window with auto up down & safety",
+          "Immobilizer",
+          "Burglar alarm",
+          "Central locking",
+          "Central locking – Day & night mirror",
+          "Automatic headlamps",
+          "Headlamp escort function",
+          "Rear defogger with timer",
+          "Puddle lamps with welcome function",
+          "Puddle lamps with welcome function – Rear parking sensor",
+          "Puddle lamps with welcome function – Rear camera with dynamic guidelines",
+          "Driver rear view monitor (DRVM)"
+        ],
+        "Exterior": [
+          "Bold skid plate (Front & rear) – Black painted",
+          "Signature C-pillar garnish",
+          "Signature C-pillar garnish – Quad beam LED headlamps",
+          "Signature C-pillar garnish – LED DRLs & positioning lamps",
+          "Signature C-pillar garnish – Horizon LED positioning lamp",
+          "Lighting – LED high mounted stop lamp (HMSL)",
+          "Lighting – LED tail lamps",
+          "Lighting – Rear horizon LED lamp",
+          "Lighting – LED turn indicators",
+          "Lighting – Turn indicators on outside mirrors (ORVM)",
+          "Lighting – Black painted",
+          "Outside door mirrors (ORVM) – Black painted",
+          "Outside door mirrors (ORVM) – Body coloured",
+          "Roof rails – Black painted",
+          "Shark fin antenna",
+          "Exclusive Knight emblem",
+          "Red brake calipers",
+          "Rear spoiler - body colour",
+          "Dual tone pack – Rear spoiler",
+          "(Painted black) – Outside door mirrors (ORVM)"
+        ],
+        "Interior": [
+          "Dual integrated displays",
+          "Interior color theme – All Black interiors with brass coloured inserts",
+          "Seat upholstery – Steering wheel",
+          "Leather^^ pack – Premium door armrest",
+          "Leather^^ pack – Gear shift knob",
+          "Leather^^ pack – Front",
+          "Height adjustable headrest – Rear",
+          "Driver seat adjust – Electric 4-way",
+          "60:40 split rear seat",
+          "2-step rear reclining seat",
+          "Rear window sunshade",
+          "Rear window sunshade – Crashpad",
+          "Ambient lighting (Moon white) – Centre console",
+          "Rear parcel tray",
+          "D-Cut steering wheel"
+        ],
+        "Infotainment & Connectivity": [
+          "26.03 cm (10.25”) ccNC infotainment system"
+        ],
+        "Infotainment system": [
+          "Smartphone connectivity - – Wireless",
+          "Android Auto & Apple Carplay – Digital cluster with 10.66 cm color TFT display",
+          "Front & rear speakers",
+          "Front tweeters",
+          "Bluetooth connectivity",
+          "Steering wheel with audio and bluetooth controls",
+          "Voice recognition*",
+          "Hyundai Bluelink** – 26.03 cm (10.25”) ccNC Infotainment system",
+          "Controller Over-the-Air (OTA) vehicle updates"
+        ],
+        "Comfort & Convenience": [
+          "Sunroof – Smart electric",
+          "Air conditioning – Fully automatic temperature control",
+          "Front row ventilated seats",
+          "Electric parking brake with auto hold",
+          "Smartphone wireless charger*",
+          "Drive mode select (Eco, Normal, Sport)",
+          "Traction control modes (Sand, mud, snow)",
+          "Paddle shifters",
+          "Keyless entry – Electrically adjustable",
+          "Outside mirrors – Electric folding",
+          "Outside mirrors – Auto fold",
+          "Driver console armrest with storage",
+          "Rear centre armrest with cupholders",
+          "Rear AC vents",
+          "Rear AC vents – Front (x2)",
+          "USB charger (C -Type) – Rear (x2)",
+          "Front & rear power windows",
+          "Power outlet",
+          "Motor driven power steering with tilt function",
+          "Luggage lamp",
+          "Rear wiper & washer",
+          "Passenger vanity mirror",
+          "Map lamps",
+          "Glovebox cooling"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "VENUE 1.0 Turbo DCT HX10",
+      "trim": "HX10",
+      "brochure_trim": "HX 10",
+      "fuel": "Petrol",
+      "transmission": "DCT",
+      "ex_showroom_surat": {
+        "standard": 1467800,
+        "dual_tone": 1485800
+      },
+      "engine": "Kappa 1.0 I Turbo GDi Petrol",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "3 995",
+          "Overall Width (mm)": "1 800",
+          "Overall Height (mm)": "1 665^",
+          "Wheelbase (mm)": "2 520",
+          "Size": "195/65 R15 (D = 380.2 mm) Steel wheel with cover | 215/60 R16 (D = 405.6 mm) Styled Steel wheel",
+          "Front Tyres": "215/60 R16(D =405.6 mm) Diamond cut alloy wheel |215/60 R16(D =405.6 mm) Black painted alloy wheel",
+          "Spare wheel": "195 / 65 R15 (D = 380.2 mm) steel wheel"
+        },
+        "Engine": {
+          "Engine Type": "Kappa 1.0 Turbo GDi",
+          "Displacement(cm3)": "998",
+          "Max. Power": "88.3 kW (120 PS) @6 000 r/min",
+          "Max. Torque": "172 Nm (17.5 kgm) @ 1500-4000 r/min"
+        },
+        "Transmission": {
+          "Transmission Type": "6-speed manual ,7-Speed DCT"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson strut with coil spring",
+          "Suspension Rear": "Coupled torsion beam axle with coil spring"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum / Disc"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Tank Capacity": "45 l"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Airbag – Driver & passenger",
+          "Airbag – Side & curtain",
+          "Rollover sensor",
+          "ABS (Anti-lock braking system) with EBD",
+          "Electronic stability control (ESC)",
+          "Vehicle stability management (VSM)",
+          "Hill-start assist control (HAC)",
+          "Tyre pressure monitoring system (TPMS) highline",
+          "Tyre pressure monitoring system (TPMS) highline – Front",
+          "Disc brakes – Rear",
+          "Seat belt pretensioners - driver & passenger",
+          "3 Point seat belts (all seats)",
+          "Seatbelt reminder (all seats)",
+          "ISOFIX",
+          "Emergency Stop Signal (ESS)",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Driver power window with auto up down & safety",
+          "Immobilizer",
+          "Burglar alarm",
+          "Central locking",
+          "Inside rear view mirror – Electro chromic mirror (ECM) with telematics switches",
+          "Automatic headlamps",
+          "Headlamp escort function",
+          "Rear defogger with timer",
+          "Puddle lamps with welcome function",
+          "Puddle lamps with welcome function – Rear parking sensor",
+          "Puddle lamps with welcome function – Rear camera with dynamic guidelines",
+          "Parking assist – Front parking sensors",
+          "Parking assist – Side parking sensors",
+          "Driver rear view monitor (DRVM)",
+          "Driver rear view monitor (DRVM) – Forward Collision Warning (FCW)",
+          "Driver rear view monitor (DRVM) – Forward Collision-Avoidance Assist- Car (FCA-Car)",
+          "Driver rear view monitor (DRVM) – Forward Collision-Avoidance Assist- Pedestrian (FCA-Ped)",
+          "Driver rear view monitor (DRVM) – Forward Collision-Avoidance Assist- Cycle (FCA-Cyl)",
+          "Driver rear view monitor (DRVM) – Forward Collision-Avoidance Assist- Junction Turning (FCA-JT)",
+          "Driver rear view monitor (DRVM) – Forward Collision-Avoidance Assist- Direct Oncoming",
+          "Driver rear view monitor (DRVM) – Lane Keeping Assist (LKA)",
+          "Hyundai SmartSense – Lane Departure Warning (LDW)",
+          "(Advanced Driver Assist System) – Driver Attention Warning (DAW)",
+          "(Advanced Driver Assist System) – Smart Cruise Control with Stop & Go (SCC with S&G)",
+          "(Advanced Driver Assist System) – Lane Following Assist (LFA)",
+          "(Advanced Driver Assist System) – High Beam Assist (HBA)",
+          "(Advanced Driver Assist System) – Leading Vehicle Departure Alert (LVDA)",
+          "(Advanced Driver Assist System) – Parking Collision Avoidance Assist- Rear (PCA-R)",
+          "(Advanced Driver Assist System) – Surround View Monitor (SVM)",
+          "(Advanced Driver Assist System) – Blind Spot View Monitor (BVM)",
+          "Dashcam"
+        ],
+        "Exterior": [
+          "Wheels – R16 (D=405.6 mm) diamond cut alloys",
+          "Bold skid plate (Front & rear) – Silver",
+          "Signature C-pillar garnish",
+          "Signature C-pillar garnish – Quad beam LED headlamps",
+          "Signature C-pillar garnish – LED DRLs & positioning lamps",
+          "Signature C-pillar garnish – Horizon LED positioning lamp",
+          "Lighting – LED high mounted stop lamp (HMSL)",
+          "Lighting – LED tail lamps",
+          "Lighting – Rear horizon LED lamp",
+          "Lighting – LED turn indicators",
+          "Lighting – Turn indicators on outside mirrors (ORVM)",
+          "Radiator grille – Dark chrome",
+          "Radiator grille – Body colour",
+          "Outside door handles – Dark chrome",
+          "Outside door handles – Silver",
+          "Shark fin antenna",
+          "Rear spoiler - body colour",
+          "Dual tone pack – Rear spoiler",
+          "(Painted black) – Outside door mirrors (ORVM)"
+        ],
+        "Interior": [
+          "Dual curved panoramic displays",
+          "Interior color theme – Dual tone (Dark navy & dove grey) with terrazzo texture",
+          "Interior color theme – Dual tone leather^^ seats with VENUE branding",
+          "Seat upholstery – Steering wheel",
+          "Leather^^ pack – Premium door armrest",
+          "Leather^^ pack – Gear shift knob",
+          "Leather^^ pack – Front",
+          "Height adjustable headrest – Rear",
+          "Driver seat adjust – Electric 4-way",
+          "60:40 split rear seat",
+          "2-step rear reclining seat",
+          "Rear window sunshade",
+          "Rear window sunshade – Crashpad",
+          "Ambient lighting (Moon white) – Centre console",
+          "Rear parcel tray",
+          "D-Cut steering wheel"
+        ],
+        "Infotainment system": [
+          "Smartphone connectivity - – 31.24 cm (12.3”) ccNC navigation system",
+          "Smartphone connectivity - – Wireless",
+          "Digital cluster – 31.24 cm (12.3”) Full digital display cluster",
+          "Bose premium sound 8 speaker system",
+          "Front & rear speakers",
+          "Front tweeters",
+          "Bluetooth connectivity",
+          "Steering wheel with audio and bluetooth controls",
+          "Voice recognition*",
+          "(Connected car technology) – 31.24 cm (12.3”) ccNC Navigation system",
+          "Controller Over-the-Air (OTA) vehicle updates"
+        ],
+        "Comfort & Convenience": [
+          "Sunroof – Voice enabled smart electric",
+          "Air conditioning – Fully automatic temperature control",
+          "Front row ventilated seats",
+          "Electric parking brake with auto hold",
+          "Smartphone wireless charger*",
+          "Drive mode select (Eco, Normal, Sport)",
+          "Traction control modes (Sand, mud, snow)",
+          "Paddle shifters",
+          "Keyless entry – Electrically adjustable",
+          "Outside mirrors – Electric folding",
+          "Outside mirrors – Auto fold",
+          "Driver console armrest with storage",
+          "Rear centre armrest with cupholders",
+          "Rear AC vents",
+          "Rear AC vents – Front (x2)",
+          "USB charger (C -Type) – Rear (x2)",
+          "Front & rear power windows",
+          "Power outlet",
+          "Motor driven power steering with tilt function",
+          "Luggage lamp",
+          "Rear wiper & washer",
+          "Passenger vanity mirror",
+          "Map lamps",
+          "Glovebox cooling"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "VENUE 1.0 Turbo DCT HX10 Knight",
+      "trim": "HX10 Knight",
+      "brochure_trim": "HX 10 Knight",
+      "fuel": "Petrol",
+      "transmission": "DCT",
+      "ex_showroom_surat": {
+        "standard": 1481900,
+        "dual_tone": 1499900
+      },
+      "engine": "Kappa 1.0 I Turbo GDi Petrol",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "3 995",
+          "Overall Width (mm)": "1 800",
+          "Overall Height (mm)": "1 665^",
+          "Wheelbase (mm)": "2 520",
+          "Size": "195/65 R15 (D = 380.2 mm) Steel wheel with cover | 215/60 R16 (D = 405.6 mm) Styled Steel wheel",
+          "Front Tyres": "215/60 R16(D =405.6 mm) Diamond cut alloy wheel |215/60 R16(D =405.6 mm) Black painted alloy wheel",
+          "Spare wheel": "195 / 65 R15 (D = 380.2 mm) steel wheel"
+        },
+        "Engine": {
+          "Engine Type": "Kappa 1.0 Turbo GDi",
+          "Displacement(cm3)": "998",
+          "Max. Power": "88.3 kW (120 PS) @6 000 r/min",
+          "Max. Torque": "172 Nm (17.5 kgm) @ 1500-4000 r/min"
+        },
+        "Transmission": {
+          "Transmission Type": "6-speed manual ,7-Speed DCT"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson strut with coil spring",
+          "Suspension Rear": "Coupled torsion beam axle with coil spring"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum / Disc"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Tank Capacity": "45 l"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Airbag – Driver & passenger",
+          "Airbag – Side & curtain",
+          "Rollover sensor",
+          "ABS (Anti-lock braking system) with EBD",
+          "Electronic stability control (ESC)",
+          "Vehicle stability management (VSM)",
+          "Hill-start assist control (HAC)",
+          "Tyre pressure monitoring system (TPMS) highline",
+          "Tyre pressure monitoring system (TPMS) highline – Front",
+          "Disc brakes – Rear",
+          "Seat belt pretensioners - driver & passenger",
+          "3 Point seat belts (all seats)",
+          "Seatbelt reminder (all seats)",
+          "ISOFIX",
+          "Emergency Stop Signal (ESS)",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Driver power window with auto up down & safety",
+          "Immobilizer",
+          "Burglar alarm",
+          "Central locking",
+          "Inside rear view mirror – Electro chromic mirror (ECM) with telematics switches",
+          "Automatic headlamps",
+          "Headlamp escort function",
+          "Rear defogger with timer",
+          "Puddle lamps with welcome function",
+          "Puddle lamps with welcome function – Rear parking sensor",
+          "Puddle lamps with welcome function – Rear camera with dynamic guidelines",
+          "Parking assist – Front parking sensors",
+          "Parking assist – Side parking sensors",
+          "Driver rear view monitor (DRVM)",
+          "Driver rear view monitor (DRVM) – Forward Collision Warning (FCW)",
+          "Driver rear view monitor (DRVM) – Forward Collision-Avoidance Assist- Car (FCA-Car)",
+          "Driver rear view monitor (DRVM) – Forward Collision-Avoidance Assist- Pedestrian (FCA-Ped)",
+          "Driver rear view monitor (DRVM) – Forward Collision-Avoidance Assist- Cycle (FCA-Cyl)",
+          "Driver rear view monitor (DRVM) – Forward Collision-Avoidance Assist- Junction Turning (FCA-JT)",
+          "Driver rear view monitor (DRVM) – Forward Collision-Avoidance Assist- Direct Oncoming",
+          "Driver rear view monitor (DRVM) – Lane Keeping Assist (LKA)",
+          "Hyundai SmartSense – Lane Departure Warning (LDW)",
+          "(Advanced Driver Assist System) – Driver Attention Warning (DAW)",
+          "(Advanced Driver Assist System) – Smart Cruise Control with Stop & Go (SCC with S&G)",
+          "(Advanced Driver Assist System) – Lane Following Assist (LFA)",
+          "(Advanced Driver Assist System) – High Beam Assist (HBA)",
+          "(Advanced Driver Assist System) – Leading Vehicle Departure Alert (LVDA)",
+          "(Advanced Driver Assist System) – Parking Collision Avoidance Assist- Rear (PCA-R)",
+          "(Advanced Driver Assist System) – Surround View Monitor (SVM)",
+          "(Advanced Driver Assist System) – Blind Spot View Monitor (BVM)",
+          "Dashcam"
+        ],
+        "Exterior": [
+          "Bold skid plate (Front & rear) – Black painted",
+          "Signature C-pillar garnish",
+          "Signature C-pillar garnish – Quad beam LED headlamps",
+          "Signature C-pillar garnish – LED DRLs & positioning lamps",
+          "Signature C-pillar garnish – Horizon LED positioning lamp",
+          "Lighting – LED high mounted stop lamp (HMSL)",
+          "Lighting – LED tail lamps",
+          "Lighting – Rear horizon LED lamp",
+          "Lighting – LED turn indicators",
+          "Lighting – Turn indicators on outside mirrors (ORVM)",
+          "Lighting – Black painted",
+          "Outside door mirrors (ORVM) – Black painted",
+          "Outside door mirrors (ORVM) – Body coloured",
+          "Roof rails – Black painted",
+          "Shark fin antenna",
+          "Exclusive Knight emblem",
+          "Red brake calipers",
+          "Rear spoiler - body colour",
+          "Dual tone pack – Rear spoiler",
+          "(Painted black) – Outside door mirrors (ORVM)"
+        ],
+        "Interior": [
+          "Dual curved panoramic displays",
+          "Interior color theme – All Black interiors with brass coloured inserts",
+          "Seat upholstery – Steering wheel",
+          "Leather^^ pack – Premium door armrest",
+          "Leather^^ pack – Gear shift knob",
+          "Leather^^ pack – Front",
+          "Height adjustable headrest – Rear",
+          "Driver seat adjust – Electric 4-way",
+          "60:40 split rear seat",
+          "2-step rear reclining seat",
+          "Rear window sunshade",
+          "Rear window sunshade – Crashpad",
+          "Ambient lighting (Moon white) – Centre console",
+          "Rear parcel tray",
+          "D-Cut steering wheel"
+        ],
+        "Infotainment system": [
+          "Smartphone connectivity - – 31.24 cm (12.3”) ccNC navigation system",
+          "Smartphone connectivity - – Wireless",
+          "Digital cluster – 31.24 cm (12.3”) Full digital display cluster",
+          "Bose premium sound 8 speaker system",
+          "Front & rear speakers",
+          "Front tweeters",
+          "Bluetooth connectivity",
+          "Steering wheel with audio and bluetooth controls",
+          "Voice recognition*",
+          "(Connected car technology) – 31.24 cm (12.3”) ccNC Navigation system",
+          "Controller Over-the-Air (OTA) vehicle updates"
+        ],
+        "Comfort & Convenience": [
+          "Sunroof – Voice enabled smart electric",
+          "Air conditioning – Fully automatic temperature control",
+          "Front row ventilated seats",
+          "Electric parking brake with auto hold",
+          "Smartphone wireless charger*",
+          "Drive mode select (Eco, Normal, Sport)",
+          "Traction control modes (Sand, mud, snow)",
+          "Paddle shifters",
+          "Keyless entry – Electrically adjustable",
+          "Outside mirrors – Electric folding",
+          "Outside mirrors – Auto fold",
+          "Driver console armrest with storage",
+          "Rear centre armrest with cupholders",
+          "Rear AC vents",
+          "Rear AC vents – Front (x2)",
+          "USB charger (C -Type) – Rear (x2)",
+          "Front & rear power windows",
+          "Power outlet",
+          "Motor driven power steering with tilt function",
+          "Luggage lamp",
+          "Rear wiper & washer",
+          "Passenger vanity mirror",
+          "Map lamps",
+          "Glovebox cooling"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "VENUE 1.5 CRDi AT DSL HX10",
+      "trim": "DSL HX10",
+      "brochure_trim": "HX 10",
+      "fuel": "Diesel",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "standard": 1564700,
+        "dual_tone": 1582700
+      },
+      "engine": "U2 1.5 I CRDi Diesel",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "3 995",
+          "Overall Width (mm)": "1 800",
+          "Overall Height (mm)": "1 665^",
+          "Wheelbase (mm)": "2 520",
+          "Size": "195/65 R15 (D = 380.2 mm) Steel wheel with cover | 215/60 R16 (D = 405.6 mm) Styled Steel wheel",
+          "Front Tyres": "215/60 R16(D =405.6 mm) Diamond cut alloy wheel |215/60 R16(D =405.6 mm) Black painted alloy wheel",
+          "Spare wheel": "195 / 65 R15 (D = 380.2 mm) steel wheel"
+        },
+        "Engine": {
+          "Engine Type": "U2 1.5 l CRDi Diesel",
+          "Displacement(cm3)": "1 493",
+          "Max. Power": "85 kW (116 PS) @ 4 000 r/min",
+          "Max. Torque": "250 Nm (25.5 kgm) @ 1500-2750 r/min"
+        },
+        "Transmission": {
+          "Transmission Type": "6-Speed Manual, 6 -speed automatic"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson strut with coil spring",
+          "Suspension Rear": "Coupled torsion beam axle with coil spring"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum / Disc"
+        },
+        "Fuel": {
+          "Fuel Type": "Diesel",
+          "Fuel Tank Capacity": "45 l"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Airbag – Driver & passenger",
+          "Airbag – Side & curtain",
+          "Rollover sensor",
+          "ABS (Anti-lock braking system) with EBD",
+          "Electronic stability control (ESC)",
+          "Vehicle stability management (VSM)",
+          "Hill-start assist control (HAC)",
+          "Tyre pressure monitoring system (TPMS) highline",
+          "Tyre pressure monitoring system (TPMS) highline – Front",
+          "Disc brakes – Rear",
+          "Seat belt pretensioners - driver & passenger",
+          "3 Point seat belts (all seats)",
+          "Seatbelt reminder (all seats)",
+          "ISOFIX",
+          "Emergency Stop Signal (ESS)",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Driver power window with auto up down & safety",
+          "Immobilizer",
+          "Burglar alarm",
+          "Central locking",
+          "Inside rear view mirror – Electro chromic mirror (ECM) with telematics switches",
+          "Automatic headlamps",
+          "Headlamp escort function",
+          "Rear defogger with timer",
+          "Puddle lamps with welcome function",
+          "Puddle lamps with welcome function – Rear parking sensor",
+          "Puddle lamps with welcome function – Rear camera with dynamic guidelines",
+          "Parking assist – Front parking sensors",
+          "Parking assist – Side parking sensors",
+          "Driver rear view monitor (DRVM)",
+          "Driver rear view monitor (DRVM) – Forward Collision Warning (FCW)",
+          "Driver rear view monitor (DRVM) – Forward Collision-Avoidance Assist- Car (FCA-Car)",
+          "Driver rear view monitor (DRVM) – Forward Collision-Avoidance Assist- Pedestrian (FCA-Ped)",
+          "Driver rear view monitor (DRVM) – Forward Collision-Avoidance Assist- Cycle (FCA-Cyl)",
+          "Driver rear view monitor (DRVM) – Forward Collision-Avoidance Assist- Junction Turning (FCA-JT)",
+          "Driver rear view monitor (DRVM) – Forward Collision-Avoidance Assist- Direct Oncoming",
+          "Driver rear view monitor (DRVM) – Lane Keeping Assist (LKA)",
+          "Hyundai SmartSense – Lane Departure Warning (LDW)",
+          "(Advanced Driver Assist System) – Driver Attention Warning (DAW)",
+          "(Advanced Driver Assist System) – Smart Cruise Control with Stop & Go (SCC with S&G)",
+          "(Advanced Driver Assist System) – Lane Following Assist (LFA)",
+          "(Advanced Driver Assist System) – High Beam Assist (HBA)",
+          "(Advanced Driver Assist System) – Leading Vehicle Departure Alert (LVDA)",
+          "(Advanced Driver Assist System) – Parking Collision Avoidance Assist- Rear (PCA-R)",
+          "(Advanced Driver Assist System) – Surround View Monitor (SVM)",
+          "(Advanced Driver Assist System) – Blind Spot View Monitor (BVM)",
+          "Dashcam"
+        ],
+        "Exterior": [
+          "Wheels – R16 (D=405.6 mm) diamond cut alloys",
+          "Bold skid plate (Front & rear) – Silver",
+          "Signature C-pillar garnish",
+          "Signature C-pillar garnish – Quad beam LED headlamps",
+          "Signature C-pillar garnish – LED DRLs & positioning lamps",
+          "Signature C-pillar garnish – Horizon LED positioning lamp",
+          "Lighting – LED high mounted stop lamp (HMSL)",
+          "Lighting – LED tail lamps",
+          "Lighting – Rear horizon LED lamp",
+          "Lighting – LED turn indicators",
+          "Lighting – Turn indicators on outside mirrors (ORVM)",
+          "Radiator grille – Dark chrome",
+          "Radiator grille – Body colour",
+          "Outside door handles – Dark chrome",
+          "Outside door handles – Silver",
+          "Shark fin antenna",
+          "Rear spoiler - body colour",
+          "Dual tone pack – Rear spoiler",
+          "(Painted black) – Outside door mirrors (ORVM)"
+        ],
+        "Interior": [
+          "Dual curved panoramic displays",
+          "Interior color theme – Dual tone (Dark navy & dove grey) with terrazzo texture",
+          "Interior color theme – Dual tone leather^^ seats with VENUE branding",
+          "Seat upholstery – Steering wheel",
+          "Leather^^ pack – Premium door armrest",
+          "Leather^^ pack – Gear shift knob",
+          "Leather^^ pack – Front",
+          "Height adjustable headrest – Rear",
+          "Driver seat adjust – Electric 4-way",
+          "60:40 split rear seat",
+          "2-step rear reclining seat",
+          "Rear window sunshade",
+          "Rear window sunshade – Crashpad",
+          "Ambient lighting (Moon white) – Centre console",
+          "Rear parcel tray",
+          "D-Cut steering wheel"
+        ],
+        "Infotainment system": [
+          "Smartphone connectivity - – 31.24 cm (12.3”) ccNC navigation system",
+          "Smartphone connectivity - – Wireless",
+          "Digital cluster – 31.24 cm (12.3”) Full digital display cluster",
+          "Bose premium sound 8 speaker system",
+          "Front & rear speakers",
+          "Front tweeters",
+          "Bluetooth connectivity",
+          "Steering wheel with audio and bluetooth controls",
+          "Voice recognition*",
+          "(Connected car technology) – 31.24 cm (12.3”) ccNC Navigation system",
+          "Controller Over-the-Air (OTA) vehicle updates"
+        ],
+        "Comfort & Convenience": [
+          "Sunroof – Voice enabled smart electric",
+          "Air conditioning – Fully automatic temperature control",
+          "Front row ventilated seats",
+          "Electric parking brake with auto hold",
+          "Smartphone wireless charger*",
+          "Drive mode select (Eco, Normal, Sport)",
+          "Traction control modes (Sand, mud, snow)",
+          "Paddle shifters",
+          "Keyless entry – Electrically adjustable",
+          "Outside mirrors – Electric folding",
+          "Outside mirrors – Auto fold",
+          "Driver console armrest with storage",
+          "Rear centre armrest with cupholders",
+          "Rear AC vents",
+          "Rear AC vents – Front (x2)",
+          "USB charger (C -Type) – Rear (x2)",
+          "Front & rear power windows",
+          "Power outlet",
+          "Motor driven power steering with tilt function",
+          "Luggage lamp",
+          "Rear wiper & washer",
+          "Passenger vanity mirror",
+          "Map lamps",
+          "Glovebox cooling"
+        ]
+      },
+      "airbags": 6
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}

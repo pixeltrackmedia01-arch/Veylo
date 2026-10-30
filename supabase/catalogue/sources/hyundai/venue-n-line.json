@@ -1,0 +1,516 @@
+{
+  "brand": "Hyundai",
+  "model": "Venue N Line",
+  "slug": "venue-n-line",
+  "official_page": "https://www.hyundai.com/in/en/find-a-car/venue-n-line/highlights",
+  "brochure_pdf": "https://www.hyundai.com/content/dam/hyundai/in/en/data/brochure/venue-n-line.pdf",
+  "price_city": "Surat, Gujarat",
+  "ex_showroom_min": 1066100,
+  "ex_showroom_max": 1566700,
+  "fuel_types": [
+    "Petrol"
+  ],
+  "transmissions": [
+    "DCT",
+    "MT"
+  ],
+  "colours": [
+    {
+      "name": "Hazel blue"
+    },
+    {
+      "name": "Dragon red"
+    },
+    {
+      "name": "Atlas white"
+    },
+    {
+      "name": "Titan grey"
+    },
+    {
+      "name": "Titanium black"
+    },
+    {
+      "name": "Hazel blue with black roof"
+    },
+    {
+      "name": "Dragon red with black roof"
+    },
+    {
+      "name": "Atlas white with black roof"
+    }
+  ],
+  "engines": [
+    "1.0 Kappa Turbo GDi Petrol"
+  ],
+  "variants": [
+    {
+      "name": "VENUE N Line 1.0 Turbo MT N6",
+      "trim": "N6",
+      "brochure_trim": "N6",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 1066100,
+        "dual_tone": 1084100
+      },
+      "engine": "1.0 Kappa Turbo GDi Petrol",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "3 995",
+          "Overall Width (mm)": "1 800",
+          "Overall Height (mm)": "1 665^",
+          "Wheelbase (mm)": "2 520",
+          "Size": "215/55 R17 (D=436.6 mm)",
+          "Front Tyres": "Diamond cut alloy wheel",
+          "Spare wheel": "195/65 R15 (D=380.2 mm) steel wheel"
+        },
+        "Engine": {
+          "Engine Type": "Kappa 1.0 Turbo GDi",
+          "Fuel System": "Petrol",
+          "Displacement(cm3)": "998",
+          "Max. Power": "88.3 kW (120 PS) @ 6 000 r/min",
+          "Max. Torque": "172 Nm (17.5 kgm) @ 1500-4000 r/min"
+        },
+        "Transmission": {
+          "Transmission Type": "6-speed manual and 7-speed DCT"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson strut with coil spring",
+          "Suspension Rear": "Coupled torsion beam axle with coil spring"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Disc"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Tank Capacity": "45 l"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Airbag – Driver & passenger",
+          "Airbag – Side & curtain",
+          "Rollover sensor",
+          "ABS (Anti-Lock braking system) with EBD",
+          "Electronic stability control (ESC)",
+          "Vehicle stability management (VSM)",
+          "Hill-start assist control (HAC)",
+          "Tyre pressure monitoring system (TPMS) highline",
+          "Tyre pressure monitoring system (TPMS) highline – Front disc brakes with red caliper",
+          "Disc brakes – Rear disc brakes with red caliper",
+          "Seat belt pretensioners - driver & passenger",
+          "3 Point seat belts (all seats)",
+          "Seatbelt reminder (all seats)",
+          "ISOFIX",
+          "Emergency stop signal (ESS)",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Driver power window with auto up down & safety",
+          "Immobilizer",
+          "Burglar alarm",
+          "Central locking",
+          "Central locking – Day & night mirror",
+          "Headlamp escort function",
+          "Rear defogger with timer",
+          "Puddle lamps with welcome function – Rear parking sensor",
+          "Puddle lamps with welcome function – Rear camera with dynamic guidelines",
+          "Driver rear view monitor (DRVM)"
+        ],
+        "Exterior": [
+          "Wheels – R17 (D=436.6 mm) Diamond cut alloys with N emblem",
+          "Radiator grille – Dark chrome",
+          "Bold skid plate (Front & rear)",
+          "Signature C-pillar garnish",
+          "Roof rails",
+          "Roof rails – Front & rear bumper",
+          "Color highlights (Red / silver#) – Side sill garnish",
+          "Color highlights (Red / silver#) – Front radiator grille",
+          "N Line emblem – Front fendor (RH & LH)",
+          "N Line emblem – Tailgate",
+          "N Line emblem – Quad beam LED headlamps",
+          "N Line emblem – Horizon LED positioning lamp",
+          "N Line emblem – LED High Mounted Stop Lamp (HMSL)",
+          "Lighting – LED Tail lamps",
+          "Lighting – Rear horizon LED lamp",
+          "Lighting – Turn indicators on outside mirrors",
+          "Outside door mirrors (ORVM) - black painted",
+          "Outside door handles - body colour",
+          "Shark fin antenna",
+          "Rear wing type spoiler - black painted",
+          "Twin tip exhaust"
+        ],
+        "Interior": [
+          "Dual integrated displays",
+          "Sporty black interior with red highlights",
+          "Seat upholstery – Sporty black leather^^ seats with N branding",
+          "Seat upholstery – Steering wheel with N emblem",
+          "Leather^^ pack – Gear shift knob with N emblem",
+          "Leather^^ pack – Premium door armrest",
+          "Sporty metal pedals",
+          "Sporty metal pedals – Front",
+          "Height adjustable headrest – Manual height adjust",
+          "Rear parcel tray"
+        ],
+        "Infotainment & Connectivity": [
+          "26.03 cm (10.25”) ccNC infotainment system"
+        ],
+        "Infotainment system": [
+          "Smartphone connectivity - – Wireless",
+          "Android Auto & Apple Carplay – Digital cluster with 10.66 cm color TFT display",
+          "Front & rear speakers",
+          "Bluetooth connectivity",
+          "Steering wheel with audio and bluetooth controls",
+          "Voice recognition**"
+        ],
+        "Comfort & Convenience": [
+          "Sunroof – Manual",
+          "Electric parking brake with auto hold",
+          "Paddle shifters",
+          "Cruise control",
+          "Cruise control – Foldable key",
+          "Keyless entry – Electrically adjustable",
+          "Outside mirrors – Electric folding",
+          "Outside mirrors – Auto fold",
+          "Front console armrest with storage",
+          "Rear AC vents",
+          "Rear AC vents – Front (x2)",
+          "USB Charger (C -Type) – Rear (x1)",
+          "Front & rear power windows",
+          "Power outlet",
+          "Motor driven power steering with tilt function",
+          "Map lamps"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "VENUE N Line 1.0 Turbo DCT N6",
+      "trim": "N6",
+      "brochure_trim": "N6",
+      "fuel": "Petrol",
+      "transmission": "DCT",
+      "ex_showroom_surat": {
+        "standard": 1156100,
+        "dual_tone": 1174100
+      },
+      "engine": "1.0 Kappa Turbo GDi Petrol",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "3 995",
+          "Overall Width (mm)": "1 800",
+          "Overall Height (mm)": "1 665^",
+          "Wheelbase (mm)": "2 520",
+          "Size": "215/55 R17 (D=436.6 mm)",
+          "Front Tyres": "Diamond cut alloy wheel",
+          "Spare wheel": "195/65 R15 (D=380.2 mm) steel wheel"
+        },
+        "Engine": {
+          "Engine Type": "Kappa 1.0 Turbo GDi",
+          "Fuel System": "Petrol",
+          "Displacement(cm3)": "998",
+          "Max. Power": "88.3 kW (120 PS) @ 6 000 r/min",
+          "Max. Torque": "172 Nm (17.5 kgm) @ 1500-4000 r/min"
+        },
+        "Transmission": {
+          "Transmission Type": "6-speed manual and 7-speed DCT"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson strut with coil spring",
+          "Suspension Rear": "Coupled torsion beam axle with coil spring"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Disc"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Tank Capacity": "45 l"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Airbag – Driver & passenger",
+          "Airbag – Side & curtain",
+          "Rollover sensor",
+          "ABS (Anti-Lock braking system) with EBD",
+          "Electronic stability control (ESC)",
+          "Vehicle stability management (VSM)",
+          "Hill-start assist control (HAC)",
+          "Tyre pressure monitoring system (TPMS) highline",
+          "Tyre pressure monitoring system (TPMS) highline – Front disc brakes with red caliper",
+          "Disc brakes – Rear disc brakes with red caliper",
+          "Seat belt pretensioners - driver & passenger",
+          "3 Point seat belts (all seats)",
+          "Seatbelt reminder (all seats)",
+          "ISOFIX",
+          "Emergency stop signal (ESS)",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Driver power window with auto up down & safety",
+          "Immobilizer",
+          "Burglar alarm",
+          "Central locking",
+          "Central locking – Day & night mirror",
+          "Headlamp escort function",
+          "Rear defogger with timer",
+          "Puddle lamps with welcome function – Rear parking sensor",
+          "Puddle lamps with welcome function – Rear camera with dynamic guidelines",
+          "Driver rear view monitor (DRVM)"
+        ],
+        "Exterior": [
+          "Wheels – R17 (D=436.6 mm) Diamond cut alloys with N emblem",
+          "Radiator grille – Dark chrome",
+          "Bold skid plate (Front & rear)",
+          "Signature C-pillar garnish",
+          "Roof rails",
+          "Roof rails – Front & rear bumper",
+          "Color highlights (Red / silver#) – Side sill garnish",
+          "Color highlights (Red / silver#) – Front radiator grille",
+          "N Line emblem – Front fendor (RH & LH)",
+          "N Line emblem – Tailgate",
+          "N Line emblem – Quad beam LED headlamps",
+          "N Line emblem – Horizon LED positioning lamp",
+          "N Line emblem – LED High Mounted Stop Lamp (HMSL)",
+          "Lighting – LED Tail lamps",
+          "Lighting – Rear horizon LED lamp",
+          "Lighting – Turn indicators on outside mirrors",
+          "Outside door mirrors (ORVM) - black painted",
+          "Outside door handles - body colour",
+          "Shark fin antenna",
+          "Rear wing type spoiler - black painted",
+          "Twin tip exhaust"
+        ],
+        "Interior": [
+          "Dual integrated displays",
+          "Sporty black interior with red highlights",
+          "Seat upholstery – Sporty black leather^^ seats with N branding",
+          "Seat upholstery – Steering wheel with N emblem",
+          "Leather^^ pack – Gear shift knob with N emblem",
+          "Leather^^ pack – Premium door armrest",
+          "Sporty metal pedals",
+          "Sporty metal pedals – Front",
+          "Height adjustable headrest – Manual height adjust",
+          "Rear parcel tray"
+        ],
+        "Infotainment & Connectivity": [
+          "26.03 cm (10.25”) ccNC infotainment system"
+        ],
+        "Infotainment system": [
+          "Smartphone connectivity - – Wireless",
+          "Android Auto & Apple Carplay – Digital cluster with 10.66 cm color TFT display",
+          "Front & rear speakers",
+          "Bluetooth connectivity",
+          "Steering wheel with audio and bluetooth controls",
+          "Voice recognition**"
+        ],
+        "Comfort & Convenience": [
+          "Sunroof – Manual",
+          "Electric parking brake with auto hold",
+          "Paddle shifters",
+          "Cruise control",
+          "Cruise control – Foldable key",
+          "Keyless entry – Electrically adjustable",
+          "Outside mirrors – Electric folding",
+          "Outside mirrors – Auto fold",
+          "Front console armrest with storage",
+          "Rear AC vents",
+          "Rear AC vents – Front (x2)",
+          "USB Charger (C -Type) – Rear (x1)",
+          "Front & rear power windows",
+          "Power outlet",
+          "Motor driven power steering with tilt function",
+          "Map lamps"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "VENUE N Line 1.0 Turbo DCT N10",
+      "trim": "N10",
+      "brochure_trim": "N10",
+      "fuel": "Petrol",
+      "transmission": "DCT",
+      "ex_showroom_surat": {
+        "standard": 1548700,
+        "dual_tone": 1566700
+      },
+      "engine": "1.0 Kappa Turbo GDi Petrol",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "3 995",
+          "Overall Width (mm)": "1 800",
+          "Overall Height (mm)": "1 665^",
+          "Wheelbase (mm)": "2 520",
+          "Size": "215/55 R17 (D=436.6 mm)",
+          "Front Tyres": "Diamond cut alloy wheel",
+          "Spare wheel": "195/65 R15 (D=380.2 mm) steel wheel"
+        },
+        "Engine": {
+          "Engine Type": "Kappa 1.0 Turbo GDi",
+          "Fuel System": "Petrol",
+          "Displacement(cm3)": "998",
+          "Max. Power": "88.3 kW (120 PS) @ 6 000 r/min",
+          "Max. Torque": "172 Nm (17.5 kgm) @ 1500-4000 r/min"
+        },
+        "Transmission": {
+          "Transmission Type": "6-speed manual and 7-speed DCT"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson strut with coil spring",
+          "Suspension Rear": "Coupled torsion beam axle with coil spring"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Disc"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Tank Capacity": "45 l"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Airbag – Driver & passenger",
+          "Airbag – Side & curtain",
+          "Rollover sensor",
+          "ABS (Anti-Lock braking system) with EBD",
+          "Electronic stability control (ESC)",
+          "Vehicle stability management (VSM)",
+          "Hill-start assist control (HAC)",
+          "Tyre pressure monitoring system (TPMS) highline",
+          "Tyre pressure monitoring system (TPMS) highline – Front disc brakes with red caliper",
+          "Disc brakes – Rear disc brakes with red caliper",
+          "Seat belt pretensioners - driver & passenger",
+          "3 Point seat belts (all seats)",
+          "Seatbelt reminder (all seats)",
+          "ISOFIX",
+          "Emergency stop signal (ESS)",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Driver power window with auto up down & safety",
+          "Immobilizer",
+          "Burglar alarm",
+          "Central locking",
+          "Automatic headlamps",
+          "Headlamp escort function",
+          "Rear defogger with timer",
+          "Puddle lamps with welcome function",
+          "Puddle lamps with welcome function – Rear parking sensor",
+          "Puddle lamps with welcome function – Rear camera with dynamic guidelines",
+          "Parking assist – Front parking sensors",
+          "Parking assist – Side parking sensors",
+          "Driver rear view monitor (DRVM)",
+          "Driver rear view monitor (DRVM) – Forward Collision Warning (FCW)",
+          "Driver rear view monitor (DRVM) – Forward Collision-Avoidance Assist- Car (FCA-Car)",
+          "Driver rear view monitor (DRVM) – Blind-Spot Collision Warning (BCW)",
+          "Hyundai SmartSense – Blind-Spot Collision - Avoidance Assist (BCA)",
+          "(Advanced Driver Assist System) – Lane Keeping Assist (LKA)",
+          "(Advanced Driver Assist System) – Lane Departure Warning (LDW)",
+          "(Advanced Driver Assist System) – Driver Attention Warning (DAW)",
+          "(Advanced Driver Assist System) – Smart Cruise Control with Stop & Go (SCC with S&G)",
+          "(Advanced Driver Assist System) – Lane Following Assist (LFA)",
+          "(Advanced Driver Assist System) – High Beam Assist (HBA)",
+          "(Advanced Driver Assist System) – Leading Vehicle Departure Alert (LVDA)",
+          "(Advanced Driver Assist System) – Safe Exit Warning (SEW)",
+          "(Advanced Driver Assist System) – Rear Cross-Traffic Collision - Warning (RCCW)",
+          "(Advanced Driver Assist System) – Rear Cross-Traffic Collision - Avoidance Assist (RCCA)",
+          "(Advanced Driver Assist System) – Parking Collision Avoidance Assist- Rear (PCA-R)",
+          "(Advanced Driver Assist System) – Surround View Monitor (SVM)",
+          "(Advanced Driver Assist System) – Blind Spot View Monitor (BVM)",
+          "(Advanced Driver Assist System) – Dashcam"
+        ],
+        "Exterior": [
+          "Wheels – R17 (D=436.6 mm) Diamond cut alloys with N emblem",
+          "Radiator grille – Dark chrome",
+          "Bold skid plate (Front & rear)",
+          "Signature C-pillar garnish",
+          "Roof rails",
+          "Roof rails – Front & rear bumper",
+          "Color highlights (Red / silver#) – Side sill garnish",
+          "Color highlights (Red / silver#) – Front radiator grille",
+          "N Line emblem – Front fendor (RH & LH)",
+          "N Line emblem – Tailgate",
+          "N Line emblem – Quad beam LED headlamps",
+          "N Line emblem – Horizon LED positioning lamp",
+          "N Line emblem – LED High Mounted Stop Lamp (HMSL)",
+          "Lighting – LED Tail lamps",
+          "Lighting – Rear horizon LED lamp",
+          "Lighting – LED Sequential turn indicators",
+          "Lighting – Turn indicators on outside mirrors",
+          "Outside door mirrors (ORVM) - black painted",
+          "Outside door handles - body colour",
+          "Shark fin antenna",
+          "Rear wing type spoiler - black painted",
+          "Twin tip exhaust"
+        ],
+        "Interior": [
+          "Dual curved panoramic displays",
+          "Sporty black interior with red highlights",
+          "Seat upholstery – Sporty black leather^^ seats with N branding",
+          "Seat upholstery – Steering wheel with N emblem",
+          "Leather^^ pack – Gear shift knob with N emblem",
+          "Leather^^ pack – Premium door armrest",
+          "Leather^^ pack – Crashpad",
+          "Ambient lighting (Sunrise red) – Centre console",
+          "Sporty metal pedals",
+          "Sporty metal pedals – Front",
+          "Height adjustable headrest – Rear",
+          "Driver seat adjust – Electric 4-way",
+          "60:40 split rear seat",
+          "2-step rear reclining seat",
+          "Rear window sunshade",
+          "Rear parcel tray"
+        ],
+        "Infotainment system": [
+          "Smartphone connectivity - – 31.24 cm (12.3”) ccNC navigation system",
+          "Smartphone connectivity - – Wireless",
+          "Digital cluster – 31.24 cm (12.3”) Full digital display cluster",
+          "Bose premium sound 8 speaker system",
+          "Front & rear speakers",
+          "Front tweeters",
+          "Hyundai Bluelink (Connected car technology)",
+          "Bluetooth connectivity",
+          "Steering wheel with audio and bluetooth controls",
+          "Voice recognition**",
+          "Controller Over-the-Air (OTA) vehicle updates"
+        ],
+        "Comfort & Convenience": [
+          "Sunroof – Voice enabled smart electric",
+          "Air conditioning – Fully automatic temperature control",
+          "Smart aroma diffuser",
+          "Front row ventilated seats",
+          "Electric parking brake with auto hold",
+          "Smartphone wireless charger**",
+          "Drive mode select (Eco, Normal, Sport)",
+          "Traction control modes (Sand, Mud, Snow)",
+          "Paddle shifters",
+          "Cruise control",
+          "Keyless entry – Smart key with push button start",
+          "Keyless entry – Electrically adjustable",
+          "Outside mirrors – Electric folding",
+          "Outside mirrors – Auto fold",
+          "Remote engine start with smart key",
+          "Front console armrest with storage",
+          "Rear centre armrest with cupholders",
+          "Rear AC vents",
+          "Rear AC vents – Front (x2)",
+          "USB Charger (C -Type) – Rear (x2)",
+          "Front & rear power windows",
+          "Power outlet",
+          "Motor driven power steering with tilt function",
+          "Luggage lamp",
+          "Rear wiper & washer",
+          "Idle stop & go (ISG)",
+          "Passenger vanity mirror",
+          "Map lamps",
+          "Glovebox cooling"
+        ]
+      },
+      "airbags": 6
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}

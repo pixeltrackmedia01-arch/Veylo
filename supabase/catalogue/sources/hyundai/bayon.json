@@ -1,0 +1,1588 @@
+{
+  "brand": "Hyundai",
+  "model": "Bayon",
+  "slug": "bayon",
+  "official_page": "https://www.hyundai.com/in/en/find-a-car/bayon/highlights",
+  "brochure_pdf": "https://www.hyundai.com/content/dam/hyundai/in/en/data/brochure/bayon.pdf",
+  "price_city": "Surat, Gujarat",
+  "ex_showroom_min": 999900,
+  "ex_showroom_max": 1814900,
+  "fuel_types": [
+    "Petrol"
+  ],
+  "transmissions": [
+    "IVT",
+    "MT"
+  ],
+  "colours": [
+    {
+      "name": "Fiery red"
+    },
+    {
+      "name": "Atlas white"
+    },
+    {
+      "name": "Ecotronic grey"
+    },
+    {
+      "name": "Golden bronze"
+    },
+    {
+      "name": "Titanium black"
+    },
+    {
+      "name": "Classy blue"
+    },
+    {
+      "name": "Titanium black matte"
+    },
+    {
+      "name": "Classy blue matte"
+    },
+    {
+      "name": "Fiery red with black roof"
+    },
+    {
+      "name": "Atlas white with black roof"
+    }
+  ],
+  "engines": [
+    "1.5 | Mpi Petrol"
+  ],
+  "variants": [
+    {
+      "name": "Bayon 1.5 MT HX2",
+      "trim": "HX2",
+      "brochure_trim": "HX 2",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 999900
+      },
+      "engine": "1.5 | Mpi Petrol",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "4 245",
+          "Overall Width (mm)": "1 810",
+          "Overall Height (mm)": "1 605^",
+          "Wheelbase (mm)": "2 600",
+          "Size": "205/65 R16 (D=405.6mm) Steel wheel with wheel cover",
+          "Front Tyres": "215/55 R17(D=436.6mm)Styled steel wheel & Diamond cut alloy wheel",
+          "Spare wheel": "195/65 R15(D=380.2mm)steel wheel"
+        },
+        "Engine": {
+          "Engine Type": "1.5 | Mpi Petrol",
+          "Fuel System": "Petrol",
+          "Displacement(cm3)": "1 497",
+          "Max. Power": "84.4 kW (115 PS) @ 6 300 r/min",
+          "Max. Torque": "143.8 Nm (14.7 kgm) @ 4 500 r/min",
+          "Configuration": "4 Cylinders"
+        },
+        "Transmission": {
+          "Transmission Type": "6-speed manual , IVT"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson strut",
+          "Suspension Rear": "Coupled torsion beam axle"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum/Disc*"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Tank Capacity": "43"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Airbag – Driver & passenger",
+          "Airbag – Side & curtain",
+          "Hill-start assist control (HAC)",
+          "Electronic stability control (ESC)",
+          "Vehicle stability management (VSM)",
+          "ABS (Anti-lock braking system) with EBD",
+          "Emergency stop signal (ESS)",
+          "Emergency stop signal (ESS) – Rear parking sensors",
+          "Tyre pressure monitoring system (TPMS) highline",
+          "Tyre pressure monitoring system (TPMS) highline – Day and night mirror",
+          "Headlamp escort function",
+          "Central locking",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Speed sensing auto door lock – Foldable key",
+          "Tailgate emergency lamp",
+          "Seat belt pretensioners - driver & passenger",
+          "Seatbelt reminder (all seats)",
+          "Immobilizer",
+          "Dual horn",
+          "ISOFIX",
+          "ISOFIX – Front",
+          "Burglar alarm"
+        ],
+        "Exterior": [
+          "LED projector headlamps",
+          "LED DRLs & positioning lamp",
+          "Lighting – LED tail lamps",
+          "Lighting – LED High Mount Stop Lamp (HMSL)",
+          "Rear spoiler",
+          "Shark fin antenna",
+          "Roof rails – R16 (D = 405.6 mm) Steel wheels with wheel cover"
+        ],
+        "Interior": [
+          "Dual tone (Black and olive grey)#"
+        ],
+        "Interior color theme": [
+          "Dual curved panoramic displays – Fabric",
+          "D-Cut steering wheel",
+          "D-Cut steering wheel – Manual height adjust",
+          "Leather^^ pack – Fixed",
+          "Height adjustable – Front"
+        ],
+        "Infotainment system": [
+          "Digital cluster – Digital cluster with 10.66 cm color TFT display"
+        ],
+        "Comfort & convenience": [
+          "Power window (Front & Rear)",
+          "Driver power window with auto up down and safety – Manual",
+          "Rear AC vent",
+          "Tilt & Telescopic steering function",
+          "USB charger front & rear (C-Type)",
+          "Power outlet",
+          "Luggage lamp – Electrically adjustable"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "Bayon 1.5 MT HX3",
+      "trim": "HX3",
+      "brochure_trim": "HX 3",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 1089900
+      },
+      "engine": "1.5 | Mpi Petrol",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "4 245",
+          "Overall Width (mm)": "1 810",
+          "Overall Height (mm)": "1 605^",
+          "Wheelbase (mm)": "2 600",
+          "Size": "205/65 R16 (D=405.6mm) Steel wheel with wheel cover",
+          "Front Tyres": "215/55 R17(D=436.6mm)Styled steel wheel & Diamond cut alloy wheel",
+          "Spare wheel": "195/65 R15(D=380.2mm)steel wheel"
+        },
+        "Engine": {
+          "Engine Type": "1.5 | Mpi Petrol",
+          "Fuel System": "Petrol",
+          "Displacement(cm3)": "1 497",
+          "Max. Power": "84.4 kW (115 PS) @ 6 300 r/min",
+          "Max. Torque": "143.8 Nm (14.7 kgm) @ 4 500 r/min",
+          "Configuration": "4 Cylinders"
+        },
+        "Transmission": {
+          "Transmission Type": "6-speed manual , IVT"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson strut",
+          "Suspension Rear": "Coupled torsion beam axle"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum/Disc*"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Tank Capacity": "43"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Airbag – Driver & passenger",
+          "Airbag – Side & curtain",
+          "Hill-start assist control (HAC)",
+          "Electronic stability control (ESC)",
+          "Vehicle stability management (VSM)",
+          "ABS (Anti-lock braking system) with EBD",
+          "Emergency stop signal (ESS)",
+          "Emergency stop signal (ESS) – Rear parking sensors",
+          "Parking assist – Rear view camera",
+          "Driver rear view monitor (DRVM)",
+          "Tyre pressure monitoring system (TPMS) highline",
+          "Tyre pressure monitoring system (TPMS) highline – Day and night mirror",
+          "Headlamp escort function",
+          "Central locking",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Keyless entry – Smart key with push button start",
+          "Tailgate emergency lamp",
+          "Seat belt pretensioners - driver & passenger",
+          "Seatbelt reminder (all seats)",
+          "Immobilizer",
+          "Dual horn",
+          "ISOFIX",
+          "ISOFIX – Front",
+          "Burglar alarm"
+        ],
+        "Exterior": [
+          "LED projector headlamps",
+          "LED DRLs & positioning lamp",
+          "Lighting – LED tail lamps",
+          "Lighting – LED High Mount Stop Lamp (HMSL)",
+          "Rear spoiler",
+          "Shark fin antenna",
+          "Roof rails – R16 (D = 405.6 mm) Steel wheels with wheel cover"
+        ],
+        "Interior": [
+          "Dual tone (Black and olive grey)#"
+        ],
+        "Interior color theme": [
+          "Dual integrated displays",
+          "Dual curved panoramic displays – Fabric",
+          "D-Cut steering wheel",
+          "D-Cut steering wheel – Manual height adjust",
+          "Leather^^ pack – Fixed",
+          "Height adjustable – Front"
+        ],
+        "Infotainment & connectivity": [
+          "26.03 cm (10.25\") ccNC infotainment system"
+        ],
+        "Infotainment system": [
+          "Digital cluster – Digital cluster with 10.66 cm color TFT display",
+          "Wireless Apple CarPlay & Android Auto**",
+          "Voice recognition**",
+          "Front & rear speakers",
+          "Front tweeters",
+          "Bluetooth connectivity",
+          "Steering wheel with audio & bluetooth controls"
+        ],
+        "Comfort & convenience": [
+          "Power window (Front & Rear)",
+          "Driver power window with auto up down and safety – Manual",
+          "Rear AC vent",
+          "Tilt & Telescopic steering function",
+          "USB charger front & rear (C-Type)",
+          "Power outlet",
+          "Luggage lamp – Electrically adjustable"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "Bayon 1.5 MT HX3+",
+      "trim": "HX3+",
+      "brochure_trim": "HX 3+",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 1179900
+      },
+      "engine": "1.5 | Mpi Petrol",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "4 245",
+          "Overall Width (mm)": "1 810",
+          "Overall Height (mm)": "1 605^",
+          "Wheelbase (mm)": "2 600",
+          "Size": "205/65 R16 (D=405.6mm) Steel wheel with wheel cover",
+          "Front Tyres": "215/55 R17(D=436.6mm)Styled steel wheel & Diamond cut alloy wheel",
+          "Spare wheel": "195/65 R15(D=380.2mm)steel wheel"
+        },
+        "Engine": {
+          "Engine Type": "1.5 | Mpi Petrol",
+          "Fuel System": "Petrol",
+          "Displacement(cm3)": "1 497",
+          "Max. Power": "84.4 kW (115 PS) @ 6 300 r/min",
+          "Max. Torque": "143.8 Nm (14.7 kgm) @ 4 500 r/min",
+          "Configuration": "4 Cylinders"
+        },
+        "Transmission": {
+          "Transmission Type": "6-speed manual , IVT"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson strut",
+          "Suspension Rear": "Coupled torsion beam axle"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum/Disc*"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Tank Capacity": "43"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Airbag – Driver & passenger",
+          "Airbag – Side & curtain",
+          "Hill-start assist control (HAC)",
+          "Electronic stability control (ESC)",
+          "Vehicle stability management (VSM)",
+          "ABS (Anti-lock braking system) with EBD",
+          "Emergency stop signal (ESS)",
+          "Emergency stop signal (ESS) – Rear parking sensors",
+          "Parking assist – Rear view camera",
+          "Driver rear view monitor (DRVM)",
+          "Tyre pressure monitoring system (TPMS) highline",
+          "Tyre pressure monitoring system (TPMS) highline – Day and night mirror",
+          "Headlamp escort function",
+          "Central locking",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Keyless entry – Smart key with push button start",
+          "Tailgate emergency lamp",
+          "Seat belt pretensioners - driver & passenger",
+          "Seatbelt reminder (all seats)",
+          "Immobilizer",
+          "Dual horn",
+          "ISOFIX",
+          "ISOFIX – Front",
+          "Burglar alarm"
+        ],
+        "Exterior": [
+          "LED projector headlamps",
+          "LED DRLs & positioning lamp",
+          "Lighting – LED tail lamps",
+          "Lighting – LED High Mount Stop Lamp (HMSL)",
+          "Rear spoiler",
+          "Shark fin antenna",
+          "Roof rails",
+          "Wheels – R17 (D = 436.6 mm) Styled steel wheels"
+        ],
+        "Interior": [
+          "Dual tone (Black and olive grey)#"
+        ],
+        "Interior color theme": [
+          "Dual integrated displays",
+          "Dual curved panoramic displays – Fabric",
+          "D-Cut steering wheel",
+          "D-Cut steering wheel – Manual height adjust",
+          "Leather^^ pack – Fixed",
+          "Height adjustable – Front"
+        ],
+        "Infotainment & connectivity": [
+          "26.03 cm (10.25\") ccNC infotainment system"
+        ],
+        "Infotainment system": [
+          "Digital cluster – Digital cluster with 10.66 cm color TFT display",
+          "Wireless Apple CarPlay & Android Auto**",
+          "Voice recognition**",
+          "Front & rear speakers",
+          "Front tweeters",
+          "Bluetooth connectivity",
+          "Steering wheel with audio & bluetooth controls"
+        ],
+        "Comfort & convenience": [
+          "Sunroof – Electric sunroof",
+          "Power window (Front & Rear)",
+          "Driver power window with auto up down and safety – Manual",
+          "Rear AC vent",
+          "Tilt & Telescopic steering function",
+          "USB charger front & rear (C-Type)",
+          "Power outlet",
+          "Luggage lamp – Electrically adjustable"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "Bayon 1.5 MT HX5",
+      "trim": "HX5",
+      "brochure_trim": "HX 5",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 1244900,
+        "dual_tone": 1259900
+      },
+      "engine": "1.5 | Mpi Petrol",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "4 245",
+          "Overall Width (mm)": "1 810",
+          "Overall Height (mm)": "1 605^",
+          "Wheelbase (mm)": "2 600",
+          "Size": "205/65 R16 (D=405.6mm) Steel wheel with wheel cover",
+          "Front Tyres": "215/55 R17(D=436.6mm)Styled steel wheel & Diamond cut alloy wheel",
+          "Spare wheel": "195/65 R15(D=380.2mm)steel wheel"
+        },
+        "Engine": {
+          "Engine Type": "1.5 | Mpi Petrol",
+          "Fuel System": "Petrol",
+          "Displacement(cm3)": "1 497",
+          "Max. Power": "84.4 kW (115 PS) @ 6 300 r/min",
+          "Max. Torque": "143.8 Nm (14.7 kgm) @ 4 500 r/min",
+          "Configuration": "4 Cylinders"
+        },
+        "Transmission": {
+          "Transmission Type": "6-speed manual , IVT"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson strut",
+          "Suspension Rear": "Coupled torsion beam axle"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum/Disc*"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Tank Capacity": "43"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Airbag – Driver & passenger",
+          "Airbag – Side & curtain",
+          "Hill-start assist control (HAC)",
+          "Electronic stability control (ESC)",
+          "Vehicle stability management (VSM)",
+          "ABS (Anti-lock braking system) with EBD",
+          "Emergency stop signal (ESS)",
+          "Emergency stop signal (ESS) – Rear parking sensors",
+          "Parking assist – Rear view camera",
+          "Driver rear view monitor (DRVM)",
+          "Tyre pressure monitoring system (TPMS) highline",
+          "Tyre pressure monitoring system (TPMS) highline – Day and night mirror",
+          "Automatic headlamps",
+          "Headlamp escort function",
+          "Central locking",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Keyless entry – Smart key with push button start",
+          "Tailgate emergency lamp",
+          "Rear defogger with timer",
+          "Seat belt pretensioners - driver & passenger",
+          "Seatbelt reminder (all seats)",
+          "Immobilizer",
+          "Dual horn",
+          "ISOFIX",
+          "ISOFIX – Front",
+          "Burglar alarm"
+        ],
+        "Exterior": [
+          "LED projector headlamps",
+          "LED DRLs & positioning lamp",
+          "Lighting – LED tail lamps",
+          "Lighting – LED turn indicators (Rear)",
+          "Lighting – LED High Mount Stop Lamp (HMSL)",
+          "Rear spoiler",
+          "Shark fin antenna",
+          "Shark fin antenna – Rear spoiler (optional)",
+          "Dual tone pack## – Black painted roof (optional)",
+          "(Black painted) – Outside Rear View Mirror (ORVM) (optional)",
+          "Roof rails",
+          "Wheels – R17 (D = 436.6 mm) Styled steel wheels"
+        ],
+        "Interior": [
+          "Dual tone (Black and olive grey)#"
+        ],
+        "Interior color theme": [
+          "Black with red accents## (optional)",
+          "Dual integrated displays",
+          "Dual curved panoramic displays – Fabric",
+          "D-Cut steering wheel",
+          "D-Cut steering wheel – Manual height adjust",
+          "Leather^^ pack – Fixed",
+          "Rear parcel tray",
+          "Height adjustable – Front"
+        ],
+        "Infotainment & connectivity": [
+          "26.03 cm (10.25\") ccNC infotainment system"
+        ],
+        "Infotainment system": [
+          "Digital cluster – Digital cluster with 10.66 cm color TFT display",
+          "Hyundai Bluelink – 26.03 cm (10.25\") ccNC infotainment system",
+          "Controller Over-the-Air (OTA) vehicle updates",
+          "Wireless Apple CarPlay & Android Auto**",
+          "Voice recognition**",
+          "Front & rear speakers",
+          "Front tweeters",
+          "Bluetooth connectivity",
+          "Steering wheel with audio & bluetooth controls"
+        ],
+        "Comfort & convenience": [
+          "Sunroof – Electric sunroof",
+          "Power window (Front & Rear)",
+          "Driver power window with auto up down and safety",
+          "Air conditioning – Fully automatic temperature control",
+          "Rear AC vent",
+          "Tilt & Telescopic steering function",
+          "Smartphone wireless charger***",
+          "Cruise control",
+          "USB charger front & rear (C-Type)",
+          "Power outlet",
+          "Luggage lamp – Electrically adjustable",
+          "Outside mirrors – Electric folding"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "Bayon 1.5 MT HX6",
+      "trim": "HX6",
+      "brochure_trim": "HX 6",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 1356900,
+        "dual_tone": 1371900
+      },
+      "engine": "1.5 | Mpi Petrol",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "4 245",
+          "Overall Width (mm)": "1 810",
+          "Overall Height (mm)": "1 605^",
+          "Wheelbase (mm)": "2 600",
+          "Size": "205/65 R16 (D=405.6mm) Steel wheel with wheel cover",
+          "Front Tyres": "215/55 R17(D=436.6mm)Styled steel wheel & Diamond cut alloy wheel",
+          "Spare wheel": "195/65 R15(D=380.2mm)steel wheel"
+        },
+        "Engine": {
+          "Engine Type": "1.5 | Mpi Petrol",
+          "Fuel System": "Petrol",
+          "Displacement(cm3)": "1 497",
+          "Max. Power": "84.4 kW (115 PS) @ 6 300 r/min",
+          "Max. Torque": "143.8 Nm (14.7 kgm) @ 4 500 r/min",
+          "Configuration": "4 Cylinders"
+        },
+        "Transmission": {
+          "Transmission Type": "6-speed manual , IVT"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson strut",
+          "Suspension Rear": "Coupled torsion beam axle"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum/Disc*"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Tank Capacity": "43"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Airbag – Driver & passenger",
+          "Airbag – Side & curtain",
+          "Hill-start assist control (HAC)",
+          "Electronic stability control (ESC)",
+          "Vehicle stability management (VSM)",
+          "ABS (Anti-lock braking system) with EBD",
+          "Emergency stop signal (ESS)",
+          "Emergency stop signal (ESS) – Rear parking sensors",
+          "Parking assist – Rear view camera",
+          "Driver rear view monitor (DRVM)",
+          "Tyre pressure monitoring system (TPMS) highline",
+          "Tyre pressure monitoring system (TPMS) highline – Day and night mirror",
+          "Automatic headlamps",
+          "Headlamp escort function",
+          "Central locking",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Keyless entry – Smart key with push button start",
+          "Tailgate emergency lamp",
+          "Rear defogger with timer",
+          "Seat belt pretensioners - driver & passenger",
+          "Seatbelt reminder (all seats)",
+          "Immobilizer",
+          "Dual horn",
+          "ISOFIX",
+          "ISOFIX – Front",
+          "Burglar alarm"
+        ],
+        "Exterior": [
+          "Dual LED projector headlamps",
+          "LED DRLs & positioning lamp",
+          "Lighting – LED turn indicators (Front)",
+          "Lighting – LED tail lamps",
+          "Lighting – LED turn indicators (Rear)",
+          "Lighting – LED High Mount Stop Lamp (HMSL)",
+          "Lighting – Puddle lamps",
+          "Rear spoiler",
+          "Shark fin antenna",
+          "Shark fin antenna – Rear spoiler (optional)",
+          "Dual tone pack## – Black painted roof (optional)",
+          "(Black painted) – Outside Rear View Mirror (ORVM) (optional)",
+          "Roof rails",
+          "Wheels – R17 (D = 436.6 mm) Diamond cut alloys"
+        ],
+        "Interior": [
+          "Dual tone (Black and olive grey)#"
+        ],
+        "Interior color theme": [
+          "Black with red accents## (optional)",
+          "Dual integrated displays",
+          "Dual curved panoramic displays – Fabric",
+          "Fabric touch insert on crashpad",
+          "D-Cut steering wheel",
+          "D-Cut steering wheel – Manual height adjust",
+          "Driver seat adjust – Steering wheel",
+          "Leather^^ pack – Gear shift knob",
+          "Front console armrest – Sliding",
+          "Rear parcel tray",
+          "Height adjustable – Front"
+        ],
+        "Infotainment & connectivity": [
+          "26.03 cm (10.25\") ccNC infotainment system"
+        ],
+        "Infotainment system": [
+          "Digital cluster – Digital cluster with 10.66 cm color TFT display",
+          "Hyundai Bluelink – 26.03 cm (10.25\") ccNC infotainment system",
+          "Controller Over-the-Air (OTA) vehicle updates",
+          "Wireless Apple CarPlay & Android Auto**",
+          "Voice recognition**",
+          "Front & rear speakers",
+          "Front tweeters",
+          "Bluetooth connectivity",
+          "Steering wheel with audio & bluetooth controls"
+        ],
+        "Comfort & convenience": [
+          "Sunroof – Panoramic sunroof",
+          "Power window (Front & Rear)",
+          "Driver power window with auto up down and safety",
+          "Air conditioning – Fully automatic temperature control",
+          "Rear AC vent",
+          "Tilt & Telescopic steering function",
+          "Smartphone wireless charger***",
+          "Ambient lighting",
+          "Cruise control",
+          "Rear wiper & washer",
+          "USB charger front & rear (C-Type)",
+          "Power outlet",
+          "Luggage lamp",
+          "Luggage lamp – Electrically adjustable",
+          "Outside mirrors – Electric folding"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "Bayon 1.5 IVT HX5",
+      "trim": "HX5",
+      "brochure_trim": "HX 5",
+      "fuel": "Petrol",
+      "transmission": "IVT",
+      "ex_showroom_surat": {
+        "standard": 1384800,
+        "dual_tone": 1399800
+      },
+      "engine": "1.5 | Mpi Petrol",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "4 245",
+          "Overall Width (mm)": "1 810",
+          "Overall Height (mm)": "1 605^",
+          "Wheelbase (mm)": "2 600",
+          "Size": "205/65 R16 (D=405.6mm) Steel wheel with wheel cover",
+          "Front Tyres": "215/55 R17(D=436.6mm)Styled steel wheel & Diamond cut alloy wheel",
+          "Spare wheel": "195/65 R15(D=380.2mm)steel wheel"
+        },
+        "Engine": {
+          "Engine Type": "1.5 | Mpi Petrol",
+          "Fuel System": "Petrol",
+          "Displacement(cm3)": "1 497",
+          "Max. Power": "84.4 kW (115 PS) @ 6 300 r/min",
+          "Max. Torque": "143.8 Nm (14.7 kgm) @ 4 500 r/min",
+          "Configuration": "4 Cylinders"
+        },
+        "Transmission": {
+          "Transmission Type": "6-speed manual , IVT"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson strut",
+          "Suspension Rear": "Coupled torsion beam axle"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum/Disc*"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Tank Capacity": "43"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Airbag – Driver & passenger",
+          "Airbag – Side & curtain",
+          "Hill-start assist control (HAC)",
+          "Electronic stability control (ESC)",
+          "Vehicle stability management (VSM)",
+          "ABS (Anti-lock braking system) with EBD",
+          "Emergency stop signal (ESS)",
+          "Emergency stop signal (ESS) – Rear parking sensors",
+          "Parking assist – Rear view camera",
+          "Driver rear view monitor (DRVM)",
+          "Tyre pressure monitoring system (TPMS) highline",
+          "Tyre pressure monitoring system (TPMS) highline – Day and night mirror",
+          "Automatic headlamps",
+          "Headlamp escort function",
+          "Central locking",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Keyless entry – Smart key with push button start",
+          "Tailgate emergency lamp",
+          "Rear defogger with timer",
+          "Seat belt pretensioners - driver & passenger",
+          "Seatbelt reminder (all seats)",
+          "Immobilizer",
+          "Dual horn",
+          "ISOFIX",
+          "ISOFIX – Front",
+          "Burglar alarm"
+        ],
+        "Exterior": [
+          "LED projector headlamps",
+          "LED DRLs & positioning lamp",
+          "Lighting – LED tail lamps",
+          "Lighting – LED turn indicators (Rear)",
+          "Lighting – LED High Mount Stop Lamp (HMSL)",
+          "Rear spoiler",
+          "Shark fin antenna",
+          "Shark fin antenna – Rear spoiler (optional)",
+          "Dual tone pack## – Black painted roof (optional)",
+          "(Black painted) – Outside Rear View Mirror (ORVM) (optional)",
+          "Roof rails",
+          "Wheels – R17 (D = 436.6 mm) Styled steel wheels"
+        ],
+        "Interior": [
+          "Dual tone (Black and olive grey)#"
+        ],
+        "Interior color theme": [
+          "Black with red accents## (optional)",
+          "Dual integrated displays",
+          "Dual curved panoramic displays – Fabric",
+          "D-Cut steering wheel",
+          "D-Cut steering wheel – Manual height adjust",
+          "Leather^^ pack – Fixed",
+          "Rear parcel tray",
+          "Height adjustable – Front"
+        ],
+        "Infotainment & connectivity": [
+          "26.03 cm (10.25\") ccNC infotainment system"
+        ],
+        "Infotainment system": [
+          "Digital cluster – Digital cluster with 10.66 cm color TFT display",
+          "Hyundai Bluelink – 26.03 cm (10.25\") ccNC infotainment system",
+          "Controller Over-the-Air (OTA) vehicle updates",
+          "Wireless Apple CarPlay & Android Auto**",
+          "Voice recognition**",
+          "Front & rear speakers",
+          "Front tweeters",
+          "Bluetooth connectivity",
+          "Steering wheel with audio & bluetooth controls"
+        ],
+        "Comfort & convenience": [
+          "Sunroof – Electric sunroof",
+          "Power window (Front & Rear)",
+          "Driver power window with auto up down and safety",
+          "Air conditioning – Fully automatic temperature control",
+          "Rear AC vent",
+          "Tilt & Telescopic steering function",
+          "Smartphone wireless charger***",
+          "Cruise control",
+          "USB charger front & rear (C-Type)",
+          "Power outlet",
+          "Luggage lamp – Electrically adjustable",
+          "Outside mirrors – Electric folding"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "Bayon 1.5 IVT HX6",
+      "trim": "HX6",
+      "brochure_trim": "HX 6",
+      "fuel": "Petrol",
+      "transmission": "IVT",
+      "ex_showroom_surat": {
+        "standard": 1496800,
+        "dual_tone": 1511800
+      },
+      "engine": "1.5 | Mpi Petrol",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "4 245",
+          "Overall Width (mm)": "1 810",
+          "Overall Height (mm)": "1 605^",
+          "Wheelbase (mm)": "2 600",
+          "Size": "205/65 R16 (D=405.6mm) Steel wheel with wheel cover",
+          "Front Tyres": "215/55 R17(D=436.6mm)Styled steel wheel & Diamond cut alloy wheel",
+          "Spare wheel": "195/65 R15(D=380.2mm)steel wheel"
+        },
+        "Engine": {
+          "Engine Type": "1.5 | Mpi Petrol",
+          "Fuel System": "Petrol",
+          "Displacement(cm3)": "1 497",
+          "Max. Power": "84.4 kW (115 PS) @ 6 300 r/min",
+          "Max. Torque": "143.8 Nm (14.7 kgm) @ 4 500 r/min",
+          "Configuration": "4 Cylinders"
+        },
+        "Transmission": {
+          "Transmission Type": "6-speed manual , IVT"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson strut",
+          "Suspension Rear": "Coupled torsion beam axle"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum/Disc*"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Tank Capacity": "43"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Airbag – Driver & passenger",
+          "Airbag – Side & curtain",
+          "Hill-start assist control (HAC)",
+          "Electronic stability control (ESC)",
+          "Vehicle stability management (VSM)",
+          "ABS (Anti-lock braking system) with EBD",
+          "Emergency stop signal (ESS)",
+          "Emergency stop signal (ESS) – Rear parking sensors",
+          "Parking assist – Rear view camera",
+          "Driver rear view monitor (DRVM)",
+          "Tyre pressure monitoring system (TPMS) highline",
+          "Tyre pressure monitoring system (TPMS) highline – Day and night mirror",
+          "Automatic headlamps",
+          "Headlamp escort function",
+          "Central locking",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Keyless entry – Smart key with push button start",
+          "Tailgate emergency lamp",
+          "Rear defogger with timer",
+          "Seat belt pretensioners - driver & passenger",
+          "Seatbelt reminder (all seats)",
+          "Immobilizer",
+          "Dual horn",
+          "ISOFIX",
+          "ISOFIX – Front",
+          "Burglar alarm"
+        ],
+        "Exterior": [
+          "Dual LED projector headlamps",
+          "LED DRLs & positioning lamp",
+          "Lighting – LED turn indicators (Front)",
+          "Lighting – LED tail lamps",
+          "Lighting – LED turn indicators (Rear)",
+          "Lighting – LED High Mount Stop Lamp (HMSL)",
+          "Lighting – Puddle lamps",
+          "Rear spoiler",
+          "Shark fin antenna",
+          "Shark fin antenna – Rear spoiler (optional)",
+          "Dual tone pack## – Black painted roof (optional)",
+          "(Black painted) – Outside Rear View Mirror (ORVM) (optional)",
+          "Roof rails",
+          "Wheels – R17 (D = 436.6 mm) Diamond cut alloys"
+        ],
+        "Interior": [
+          "Dual tone (Black and olive grey)#"
+        ],
+        "Interior color theme": [
+          "Black with red accents## (optional)",
+          "Dual integrated displays",
+          "Dual curved panoramic displays – Fabric",
+          "Fabric touch insert on crashpad",
+          "D-Cut steering wheel",
+          "D-Cut steering wheel – Manual height adjust",
+          "Driver seat adjust – Steering wheel",
+          "Leather^^ pack – Gear shift knob",
+          "Front console armrest – Sliding",
+          "Rear parcel tray",
+          "Height adjustable – Front"
+        ],
+        "Infotainment & connectivity": [
+          "26.03 cm (10.25\") ccNC infotainment system"
+        ],
+        "Infotainment system": [
+          "Digital cluster – Digital cluster with 10.66 cm color TFT display",
+          "Hyundai Bluelink – 26.03 cm (10.25\") ccNC infotainment system",
+          "Controller Over-the-Air (OTA) vehicle updates",
+          "Wireless Apple CarPlay & Android Auto**",
+          "Voice recognition**",
+          "Front & rear speakers",
+          "Front tweeters",
+          "Bluetooth connectivity",
+          "Steering wheel with audio & bluetooth controls"
+        ],
+        "Comfort & convenience": [
+          "Sunroof – Panoramic sunroof",
+          "Power window (Front & Rear)",
+          "Driver power window with auto up down and safety",
+          "Air conditioning – Fully automatic temperature control",
+          "Rear AC vent",
+          "Tilt & Telescopic steering function",
+          "Smartphone wireless charger***",
+          "Ambient lighting",
+          "Cruise control",
+          "Rear wiper & washer",
+          "USB charger front & rear (C-Type)",
+          "Power outlet",
+          "Luggage lamp",
+          "Luggage lamp – Electrically adjustable",
+          "Outside mirrors – Electric folding"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "Bayon 1.5 MT HX8",
+      "trim": "HX8",
+      "brochure_trim": "HX 8",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 1509900,
+        "dual_tone": 1524900
+      },
+      "engine": "1.5 | Mpi Petrol",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "4 245",
+          "Overall Width (mm)": "1 810",
+          "Overall Height (mm)": "1 605^",
+          "Wheelbase (mm)": "2 600",
+          "Size": "205/65 R16 (D=405.6mm) Steel wheel with wheel cover",
+          "Front Tyres": "215/55 R17(D=436.6mm)Styled steel wheel & Diamond cut alloy wheel",
+          "Spare wheel": "195/65 R15(D=380.2mm)steel wheel"
+        },
+        "Engine": {
+          "Engine Type": "1.5 | Mpi Petrol",
+          "Fuel System": "Petrol",
+          "Displacement(cm3)": "1 497",
+          "Max. Power": "84.4 kW (115 PS) @ 6 300 r/min",
+          "Max. Torque": "143.8 Nm (14.7 kgm) @ 4 500 r/min",
+          "Configuration": "4 Cylinders"
+        },
+        "Transmission": {
+          "Transmission Type": "6-speed manual , IVT"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson strut",
+          "Suspension Rear": "Coupled torsion beam axle"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum/Disc*"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Tank Capacity": "43"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Airbag – Driver & passenger",
+          "Airbag – Side & curtain",
+          "Hill-start assist control (HAC)",
+          "Electronic stability control (ESC)",
+          "Vehicle stability management (VSM)",
+          "ABS (Anti-lock braking system) with EBD",
+          "Emergency stop signal (ESS)",
+          "Emergency stop signal (ESS) – Rear parking sensors",
+          "Parking assist – Rear view camera",
+          "Parking assist – Front parking sensors",
+          "Parking assist – Side parking sensors",
+          "Driver rear view monitor (DRVM)",
+          "Tyre pressure monitoring system (TPMS) highline",
+          "Tyre pressure monitoring system (TPMS) highline – Day and night mirror",
+          "Automatic headlamps",
+          "Headlamp escort function",
+          "Central locking",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Keyless entry – Smart key with push button start",
+          "Tailgate emergency lamp",
+          "Rear defogger with timer",
+          "Seat belt pretensioners - driver & passenger",
+          "Seatbelt reminder (all seats)",
+          "Height adjustable front seat belts",
+          "Immobilizer",
+          "Dual horn",
+          "ISOFIX",
+          "ISOFIX – Front",
+          "Disc brakes – Rear",
+          "Burglar alarm",
+          "Dashcam",
+          "Level 2 Pro Advanced – Surround view monitor (SVM)"
+        ],
+        "Exterior": [
+          "Dual LED projector headlamps",
+          "LED DRLs & positioning lamp",
+          "Lighting – LED turn indicators (Front)",
+          "Lighting – LED tail lamps",
+          "Lighting – LED turn indicators (Rear)",
+          "Lighting – LED High Mount Stop Lamp (HMSL)",
+          "Lighting – Puddle lamps",
+          "Rear spoiler",
+          "Shark fin antenna",
+          "Shark fin antenna – Rear spoiler (optional)",
+          "Dual tone pack## – Black painted roof (optional)",
+          "(Black painted) – Outside Rear View Mirror (ORVM) (optional)",
+          "Roof rails",
+          "Wheels – R17 (D = 436.6 mm) Diamond cut alloys"
+        ],
+        "Interior": [
+          "Dual tone (Black and olive grey)#"
+        ],
+        "Interior color theme": [
+          "Black with red accents## (optional)",
+          "Dual integrated displays",
+          "Seat upholstery – Leather^^",
+          "Fabric touch insert on crashpad",
+          "D-Cut steering wheel",
+          "Driver seat adjust – Electric 8-way",
+          "Driver seat adjust – Steering wheel",
+          "Leather^^ pack – Gear shift knob",
+          "Front console armrest – Sliding",
+          "Rear center armrest with cup holders",
+          "Rear parcel tray",
+          "Height adjustable – Front",
+          "headrest – Rear"
+        ],
+        "Infotainment & connectivity": [
+          "26.03 cm (10.25\") ccNC infotainment system"
+        ],
+        "Infotainment system": [
+          "Digital cluster – Digital cluster with 10.66 cm color TFT display",
+          "Hyundai Bluelink – 26.03 cm (10.25\") ccNC infotainment system",
+          "Controller Over-the-Air (OTA) vehicle updates",
+          "Wireless Apple CarPlay & Android Auto**",
+          "Voice recognition**",
+          "Front & rear speakers",
+          "Front tweeters",
+          "Bluetooth connectivity",
+          "Steering wheel with audio & bluetooth controls"
+        ],
+        "Comfort & convenience": [
+          "Sunroof – Panoramic sunroof",
+          "Front row ventilated seats",
+          "60:40 split rear seat",
+          "2-step rear reclining seat",
+          "Power window (Front & Rear)",
+          "Driver power window with auto up down and safety",
+          "Air conditioning – Fully automatic temperature control",
+          "Rear AC vent",
+          "Tilt & Telescopic steering function",
+          "Smartphone wireless charger***",
+          "Ambient lighting",
+          "Cruise control",
+          "Rear wiper & washer",
+          "USB charger front & rear (C-Type)",
+          "Power outlet",
+          "Luggage lamp",
+          "Luggage lamp – Electrically adjustable",
+          "Outside mirrors – Electric folding"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "Bayon 1.5 IVT HX8",
+      "trim": "HX8",
+      "brochure_trim": "HX 8",
+      "fuel": "Petrol",
+      "transmission": "IVT",
+      "ex_showroom_surat": {
+        "standard": 1653900,
+        "dual_tone": 1668900
+      },
+      "engine": "1.5 | Mpi Petrol",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "4 245",
+          "Overall Width (mm)": "1 810",
+          "Overall Height (mm)": "1 605^",
+          "Wheelbase (mm)": "2 600",
+          "Size": "205/65 R16 (D=405.6mm) Steel wheel with wheel cover",
+          "Front Tyres": "215/55 R17(D=436.6mm)Styled steel wheel & Diamond cut alloy wheel",
+          "Spare wheel": "195/65 R15(D=380.2mm)steel wheel"
+        },
+        "Engine": {
+          "Engine Type": "1.5 | Mpi Petrol",
+          "Fuel System": "Petrol",
+          "Displacement(cm3)": "1 497",
+          "Max. Power": "84.4 kW (115 PS) @ 6 300 r/min",
+          "Max. Torque": "143.8 Nm (14.7 kgm) @ 4 500 r/min",
+          "Configuration": "4 Cylinders"
+        },
+        "Transmission": {
+          "Transmission Type": "6-speed manual , IVT"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson strut",
+          "Suspension Rear": "Coupled torsion beam axle"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum/Disc*"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Tank Capacity": "43"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Airbag – Driver & passenger",
+          "Airbag – Side & curtain",
+          "Hill-start assist control (HAC)",
+          "Electronic stability control (ESC)",
+          "Vehicle stability management (VSM)",
+          "ABS (Anti-lock braking system) with EBD",
+          "Emergency stop signal (ESS)",
+          "Emergency stop signal (ESS) – Rear parking sensors",
+          "Parking assist – Rear view camera",
+          "Parking assist – Front parking sensors",
+          "Parking assist – Side parking sensors",
+          "Driver rear view monitor (DRVM)",
+          "Tyre pressure monitoring system (TPMS) highline",
+          "Tyre pressure monitoring system (TPMS) highline – Day and night mirror",
+          "Automatic headlamps",
+          "Headlamp escort function",
+          "Central locking",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Keyless entry – Smart key with push button start",
+          "Tailgate emergency lamp",
+          "Rear defogger with timer",
+          "Seat belt pretensioners - driver & passenger",
+          "Seatbelt reminder (all seats)",
+          "Height adjustable front seat belts",
+          "Immobilizer",
+          "Dual horn",
+          "ISOFIX",
+          "ISOFIX – Front",
+          "Disc brakes – Rear",
+          "Burglar alarm",
+          "Dashcam",
+          "Level 2 Pro Advanced – Surround view monitor (SVM)"
+        ],
+        "Exterior": [
+          "Dual LED projector headlamps",
+          "LED DRLs & positioning lamp",
+          "Lighting – LED turn indicators (Front)",
+          "Lighting – LED tail lamps",
+          "Lighting – LED turn indicators (Rear)",
+          "Lighting – LED High Mount Stop Lamp (HMSL)",
+          "Lighting – Puddle lamps",
+          "Rear spoiler",
+          "Shark fin antenna",
+          "Shark fin antenna – Rear spoiler (optional)",
+          "Dual tone pack## – Black painted roof (optional)",
+          "(Black painted) – Outside Rear View Mirror (ORVM) (optional)",
+          "Roof rails",
+          "Wheels – R17 (D = 436.6 mm) Diamond cut alloys"
+        ],
+        "Interior": [
+          "Dual tone (Black and olive grey)#"
+        ],
+        "Interior color theme": [
+          "Black with red accents## (optional)",
+          "Dual integrated displays",
+          "Seat upholstery – Leather^^",
+          "Fabric touch insert on crashpad",
+          "D-Cut steering wheel",
+          "Driver seat adjust – Electric 8-way",
+          "Driver seat adjust – Steering wheel",
+          "Leather^^ pack – Gear shift knob",
+          "Front console armrest – Sliding",
+          "Rear center armrest with cup holders",
+          "Rear parcel tray",
+          "Height adjustable – Front",
+          "headrest – Rear"
+        ],
+        "Infotainment & connectivity": [
+          "26.03 cm (10.25\") ccNC infotainment system"
+        ],
+        "Infotainment system": [
+          "Digital cluster – Digital cluster with 10.66 cm color TFT display",
+          "Hyundai Bluelink – 26.03 cm (10.25\") ccNC infotainment system",
+          "Controller Over-the-Air (OTA) vehicle updates",
+          "Wireless Apple CarPlay & Android Auto**",
+          "Voice recognition**",
+          "Front & rear speakers",
+          "Front tweeters",
+          "Bluetooth connectivity",
+          "Steering wheel with audio & bluetooth controls"
+        ],
+        "Comfort & convenience": [
+          "Sunroof – Panoramic sunroof",
+          "Front row ventilated seats",
+          "60:40 split rear seat",
+          "2-step rear reclining seat",
+          "Power window (Front & Rear)",
+          "Driver power window with auto up down and safety",
+          "Air conditioning – Fully automatic temperature control",
+          "Rear AC vent",
+          "Tilt & Telescopic steering function",
+          "Smartphone wireless charger***",
+          "Ambient lighting",
+          "Cruise control",
+          "Rear wiper & washer",
+          "USB charger front & rear (C-Type)",
+          "Power outlet",
+          "Luggage lamp",
+          "Luggage lamp – Electrically adjustable",
+          "Outside mirrors – Electric folding"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "Bayon 1.5 MT HX10",
+      "trim": "HX10",
+      "brochure_trim": "HX 10",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 1664900,
+        "dual_tone": 1679900
+      },
+      "engine": "1.5 | Mpi Petrol",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "4 245",
+          "Overall Width (mm)": "1 810",
+          "Overall Height (mm)": "1 605^",
+          "Wheelbase (mm)": "2 600",
+          "Size": "205/65 R16 (D=405.6mm) Steel wheel with wheel cover",
+          "Front Tyres": "215/55 R17(D=436.6mm)Styled steel wheel & Diamond cut alloy wheel",
+          "Spare wheel": "195/65 R15(D=380.2mm)steel wheel"
+        },
+        "Engine": {
+          "Engine Type": "1.5 | Mpi Petrol",
+          "Fuel System": "Petrol",
+          "Displacement(cm3)": "1 497",
+          "Max. Power": "84.4 kW (115 PS) @ 6 300 r/min",
+          "Max. Torque": "143.8 Nm (14.7 kgm) @ 4 500 r/min",
+          "Configuration": "4 Cylinders"
+        },
+        "Transmission": {
+          "Transmission Type": "6-speed manual , IVT"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson strut",
+          "Suspension Rear": "Coupled torsion beam axle"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum/Disc*"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Tank Capacity": "43"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Airbag – Driver & passenger",
+          "Airbag – Side & curtain",
+          "Hill-start assist control (HAC)",
+          "Electronic stability control (ESC)",
+          "Vehicle stability management (VSM)",
+          "ABS (Anti-lock braking system) with EBD",
+          "Emergency stop signal (ESS)",
+          "Emergency stop signal (ESS) – Rear parking sensors",
+          "Parking assist – Rear view camera",
+          "Parking assist – Front parking sensors",
+          "Parking assist – Side parking sensors",
+          "Driver rear view monitor (DRVM)",
+          "Tyre pressure monitoring system (TPMS) highline",
+          "Inside rear view mirror – Electro chromic mirror (ECM) with telematics switches",
+          "Automatic headlamps",
+          "Headlamp escort function",
+          "Central locking",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Keyless entry – Smart key with push button start",
+          "Tailgate emergency lamp",
+          "Rear defogger with timer",
+          "Seat belt pretensioners - driver & passenger",
+          "Seatbelt reminder (all seats)",
+          "Height adjustable front seat belts",
+          "Immobilizer",
+          "Dual horn",
+          "ISOFIX",
+          "ISOFIX – Front",
+          "Disc brakes – Rear",
+          "Burglar alarm",
+          "Dashcam",
+          "Dashcam – Forward Collision Warning (FCW)",
+          "Dashcam – Forward Collision - Avoidance Assist - Car (FCA-Car)",
+          "Dashcam – Forward Collision - Avoidance Assist - Pedestrian (FCA-Ped)",
+          "Dashcam – Forward Collision - Avoidance Assist - Cycle (FCA-Cyl)",
+          "Dashcam – Forward Collision - Avoidance Assist - Junction Turning (FCA-JT)",
+          "Dashcam – Forward Collision - Avoidance Assist - Direct Oncoming (FCA-DO)",
+          "Dashcam – Lane Following Assist (LFA)",
+          "Dashcam – Lane Keeping Assist (LKA)",
+          "Dashcam – Lane Departure Warning (LDW)",
+          "Hyundai SmartSense – Driver Attention Warning (DAW)",
+          "Level 2 Pro Advanced – Safe Exit Warning (SEW)",
+          "Level 2 Pro Advanced – Leading Vehicle Departure Alert (LVDA)",
+          "Level 2 Pro Advanced – High Beam Assist (HBA)",
+          "Level 2 Pro Advanced – Blind-spot Collision Warning (BCW)",
+          "Level 2 Pro Advanced – Blind-spot Collision - Avoidance Assist (BCA)",
+          "Level 2 Pro Advanced – Rear Cross - Traffic Collision Warning (RCCW)",
+          "Level 2 Pro Advanced – Rear Cross - Traffic Collision - Avoidance Assist (RCCA)",
+          "Level 2 Pro Advanced – Surround view monitor (SVM)",
+          "Level 2 Pro Advanced – Blind-spot view monitor (BVM)"
+        ],
+        "Exterior": [
+          "Dual LED projector headlamps",
+          "LED DRLs & positioning lamp",
+          "Lighting – LED turn indicators (Front)",
+          "Lighting – LED tail lamps",
+          "Lighting – LED turn indicators (Rear)",
+          "Lighting – LED High Mount Stop Lamp (HMSL)",
+          "Lighting – Puddle lamps",
+          "Rear spoiler",
+          "Shark fin antenna",
+          "Shark fin antenna – Rear spoiler (optional)",
+          "Dual tone pack## – Black painted roof (optional)",
+          "(Black painted) – Outside Rear View Mirror (ORVM) (optional)",
+          "Roof rails",
+          "Wheels – R17 (D = 436.6 mm) Diamond cut alloys"
+        ],
+        "Interior": [
+          "Dual tone (Black and olive grey)#"
+        ],
+        "Interior color theme": [
+          "Black with red accents## (optional)",
+          "Dual curved panoramic displays",
+          "Seat upholstery – Leather^^",
+          "Fabric touch insert on crashpad",
+          "D-Cut steering wheel",
+          "Driver seat adjust – Electric 8-way",
+          "Driver seat adjust – Steering wheel",
+          "Leather^^ pack – Gear shift knob",
+          "Front console armrest – Sliding",
+          "Rear center armrest with cup holders",
+          "Rear parcel tray",
+          "Height adjustable – Front",
+          "headrest – Rear"
+        ],
+        "Infotainment system": [
+          "31.24 cm (12.3\") ccNC navigation system",
+          "Digital cluster – 31.24 cm (12.3\") Full digital display cluster",
+          "Generative AI voice assistant",
+          "(Connected car technology)^^^ 31.24 cm (12.3\") ccNC navigation system",
+          "Controller Over-the-Air (OTA) vehicle updates",
+          "Wireless Apple CarPlay & Android Auto**",
+          "Voice recognition**",
+          "Front & rear speakers",
+          "Front tweeters",
+          "Bluetooth connectivity",
+          "Bose premium sound 8 speaker system with front central speaker and sub-woofer",
+          "Steering wheel with audio & bluetooth controls"
+        ],
+        "Comfort & convenience": [
+          "Sunroof – Panoramic sunroof",
+          "Front row ventilated seats",
+          "60:40 split rear seat",
+          "2-step rear reclining seat",
+          "Idle stop & go (ISG)",
+          "Power window (Front & Rear)",
+          "Driver power window with auto up down and safety",
+          "Air conditioning – Fully automatic temperature control",
+          "Rear AC vent",
+          "Tilt & Telescopic steering function",
+          "Smartphone wireless charger***",
+          "Ambient lighting",
+          "Cruise control",
+          "Rear wiper & washer",
+          "USB charger front & rear (C-Type)",
+          "Power outlet",
+          "Luggage lamp",
+          "Luggage lamp – Electrically adjustable",
+          "Outside mirrors – Electric folding"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "Bayon 1.5 IVT HX10",
+      "trim": "HX10",
+      "brochure_trim": "HX 10",
+      "fuel": "Petrol",
+      "transmission": "IVT",
+      "ex_showroom_surat": {
+        "standard": 1799900,
+        "dual_tone": 1814900
+      },
+      "engine": "1.5 | Mpi Petrol",
+      "specifications": {
+        "Exterior": {
+          "Overall Length (mm)": "4 245",
+          "Overall Width (mm)": "1 810",
+          "Overall Height (mm)": "1 605^",
+          "Wheelbase (mm)": "2 600",
+          "Size": "205/65 R16 (D=405.6mm) Steel wheel with wheel cover",
+          "Front Tyres": "215/55 R17(D=436.6mm)Styled steel wheel & Diamond cut alloy wheel",
+          "Spare wheel": "195/65 R15(D=380.2mm)steel wheel"
+        },
+        "Engine": {
+          "Engine Type": "1.5 | Mpi Petrol",
+          "Fuel System": "Petrol",
+          "Displacement(cm3)": "1 497",
+          "Max. Power": "84.4 kW (115 PS) @ 6 300 r/min",
+          "Max. Torque": "143.8 Nm (14.7 kgm) @ 4 500 r/min",
+          "Configuration": "4 Cylinders"
+        },
+        "Transmission": {
+          "Transmission Type": "6-speed manual , IVT"
+        },
+        "Suspension": {
+          "Suspension Front": "McPherson strut",
+          "Suspension Rear": "Coupled torsion beam axle"
+        },
+        "Brake": {
+          "Brake Front": "Disc",
+          "Brake Rear": "Drum/Disc*"
+        },
+        "Fuel": {
+          "Fuel Type": "Petrol",
+          "Fuel Tank Capacity": "43"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Airbag – Driver & passenger",
+          "Airbag – Side & curtain",
+          "Hill-start assist control (HAC)",
+          "Electronic stability control (ESC)",
+          "Vehicle stability management (VSM)",
+          "ABS (Anti-lock braking system) with EBD",
+          "Emergency stop signal (ESS)",
+          "Emergency stop signal (ESS) – Rear parking sensors",
+          "Parking assist – Rear view camera",
+          "Parking assist – Front parking sensors",
+          "Parking assist – Side parking sensors",
+          "Driver rear view monitor (DRVM)",
+          "Tyre pressure monitoring system (TPMS) highline",
+          "Inside rear view mirror – Electro chromic mirror (ECM) with telematics switches",
+          "Automatic headlamps",
+          "Headlamp escort function",
+          "Central locking",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Keyless entry – Smart key with push button start",
+          "Tailgate emergency lamp",
+          "Rear defogger with timer",
+          "Seat belt pretensioners - driver & passenger",
+          "Seatbelt reminder (all seats)",
+          "Height adjustable front seat belts",
+          "Immobilizer",
+          "Dual horn",
+          "ISOFIX",
+          "ISOFIX – Front",
+          "Disc brakes – Rear",
+          "Burglar alarm",
+          "Dashcam",
+          "Dashcam – Forward Collision Warning (FCW)",
+          "Dashcam – Forward Collision - Avoidance Assist - Car (FCA-Car)",
+          "Dashcam – Forward Collision - Avoidance Assist - Pedestrian (FCA-Ped)",
+          "Dashcam – Forward Collision - Avoidance Assist - Cycle (FCA-Cyl)",
+          "Dashcam – Forward Collision - Avoidance Assist - Junction Turning (FCA-JT)",
+          "Dashcam – Forward Collision - Avoidance Assist - Direct Oncoming (FCA-DO)",
+          "Dashcam – Lane Following Assist (LFA)",
+          "Dashcam – Lane Keeping Assist (LKA)",
+          "Dashcam – Lane Departure Warning (LDW)",
+          "Hyundai SmartSense – Driver Attention Warning (DAW)",
+          "Level 2 Pro Advanced – Safe Exit Warning (SEW)",
+          "Level 2 Pro Advanced – Leading Vehicle Departure Alert (LVDA)",
+          "Level 2 Pro Advanced – High Beam Assist (HBA)",
+          "Level 2 Pro Advanced – Blind-spot Collision Warning (BCW)",
+          "Level 2 Pro Advanced – Blind-spot Collision - Avoidance Assist (BCA)",
+          "Level 2 Pro Advanced – Rear Cross - Traffic Collision Warning (RCCW)",
+          "Level 2 Pro Advanced – Rear Cross - Traffic Collision - Avoidance Assist (RCCA)",
+          "Level 2 Pro Advanced – Surround view monitor (SVM)",
+          "Level 2 Pro Advanced – Blind-spot view monitor (BVM)"
+        ],
+        "Exterior": [
+          "Dual LED projector headlamps",
+          "LED DRLs & positioning lamp",
+          "Lighting – LED turn indicators (Front)",
+          "Lighting – LED tail lamps",
+          "Lighting – LED turn indicators (Rear)",
+          "Lighting – LED High Mount Stop Lamp (HMSL)",
+          "Lighting – Puddle lamps",
+          "Rear spoiler",
+          "Shark fin antenna",
+          "Shark fin antenna – Rear spoiler (optional)",
+          "Dual tone pack## – Black painted roof (optional)",
+          "(Black painted) – Outside Rear View Mirror (ORVM) (optional)",
+          "Roof rails",
+          "Wheels – R17 (D = 436.6 mm) Diamond cut alloys"
+        ],
+        "Interior": [
+          "Dual tone (Black and olive grey)#"
+        ],
+        "Interior color theme": [
+          "Black with red accents## (optional)",
+          "Dual curved panoramic displays",
+          "Seat upholstery – Leather^^",
+          "Fabric touch insert on crashpad",
+          "D-Cut steering wheel",
+          "Driver seat adjust – Electric 8-way",
+          "Driver seat adjust – Steering wheel",
+          "Leather^^ pack – Gear shift knob",
+          "Front console armrest – Sliding",
+          "Rear center armrest with cup holders",
+          "Rear parcel tray",
+          "Height adjustable – Front",
+          "headrest – Rear"
+        ],
+        "Infotainment system": [
+          "31.24 cm (12.3\") ccNC navigation system",
+          "Digital cluster – 31.24 cm (12.3\") Full digital display cluster",
+          "Generative AI voice assistant",
+          "(Connected car technology)^^^ 31.24 cm (12.3\") ccNC navigation system",
+          "Controller Over-the-Air (OTA) vehicle updates",
+          "Wireless Apple CarPlay & Android Auto**",
+          "Voice recognition**",
+          "Front & rear speakers",
+          "Front tweeters",
+          "Bluetooth connectivity",
+          "Bose premium sound 8 speaker system with front central speaker and sub-woofer",
+          "Steering wheel with audio & bluetooth controls"
+        ],
+        "Comfort & convenience": [
+          "Sunroof – Panoramic sunroof",
+          "Front row ventilated seats",
+          "60:40 split rear seat",
+          "2-step rear reclining seat",
+          "Idle stop & go (ISG)",
+          "Power window (Front & Rear)",
+          "Driver power window with auto up down and safety",
+          "Air conditioning – Fully automatic temperature control",
+          "Rear AC vent",
+          "Tilt & Telescopic steering function",
+          "Smartphone wireless charger***",
+          "Ambient lighting",
+          "Cruise control",
+          "Rear wiper & washer",
+          "USB charger front & rear (C-Type)",
+          "Power outlet",
+          "Luggage lamp",
+          "Luggage lamp – Electrically adjustable",
+          "Outside mirrors – Electric folding"
+        ]
+      },
+      "airbags": 6
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}

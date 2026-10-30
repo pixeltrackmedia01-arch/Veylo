@@ -1,0 +1,4000 @@
+{
+  "brand": "Hyundai",
+  "model": "Creta Electric",
+  "slug": "creta-electric",
+  "official_page": "https://www.hyundai.com/in/en/find-a-car/creta-electric/highlights",
+  "brochure_pdf": "https://www.hyundai.com/content/dam/hyundai/in/en/data/brochure/creta-ev.pdf",
+  "price_city": "Surat, Gujarat",
+  "ex_showroom_min": 1802800,
+  "ex_showroom_max": 2522100,
+  "fuel_types": [
+    "Electric"
+  ],
+  "transmissions": [
+    "Automatic (single-speed)"
+  ],
+  "colours": [
+    {
+      "name": "Atlas white"
+    },
+    {
+      "name": "Fiery red"
+    },
+    {
+      "name": "Starry night"
+    },
+    {
+      "name": "Titanium black"
+    },
+    {
+      "name": "Ecotronic grey"
+    },
+    {
+      "name": "Golden bronze"
+    },
+    {
+      "name": "Titanium black matte"
+    },
+    {
+      "name": "Atlas white with black roof"
+    }
+  ],
+  "engines": null,
+  "variants": [
+    {
+      "name": "Creta 42 kWh Executive",
+      "trim": "Executive",
+      "brochure_trim": "Executive",
+      "fuel": "Electric",
+      "transmission": "Automatic (single-speed)",
+      "ex_showroom_surat": {
+        "standard": 1802800
+      },
+      "engine": null,
+      "specifications": {
+        "Dimensions": {
+          "Overall length (mm)": "4 340",
+          "Overall width (mm)": "1 790",
+          "Overall height (mm)": "1 655",
+          "Wheelbase (mm)": "2 610"
+        },
+        "Electric motor": {
+          "Traction motor (type)": "Interior permanent magnet synchronous motor (IPMSM)",
+          "Max power (kW (PS))": "99 (135)"
+        },
+        "High voltage battery": {
+          "Battery type": "Liquid cooled lithium ion battery pack",
+          "Capacity (kWh)": "42",
+          "Driving range (km)": "420"
+        },
+        "Charging": {
+          "Charging standard": "CCS2"
+        },
+        "Estimated AC fast charging time": {
+          "(SOC 10% to 100%)^^ from": "6 hrs"
+        },
+        "Estimated DC fast charging": {
+          "time^^ (SOC 10% to 80%)": "39 min"
+        },
+        "Transmission": {
+          "Type": "Single speed reduction gear"
+        },
+        "Suspension": {
+          "Front": "McPherson strut with coil spring",
+          "Rear": "Coupled torsion beam axle"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Disc"
+        },
+        "Wheel & tyre": {
+          "Tyre & wheel": "215/60 R17 (D=436.6 mm) Aero alloy wheel",
+          "Spare wheel": "215/60 R17 (D=436.6 mm) Steel wheel"
+        },
+        "1 655***": {
+          "1 790": "2 610"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Airbags – Driver & passenger",
+          "Airbags – Side & curtain",
+          "ABS (Anti-lock braking system) with EBD",
+          "Electronic stability control (ESC)",
+          "Vehicle stability management (VSM)",
+          "Hill-start assist control (HAC)",
+          "Hill descent control (HDC)",
+          "Tyre pressure monitoring system (TPMS) highline",
+          "Front & rear disc brakes",
+          "Seat belt pretensioners - driver & passenger",
+          "Driver anchor pretensioner",
+          "Height adjustable front seatbelts",
+          "3 Point seat belts (all seats)",
+          "Seatbelt reminder (all seats)",
+          "Child seat anchor (ISOFIX)",
+          "Emergency stop signal (ESS)",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Inside door handle override (Driver only)",
+          "Driver power window with auto up-down & safety",
+          "Immobilizer",
+          "Burglar alarm",
+          "Central locking",
+          "Central locking – Day and night mirror with telematics switches",
+          "Automatic headlamps",
+          "Headlamp escort function",
+          "Rear defogger with timer",
+          "Puddle lamps with (H logo) projection & welcome function - Driver Side – Rear parking sensors",
+          "Parking assist – Rear camera with dynamic guidelines",
+          "Driver rear view monitor (DRVM)"
+        ],
+        "Exterior": [
+          "R17 (D=436.6 mm) Aero alloy wheels with Low Rolling Resistance (LRR) tyres"
+        ],
+        "Wheels": [
+          "Front & rear skid plate – Silver",
+          "Lightening arch C-Pillar – Silver",
+          "Lightening arch C-Pillar – Quad beam LED headlamp",
+          "Lightening arch C-Pillar – Horizon LED positioning lamp & DRLs",
+          "Lightening arch C-Pillar – LED High mounted stop lamp (HMSL)",
+          "Lighting – Rear horizon LED lamp",
+          "Lighting – LED turn indicators on outside mirrors",
+          "Active Air Flaps (AAF)",
+          "Pixelated graphic grille",
+          "Pixelated LED reverse lamp",
+          "Pixelated LED reverse lamp – With multi color surround light",
+          "Charging port – With state-of-charge (SOC) indicator",
+          "Outside door handles – Body colour",
+          "Outside door handles – Body colour",
+          "Outside door mirrors – Silver",
+          "Shark fin antenna",
+          "Red brake calipers – Body Colour"
+        ],
+        "Interior": [
+          "Granite gray with dark navy (Dual Tone) interior",
+          "Floating console – Dark Navy Interior",
+          "Floating console – Fabric",
+          "Eco friendly seat upholstery – Steering wheel",
+          "Height adjustable headrest – Front",
+          "Height adjustable headrest – Rear",
+          "Height adjustable headrest – Manual seat height adjust",
+          "60:40 split rear seat",
+          "2-Step rear reclining seat",
+          "Rear seat headrest cushion – Metal Finish",
+          "Rear parcel tray",
+          "3 Spoke Steering wheel"
+        ],
+        "Comfort & convenience": [
+          "Dual zone automatic temperature control (DATC) with touch function",
+          "Electric parking brake with auto hold",
+          "Drive Mode Select (Eco, Normal ,Sport)",
+          "Paddle shifters for adjustable regenerative braking",
+          "Cruise control",
+          "Smart key with push button start",
+          "Remote start with smart key",
+          "Remote start with smart key – Electrically adjustable",
+          "Outside mirror – Electric folding",
+          "Outside mirror – Auto folding",
+          "Front armrest with cooled storage",
+          "Open console storage with lamp",
+          "Rear centre armrest with cup holders",
+          "Electric tailgate release",
+          "Rear AC vents",
+          "Rear AC vents – Front",
+          "USB charger (C type) – Rear ( x1 )",
+          "Power outlet",
+          "Rear wiper and washer",
+          "Rear wiper and washer – Tilt function",
+          "Motor driven power steering – Telescopic function",
+          "LED Luggage lamp",
+          "LED Luggage lamp – Front",
+          "Power windows – Rear",
+          "Passenger vanity mirror",
+          "LED map lamps",
+          "LED room lamp",
+          "Sunglass holder",
+          "Shift By Wire (SBW) - column type",
+          "After-blow technology",
+          "Eco-coating"
+        ],
+        "Infotainment & connectivity": [
+          "26.03 cm (10.25\") Multi display digital cluster",
+          "26.03 cm (10.25”) HD audio video navigation system",
+          "Smartphone connectivity – Wireless Android Auto & Apple Carplay",
+          "Bluetooth connectivity",
+          "Voice recognition****",
+          "Steering wheel with audio & bluetooth controls",
+          "Front & rear speakers",
+          "Front tweeters",
+          "Hyundai Bluelink (connected car technology)",
+          "JioSaavn music streaming",
+          "In-car payment",
+          "Over-the-air (OTA) updates for map and infotainment",
+          "Home to car (H2C) with Alexa#",
+          "Portable charging cable"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "Creta 42 kWh Executive Tech",
+      "trim": "Executive Tech",
+      "brochure_trim": "Executive Tech",
+      "fuel": "Electric",
+      "transmission": "Automatic (single-speed)",
+      "ex_showroom_surat": {
+        "standard": 1899900
+      },
+      "engine": null,
+      "specifications": {
+        "Dimensions": {
+          "Overall length (mm)": "4 340",
+          "Overall width (mm)": "1 790",
+          "Overall height (mm)": "1 655",
+          "Wheelbase (mm)": "2 610"
+        },
+        "Electric motor": {
+          "Traction motor (type)": "Interior permanent magnet synchronous motor (IPMSM)",
+          "Max power (kW (PS))": "99 (135)"
+        },
+        "High voltage battery": {
+          "Battery type": "Liquid cooled lithium ion battery pack",
+          "Capacity (kWh)": "42",
+          "Driving range (km)": "420"
+        },
+        "Charging": {
+          "Charging standard": "CCS2"
+        },
+        "Estimated AC fast charging time": {
+          "(SOC 10% to 100%)^^ from": "6 hrs"
+        },
+        "Estimated DC fast charging": {
+          "time^^ (SOC 10% to 80%)": "39 min"
+        },
+        "Transmission": {
+          "Type": "Single speed reduction gear"
+        },
+        "Suspension": {
+          "Front": "McPherson strut with coil spring",
+          "Rear": "Coupled torsion beam axle"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Disc"
+        },
+        "Wheel & tyre": {
+          "Tyre & wheel": "215/60 R17 (D=436.6 mm) Aero alloy wheel",
+          "Spare wheel": "215/60 R17 (D=436.6 mm) Steel wheel"
+        },
+        "1 655***": {
+          "1 790": "2 610"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Airbags – Driver & passenger",
+          "Airbags – Side & curtain",
+          "ABS (Anti-lock braking system) with EBD",
+          "Electronic stability control (ESC)",
+          "Vehicle stability management (VSM)",
+          "Hill-start assist control (HAC)",
+          "Hill descent control (HDC)",
+          "Tyre pressure monitoring system (TPMS) highline",
+          "Front & rear disc brakes",
+          "Seat belt pretensioners - driver & passenger",
+          "Driver anchor pretensioner",
+          "Height adjustable front seatbelts",
+          "3 Point seat belts (all seats)",
+          "Seatbelt reminder (all seats)",
+          "Child seat anchor (ISOFIX)",
+          "Emergency stop signal (ESS)",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Inside door handle override (Driver only)",
+          "Driver power window with auto up-down & safety",
+          "Immobilizer",
+          "Burglar alarm",
+          "Central locking",
+          "Central locking – Day and night mirror with telematics switches",
+          "Automatic headlamps",
+          "Headlamp escort function",
+          "Rear defogger with timer",
+          "Puddle lamps with (H logo) projection & welcome function - Driver Side – Rear parking sensors",
+          "Parking assist – Rear camera with dynamic guidelines",
+          "Driver rear view monitor (DRVM)"
+        ],
+        "Exterior": [
+          "R17 (D=436.6 mm) Aero alloy wheels with Low Rolling Resistance (LRR) tyres"
+        ],
+        "Wheels": [
+          "Front & rear skid plate – Silver",
+          "Lightening arch C-Pillar – Silver",
+          "Lightening arch C-Pillar – Quad beam LED headlamp",
+          "Lightening arch C-Pillar – Horizon LED positioning lamp & DRLs",
+          "Lightening arch C-Pillar – LED High mounted stop lamp (HMSL)",
+          "Lighting – Rear horizon LED lamp",
+          "Lighting – LED turn indicators on outside mirrors",
+          "Active Air Flaps (AAF)",
+          "Pixelated graphic grille",
+          "Pixelated LED reverse lamp",
+          "Pixelated LED reverse lamp – With multi color surround light",
+          "Charging port – With state-of-charge (SOC) indicator",
+          "Outside door handles – Body colour",
+          "Outside door handles – Body colour",
+          "Outside door mirrors – Silver",
+          "Shark fin antenna",
+          "Red brake calipers – Body Colour"
+        ],
+        "Interior": [
+          "Granite gray with dark navy (Dual Tone) interior",
+          "Floating console – Dark Navy Interior",
+          "Floating console – Leather^",
+          "Eco friendly seat upholstery – Steering wheel",
+          "Leather^ pack – Door armrest",
+          "Height adjustable headrest – Front",
+          "Height adjustable headrest – Rear",
+          "Height adjustable headrest – Manual seat height adjust",
+          "60:40 split rear seat",
+          "2-Step rear reclining seat",
+          "Rear window sunshade",
+          "Rear seat headrest cushion – Metal Finish",
+          "Rear parcel tray",
+          "3 Spoke Steering wheel"
+        ],
+        "Comfort & convenience": [
+          "Voice enabled smart panoramic sunroof",
+          "Dual zone automatic temperature control (DATC) with touch function",
+          "Front row ventilated seats",
+          "Electric parking brake with auto hold",
+          "Drive Mode Select (Eco, Normal ,Sport)",
+          "Paddle shifters for adjustable regenerative braking",
+          "Cruise control",
+          "Smart key with push button start",
+          "Remote start with smart key",
+          "Remote start with smart key – Electrically adjustable",
+          "Outside mirror – Electric folding",
+          "Outside mirror – Auto folding",
+          "Front armrest with cooled storage",
+          "Open console storage with lamp",
+          "Rear centre armrest with cup holders",
+          "Electric tailgate release",
+          "Rear AC vents",
+          "Rear AC vents – Front",
+          "USB charger (C type) – Rear ( x1 )",
+          "Power outlet",
+          "Rear wiper and washer",
+          "Rear wiper and washer – Tilt function",
+          "Motor driven power steering – Telescopic function",
+          "LED Luggage lamp",
+          "LED Luggage lamp – Front",
+          "Power windows – Rear",
+          "Passenger vanity mirror",
+          "LED map lamps",
+          "LED reading lamp (Rear)",
+          "Sunglass holder",
+          "Shift By Wire (SBW) - column type",
+          "After-blow technology",
+          "Eco-coating"
+        ],
+        "Infotainment & connectivity": [
+          "26.03 cm (10.25\") Multi display digital cluster",
+          "26.03 cm (10.25”) HD audio video navigation system",
+          "Smartphone connectivity – Wireless Android Auto & Apple Carplay",
+          "Bluetooth connectivity",
+          "Voice recognition****",
+          "Steering wheel with audio & bluetooth controls",
+          "Front & rear speakers",
+          "Front tweeters",
+          "Hyundai Bluelink (connected car technology)",
+          "JioSaavn music streaming",
+          "In-car payment",
+          "Over-the-air (OTA) updates for map and infotainment",
+          "Home to car (H2C) with Alexa#",
+          "Portable charging cable"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "Creta 42 kWh Premium",
+      "trim": "Premium",
+      "brochure_trim": "Premium",
+      "fuel": "Electric",
+      "transmission": "Automatic (single-speed)",
+      "ex_showroom_surat": {
+        "standard": 1999900,
+        "dual_tone": 2015500
+      },
+      "engine": null,
+      "specifications": {
+        "Dimensions": {
+          "Overall length (mm)": "4 340",
+          "Overall width (mm)": "1 790",
+          "Overall height (mm)": "1 655",
+          "Wheelbase (mm)": "2 610"
+        },
+        "Electric motor": {
+          "Traction motor (type)": "Interior permanent magnet synchronous motor (IPMSM)",
+          "Max power (kW (PS))": "99 (135)"
+        },
+        "High voltage battery": {
+          "Battery type": "Liquid cooled lithium ion battery pack",
+          "Capacity (kWh)": "42",
+          "Driving range (km)": "420"
+        },
+        "Charging": {
+          "Charging standard": "CCS2"
+        },
+        "Estimated AC fast charging time": {
+          "(SOC 10% to 100%)^^ from": "6 hrs"
+        },
+        "Estimated DC fast charging": {
+          "time^^ (SOC 10% to 80%)": "39 min"
+        },
+        "Transmission": {
+          "Type": "Single speed reduction gear"
+        },
+        "Suspension": {
+          "Front": "McPherson strut with coil spring",
+          "Rear": "Coupled torsion beam axle"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Disc"
+        },
+        "Wheel & tyre": {
+          "Tyre & wheel": "215/60 R17 (D=436.6 mm) Aero alloy wheel",
+          "Spare wheel": "215/60 R17 (D=436.6 mm) Steel wheel"
+        },
+        "1 655***": {
+          "1 790": "2 610"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Airbags – Driver & passenger",
+          "Airbags – Side & curtain",
+          "ABS (Anti-lock braking system) with EBD",
+          "Electronic stability control (ESC)",
+          "Vehicle stability management (VSM)",
+          "Hill-start assist control (HAC)",
+          "Hill descent control (HDC)",
+          "Tyre pressure monitoring system (TPMS) highline",
+          "Front & rear disc brakes",
+          "Seat belt pretensioners - driver & passenger",
+          "Driver anchor pretensioner",
+          "Height adjustable front seatbelts",
+          "3 Point seat belts (all seats)",
+          "Seatbelt reminder (all seats)",
+          "Child seat anchor (ISOFIX)",
+          "Emergency stop signal (ESS)",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Inside door handle override (Driver only)",
+          "Driver power window with auto up-down & safety",
+          "Immobilizer",
+          "Burglar alarm",
+          "Central locking",
+          "Central locking – Day and night mirror with telematics switches",
+          "Automatic headlamps",
+          "Headlamp escort function",
+          "Rear defogger with timer",
+          "Puddle lamps with (H logo) projection & welcome function - Driver Side",
+          "Puddle lamps with (H logo) projection & welcome function - Driver Side – Rear parking sensors",
+          "Parking assist – Rear camera with dynamic guidelines",
+          "Driver rear view monitor (DRVM)"
+        ],
+        "Exterior": [
+          "R17 (D=436.6 mm) Aero alloy wheels with Low Rolling Resistance (LRR) tyres"
+        ],
+        "Wheels": [
+          "Front & rear skid plate – Silver",
+          "Lightening arch C-Pillar – Silver",
+          "Lightening arch C-Pillar – Quad beam LED headlamp",
+          "Lightening arch C-Pillar – Horizon LED positioning lamp & DRLs",
+          "Lightening arch C-Pillar – LED High mounted stop lamp (HMSL)",
+          "Lighting – LED tail lamps",
+          "Lighting – Rear horizon LED lamp",
+          "Lighting – LED turn signal with sequential function",
+          "Lighting – LED turn indicators on outside mirrors",
+          "Active Air Flaps (AAF)",
+          "Active Air Flaps (AAF) – Silver",
+          "Pixelated graphic grille",
+          "Pixelated LED reverse lamp",
+          "Pixelated LED reverse lamp – With multi color surround light",
+          "Charging port – With state-of-charge (SOC) indicator",
+          "Outside door handles – Body colour",
+          "Outside door handles – Body colour",
+          "Outside door mirrors – Silver",
+          "Shark fin antenna",
+          "Red brake calipers – Body Colour",
+          "Rear spoiler – Lightening arch C pillar",
+          "Rear spoiler – Integrated roof rails",
+          "Dual tone pack (Black painted) – Oustide door mirrors",
+          "Dual tone pack (Black painted) – Rear spoiler"
+        ],
+        "Interior": [
+          "Granite gray with dark navy (Dual Tone) interior",
+          "Floating console – Dark Navy Interior",
+          "Floating console – Leather^",
+          "Eco friendly seat upholstery – Steering wheel",
+          "Leather^ pack – Door armrest",
+          "Height adjustable headrest – Front",
+          "Height adjustable headrest – Rear",
+          "Driver seat adjust – Electric 8 way",
+          "60:40 split rear seat",
+          "2-Step rear reclining seat",
+          "Rear window sunshade",
+          "Rear window sunshade – Floating console",
+          "Rear seat headrest cushion – Metal Finish",
+          "Rear parcel tray",
+          "3 Spoke Steering wheel"
+        ],
+        "Comfort & convenience": [
+          "Voice enabled smart panoramic sunroof",
+          "Dual zone automatic temperature control (DATC) with touch function",
+          "Front row ventilated seats",
+          "Electric parking brake with auto hold",
+          "Electric parking brake with auto hold – Front row",
+          "Drive Mode Select (Eco, Normal ,Sport)",
+          "Paddle shifters for adjustable regenerative braking",
+          "Cruise control",
+          "Smart key with push button start",
+          "Remote start with smart key",
+          "Remote start with smart key – Electrically adjustable",
+          "Outside mirror – Electric folding",
+          "Outside mirror – Auto folding",
+          "Front armrest with cooled storage",
+          "Open console storage with lamp",
+          "Rear centre armrest with cup holders",
+          "Electric tailgate release",
+          "Rear AC vents",
+          "Rear AC vents – Front",
+          "USB charger (C type) – Rear ( x2 )",
+          "Power outlet",
+          "Rear wiper and washer",
+          "Rear wiper and washer – Tilt function",
+          "Motor driven power steering – Telescopic function",
+          "LED Luggage lamp",
+          "LED Luggage lamp – Front",
+          "Power windows – Rear",
+          "Passenger vanity mirror",
+          "LED map lamps",
+          "LED reading lamp (Rear)",
+          "Sunglass holder",
+          "Front storage (FRUNK)",
+          "V2L (Vehicle-to-Load) : inside and outside",
+          "Shift By Wire (SBW) - column type",
+          "After-blow technology",
+          "Eco-coating"
+        ],
+        "Infotainment & connectivity": [
+          "26.03 cm (10.25\") Multi display digital cluster",
+          "26.03 cm (10.25”) HD audio video navigation system",
+          "Bose premium sound 8 speaker system with front central speaker & sub-woofer",
+          "Smartphone connectivity – Wireless Android Auto & Apple Carplay",
+          "Bluetooth connectivity",
+          "Voice recognition****",
+          "Steering wheel with audio & bluetooth controls",
+          "Front & rear speakers",
+          "Front tweeters",
+          "Hyundai Bluelink (connected car technology)",
+          "JioSaavn music streaming",
+          "In-car payment",
+          "Over-the-air (OTA) updates for map and infotainment",
+          "Home to car (H2C) with Alexa#",
+          "Portable charging cable"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "Creta 51.4 kWh Executive (O) LR",
+      "trim": "Executive (O) LR",
+      "brochure_trim": "Executive (O) LR",
+      "fuel": "Electric",
+      "transmission": "Automatic (single-speed)",
+      "ex_showroom_surat": {
+        "standard": 1999900
+      },
+      "engine": null,
+      "specifications": {
+        "Dimensions": {
+          "Overall length (mm)": "4 340",
+          "Overall width (mm)": "1 790",
+          "Overall height (mm)": "1 655",
+          "Wheelbase (mm)": "2 610"
+        },
+        "Electric motor": {
+          "Traction motor (type)": "Interior permanent magnet synchronous motor (IPMSM)",
+          "Max power (kW (PS))": "126 (171)"
+        },
+        "High voltage battery": {
+          "Battery type": "Liquid cooled lithium ion battery pack",
+          "Capacity (kWh)": "51.4",
+          "Driving range (km)": "510"
+        },
+        "Charging": {
+          "Charging standard": "CCS2"
+        },
+        "Estimated AC fast charging time": {
+          "(SOC 10% to 100%)^^ from": "7 hrs 15 min"
+        },
+        "Estimated DC fast charging": {
+          "time^^ (SOC 10% to 80%)": "39 min"
+        },
+        "Transmission": {
+          "Type": "Single speed reduction gear"
+        },
+        "Suspension": {
+          "Front": "McPherson strut with coil spring",
+          "Rear": "Coupled torsion beam axle"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Disc"
+        },
+        "Wheel & tyre": {
+          "Tyre & wheel": "215/60 R17 (D=436.6 mm) Aero alloy wheel",
+          "Spare wheel": "215/60 R17 (D=436.6 mm) Steel wheel"
+        },
+        "1 655***": {
+          "1 790": "2 610"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Airbags – Driver & passenger",
+          "Airbags – Side & curtain",
+          "ABS (Anti-lock braking system) with EBD",
+          "Electronic stability control (ESC)",
+          "Vehicle stability management (VSM)",
+          "Hill-start assist control (HAC)",
+          "Hill descent control (HDC)",
+          "Tyre pressure monitoring system (TPMS) highline",
+          "Front & rear disc brakes",
+          "Seat belt pretensioners - driver & passenger",
+          "Driver anchor pretensioner",
+          "Height adjustable front seatbelts",
+          "3 Point seat belts (all seats)",
+          "Seatbelt reminder (all seats)",
+          "Child seat anchor (ISOFIX)",
+          "Emergency stop signal (ESS)",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Inside door handle override (Driver only)",
+          "Driver power window with auto up-down & safety",
+          "Immobilizer",
+          "Burglar alarm",
+          "Central locking",
+          "Central locking – Day and night mirror with telematics switches",
+          "Automatic headlamps",
+          "Headlamp escort function",
+          "Rear defogger with timer",
+          "Puddle lamps with (H logo) projection & welcome function - Driver Side – Rear parking sensors",
+          "Parking assist – Rear camera with dynamic guidelines",
+          "Driver rear view monitor (DRVM)"
+        ],
+        "Exterior": [
+          "R17 (D=436.6 mm) Aero alloy wheels with Low Rolling Resistance (LRR) tyres"
+        ],
+        "Wheels": [
+          "Front & rear skid plate – Silver",
+          "Lightening arch C-Pillar – Silver",
+          "Lightening arch C-Pillar – Quad beam LED headlamp",
+          "Lightening arch C-Pillar – Horizon LED positioning lamp & DRLs",
+          "Lightening arch C-Pillar – LED High mounted stop lamp (HMSL)",
+          "Lighting – Rear horizon LED lamp",
+          "Lighting – LED turn indicators on outside mirrors",
+          "Active Air Flaps (AAF)",
+          "Pixelated graphic grille",
+          "Pixelated LED reverse lamp",
+          "Pixelated LED reverse lamp – With multi color surround light",
+          "Charging port – With state-of-charge (SOC) indicator",
+          "Outside door handles – Body colour",
+          "Outside door handles – Body colour",
+          "Outside door mirrors – Silver",
+          "Shark fin antenna",
+          "Red brake calipers – Body Colour"
+        ],
+        "Interior": [
+          "Granite gray with dark navy (Dual Tone) interior",
+          "Floating console – Dark Navy Interior",
+          "Floating console – Fabric",
+          "Eco friendly seat upholstery – Steering wheel",
+          "Height adjustable headrest – Front",
+          "Height adjustable headrest – Rear",
+          "Height adjustable headrest – Manual seat height adjust",
+          "60:40 split rear seat",
+          "2-Step rear reclining seat",
+          "Rear seat headrest cushion – Metal Finish",
+          "Rear parcel tray",
+          "3 Spoke Steering wheel"
+        ],
+        "Comfort & convenience": [
+          "Voice enabled smart panoramic sunroof",
+          "Dual zone automatic temperature control (DATC) with touch function",
+          "Electric parking brake with auto hold",
+          "Drive Mode Select (Eco, Normal ,Sport)",
+          "Paddle shifters for adjustable regenerative braking",
+          "Cruise control",
+          "Smart key with push button start",
+          "Remote start with smart key",
+          "Remote start with smart key – Electrically adjustable",
+          "Outside mirror – Electric folding",
+          "Outside mirror – Auto folding",
+          "Front armrest with cooled storage",
+          "Open console storage with lamp",
+          "Rear centre armrest with cup holders",
+          "Electric tailgate release",
+          "Rear AC vents",
+          "Rear AC vents – Front",
+          "USB charger (C type) – Rear ( x1 )",
+          "Power outlet",
+          "Rear wiper and washer",
+          "Rear wiper and washer – Tilt function",
+          "Motor driven power steering – Telescopic function",
+          "LED Luggage lamp",
+          "LED Luggage lamp – Front",
+          "Power windows – Rear",
+          "Passenger vanity mirror",
+          "LED map lamps",
+          "LED reading lamp (Rear)",
+          "Sunglass holder",
+          "Shift By Wire (SBW) - column type",
+          "After-blow technology",
+          "Eco-coating"
+        ],
+        "Infotainment & connectivity": [
+          "26.03 cm (10.25\") Multi display digital cluster",
+          "26.03 cm (10.25”) HD audio video navigation system",
+          "Smartphone connectivity – Wireless Android Auto & Apple Carplay",
+          "Bluetooth connectivity",
+          "Voice recognition****",
+          "Steering wheel with audio & bluetooth controls",
+          "Front & rear speakers",
+          "Front tweeters",
+          "Hyundai Bluelink (connected car technology)",
+          "JioSaavn music streaming",
+          "In-car payment",
+          "Over-the-air (OTA) updates for map and infotainment",
+          "Home to car (H2C) with Alexa#",
+          "Portable charging cable"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "Creta 42 kWh Premium [HC]",
+      "trim": "Premium [HC]",
+      "brochure_trim": "Premium",
+      "fuel": "Electric",
+      "transmission": "Automatic (single-speed)",
+      "ex_showroom_surat": {
+        "standard": 2073500
+      },
+      "engine": null,
+      "specifications": {
+        "Dimensions": {
+          "Overall length (mm)": "4 340",
+          "Overall width (mm)": "1 790",
+          "Overall height (mm)": "1 655",
+          "Wheelbase (mm)": "2 610"
+        },
+        "Electric motor": {
+          "Traction motor (type)": "Interior permanent magnet synchronous motor (IPMSM)",
+          "Max power (kW (PS))": "99 (135)"
+        },
+        "High voltage battery": {
+          "Battery type": "Liquid cooled lithium ion battery pack",
+          "Capacity (kWh)": "42",
+          "Driving range (km)": "420"
+        },
+        "Charging": {
+          "Charging standard": "CCS2"
+        },
+        "Estimated AC fast charging time": {
+          "(SOC 10% to 100%)^^ from": "6 hrs"
+        },
+        "Estimated DC fast charging": {
+          "time^^ (SOC 10% to 80%)": "39 min"
+        },
+        "Transmission": {
+          "Type": "Single speed reduction gear"
+        },
+        "Suspension": {
+          "Front": "McPherson strut with coil spring",
+          "Rear": "Coupled torsion beam axle"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Disc"
+        },
+        "Wheel & tyre": {
+          "Tyre & wheel": "215/60 R17 (D=436.6 mm) Aero alloy wheel",
+          "Spare wheel": "215/60 R17 (D=436.6 mm) Steel wheel"
+        },
+        "1 655***": {
+          "1 790": "2 610"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Airbags – Driver & passenger",
+          "Airbags – Side & curtain",
+          "ABS (Anti-lock braking system) with EBD",
+          "Electronic stability control (ESC)",
+          "Vehicle stability management (VSM)",
+          "Hill-start assist control (HAC)",
+          "Hill descent control (HDC)",
+          "Tyre pressure monitoring system (TPMS) highline",
+          "Front & rear disc brakes",
+          "Seat belt pretensioners - driver & passenger",
+          "Driver anchor pretensioner",
+          "Height adjustable front seatbelts",
+          "3 Point seat belts (all seats)",
+          "Seatbelt reminder (all seats)",
+          "Child seat anchor (ISOFIX)",
+          "Emergency stop signal (ESS)",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Inside door handle override (Driver only)",
+          "Driver power window with auto up-down & safety",
+          "Immobilizer",
+          "Burglar alarm",
+          "Central locking",
+          "Central locking – Day and night mirror with telematics switches",
+          "Automatic headlamps",
+          "Headlamp escort function",
+          "Rear defogger with timer",
+          "Puddle lamps with (H logo) projection & welcome function - Driver Side",
+          "Puddle lamps with (H logo) projection & welcome function - Driver Side – Rear parking sensors",
+          "Parking assist – Rear camera with dynamic guidelines",
+          "Driver rear view monitor (DRVM)"
+        ],
+        "Exterior": [
+          "R17 (D=436.6 mm) Aero alloy wheels with Low Rolling Resistance (LRR) tyres"
+        ],
+        "Wheels": [
+          "Front & rear skid plate – Silver",
+          "Lightening arch C-Pillar – Silver",
+          "Lightening arch C-Pillar – Quad beam LED headlamp",
+          "Lightening arch C-Pillar – Horizon LED positioning lamp & DRLs",
+          "Lightening arch C-Pillar – LED High mounted stop lamp (HMSL)",
+          "Lighting – LED tail lamps",
+          "Lighting – Rear horizon LED lamp",
+          "Lighting – LED turn signal with sequential function",
+          "Lighting – LED turn indicators on outside mirrors",
+          "Active Air Flaps (AAF)",
+          "Active Air Flaps (AAF) – Silver",
+          "Pixelated graphic grille",
+          "Pixelated LED reverse lamp",
+          "Pixelated LED reverse lamp – With multi color surround light",
+          "Charging port – With state-of-charge (SOC) indicator",
+          "Outside door handles – Body colour",
+          "Outside door handles – Body colour",
+          "Outside door mirrors – Silver",
+          "Shark fin antenna",
+          "Red brake calipers – Body Colour",
+          "Rear spoiler – Lightening arch C pillar",
+          "Rear spoiler – Integrated roof rails",
+          "Dual tone pack (Black painted) – Oustide door mirrors",
+          "Dual tone pack (Black painted) – Rear spoiler"
+        ],
+        "Interior": [
+          "Granite gray with dark navy (Dual Tone) interior",
+          "Floating console – Dark Navy Interior",
+          "Floating console – Leather^",
+          "Eco friendly seat upholstery – Steering wheel",
+          "Leather^ pack – Door armrest",
+          "Height adjustable headrest – Front",
+          "Height adjustable headrest – Rear",
+          "Driver seat adjust – Electric 8 way",
+          "60:40 split rear seat",
+          "2-Step rear reclining seat",
+          "Rear window sunshade",
+          "Rear window sunshade – Floating console",
+          "Rear seat headrest cushion – Metal Finish",
+          "Rear parcel tray",
+          "3 Spoke Steering wheel"
+        ],
+        "Comfort & convenience": [
+          "Voice enabled smart panoramic sunroof",
+          "Dual zone automatic temperature control (DATC) with touch function",
+          "Front row ventilated seats",
+          "Electric parking brake with auto hold",
+          "Electric parking brake with auto hold – Front row",
+          "Drive Mode Select (Eco, Normal ,Sport)",
+          "Paddle shifters for adjustable regenerative braking",
+          "Cruise control",
+          "Smart key with push button start",
+          "Remote start with smart key",
+          "Remote start with smart key – Electrically adjustable",
+          "Outside mirror – Electric folding",
+          "Outside mirror – Auto folding",
+          "Front armrest with cooled storage",
+          "Open console storage with lamp",
+          "Rear centre armrest with cup holders",
+          "Electric tailgate release",
+          "Rear AC vents",
+          "Rear AC vents – Front",
+          "USB charger (C type) – Rear ( x2 )",
+          "Power outlet",
+          "Rear wiper and washer",
+          "Rear wiper and washer – Tilt function",
+          "Motor driven power steering – Telescopic function",
+          "LED Luggage lamp",
+          "LED Luggage lamp – Front",
+          "Power windows – Rear",
+          "Passenger vanity mirror",
+          "LED map lamps",
+          "LED reading lamp (Rear)",
+          "Sunglass holder",
+          "Front storage (FRUNK)",
+          "V2L (Vehicle-to-Load) : inside and outside",
+          "Shift By Wire (SBW) - column type",
+          "After-blow technology",
+          "Eco-coating"
+        ],
+        "Infotainment & connectivity": [
+          "26.03 cm (10.25\") Multi display digital cluster",
+          "26.03 cm (10.25”) HD audio video navigation system",
+          "Bose premium sound 8 speaker system with front central speaker & sub-woofer",
+          "Smartphone connectivity – Wireless Android Auto & Apple Carplay",
+          "Bluetooth connectivity",
+          "Voice recognition****",
+          "Steering wheel with audio & bluetooth controls",
+          "Front & rear speakers",
+          "Front tweeters",
+          "Hyundai Bluelink (connected car technology)",
+          "JioSaavn music streaming",
+          "In-car payment",
+          "Over-the-air (OTA) updates for map and infotainment",
+          "Home to car (H2C) with Alexa#",
+          "Portable charging cable"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "Creta 42 kWh Premium (HC)",
+      "trim": "Premium (HC)",
+      "brochure_trim": "Premium",
+      "fuel": "Electric",
+      "transmission": "Automatic (single-speed)",
+      "ex_showroom_surat": {
+        "dual_tone": 2088500
+      },
+      "engine": null,
+      "specifications": {
+        "Dimensions": {
+          "Overall length (mm)": "4 340",
+          "Overall width (mm)": "1 790",
+          "Overall height (mm)": "1 655",
+          "Wheelbase (mm)": "2 610"
+        },
+        "Electric motor": {
+          "Traction motor (type)": "Interior permanent magnet synchronous motor (IPMSM)",
+          "Max power (kW (PS))": "99 (135)"
+        },
+        "High voltage battery": {
+          "Battery type": "Liquid cooled lithium ion battery pack",
+          "Capacity (kWh)": "42",
+          "Driving range (km)": "420"
+        },
+        "Charging": {
+          "Charging standard": "CCS2"
+        },
+        "Estimated AC fast charging time": {
+          "(SOC 10% to 100%)^^ from": "6 hrs"
+        },
+        "Estimated DC fast charging": {
+          "time^^ (SOC 10% to 80%)": "39 min"
+        },
+        "Transmission": {
+          "Type": "Single speed reduction gear"
+        },
+        "Suspension": {
+          "Front": "McPherson strut with coil spring",
+          "Rear": "Coupled torsion beam axle"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Disc"
+        },
+        "Wheel & tyre": {
+          "Tyre & wheel": "215/60 R17 (D=436.6 mm) Aero alloy wheel",
+          "Spare wheel": "215/60 R17 (D=436.6 mm) Steel wheel"
+        },
+        "1 655***": {
+          "1 790": "2 610"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Airbags – Driver & passenger",
+          "Airbags – Side & curtain",
+          "ABS (Anti-lock braking system) with EBD",
+          "Electronic stability control (ESC)",
+          "Vehicle stability management (VSM)",
+          "Hill-start assist control (HAC)",
+          "Hill descent control (HDC)",
+          "Tyre pressure monitoring system (TPMS) highline",
+          "Front & rear disc brakes",
+          "Seat belt pretensioners - driver & passenger",
+          "Driver anchor pretensioner",
+          "Height adjustable front seatbelts",
+          "3 Point seat belts (all seats)",
+          "Seatbelt reminder (all seats)",
+          "Child seat anchor (ISOFIX)",
+          "Emergency stop signal (ESS)",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Inside door handle override (Driver only)",
+          "Driver power window with auto up-down & safety",
+          "Immobilizer",
+          "Burglar alarm",
+          "Central locking",
+          "Central locking – Day and night mirror with telematics switches",
+          "Automatic headlamps",
+          "Headlamp escort function",
+          "Rear defogger with timer",
+          "Puddle lamps with (H logo) projection & welcome function - Driver Side",
+          "Puddle lamps with (H logo) projection & welcome function - Driver Side – Rear parking sensors",
+          "Parking assist – Rear camera with dynamic guidelines",
+          "Driver rear view monitor (DRVM)"
+        ],
+        "Exterior": [
+          "R17 (D=436.6 mm) Aero alloy wheels with Low Rolling Resistance (LRR) tyres"
+        ],
+        "Wheels": [
+          "Front & rear skid plate – Silver",
+          "Lightening arch C-Pillar – Silver",
+          "Lightening arch C-Pillar – Quad beam LED headlamp",
+          "Lightening arch C-Pillar – Horizon LED positioning lamp & DRLs",
+          "Lightening arch C-Pillar – LED High mounted stop lamp (HMSL)",
+          "Lighting – LED tail lamps",
+          "Lighting – Rear horizon LED lamp",
+          "Lighting – LED turn signal with sequential function",
+          "Lighting – LED turn indicators on outside mirrors",
+          "Active Air Flaps (AAF)",
+          "Active Air Flaps (AAF) – Silver",
+          "Pixelated graphic grille",
+          "Pixelated LED reverse lamp",
+          "Pixelated LED reverse lamp – With multi color surround light",
+          "Charging port – With state-of-charge (SOC) indicator",
+          "Outside door handles – Body colour",
+          "Outside door handles – Body colour",
+          "Outside door mirrors – Silver",
+          "Shark fin antenna",
+          "Red brake calipers – Body Colour",
+          "Rear spoiler – Lightening arch C pillar",
+          "Rear spoiler – Integrated roof rails",
+          "Dual tone pack (Black painted) – Oustide door mirrors",
+          "Dual tone pack (Black painted) – Rear spoiler"
+        ],
+        "Interior": [
+          "Granite gray with dark navy (Dual Tone) interior",
+          "Floating console – Dark Navy Interior",
+          "Floating console – Leather^",
+          "Eco friendly seat upholstery – Steering wheel",
+          "Leather^ pack – Door armrest",
+          "Height adjustable headrest – Front",
+          "Height adjustable headrest – Rear",
+          "Driver seat adjust – Electric 8 way",
+          "60:40 split rear seat",
+          "2-Step rear reclining seat",
+          "Rear window sunshade",
+          "Rear window sunshade – Floating console",
+          "Rear seat headrest cushion – Metal Finish",
+          "Rear parcel tray",
+          "3 Spoke Steering wheel"
+        ],
+        "Comfort & convenience": [
+          "Voice enabled smart panoramic sunroof",
+          "Dual zone automatic temperature control (DATC) with touch function",
+          "Front row ventilated seats",
+          "Electric parking brake with auto hold",
+          "Electric parking brake with auto hold – Front row",
+          "Drive Mode Select (Eco, Normal ,Sport)",
+          "Paddle shifters for adjustable regenerative braking",
+          "Cruise control",
+          "Smart key with push button start",
+          "Remote start with smart key",
+          "Remote start with smart key – Electrically adjustable",
+          "Outside mirror – Electric folding",
+          "Outside mirror – Auto folding",
+          "Front armrest with cooled storage",
+          "Open console storage with lamp",
+          "Rear centre armrest with cup holders",
+          "Electric tailgate release",
+          "Rear AC vents",
+          "Rear AC vents – Front",
+          "USB charger (C type) – Rear ( x2 )",
+          "Power outlet",
+          "Rear wiper and washer",
+          "Rear wiper and washer – Tilt function",
+          "Motor driven power steering – Telescopic function",
+          "LED Luggage lamp",
+          "LED Luggage lamp – Front",
+          "Power windows – Rear",
+          "Passenger vanity mirror",
+          "LED map lamps",
+          "LED reading lamp (Rear)",
+          "Sunglass holder",
+          "Front storage (FRUNK)",
+          "V2L (Vehicle-to-Load) : inside and outside",
+          "Shift By Wire (SBW) - column type",
+          "After-blow technology",
+          "Eco-coating"
+        ],
+        "Infotainment & connectivity": [
+          "26.03 cm (10.25\") Multi display digital cluster",
+          "26.03 cm (10.25”) HD audio video navigation system",
+          "Bose premium sound 8 speaker system with front central speaker & sub-woofer",
+          "Smartphone connectivity – Wireless Android Auto & Apple Carplay",
+          "Bluetooth connectivity",
+          "Voice recognition****",
+          "Steering wheel with audio & bluetooth controls",
+          "Front & rear speakers",
+          "Front tweeters",
+          "Hyundai Bluelink (connected car technology)",
+          "JioSaavn music streaming",
+          "In-car payment",
+          "Over-the-air (OTA) updates for map and infotainment",
+          "Home to car (H2C) with Alexa#",
+          "Portable charging cable"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "Creta 42 kWh Excellence",
+      "trim": "Excellence",
+      "brochure_trim": "Excellence",
+      "fuel": "Electric",
+      "transmission": "Automatic (single-speed)",
+      "ex_showroom_surat": {
+        "standard": 2130500,
+        "dual_tone": 2145500
+      },
+      "engine": null,
+      "specifications": {
+        "Dimensions": {
+          "Overall length (mm)": "4 340",
+          "Overall width (mm)": "1 790",
+          "Overall height (mm)": "1 655",
+          "Wheelbase (mm)": "2 610"
+        },
+        "Electric motor": {
+          "Traction motor (type)": "Interior permanent magnet synchronous motor (IPMSM)",
+          "Max power (kW (PS))": "99 (135)"
+        },
+        "High voltage battery": {
+          "Battery type": "Liquid cooled lithium ion battery pack",
+          "Capacity (kWh)": "42",
+          "Driving range (km)": "420"
+        },
+        "Charging": {
+          "Charging standard": "CCS2"
+        },
+        "Estimated AC fast charging time": {
+          "(SOC 10% to 100%)^^ from": "6 hrs"
+        },
+        "Estimated DC fast charging": {
+          "time^^ (SOC 10% to 80%)": "39 min"
+        },
+        "Transmission": {
+          "Type": "Single speed reduction gear"
+        },
+        "Suspension": {
+          "Front": "McPherson strut with coil spring",
+          "Rear": "Coupled torsion beam axle"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Disc"
+        },
+        "Wheel & tyre": {
+          "Tyre & wheel": "215/60 R17 (D=436.6 mm) Aero alloy wheel",
+          "Spare wheel": "215/60 R17 (D=436.6 mm) Steel wheel"
+        },
+        "1 655***": {
+          "1 790": "2 610"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Airbags – Driver & passenger",
+          "Airbags – Side & curtain",
+          "ABS (Anti-lock braking system) with EBD",
+          "Electronic stability control (ESC)",
+          "Vehicle stability management (VSM)",
+          "Hill-start assist control (HAC)",
+          "Hill descent control (HDC)",
+          "Tyre pressure monitoring system (TPMS) highline",
+          "Front & rear disc brakes",
+          "Seat belt pretensioners - driver & passenger",
+          "Driver anchor pretensioner",
+          "Height adjustable front seatbelts",
+          "3 Point seat belts (all seats)",
+          "Seatbelt reminder (all seats)",
+          "Child seat anchor (ISOFIX)",
+          "Emergency stop signal (ESS)",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Inside door handle override (Driver only)",
+          "Driver power window with auto up-down & safety",
+          "Immobilizer",
+          "Burglar alarm",
+          "Central locking",
+          "Inside rear view mirror – Electro chromic mirror (ECM) with telematics switches",
+          "Automatic headlamps",
+          "Headlamp escort function",
+          "Rear defogger with timer",
+          "Puddle lamps with (H logo) projection & welcome function - Driver Side",
+          "Puddle lamps with (H logo) projection & welcome function - Driver Side – Rear parking sensors",
+          "Parking assist – Rear camera with dynamic guidelines",
+          "Parking assist – Front parking sensors",
+          "Driver rear view monitor (DRVM)",
+          "Driver rear view monitor (DRVM) – Forward Collision Warning (FCW)",
+          "Driver rear view monitor (DRVM) – Forward Collision - Avoidance Assist - Car (FCA-Car)",
+          "Driver rear view monitor (DRVM) – Forward Collision - Avoidance Assist - Pedestrian (FCA-Ped)",
+          "Driver rear view monitor (DRVM) – Forward Collision - Avoidance Assist - Cycle (FCA-Cyl)",
+          "Driver rear view monitor (DRVM) – Forward Collision - Avoidance Assist - Junction Turning (FCA-JT)",
+          "Driver rear view monitor (DRVM) – Blind-spot Collision Warning (BCW)",
+          "Driver rear view monitor (DRVM) – Blind-spot Collision - Avoidance Assist (BCA)",
+          "Hyundai Smartsense – Lane Keeping Assist (LKA)",
+          "(Advanced Driver Assistance System) – Lane Departure Warning (LDW)",
+          "(Advanced Driver Assistance System) – Driver Attention Warning (DAW)",
+          "(Advanced Driver Assistance System) – Safe Exit Warning (SEW)",
+          "(Advanced Driver Assistance System) – Smart Cruise Control with Stop & Go (SCC with S&G)",
+          "(Advanced Driver Assistance System) – Lane Following Assist (LFA)",
+          "(Advanced Driver Assistance System) – High Beam Assist (HBA)",
+          "(Advanced Driver Assistance System) – Leading Vehicle Departure Alert (LVDA)",
+          "(Advanced Driver Assistance System) – Rear Cross - Traffic Collision Warning (RCCW)",
+          "(Advanced Driver Assistance System) – Rear Cross - Traffic Collision - Avoidance Assist (RCCA)",
+          "(Advanced Driver Assistance System) – Surround view monitor (SVM)",
+          "(Advanced Driver Assistance System) – Blind - spot view monitor (BVM)"
+        ],
+        "Exterior": [
+          "R17 (D=436.6 mm) Aero alloy wheels with Low Rolling Resistance (LRR) tyres"
+        ],
+        "Wheels": [
+          "Front & rear skid plate – Silver",
+          "Lightening arch C-Pillar – Silver",
+          "Lightening arch C-Pillar – Quad beam LED headlamp",
+          "Lightening arch C-Pillar – Horizon LED positioning lamp & DRLs",
+          "Lightening arch C-Pillar – LED High mounted stop lamp (HMSL)",
+          "Lighting – LED tail lamps",
+          "Lighting – Rear horizon LED lamp",
+          "Lighting – LED turn signal with sequential function",
+          "Lighting – LED turn indicators on outside mirrors",
+          "Active Air Flaps (AAF)",
+          "Active Air Flaps (AAF) – Silver",
+          "Pixelated graphic grille",
+          "Pixelated LED reverse lamp",
+          "Pixelated LED reverse lamp – With multi color surround light",
+          "Charging port – With state-of-charge (SOC) indicator",
+          "Outside door handles – Body colour",
+          "Outside door handles – Body colour",
+          "Outside door mirrors – Silver",
+          "Shark fin antenna",
+          "Red brake calipers – Body Colour",
+          "Rear spoiler – Lightening arch C pillar",
+          "Rear spoiler – Integrated roof rails",
+          "Dual tone pack (Black painted) – Oustide door mirrors",
+          "Dual tone pack (Black painted) – Rear spoiler"
+        ],
+        "Interior": [
+          "Granite gray with dark navy (Dual Tone) interior",
+          "Floating console – Dark Navy Interior",
+          "Floating console – Leather^",
+          "Eco friendly seat upholstery – Steering wheel",
+          "Leather^ pack – Door armrest",
+          "Height adjustable headrest – Front",
+          "Height adjustable headrest – Rear",
+          "Driver seat adjust – Electric 8 way",
+          "Passenger seat adjust – Electric 8 way",
+          "Powered driver memory seat with welcome retract",
+          "Powered passenger seat walk-in device",
+          "60:40 split rear seat",
+          "2-Step rear reclining seat",
+          "Rear window sunshade",
+          "Rear window sunshade – Floating console",
+          "Soothing Ocean blue ambient light – Crashpad",
+          "Rear seat headrest cushion – Metal Finish",
+          "Rear parcel tray",
+          "3 Spoke Steering wheel"
+        ],
+        "Comfort & convenience": [
+          "Voice enabled smart panoramic sunroof",
+          "Dual zone automatic temperature control (DATC) with touch function",
+          "Front row ventilated seats",
+          "Electric parking brake with auto hold",
+          "Electric parking brake with auto hold – Front row",
+          "Drive Mode Select (Eco, Normal ,Sport)",
+          "Paddle shifters for adjustable regenerative braking",
+          "ADAS linked regenerative braking system",
+          "Cruise control",
+          "Smart key with push button start",
+          "Remote start with smart key",
+          "Remote start with smart key – Electrically adjustable",
+          "Outside mirror – Electric folding",
+          "Outside mirror – Auto folding",
+          "Front armrest with cooled storage",
+          "Open console storage with lamp",
+          "Rear centre armrest with cup holders",
+          "Electric tailgate release",
+          "Rear AC vents",
+          "Rear AC vents – Front",
+          "USB charger (C type) – Rear ( x2 )",
+          "Power outlet",
+          "Rear wiper and washer",
+          "Rear wiper and washer – Tilt function",
+          "Motor driven power steering – Telescopic function",
+          "LED Luggage lamp",
+          "LED Luggage lamp – Front",
+          "Power windows – Rear",
+          "Passenger vanity mirror",
+          "LED map lamps",
+          "LED reading lamp (Rear)",
+          "Sunglass holder",
+          "Glovebox cooling",
+          "Front storage (FRUNK)",
+          "V2L (Vehicle-to-Load) : inside and outside",
+          "Shift By Wire (SBW) - column type",
+          "Virtual engine sound system (VESS)",
+          "Foldable seatback table with IT device holder & retractable cup-holder for 2nd row occupants LH side",
+          "Rain sensing wipers",
+          "After-blow technology",
+          "Eco-coating"
+        ],
+        "Infotainment & connectivity": [
+          "26.03 cm (10.25\") Multi display digital cluster",
+          "26.03 cm (10.25”) HD audio video navigation system",
+          "Bose premium sound 8 speaker system with front central speaker & sub-woofer",
+          "Smartphone connectivity – Wireless Android Auto & Apple Carplay",
+          "Bluetooth connectivity",
+          "Voice recognition****",
+          "Steering wheel with audio & bluetooth controls",
+          "Front & rear speakers",
+          "Front tweeters",
+          "Hyundai Bluelink (connected car technology)",
+          "JioSaavn music streaming",
+          "In-car payment",
+          "Over-the-air (OTA) updates for map and infotainment",
+          "Home to car (H2C) with Alexa#",
+          "Portable charging cable"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "Creta 42 kWh Excellence Knight Edition",
+      "trim": "Excellence Knight Edition",
+      "brochure_trim": "Excellence Knight",
+      "fuel": "Electric",
+      "transmission": "Automatic (single-speed)",
+      "ex_showroom_surat": {
+        "standard": 2145400,
+        "dual_tone": 2160400
+      },
+      "engine": null,
+      "specifications": {
+        "Dimensions": {
+          "Overall length (mm)": "4 340",
+          "Overall width (mm)": "1 790",
+          "Overall height (mm)": "1 655",
+          "Wheelbase (mm)": "2 610"
+        },
+        "Electric motor": {
+          "Traction motor (type)": "Interior permanent magnet synchronous motor (IPMSM)",
+          "Max power (kW (PS))": "99 (135)"
+        },
+        "High voltage battery": {
+          "Battery type": "Liquid cooled lithium ion battery pack",
+          "Capacity (kWh)": "42",
+          "Driving range (km)": "420"
+        },
+        "Charging": {
+          "Charging standard": "CCS2"
+        },
+        "Estimated AC fast charging time": {
+          "(SOC 10% to 100%)^^ from": "6 hrs"
+        },
+        "Estimated DC fast charging": {
+          "time^^ (SOC 10% to 80%)": "39 min"
+        },
+        "Transmission": {
+          "Type": "Single speed reduction gear"
+        },
+        "Suspension": {
+          "Front": "McPherson strut with coil spring",
+          "Rear": "Coupled torsion beam axle"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Disc"
+        },
+        "Wheel & tyre": {
+          "Tyre & wheel": "215/60 R17 (D=436.6 mm) Aero alloy wheel",
+          "Spare wheel": "215/60 R17 (D=436.6 mm) Steel wheel"
+        },
+        "1 655***": {
+          "1 790": "2 610"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Airbags – Driver & passenger",
+          "Airbags – Side & curtain",
+          "Dashcam",
+          "ABS (Anti-lock braking system) with EBD",
+          "Electronic stability control (ESC)",
+          "Vehicle stability management (VSM)",
+          "Hill-start assist control (HAC)",
+          "Hill descent control (HDC)",
+          "Tyre pressure monitoring system (TPMS) highline",
+          "Front & rear disc brakes",
+          "Seat belt pretensioners - driver & passenger",
+          "Driver anchor pretensioner",
+          "Height adjustable front seatbelts",
+          "3 Point seat belts (all seats)",
+          "Seatbelt reminder (all seats)",
+          "Child seat anchor (ISOFIX)",
+          "Emergency stop signal (ESS)",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Inside door handle override (Driver only)",
+          "Driver power window with auto up-down & safety",
+          "Immobilizer",
+          "Burglar alarm",
+          "Central locking",
+          "Inside rear view mirror – Electro chromic mirror (ECM) with telematics switches",
+          "Automatic headlamps",
+          "Headlamp escort function",
+          "Rear defogger with timer",
+          "Puddle lamps with (H logo) projection & welcome function - Driver Side",
+          "Puddle lamps with (H logo) projection & welcome function - Driver Side – Rear parking sensors",
+          "Parking assist – Rear camera with dynamic guidelines",
+          "Parking assist – Front parking sensors",
+          "Driver rear view monitor (DRVM)",
+          "Driver rear view monitor (DRVM) – Forward Collision Warning (FCW)",
+          "Driver rear view monitor (DRVM) – Forward Collision - Avoidance Assist - Car (FCA-Car)",
+          "Driver rear view monitor (DRVM) – Forward Collision - Avoidance Assist - Pedestrian (FCA-Ped)",
+          "Driver rear view monitor (DRVM) – Forward Collision - Avoidance Assist - Cycle (FCA-Cyl)",
+          "Driver rear view monitor (DRVM) – Forward Collision - Avoidance Assist - Junction Turning (FCA-JT)",
+          "Driver rear view monitor (DRVM) – Blind-spot Collision Warning (BCW)",
+          "Driver rear view monitor (DRVM) – Blind-spot Collision - Avoidance Assist (BCA)",
+          "Hyundai Smartsense – Lane Keeping Assist (LKA)",
+          "(Advanced Driver Assistance System) – Lane Departure Warning (LDW)",
+          "(Advanced Driver Assistance System) – Driver Attention Warning (DAW)",
+          "(Advanced Driver Assistance System) – Safe Exit Warning (SEW)",
+          "(Advanced Driver Assistance System) – Smart Cruise Control with Stop & Go (SCC with S&G)",
+          "(Advanced Driver Assistance System) – Lane Following Assist (LFA)",
+          "(Advanced Driver Assistance System) – High Beam Assist (HBA)",
+          "(Advanced Driver Assistance System) – Leading Vehicle Departure Alert (LVDA)",
+          "(Advanced Driver Assistance System) – Rear Cross - Traffic Collision Warning (RCCW)",
+          "(Advanced Driver Assistance System) – Rear Cross - Traffic Collision - Avoidance Assist (RCCA)",
+          "(Advanced Driver Assistance System) – Surround view monitor (SVM)",
+          "(Advanced Driver Assistance System) – Blind - spot view monitor (BVM)"
+        ],
+        "Wheels": [
+          "R17 (D=436.6 mm) Black Aero alloy wheels with Low Rolling Resistance (LRR) tyres",
+          "Front & rear skid plate – Black painted",
+          "Lightening arch C-Pillar – Black painted",
+          "Lightening arch C-Pillar – Quad beam LED headlamp",
+          "Lightening arch C-Pillar – Horizon LED positioning lamp & DRLs",
+          "Lightening arch C-Pillar – LED High mounted stop lamp (HMSL)",
+          "Lighting – LED tail lamps",
+          "Lighting – Rear horizon LED lamp",
+          "Lighting – LED turn signal with sequential function",
+          "Lighting – LED turn indicators on outside mirrors",
+          "Active Air Flaps (AAF)",
+          "Integrated Roof Rails – Black Painted",
+          "Pixelated graphic grille",
+          "Pixelated LED reverse lamp",
+          "Pixelated LED reverse lamp – With multi color surround light",
+          "Charging port – With state-of-charge (SOC) indicator",
+          "Outside door handles – Body colour",
+          "Outside door mirrors – Black Painted",
+          "Side sill garnish – Black Painted",
+          "Shark fin antenna",
+          "Exclusive Knight emblem",
+          "Exclusive Knight emblem – Front",
+          "Red brake calipers – Rear",
+          "Rear spoiler – Black Painted",
+          "Rear spoiler – Lightening arch C pillar",
+          "Rear spoiler – Integrated roof rails",
+          "Dual tone pack (Black painted) – Oustide door mirrors",
+          "Dual tone pack (Black painted) – Rear spoiler"
+        ],
+        "Interior": [
+          "Interiors – All Black Interiors with brass coloured inserts",
+          "Floating console – All Black Interior",
+          "Floating console – Leather^",
+          "Eco friendly seat upholstery – Exclusive Black Leather* Seat Upholstery with brass colored highlights",
+          "Eco friendly seat upholstery – Steering wheel",
+          "Leather^ pack – Door armrest",
+          "Height adjustable headrest – Front",
+          "Height adjustable headrest – Rear",
+          "Driver seat adjust – Electric 8 way",
+          "Sporty metal pedal",
+          "Passenger seat adjust – Electric 8 way",
+          "Powered driver memory seat with welcome retract",
+          "Powered passenger seat walk-in device",
+          "60:40 split rear seat",
+          "2-Step rear reclining seat",
+          "Rear window sunshade",
+          "Soothing Ocean blue ambient light – Floating console",
+          "Amber ambient light – Crashpad",
+          "Inside door handles – Dark metallic finish",
+          "Rear parcel tray",
+          "3 Spoke Steering wheel"
+        ],
+        "Comfort & convenience": [
+          "Voice enabled smart panoramic sunroof",
+          "Dual zone automatic temperature control (DATC) with touch function",
+          "Front row ventilated seats",
+          "Electric parking brake with auto hold",
+          "Electric parking brake with auto hold – Front row",
+          "Smartphone wireless charger **** – 2nd row",
+          "Drive Mode Select (Eco, Normal ,Sport)",
+          "Paddle shifters for adjustable regenerative braking",
+          "ADAS linked regenerative braking system",
+          "Cruise control",
+          "Smart key with push button start",
+          "Remote start with smart key",
+          "Remote start with smart key – Electrically adjustable",
+          "Outside mirror – Electric folding",
+          "Outside mirror – Auto folding",
+          "Front armrest with cooled storage",
+          "Open console storage with lamp",
+          "Rear centre armrest with cup holders",
+          "Electric tailgate release",
+          "Rear AC vents",
+          "Rear AC vents – Front",
+          "USB charger (C type) – Rear ( x2 )",
+          "Power outlet",
+          "Rear wiper and washer",
+          "Rear wiper and washer – Tilt function",
+          "Motor driven power steering – Telescopic function",
+          "LED Luggage lamp",
+          "LED Luggage lamp – Front",
+          "Power windows – Rear",
+          "Passenger vanity mirror",
+          "LED map lamps",
+          "LED reading lamp (Rear)",
+          "Sunglass holder",
+          "Glovebox cooling",
+          "Front storage (FRUNK)",
+          "V2L (Vehicle-to-Load) : inside and outside",
+          "Shift By Wire (SBW) - column type",
+          "Virtual engine sound system (VESS)",
+          "Foldable seatback table with IT device holder & retractable cup-holder for 2nd row occupants LH side",
+          "Rain sensing wipers",
+          "After-blow technology",
+          "Eco-coating"
+        ],
+        "Infotainment & connectivity": [
+          "26.03 cm (10.25\") Multi display digital cluster",
+          "26.03 cm (10.25”) HD audio video navigation system",
+          "Bose premium sound 8 speaker system with front central speaker & sub-woofer",
+          "Smartphone connectivity – Wireless Android Auto & Apple Carplay",
+          "Bluetooth connectivity",
+          "Voice recognition****",
+          "Steering wheel with audio & bluetooth controls",
+          "Front & rear speakers",
+          "Front tweeters",
+          "Hyundai Bluelink (connected car technology)",
+          "JioSaavn music streaming",
+          "In-car payment",
+          "Over-the-air (OTA) updates for map and infotainment",
+          "Home to car (H2C) with Alexa#",
+          "Portable charging cable"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "Creta 51.4 kWh Smart (O) LR",
+      "trim": "Smart (O) LR",
+      "brochure_trim": "Smart (O) LR",
+      "fuel": "Electric",
+      "transmission": "Automatic (single-speed)",
+      "ex_showroom_surat": {
+        "standard": 2153700
+      },
+      "engine": null,
+      "specifications": {
+        "Dimensions": {
+          "Overall length (mm)": "4 340",
+          "Overall width (mm)": "1 790",
+          "Overall height (mm)": "1 655",
+          "Wheelbase (mm)": "2 610"
+        },
+        "Electric motor": {
+          "Traction motor (type)": "Interior permanent magnet synchronous motor (IPMSM)",
+          "Max power (kW (PS))": "126 (171)"
+        },
+        "High voltage battery": {
+          "Battery type": "Liquid cooled lithium ion battery pack",
+          "Capacity (kWh)": "51.4",
+          "Driving range (km)": "510"
+        },
+        "Charging": {
+          "Charging standard": "CCS2"
+        },
+        "Estimated AC fast charging time": {
+          "(SOC 10% to 100%)^^ from": "7 hrs 15 min"
+        },
+        "Estimated DC fast charging": {
+          "time^^ (SOC 10% to 80%)": "39 min"
+        },
+        "Transmission": {
+          "Type": "Single speed reduction gear"
+        },
+        "Suspension": {
+          "Front": "McPherson strut with coil spring",
+          "Rear": "Coupled torsion beam axle"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Disc"
+        },
+        "Wheel & tyre": {
+          "Tyre & wheel": "215/60 R17 (D=436.6 mm) Aero alloy wheel",
+          "Spare wheel": "215/60 R17 (D=436.6 mm) Steel wheel"
+        },
+        "1 655***": {
+          "1 790": "2 610"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Airbags – Driver & passenger",
+          "Airbags – Side & curtain",
+          "ABS (Anti-lock braking system) with EBD",
+          "Electronic stability control (ESC)",
+          "Vehicle stability management (VSM)",
+          "Hill-start assist control (HAC)",
+          "Hill descent control (HDC)",
+          "Tyre pressure monitoring system (TPMS) highline",
+          "Front & rear disc brakes",
+          "Seat belt pretensioners - driver & passenger",
+          "Driver anchor pretensioner",
+          "Height adjustable front seatbelts",
+          "3 Point seat belts (all seats)",
+          "Seatbelt reminder (all seats)",
+          "Child seat anchor (ISOFIX)",
+          "Emergency stop signal (ESS)",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Inside door handle override (Driver only)",
+          "Driver power window with auto up-down & safety",
+          "Immobilizer",
+          "Burglar alarm",
+          "Central locking",
+          "Central locking – Day and night mirror with telematics switches",
+          "Automatic headlamps",
+          "Headlamp escort function",
+          "Rear defogger with timer",
+          "Puddle lamps with (H logo) projection & welcome function - Driver Side",
+          "Puddle lamps with (H logo) projection & welcome function - Driver Side – Rear parking sensors",
+          "Parking assist – Rear camera with dynamic guidelines",
+          "Driver rear view monitor (DRVM)"
+        ],
+        "Exterior": [
+          "R17 (D=436.6 mm) Aero alloy wheels with Low Rolling Resistance (LRR) tyres"
+        ],
+        "Wheels": [
+          "Front & rear skid plate – Silver",
+          "Lightening arch C-Pillar – Silver",
+          "Lightening arch C-Pillar – Quad beam LED headlamp",
+          "Lightening arch C-Pillar – Horizon LED positioning lamp & DRLs",
+          "Lightening arch C-Pillar – LED High mounted stop lamp (HMSL)",
+          "Lighting – LED tail lamps",
+          "Lighting – Rear horizon LED lamp",
+          "Lighting – LED turn signal with sequential function",
+          "Lighting – LED turn indicators on outside mirrors",
+          "Active Air Flaps (AAF)",
+          "Active Air Flaps (AAF) – Silver",
+          "Pixelated graphic grille",
+          "Pixelated LED reverse lamp",
+          "Pixelated LED reverse lamp – With multi color surround light",
+          "Charging port – With state-of-charge (SOC) indicator",
+          "Outside door handles – Body colour",
+          "Outside door handles – Body colour",
+          "Outside door mirrors – Silver",
+          "Shark fin antenna",
+          "Red brake calipers – Body Colour"
+        ],
+        "Interior": [
+          "Granite gray with dark navy (Dual Tone) interior",
+          "Floating console – Dark Navy Interior",
+          "Floating console – Fabric",
+          "Eco friendly seat upholstery – Steering wheel",
+          "Height adjustable headrest – Front",
+          "Height adjustable headrest – Rear",
+          "Driver seat adjust – Electric 6 way",
+          "60:40 split rear seat",
+          "2-Step rear reclining seat",
+          "Rear window sunshade",
+          "Rear window sunshade – Floating console",
+          "Rear seat headrest cushion – Metal Finish",
+          "Rear parcel tray",
+          "3 Spoke Steering wheel"
+        ],
+        "Comfort & convenience": [
+          "Voice enabled smart panoramic sunroof",
+          "Dual zone automatic temperature control (DATC) with touch function",
+          "Electric parking brake with auto hold",
+          "Electric parking brake with auto hold – Front row",
+          "Drive Mode Select (Eco, Normal ,Sport)",
+          "Paddle shifters for adjustable regenerative braking",
+          "Cruise control",
+          "Smart key with push button start",
+          "Remote start with smart key",
+          "Remote start with smart key – Electrically adjustable",
+          "Outside mirror – Electric folding",
+          "Outside mirror – Auto folding",
+          "Front armrest with cooled storage",
+          "Open console storage with lamp",
+          "Rear centre armrest with cup holders",
+          "Electric tailgate release",
+          "Rear AC vents",
+          "Rear AC vents – Front",
+          "USB charger (C type) – Rear ( x1 )",
+          "Power outlet",
+          "Rear wiper and washer",
+          "Rear wiper and washer – Tilt function",
+          "Motor driven power steering – Telescopic function",
+          "LED Luggage lamp",
+          "LED Luggage lamp – Front",
+          "Power windows – Rear",
+          "Passenger vanity mirror",
+          "LED map lamps",
+          "LED reading lamp (Rear)",
+          "Sunglass holder",
+          "Front storage (FRUNK)",
+          "Shift By Wire (SBW) - column type",
+          "After-blow technology",
+          "Eco-coating"
+        ],
+        "Infotainment & connectivity": [
+          "26.03 cm (10.25\") Multi display digital cluster",
+          "26.03 cm (10.25”) HD audio video navigation system",
+          "Smartphone connectivity – Wireless Android Auto & Apple Carplay",
+          "Bluetooth connectivity",
+          "Voice recognition****",
+          "Steering wheel with audio & bluetooth controls",
+          "Front & rear speakers",
+          "Front tweeters",
+          "Hyundai Bluelink (connected car technology)",
+          "JioSaavn music streaming",
+          "In-car payment",
+          "Over-the-air (OTA) updates for map and infotainment",
+          "Home to car (H2C) with Alexa#",
+          "Portable charging cable"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "Creta 42 kWh Excellence (HC)",
+      "trim": "Excellence (HC)",
+      "brochure_trim": "Excellence",
+      "fuel": "Electric",
+      "transmission": "Automatic (single-speed)",
+      "ex_showroom_surat": {
+        "standard": 2203500,
+        "dual_tone": 2218500
+      },
+      "engine": null,
+      "specifications": {
+        "Dimensions": {
+          "Overall length (mm)": "4 340",
+          "Overall width (mm)": "1 790",
+          "Overall height (mm)": "1 655",
+          "Wheelbase (mm)": "2 610"
+        },
+        "Electric motor": {
+          "Traction motor (type)": "Interior permanent magnet synchronous motor (IPMSM)",
+          "Max power (kW (PS))": "99 (135)"
+        },
+        "High voltage battery": {
+          "Battery type": "Liquid cooled lithium ion battery pack",
+          "Capacity (kWh)": "42",
+          "Driving range (km)": "420"
+        },
+        "Charging": {
+          "Charging standard": "CCS2"
+        },
+        "Estimated AC fast charging time": {
+          "(SOC 10% to 100%)^^ from": "6 hrs"
+        },
+        "Estimated DC fast charging": {
+          "time^^ (SOC 10% to 80%)": "39 min"
+        },
+        "Transmission": {
+          "Type": "Single speed reduction gear"
+        },
+        "Suspension": {
+          "Front": "McPherson strut with coil spring",
+          "Rear": "Coupled torsion beam axle"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Disc"
+        },
+        "Wheel & tyre": {
+          "Tyre & wheel": "215/60 R17 (D=436.6 mm) Aero alloy wheel",
+          "Spare wheel": "215/60 R17 (D=436.6 mm) Steel wheel"
+        },
+        "1 655***": {
+          "1 790": "2 610"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Airbags – Driver & passenger",
+          "Airbags – Side & curtain",
+          "ABS (Anti-lock braking system) with EBD",
+          "Electronic stability control (ESC)",
+          "Vehicle stability management (VSM)",
+          "Hill-start assist control (HAC)",
+          "Hill descent control (HDC)",
+          "Tyre pressure monitoring system (TPMS) highline",
+          "Front & rear disc brakes",
+          "Seat belt pretensioners - driver & passenger",
+          "Driver anchor pretensioner",
+          "Height adjustable front seatbelts",
+          "3 Point seat belts (all seats)",
+          "Seatbelt reminder (all seats)",
+          "Child seat anchor (ISOFIX)",
+          "Emergency stop signal (ESS)",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Inside door handle override (Driver only)",
+          "Driver power window with auto up-down & safety",
+          "Immobilizer",
+          "Burglar alarm",
+          "Central locking",
+          "Inside rear view mirror – Electro chromic mirror (ECM) with telematics switches",
+          "Automatic headlamps",
+          "Headlamp escort function",
+          "Rear defogger with timer",
+          "Puddle lamps with (H logo) projection & welcome function - Driver Side",
+          "Puddle lamps with (H logo) projection & welcome function - Driver Side – Rear parking sensors",
+          "Parking assist – Rear camera with dynamic guidelines",
+          "Parking assist – Front parking sensors",
+          "Driver rear view monitor (DRVM)",
+          "Driver rear view monitor (DRVM) – Forward Collision Warning (FCW)",
+          "Driver rear view monitor (DRVM) – Forward Collision - Avoidance Assist - Car (FCA-Car)",
+          "Driver rear view monitor (DRVM) – Forward Collision - Avoidance Assist - Pedestrian (FCA-Ped)",
+          "Driver rear view monitor (DRVM) – Forward Collision - Avoidance Assist - Cycle (FCA-Cyl)",
+          "Driver rear view monitor (DRVM) – Forward Collision - Avoidance Assist - Junction Turning (FCA-JT)",
+          "Driver rear view monitor (DRVM) – Blind-spot Collision Warning (BCW)",
+          "Driver rear view monitor (DRVM) – Blind-spot Collision - Avoidance Assist (BCA)",
+          "Hyundai Smartsense – Lane Keeping Assist (LKA)",
+          "(Advanced Driver Assistance System) – Lane Departure Warning (LDW)",
+          "(Advanced Driver Assistance System) – Driver Attention Warning (DAW)",
+          "(Advanced Driver Assistance System) – Safe Exit Warning (SEW)",
+          "(Advanced Driver Assistance System) – Smart Cruise Control with Stop & Go (SCC with S&G)",
+          "(Advanced Driver Assistance System) – Lane Following Assist (LFA)",
+          "(Advanced Driver Assistance System) – High Beam Assist (HBA)",
+          "(Advanced Driver Assistance System) – Leading Vehicle Departure Alert (LVDA)",
+          "(Advanced Driver Assistance System) – Rear Cross - Traffic Collision Warning (RCCW)",
+          "(Advanced Driver Assistance System) – Rear Cross - Traffic Collision - Avoidance Assist (RCCA)",
+          "(Advanced Driver Assistance System) – Surround view monitor (SVM)",
+          "(Advanced Driver Assistance System) – Blind - spot view monitor (BVM)"
+        ],
+        "Exterior": [
+          "R17 (D=436.6 mm) Aero alloy wheels with Low Rolling Resistance (LRR) tyres"
+        ],
+        "Wheels": [
+          "Front & rear skid plate – Silver",
+          "Lightening arch C-Pillar – Silver",
+          "Lightening arch C-Pillar – Quad beam LED headlamp",
+          "Lightening arch C-Pillar – Horizon LED positioning lamp & DRLs",
+          "Lightening arch C-Pillar – LED High mounted stop lamp (HMSL)",
+          "Lighting – LED tail lamps",
+          "Lighting – Rear horizon LED lamp",
+          "Lighting – LED turn signal with sequential function",
+          "Lighting – LED turn indicators on outside mirrors",
+          "Active Air Flaps (AAF)",
+          "Active Air Flaps (AAF) – Silver",
+          "Pixelated graphic grille",
+          "Pixelated LED reverse lamp",
+          "Pixelated LED reverse lamp – With multi color surround light",
+          "Charging port – With state-of-charge (SOC) indicator",
+          "Outside door handles – Body colour",
+          "Outside door handles – Body colour",
+          "Outside door mirrors – Silver",
+          "Shark fin antenna",
+          "Red brake calipers – Body Colour",
+          "Rear spoiler – Lightening arch C pillar",
+          "Rear spoiler – Integrated roof rails",
+          "Dual tone pack (Black painted) – Oustide door mirrors",
+          "Dual tone pack (Black painted) – Rear spoiler"
+        ],
+        "Interior": [
+          "Granite gray with dark navy (Dual Tone) interior",
+          "Floating console – Dark Navy Interior",
+          "Floating console – Leather^",
+          "Eco friendly seat upholstery – Steering wheel",
+          "Leather^ pack – Door armrest",
+          "Height adjustable headrest – Front",
+          "Height adjustable headrest – Rear",
+          "Driver seat adjust – Electric 8 way",
+          "Passenger seat adjust – Electric 8 way",
+          "Powered driver memory seat with welcome retract",
+          "Powered passenger seat walk-in device",
+          "60:40 split rear seat",
+          "2-Step rear reclining seat",
+          "Rear window sunshade",
+          "Rear window sunshade – Floating console",
+          "Soothing Ocean blue ambient light – Crashpad",
+          "Rear seat headrest cushion – Metal Finish",
+          "Rear parcel tray",
+          "3 Spoke Steering wheel"
+        ],
+        "Comfort & convenience": [
+          "Voice enabled smart panoramic sunroof",
+          "Dual zone automatic temperature control (DATC) with touch function",
+          "Front row ventilated seats",
+          "Electric parking brake with auto hold",
+          "Electric parking brake with auto hold – Front row",
+          "Drive Mode Select (Eco, Normal ,Sport)",
+          "Paddle shifters for adjustable regenerative braking",
+          "ADAS linked regenerative braking system",
+          "Cruise control",
+          "Smart key with push button start",
+          "Remote start with smart key",
+          "Remote start with smart key – Electrically adjustable",
+          "Outside mirror – Electric folding",
+          "Outside mirror – Auto folding",
+          "Front armrest with cooled storage",
+          "Open console storage with lamp",
+          "Rear centre armrest with cup holders",
+          "Electric tailgate release",
+          "Rear AC vents",
+          "Rear AC vents – Front",
+          "USB charger (C type) – Rear ( x2 )",
+          "Power outlet",
+          "Rear wiper and washer",
+          "Rear wiper and washer – Tilt function",
+          "Motor driven power steering – Telescopic function",
+          "LED Luggage lamp",
+          "LED Luggage lamp – Front",
+          "Power windows – Rear",
+          "Passenger vanity mirror",
+          "LED map lamps",
+          "LED reading lamp (Rear)",
+          "Sunglass holder",
+          "Glovebox cooling",
+          "Front storage (FRUNK)",
+          "V2L (Vehicle-to-Load) : inside and outside",
+          "Shift By Wire (SBW) - column type",
+          "Virtual engine sound system (VESS)",
+          "Foldable seatback table with IT device holder & retractable cup-holder for 2nd row occupants LH side",
+          "Rain sensing wipers",
+          "After-blow technology",
+          "Eco-coating"
+        ],
+        "Infotainment & connectivity": [
+          "26.03 cm (10.25\") Multi display digital cluster",
+          "26.03 cm (10.25”) HD audio video navigation system",
+          "Bose premium sound 8 speaker system with front central speaker & sub-woofer",
+          "Smartphone connectivity – Wireless Android Auto & Apple Carplay",
+          "Bluetooth connectivity",
+          "Voice recognition****",
+          "Steering wheel with audio & bluetooth controls",
+          "Front & rear speakers",
+          "Front tweeters",
+          "Hyundai Bluelink (connected car technology)",
+          "JioSaavn music streaming",
+          "In-car payment",
+          "Over-the-air (OTA) updates for map and infotainment",
+          "Home to car (H2C) with Alexa#",
+          "Portable charging cable"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "Creta 42 kWh Excellence (HC) Knight Edition",
+      "trim": "Excellence (HC) Knight Edition",
+      "brochure_trim": "Excellence Knight",
+      "fuel": "Electric",
+      "transmission": "Automatic (single-speed)",
+      "ex_showroom_surat": {
+        "standard": 2218400,
+        "dual_tone": 2233400
+      },
+      "engine": null,
+      "specifications": {
+        "Dimensions": {
+          "Overall length (mm)": "4 340",
+          "Overall width (mm)": "1 790",
+          "Overall height (mm)": "1 655",
+          "Wheelbase (mm)": "2 610"
+        },
+        "Electric motor": {
+          "Traction motor (type)": "Interior permanent magnet synchronous motor (IPMSM)",
+          "Max power (kW (PS))": "99 (135)"
+        },
+        "High voltage battery": {
+          "Battery type": "Liquid cooled lithium ion battery pack",
+          "Capacity (kWh)": "42",
+          "Driving range (km)": "420"
+        },
+        "Charging": {
+          "Charging standard": "CCS2"
+        },
+        "Estimated AC fast charging time": {
+          "(SOC 10% to 100%)^^ from": "6 hrs"
+        },
+        "Estimated DC fast charging": {
+          "time^^ (SOC 10% to 80%)": "39 min"
+        },
+        "Transmission": {
+          "Type": "Single speed reduction gear"
+        },
+        "Suspension": {
+          "Front": "McPherson strut with coil spring",
+          "Rear": "Coupled torsion beam axle"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Disc"
+        },
+        "Wheel & tyre": {
+          "Tyre & wheel": "215/60 R17 (D=436.6 mm) Aero alloy wheel",
+          "Spare wheel": "215/60 R17 (D=436.6 mm) Steel wheel"
+        },
+        "1 655***": {
+          "1 790": "2 610"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Airbags – Driver & passenger",
+          "Airbags – Side & curtain",
+          "Dashcam",
+          "ABS (Anti-lock braking system) with EBD",
+          "Electronic stability control (ESC)",
+          "Vehicle stability management (VSM)",
+          "Hill-start assist control (HAC)",
+          "Hill descent control (HDC)",
+          "Tyre pressure monitoring system (TPMS) highline",
+          "Front & rear disc brakes",
+          "Seat belt pretensioners - driver & passenger",
+          "Driver anchor pretensioner",
+          "Height adjustable front seatbelts",
+          "3 Point seat belts (all seats)",
+          "Seatbelt reminder (all seats)",
+          "Child seat anchor (ISOFIX)",
+          "Emergency stop signal (ESS)",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Inside door handle override (Driver only)",
+          "Driver power window with auto up-down & safety",
+          "Immobilizer",
+          "Burglar alarm",
+          "Central locking",
+          "Inside rear view mirror – Electro chromic mirror (ECM) with telematics switches",
+          "Automatic headlamps",
+          "Headlamp escort function",
+          "Rear defogger with timer",
+          "Puddle lamps with (H logo) projection & welcome function - Driver Side",
+          "Puddle lamps with (H logo) projection & welcome function - Driver Side – Rear parking sensors",
+          "Parking assist – Rear camera with dynamic guidelines",
+          "Parking assist – Front parking sensors",
+          "Driver rear view monitor (DRVM)",
+          "Driver rear view monitor (DRVM) – Forward Collision Warning (FCW)",
+          "Driver rear view monitor (DRVM) – Forward Collision - Avoidance Assist - Car (FCA-Car)",
+          "Driver rear view monitor (DRVM) – Forward Collision - Avoidance Assist - Pedestrian (FCA-Ped)",
+          "Driver rear view monitor (DRVM) – Forward Collision - Avoidance Assist - Cycle (FCA-Cyl)",
+          "Driver rear view monitor (DRVM) – Forward Collision - Avoidance Assist - Junction Turning (FCA-JT)",
+          "Driver rear view monitor (DRVM) – Blind-spot Collision Warning (BCW)",
+          "Driver rear view monitor (DRVM) – Blind-spot Collision - Avoidance Assist (BCA)",
+          "Hyundai Smartsense – Lane Keeping Assist (LKA)",
+          "(Advanced Driver Assistance System) – Lane Departure Warning (LDW)",
+          "(Advanced Driver Assistance System) – Driver Attention Warning (DAW)",
+          "(Advanced Driver Assistance System) – Safe Exit Warning (SEW)",
+          "(Advanced Driver Assistance System) – Smart Cruise Control with Stop & Go (SCC with S&G)",
+          "(Advanced Driver Assistance System) – Lane Following Assist (LFA)",
+          "(Advanced Driver Assistance System) – High Beam Assist (HBA)",
+          "(Advanced Driver Assistance System) – Leading Vehicle Departure Alert (LVDA)",
+          "(Advanced Driver Assistance System) – Rear Cross - Traffic Collision Warning (RCCW)",
+          "(Advanced Driver Assistance System) – Rear Cross - Traffic Collision - Avoidance Assist (RCCA)",
+          "(Advanced Driver Assistance System) – Surround view monitor (SVM)",
+          "(Advanced Driver Assistance System) – Blind - spot view monitor (BVM)"
+        ],
+        "Wheels": [
+          "R17 (D=436.6 mm) Black Aero alloy wheels with Low Rolling Resistance (LRR) tyres",
+          "Front & rear skid plate – Black painted",
+          "Lightening arch C-Pillar – Black painted",
+          "Lightening arch C-Pillar – Quad beam LED headlamp",
+          "Lightening arch C-Pillar – Horizon LED positioning lamp & DRLs",
+          "Lightening arch C-Pillar – LED High mounted stop lamp (HMSL)",
+          "Lighting – LED tail lamps",
+          "Lighting – Rear horizon LED lamp",
+          "Lighting – LED turn signal with sequential function",
+          "Lighting – LED turn indicators on outside mirrors",
+          "Active Air Flaps (AAF)",
+          "Integrated Roof Rails – Black Painted",
+          "Pixelated graphic grille",
+          "Pixelated LED reverse lamp",
+          "Pixelated LED reverse lamp – With multi color surround light",
+          "Charging port – With state-of-charge (SOC) indicator",
+          "Outside door handles – Body colour",
+          "Outside door mirrors – Black Painted",
+          "Side sill garnish – Black Painted",
+          "Shark fin antenna",
+          "Exclusive Knight emblem",
+          "Exclusive Knight emblem – Front",
+          "Red brake calipers – Rear",
+          "Rear spoiler – Black Painted",
+          "Rear spoiler – Lightening arch C pillar",
+          "Rear spoiler – Integrated roof rails",
+          "Dual tone pack (Black painted) – Oustide door mirrors",
+          "Dual tone pack (Black painted) – Rear spoiler"
+        ],
+        "Interior": [
+          "Interiors – All Black Interiors with brass coloured inserts",
+          "Floating console – All Black Interior",
+          "Floating console – Leather^",
+          "Eco friendly seat upholstery – Exclusive Black Leather* Seat Upholstery with brass colored highlights",
+          "Eco friendly seat upholstery – Steering wheel",
+          "Leather^ pack – Door armrest",
+          "Height adjustable headrest – Front",
+          "Height adjustable headrest – Rear",
+          "Driver seat adjust – Electric 8 way",
+          "Sporty metal pedal",
+          "Passenger seat adjust – Electric 8 way",
+          "Powered driver memory seat with welcome retract",
+          "Powered passenger seat walk-in device",
+          "60:40 split rear seat",
+          "2-Step rear reclining seat",
+          "Rear window sunshade",
+          "Soothing Ocean blue ambient light – Floating console",
+          "Amber ambient light – Crashpad",
+          "Inside door handles – Dark metallic finish",
+          "Rear parcel tray",
+          "3 Spoke Steering wheel"
+        ],
+        "Comfort & convenience": [
+          "Voice enabled smart panoramic sunroof",
+          "Dual zone automatic temperature control (DATC) with touch function",
+          "Front row ventilated seats",
+          "Electric parking brake with auto hold",
+          "Electric parking brake with auto hold – Front row",
+          "Smartphone wireless charger **** – 2nd row",
+          "Drive Mode Select (Eco, Normal ,Sport)",
+          "Paddle shifters for adjustable regenerative braking",
+          "ADAS linked regenerative braking system",
+          "Cruise control",
+          "Smart key with push button start",
+          "Remote start with smart key",
+          "Remote start with smart key – Electrically adjustable",
+          "Outside mirror – Electric folding",
+          "Outside mirror – Auto folding",
+          "Front armrest with cooled storage",
+          "Open console storage with lamp",
+          "Rear centre armrest with cup holders",
+          "Electric tailgate release",
+          "Rear AC vents",
+          "Rear AC vents – Front",
+          "USB charger (C type) – Rear ( x2 )",
+          "Power outlet",
+          "Rear wiper and washer",
+          "Rear wiper and washer – Tilt function",
+          "Motor driven power steering – Telescopic function",
+          "LED Luggage lamp",
+          "LED Luggage lamp – Front",
+          "Power windows – Rear",
+          "Passenger vanity mirror",
+          "LED map lamps",
+          "LED reading lamp (Rear)",
+          "Sunglass holder",
+          "Glovebox cooling",
+          "Front storage (FRUNK)",
+          "V2L (Vehicle-to-Load) : inside and outside",
+          "Shift By Wire (SBW) - column type",
+          "Virtual engine sound system (VESS)",
+          "Foldable seatback table with IT device holder & retractable cup-holder for 2nd row occupants LH side",
+          "Rain sensing wipers",
+          "After-blow technology",
+          "Eco-coating"
+        ],
+        "Infotainment & connectivity": [
+          "26.03 cm (10.25\") Multi display digital cluster",
+          "26.03 cm (10.25”) HD audio video navigation system",
+          "Bose premium sound 8 speaker system with front central speaker & sub-woofer",
+          "Smartphone connectivity – Wireless Android Auto & Apple Carplay",
+          "Bluetooth connectivity",
+          "Voice recognition****",
+          "Steering wheel with audio & bluetooth controls",
+          "Front & rear speakers",
+          "Front tweeters",
+          "Hyundai Bluelink (connected car technology)",
+          "JioSaavn music streaming",
+          "In-car payment",
+          "Over-the-air (OTA) updates for map and infotainment",
+          "Home to car (H2C) with Alexa#",
+          "Portable charging cable"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "Creta 51.4 kWh Smart (O) LR [HC]",
+      "trim": "Smart (O) LR [HC]",
+      "brochure_trim": "Smart (O) LR",
+      "fuel": "Electric",
+      "transmission": "Automatic (single-speed)",
+      "ex_showroom_surat": {
+        "standard": 2226700
+      },
+      "engine": null,
+      "specifications": {
+        "Dimensions": {
+          "Overall length (mm)": "4 340",
+          "Overall width (mm)": "1 790",
+          "Overall height (mm)": "1 655",
+          "Wheelbase (mm)": "2 610"
+        },
+        "Electric motor": {
+          "Traction motor (type)": "Interior permanent magnet synchronous motor (IPMSM)",
+          "Max power (kW (PS))": "126 (171)"
+        },
+        "High voltage battery": {
+          "Battery type": "Liquid cooled lithium ion battery pack",
+          "Capacity (kWh)": "51.4",
+          "Driving range (km)": "510"
+        },
+        "Charging": {
+          "Charging standard": "CCS2"
+        },
+        "Estimated AC fast charging time": {
+          "(SOC 10% to 100%)^^ from": "7 hrs 15 min"
+        },
+        "Estimated DC fast charging": {
+          "time^^ (SOC 10% to 80%)": "39 min"
+        },
+        "Transmission": {
+          "Type": "Single speed reduction gear"
+        },
+        "Suspension": {
+          "Front": "McPherson strut with coil spring",
+          "Rear": "Coupled torsion beam axle"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Disc"
+        },
+        "Wheel & tyre": {
+          "Tyre & wheel": "215/60 R17 (D=436.6 mm) Aero alloy wheel",
+          "Spare wheel": "215/60 R17 (D=436.6 mm) Steel wheel"
+        },
+        "1 655***": {
+          "1 790": "2 610"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Airbags – Driver & passenger",
+          "Airbags – Side & curtain",
+          "ABS (Anti-lock braking system) with EBD",
+          "Electronic stability control (ESC)",
+          "Vehicle stability management (VSM)",
+          "Hill-start assist control (HAC)",
+          "Hill descent control (HDC)",
+          "Tyre pressure monitoring system (TPMS) highline",
+          "Front & rear disc brakes",
+          "Seat belt pretensioners - driver & passenger",
+          "Driver anchor pretensioner",
+          "Height adjustable front seatbelts",
+          "3 Point seat belts (all seats)",
+          "Seatbelt reminder (all seats)",
+          "Child seat anchor (ISOFIX)",
+          "Emergency stop signal (ESS)",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Inside door handle override (Driver only)",
+          "Driver power window with auto up-down & safety",
+          "Immobilizer",
+          "Burglar alarm",
+          "Central locking",
+          "Central locking – Day and night mirror with telematics switches",
+          "Automatic headlamps",
+          "Headlamp escort function",
+          "Rear defogger with timer",
+          "Puddle lamps with (H logo) projection & welcome function - Driver Side",
+          "Puddle lamps with (H logo) projection & welcome function - Driver Side – Rear parking sensors",
+          "Parking assist – Rear camera with dynamic guidelines",
+          "Driver rear view monitor (DRVM)"
+        ],
+        "Exterior": [
+          "R17 (D=436.6 mm) Aero alloy wheels with Low Rolling Resistance (LRR) tyres"
+        ],
+        "Wheels": [
+          "Front & rear skid plate – Silver",
+          "Lightening arch C-Pillar – Silver",
+          "Lightening arch C-Pillar – Quad beam LED headlamp",
+          "Lightening arch C-Pillar – Horizon LED positioning lamp & DRLs",
+          "Lightening arch C-Pillar – LED High mounted stop lamp (HMSL)",
+          "Lighting – LED tail lamps",
+          "Lighting – Rear horizon LED lamp",
+          "Lighting – LED turn signal with sequential function",
+          "Lighting – LED turn indicators on outside mirrors",
+          "Active Air Flaps (AAF)",
+          "Active Air Flaps (AAF) – Silver",
+          "Pixelated graphic grille",
+          "Pixelated LED reverse lamp",
+          "Pixelated LED reverse lamp – With multi color surround light",
+          "Charging port – With state-of-charge (SOC) indicator",
+          "Outside door handles – Body colour",
+          "Outside door handles – Body colour",
+          "Outside door mirrors – Silver",
+          "Shark fin antenna",
+          "Red brake calipers – Body Colour"
+        ],
+        "Interior": [
+          "Granite gray with dark navy (Dual Tone) interior",
+          "Floating console – Dark Navy Interior",
+          "Floating console – Fabric",
+          "Eco friendly seat upholstery – Steering wheel",
+          "Height adjustable headrest – Front",
+          "Height adjustable headrest – Rear",
+          "Driver seat adjust – Electric 6 way",
+          "60:40 split rear seat",
+          "2-Step rear reclining seat",
+          "Rear window sunshade",
+          "Rear window sunshade – Floating console",
+          "Rear seat headrest cushion – Metal Finish",
+          "Rear parcel tray",
+          "3 Spoke Steering wheel"
+        ],
+        "Comfort & convenience": [
+          "Voice enabled smart panoramic sunroof",
+          "Dual zone automatic temperature control (DATC) with touch function",
+          "Electric parking brake with auto hold",
+          "Electric parking brake with auto hold – Front row",
+          "Drive Mode Select (Eco, Normal ,Sport)",
+          "Paddle shifters for adjustable regenerative braking",
+          "Cruise control",
+          "Smart key with push button start",
+          "Remote start with smart key",
+          "Remote start with smart key – Electrically adjustable",
+          "Outside mirror – Electric folding",
+          "Outside mirror – Auto folding",
+          "Front armrest with cooled storage",
+          "Open console storage with lamp",
+          "Rear centre armrest with cup holders",
+          "Electric tailgate release",
+          "Rear AC vents",
+          "Rear AC vents – Front",
+          "USB charger (C type) – Rear ( x1 )",
+          "Power outlet",
+          "Rear wiper and washer",
+          "Rear wiper and washer – Tilt function",
+          "Motor driven power steering – Telescopic function",
+          "LED Luggage lamp",
+          "LED Luggage lamp – Front",
+          "Power windows – Rear",
+          "Passenger vanity mirror",
+          "LED map lamps",
+          "LED reading lamp (Rear)",
+          "Sunglass holder",
+          "Front storage (FRUNK)",
+          "Shift By Wire (SBW) - column type",
+          "After-blow technology",
+          "Eco-coating"
+        ],
+        "Infotainment & connectivity": [
+          "26.03 cm (10.25\") Multi display digital cluster",
+          "26.03 cm (10.25”) HD audio video navigation system",
+          "Smartphone connectivity – Wireless Android Auto & Apple Carplay",
+          "Bluetooth connectivity",
+          "Voice recognition****",
+          "Steering wheel with audio & bluetooth controls",
+          "Front & rear speakers",
+          "Front tweeters",
+          "Hyundai Bluelink (connected car technology)",
+          "JioSaavn music streaming",
+          "In-car payment",
+          "Over-the-air (OTA) updates for map and infotainment",
+          "Home to car (H2C) with Alexa#",
+          "Portable charging cable"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "Creta 51.4 kWh Excellence LR",
+      "trim": "Excellence LR",
+      "brochure_trim": "Excellence LR",
+      "fuel": "Electric",
+      "transmission": "Automatic (single-speed)",
+      "ex_showroom_surat": {
+        "standard": 2367200,
+        "dual_tone": 2382200
+      },
+      "engine": null,
+      "specifications": {
+        "Dimensions": {
+          "Overall length (mm)": "4 340",
+          "Overall width (mm)": "1 790",
+          "Overall height (mm)": "1 655",
+          "Wheelbase (mm)": "2 610"
+        },
+        "Electric motor": {
+          "Traction motor (type)": "Interior permanent magnet synchronous motor (IPMSM)",
+          "Max power (kW (PS))": "126 (171)"
+        },
+        "High voltage battery": {
+          "Battery type": "Liquid cooled lithium ion battery pack",
+          "Capacity (kWh)": "51.4",
+          "Driving range (km)": "510"
+        },
+        "Charging": {
+          "Charging standard": "CCS2"
+        },
+        "Estimated AC fast charging time": {
+          "(SOC 10% to 100%)^^ from": "7 hrs 15 min"
+        },
+        "Estimated DC fast charging": {
+          "time^^ (SOC 10% to 80%)": "39 min"
+        },
+        "Transmission": {
+          "Type": "Single speed reduction gear"
+        },
+        "Suspension": {
+          "Front": "McPherson strut with coil spring",
+          "Rear": "Coupled torsion beam axle"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Disc"
+        },
+        "Wheel & tyre": {
+          "Tyre & wheel": "215/60 R17 (D=436.6 mm) Aero alloy wheel",
+          "Spare wheel": "215/60 R17 (D=436.6 mm) Steel wheel"
+        },
+        "1 655***": {
+          "1 790": "2 610"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Airbags – Driver & passenger",
+          "Airbags – Side & curtain",
+          "ABS (Anti-lock braking system) with EBD",
+          "Electronic stability control (ESC)",
+          "Vehicle stability management (VSM)",
+          "Hill-start assist control (HAC)",
+          "Hill descent control (HDC)",
+          "Tyre pressure monitoring system (TPMS) highline",
+          "Front & rear disc brakes",
+          "Seat belt pretensioners - driver & passenger",
+          "Driver anchor pretensioner",
+          "Height adjustable front seatbelts",
+          "3 Point seat belts (all seats)",
+          "Seatbelt reminder (all seats)",
+          "Child seat anchor (ISOFIX)",
+          "Emergency stop signal (ESS)",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Inside door handle override (Driver only)",
+          "Driver power window with auto up-down & safety",
+          "Immobilizer",
+          "Burglar alarm",
+          "Central locking",
+          "Inside rear view mirror – Electro chromic mirror (ECM) with telematics switches",
+          "Automatic headlamps",
+          "Headlamp escort function",
+          "Rear defogger with timer",
+          "Puddle lamps with (H logo) projection & welcome function - Driver Side",
+          "Puddle lamps with (H logo) projection & welcome function - Driver Side – Rear parking sensors",
+          "Parking assist – Rear camera with dynamic guidelines",
+          "Parking assist – Front parking sensors",
+          "Driver rear view monitor (DRVM)",
+          "Driver rear view monitor (DRVM) – Forward Collision Warning (FCW)",
+          "Driver rear view monitor (DRVM) – Forward Collision - Avoidance Assist - Car (FCA-Car)",
+          "Driver rear view monitor (DRVM) – Forward Collision - Avoidance Assist - Pedestrian (FCA-Ped)",
+          "Driver rear view monitor (DRVM) – Forward Collision - Avoidance Assist - Cycle (FCA-Cyl)",
+          "Driver rear view monitor (DRVM) – Forward Collision - Avoidance Assist - Junction Turning (FCA-JT)",
+          "Driver rear view monitor (DRVM) – Blind-spot Collision Warning (BCW)",
+          "Driver rear view monitor (DRVM) – Blind-spot Collision - Avoidance Assist (BCA)",
+          "Hyundai Smartsense – Lane Keeping Assist (LKA)",
+          "(Advanced Driver Assistance System) – Lane Departure Warning (LDW)",
+          "(Advanced Driver Assistance System) – Driver Attention Warning (DAW)",
+          "(Advanced Driver Assistance System) – Safe Exit Warning (SEW)",
+          "(Advanced Driver Assistance System) – Smart Cruise Control with Stop & Go (SCC with S&G)",
+          "(Advanced Driver Assistance System) – Lane Following Assist (LFA)",
+          "(Advanced Driver Assistance System) – High Beam Assist (HBA)",
+          "(Advanced Driver Assistance System) – Leading Vehicle Departure Alert (LVDA)",
+          "(Advanced Driver Assistance System) – Rear Cross - Traffic Collision Warning (RCCW)",
+          "(Advanced Driver Assistance System) – Rear Cross - Traffic Collision - Avoidance Assist (RCCA)",
+          "(Advanced Driver Assistance System) – Surround view monitor (SVM)",
+          "(Advanced Driver Assistance System) – Blind - spot view monitor (BVM)"
+        ],
+        "Exterior": [
+          "R17 (D=436.6 mm) Aero alloy wheels with Low Rolling Resistance (LRR) tyres"
+        ],
+        "Wheels": [
+          "Front & rear skid plate – Silver",
+          "Lightening arch C-Pillar – Silver",
+          "Lightening arch C-Pillar – Quad beam LED headlamp",
+          "Lightening arch C-Pillar – Horizon LED positioning lamp & DRLs",
+          "Lightening arch C-Pillar – LED High mounted stop lamp (HMSL)",
+          "Lighting – LED tail lamps",
+          "Lighting – Rear horizon LED lamp",
+          "Lighting – LED turn signal with sequential function",
+          "Lighting – LED turn indicators on outside mirrors",
+          "Active Air Flaps (AAF)",
+          "Active Air Flaps (AAF) – Silver",
+          "Pixelated graphic grille",
+          "Pixelated LED reverse lamp",
+          "Pixelated LED reverse lamp – With multi color surround light",
+          "Charging port – With state-of-charge (SOC) indicator",
+          "Outside door handles – Body colour",
+          "Outside door handles – Body colour",
+          "Outside door mirrors – Silver",
+          "Shark fin antenna",
+          "Red brake calipers – Body Colour",
+          "Rear spoiler – Lightening arch C pillar",
+          "Rear spoiler – Integrated roof rails",
+          "Dual tone pack (Black painted) – Oustide door mirrors",
+          "Dual tone pack (Black painted) – Rear spoiler"
+        ],
+        "Interior": [
+          "Granite gray with dark navy (Dual Tone) interior",
+          "Floating console – Dark Navy Interior",
+          "Floating console – Leather^",
+          "Eco friendly seat upholstery – Steering wheel",
+          "Leather^ pack – Door armrest",
+          "Height adjustable headrest – Front",
+          "Height adjustable headrest – Rear",
+          "Driver seat adjust – Electric 8 way",
+          "Passenger seat adjust – Electric 8 way",
+          "Powered driver memory seat with welcome retract",
+          "Powered passenger seat walk-in device",
+          "60:40 split rear seat",
+          "2-Step rear reclining seat",
+          "Rear window sunshade",
+          "Rear window sunshade – Floating console",
+          "Soothing Ocean blue ambient light – Crashpad",
+          "Rear seat headrest cushion – Metal Finish",
+          "Rear parcel tray",
+          "3 Spoke Steering wheel"
+        ],
+        "Comfort & convenience": [
+          "Voice enabled smart panoramic sunroof",
+          "Dual zone automatic temperature control (DATC) with touch function",
+          "Front row ventilated seats",
+          "Electric parking brake with auto hold",
+          "Electric parking brake with auto hold – Front row",
+          "Drive Mode Select (Eco, Normal ,Sport)",
+          "Paddle shifters for adjustable regenerative braking",
+          "ADAS linked regenerative braking system",
+          "Cruise control",
+          "Smart key with push button start",
+          "Remote start with smart key",
+          "Remote start with smart key – Electrically adjustable",
+          "Outside mirror – Electric folding",
+          "Outside mirror – Auto folding",
+          "Front armrest with cooled storage",
+          "Open console storage with lamp",
+          "Rear centre armrest with cup holders",
+          "Electric tailgate release",
+          "Rear AC vents",
+          "Rear AC vents – Front",
+          "USB charger (C type) – Rear ( x2 )",
+          "Power outlet",
+          "Rear wiper and washer",
+          "Rear wiper and washer – Tilt function",
+          "Motor driven power steering – Telescopic function",
+          "LED Luggage lamp",
+          "LED Luggage lamp – Front",
+          "Power windows – Rear",
+          "Passenger vanity mirror",
+          "LED map lamps",
+          "LED reading lamp (Rear)",
+          "Sunglass holder",
+          "Glovebox cooling",
+          "Front storage (FRUNK)",
+          "V2L (Vehicle-to-Load) : inside and outside",
+          "Shift By Wire (SBW) - column type",
+          "Virtual engine sound system (VESS)",
+          "Foldable seatback table with IT device holder & retractable cup-holder for 2nd row occupants LH side",
+          "Battery heater",
+          "Rain sensing wipers",
+          "After-blow technology",
+          "Eco-coating"
+        ],
+        "Infotainment & connectivity": [
+          "26.03 cm (10.25\") Multi display digital cluster",
+          "26.03 cm (10.25”) HD audio video navigation system",
+          "Bose premium sound 8 speaker system with front central speaker & sub-woofer",
+          "Digital Key",
+          "Smartphone connectivity – Wireless Android Auto & Apple Carplay",
+          "Bluetooth connectivity",
+          "Voice recognition****",
+          "Steering wheel with audio & bluetooth controls",
+          "Front & rear speakers",
+          "Front tweeters",
+          "Hyundai Bluelink (connected car technology)",
+          "JioSaavn music streaming",
+          "In-car payment",
+          "Over-the-air (OTA) updates for map and infotainment",
+          "Home to car (H2C) with Alexa#",
+          "Portable charging cable"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "Creta 51.4 kWh Excellence LR Knight Edition",
+      "trim": "Excellence LR Knight Edition",
+      "brochure_trim": "Excellence LR Knight",
+      "fuel": "Electric",
+      "transmission": "Automatic (single-speed)",
+      "ex_showroom_surat": {
+        "standard": 2382100,
+        "dual_tone": 2397100
+      },
+      "engine": null,
+      "specifications": {
+        "Dimensions": {
+          "Overall length (mm)": "4 340",
+          "Overall width (mm)": "1 790",
+          "Overall height (mm)": "1 655",
+          "Wheelbase (mm)": "2 610"
+        },
+        "Electric motor": {
+          "Traction motor (type)": "Interior permanent magnet synchronous motor (IPMSM)",
+          "Max power (kW (PS))": "126 (171)"
+        },
+        "High voltage battery": {
+          "Battery type": "Liquid cooled lithium ion battery pack",
+          "Capacity (kWh)": "51.4",
+          "Driving range (km)": "510"
+        },
+        "Charging": {
+          "Charging standard": "CCS2"
+        },
+        "Estimated AC fast charging time": {
+          "(SOC 10% to 100%)^^ from": "7 hrs 15 min"
+        },
+        "Estimated DC fast charging": {
+          "time^^ (SOC 10% to 80%)": "39 min"
+        },
+        "Transmission": {
+          "Type": "Single speed reduction gear"
+        },
+        "Suspension": {
+          "Front": "McPherson strut with coil spring",
+          "Rear": "Coupled torsion beam axle"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Disc"
+        },
+        "Wheel & tyre": {
+          "Tyre & wheel": "215/60 R17 (D=436.6 mm) Aero alloy wheel",
+          "Spare wheel": "215/60 R17 (D=436.6 mm) Steel wheel"
+        },
+        "1 655***": {
+          "1 790": "2 610"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Airbags – Driver & passenger",
+          "Airbags – Side & curtain",
+          "Dashcam",
+          "ABS (Anti-lock braking system) with EBD",
+          "Electronic stability control (ESC)",
+          "Vehicle stability management (VSM)",
+          "Hill-start assist control (HAC)",
+          "Hill descent control (HDC)",
+          "Tyre pressure monitoring system (TPMS) highline",
+          "Front & rear disc brakes",
+          "Seat belt pretensioners - driver & passenger",
+          "Driver anchor pretensioner",
+          "Height adjustable front seatbelts",
+          "3 Point seat belts (all seats)",
+          "Seatbelt reminder (all seats)",
+          "Child seat anchor (ISOFIX)",
+          "Emergency stop signal (ESS)",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Inside door handle override (Driver only)",
+          "Driver power window with auto up-down & safety",
+          "Immobilizer",
+          "Burglar alarm",
+          "Central locking",
+          "Inside rear view mirror – Electro chromic mirror (ECM) with telematics switches",
+          "Automatic headlamps",
+          "Headlamp escort function",
+          "Rear defogger with timer",
+          "Puddle lamps with (H logo) projection & welcome function - Driver Side",
+          "Puddle lamps with (H logo) projection & welcome function - Driver Side – Rear parking sensors",
+          "Parking assist – Rear camera with dynamic guidelines",
+          "Parking assist – Front parking sensors",
+          "Driver rear view monitor (DRVM)",
+          "Driver rear view monitor (DRVM) – Forward Collision Warning (FCW)",
+          "Driver rear view monitor (DRVM) – Forward Collision - Avoidance Assist - Car (FCA-Car)",
+          "Driver rear view monitor (DRVM) – Forward Collision - Avoidance Assist - Pedestrian (FCA-Ped)",
+          "Driver rear view monitor (DRVM) – Forward Collision - Avoidance Assist - Cycle (FCA-Cyl)",
+          "Driver rear view monitor (DRVM) – Forward Collision - Avoidance Assist - Junction Turning (FCA-JT)",
+          "Driver rear view monitor (DRVM) – Blind-spot Collision Warning (BCW)",
+          "Driver rear view monitor (DRVM) – Blind-spot Collision - Avoidance Assist (BCA)",
+          "Hyundai Smartsense – Lane Keeping Assist (LKA)",
+          "(Advanced Driver Assistance System) – Lane Departure Warning (LDW)",
+          "(Advanced Driver Assistance System) – Driver Attention Warning (DAW)",
+          "(Advanced Driver Assistance System) – Safe Exit Warning (SEW)",
+          "(Advanced Driver Assistance System) – Smart Cruise Control with Stop & Go (SCC with S&G)",
+          "(Advanced Driver Assistance System) – Lane Following Assist (LFA)",
+          "(Advanced Driver Assistance System) – High Beam Assist (HBA)",
+          "(Advanced Driver Assistance System) – Leading Vehicle Departure Alert (LVDA)",
+          "(Advanced Driver Assistance System) – Rear Cross - Traffic Collision Warning (RCCW)",
+          "(Advanced Driver Assistance System) – Rear Cross - Traffic Collision - Avoidance Assist (RCCA)",
+          "(Advanced Driver Assistance System) – Surround view monitor (SVM)",
+          "(Advanced Driver Assistance System) – Blind - spot view monitor (BVM)"
+        ],
+        "Wheels": [
+          "R17 (D=436.6 mm) Black Aero alloy wheels with Low Rolling Resistance (LRR) tyres",
+          "Front & rear skid plate – Black painted",
+          "Lightening arch C-Pillar – Black painted",
+          "Lightening arch C-Pillar – Quad beam LED headlamp",
+          "Lightening arch C-Pillar – Horizon LED positioning lamp & DRLs",
+          "Lightening arch C-Pillar – LED High mounted stop lamp (HMSL)",
+          "Lighting – LED tail lamps",
+          "Lighting – Rear horizon LED lamp",
+          "Lighting – LED turn signal with sequential function",
+          "Lighting – LED turn indicators on outside mirrors",
+          "Active Air Flaps (AAF)",
+          "Integrated Roof Rails – Black Painted",
+          "Pixelated graphic grille",
+          "Pixelated LED reverse lamp",
+          "Pixelated LED reverse lamp – With multi color surround light",
+          "Charging port – With state-of-charge (SOC) indicator",
+          "Outside door handles – Body colour",
+          "Outside door mirrors – Black Painted",
+          "Side sill garnish – Black Painted",
+          "Shark fin antenna",
+          "Exclusive Knight emblem",
+          "Exclusive Knight emblem – Front",
+          "Red brake calipers – Rear",
+          "Rear spoiler – Black Painted",
+          "Rear spoiler – Lightening arch C pillar",
+          "Rear spoiler – Integrated roof rails",
+          "Dual tone pack (Black painted) – Oustide door mirrors",
+          "Dual tone pack (Black painted) – Rear spoiler"
+        ],
+        "Interior": [
+          "Interiors – All Black Interiors with brass coloured inserts",
+          "Floating console – All Black Interior",
+          "Floating console – Leather^",
+          "Eco friendly seat upholstery – Exclusive Black Leather* Seat Upholstery with brass colored highlights",
+          "Eco friendly seat upholstery – Steering wheel",
+          "Leather^ pack – Door armrest",
+          "Height adjustable headrest – Front",
+          "Height adjustable headrest – Rear",
+          "Driver seat adjust – Electric 8 way",
+          "Sporty metal pedal",
+          "Passenger seat adjust – Electric 8 way",
+          "Powered driver memory seat with welcome retract",
+          "Powered passenger seat walk-in device",
+          "60:40 split rear seat",
+          "2-Step rear reclining seat",
+          "Rear window sunshade",
+          "Soothing Ocean blue ambient light – Floating console",
+          "Amber ambient light – Crashpad",
+          "Inside door handles – Dark metallic finish",
+          "Rear parcel tray",
+          "3 Spoke Steering wheel"
+        ],
+        "Comfort & convenience": [
+          "Voice enabled smart panoramic sunroof",
+          "Dual zone automatic temperature control (DATC) with touch function",
+          "Front row ventilated seats",
+          "Electric parking brake with auto hold",
+          "Electric parking brake with auto hold – Front row",
+          "Smartphone wireless charger **** – 2nd row",
+          "Drive Mode Select (Eco, Normal ,Sport)",
+          "Paddle shifters for adjustable regenerative braking",
+          "ADAS linked regenerative braking system",
+          "Cruise control",
+          "Smart key with push button start",
+          "Remote start with smart key",
+          "Remote start with smart key – Electrically adjustable",
+          "Outside mirror – Electric folding",
+          "Outside mirror – Auto folding",
+          "Front armrest with cooled storage",
+          "Open console storage with lamp",
+          "Rear centre armrest with cup holders",
+          "Electric tailgate release",
+          "Rear AC vents",
+          "Rear AC vents – Front",
+          "USB charger (C type) – Rear ( x2 )",
+          "Power outlet",
+          "Rear wiper and washer",
+          "Rear wiper and washer – Tilt function",
+          "Motor driven power steering – Telescopic function",
+          "LED Luggage lamp",
+          "LED Luggage lamp – Front",
+          "Power windows – Rear",
+          "Passenger vanity mirror",
+          "LED map lamps",
+          "LED reading lamp (Rear)",
+          "Sunglass holder",
+          "Glovebox cooling",
+          "Front storage (FRUNK)",
+          "V2L (Vehicle-to-Load) : inside and outside",
+          "Shift By Wire (SBW) - column type",
+          "Virtual engine sound system (VESS)",
+          "Foldable seatback table with IT device holder & retractable cup-holder for 2nd row occupants LH side",
+          "Battery heater",
+          "Rain sensing wipers",
+          "After-blow technology",
+          "Eco-coating"
+        ],
+        "Infotainment & connectivity": [
+          "26.03 cm (10.25\") Multi display digital cluster",
+          "26.03 cm (10.25”) HD audio video navigation system",
+          "Bose premium sound 8 speaker system with front central speaker & sub-woofer",
+          "Digital Key",
+          "Smartphone connectivity – Wireless Android Auto & Apple Carplay",
+          "Bluetooth connectivity",
+          "Voice recognition****",
+          "Steering wheel with audio & bluetooth controls",
+          "Front & rear speakers",
+          "Front tweeters",
+          "Hyundai Bluelink (connected car technology)",
+          "JioSaavn music streaming",
+          "In-car payment",
+          "Over-the-air (OTA) updates for map and infotainment",
+          "Home to car (H2C) with Alexa#",
+          "Portable charging cable"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "Creta 51.4 kWh Excellence LR Lounge",
+      "trim": "Excellence LR Lounge",
+      "brochure_trim": "Lounge Edition",
+      "fuel": "Electric",
+      "transmission": "Automatic (single-speed)",
+      "ex_showroom_surat": {
+        "standard": 2434100,
+        "dual_tone": 2449100
+      },
+      "engine": null,
+      "specifications": {
+        "Dimensions": {
+          "Overall length (mm)": "4 340",
+          "Overall width (mm)": "1 790",
+          "Overall height (mm)": "1 655",
+          "Wheelbase (mm)": "2 610"
+        },
+        "Electric motor": {
+          "Traction motor (type)": "Interior permanent magnet synchronous motor (IPMSM)",
+          "Max power (kW (PS))": "126 (171)"
+        },
+        "High voltage battery": {
+          "Battery type": "Liquid cooled lithium ion battery pack",
+          "Capacity (kWh)": "51.4",
+          "Driving range (km)": "510"
+        },
+        "Charging": {
+          "Charging standard": "CCS2"
+        },
+        "Estimated AC fast charging time": {
+          "(SOC 10% to 100%)^^ from": "7 hrs 15 min"
+        },
+        "Estimated DC fast charging": {
+          "time^^ (SOC 10% to 80%)": "39 min"
+        },
+        "Transmission": {
+          "Type": "Single speed reduction gear"
+        },
+        "Suspension": {
+          "Front": "McPherson strut with coil spring",
+          "Rear": "Coupled torsion beam axle"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Disc"
+        },
+        "Wheel & tyre": {
+          "Tyre & wheel": "215/60 R17 (D=436.6 mm) Aero alloy wheel",
+          "Spare wheel": "215/60 R17 (D=436.6 mm) Steel wheel"
+        },
+        "1 655***": {
+          "1 790": "2 610"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Airbags – Driver & passenger",
+          "Airbags – Side & curtain",
+          "Dashcam",
+          "ABS (Anti-lock braking system) with EBD",
+          "Electronic stability control (ESC)",
+          "Vehicle stability management (VSM)",
+          "Hill-start assist control (HAC)",
+          "Hill descent control (HDC)",
+          "Tyre pressure monitoring system (TPMS) highline",
+          "Front & rear disc brakes",
+          "Seat belt pretensioners - driver & passenger",
+          "Driver anchor pretensioner",
+          "Height adjustable front seatbelts",
+          "3 Point seat belts (all seats)",
+          "Seatbelt reminder (all seats)",
+          "Child seat anchor (ISOFIX)",
+          "Emergency stop signal (ESS)",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Inside door handle override (Driver only)",
+          "Driver power window with auto up-down & safety",
+          "Immobilizer",
+          "Burglar alarm",
+          "Central locking",
+          "Inside rear view mirror – Electro chromic mirror (ECM) with telematics switches",
+          "Automatic headlamps",
+          "Headlamp escort function",
+          "Rear defogger with timer",
+          "Puddle lamps with (H logo) projection & welcome function - Driver Side",
+          "Puddle lamps with (H logo) projection & welcome function - Driver Side – Rear parking sensors",
+          "Parking assist – Rear camera with dynamic guidelines",
+          "Parking assist – Front parking sensors",
+          "Driver rear view monitor (DRVM)",
+          "Driver rear view monitor (DRVM) – Forward Collision Warning (FCW)",
+          "Driver rear view monitor (DRVM) – Forward Collision - Avoidance Assist - Car (FCA-Car)",
+          "Driver rear view monitor (DRVM) – Forward Collision - Avoidance Assist - Pedestrian (FCA-Ped)",
+          "Driver rear view monitor (DRVM) – Forward Collision - Avoidance Assist - Cycle (FCA-Cyl)",
+          "Driver rear view monitor (DRVM) – Forward Collision - Avoidance Assist - Junction Turning (FCA-JT)",
+          "Driver rear view monitor (DRVM) – Blind-spot Collision Warning (BCW)",
+          "Driver rear view monitor (DRVM) – Blind-spot Collision - Avoidance Assist (BCA)",
+          "Hyundai Smartsense – Lane Keeping Assist (LKA)",
+          "(Advanced Driver Assistance System) – Lane Departure Warning (LDW)",
+          "(Advanced Driver Assistance System) – Driver Attention Warning (DAW)",
+          "(Advanced Driver Assistance System) – Safe Exit Warning (SEW)",
+          "(Advanced Driver Assistance System) – Smart Cruise Control with Stop & Go (SCC with S&G)",
+          "(Advanced Driver Assistance System) – Lane Following Assist (LFA)",
+          "(Advanced Driver Assistance System) – High Beam Assist (HBA)",
+          "(Advanced Driver Assistance System) – Leading Vehicle Departure Alert (LVDA)",
+          "(Advanced Driver Assistance System) – Rear Cross - Traffic Collision Warning (RCCW)",
+          "(Advanced Driver Assistance System) – Rear Cross - Traffic Collision - Avoidance Assist (RCCA)",
+          "(Advanced Driver Assistance System) – Surround view monitor (SVM)",
+          "(Advanced Driver Assistance System) – Blind - spot view monitor (BVM)"
+        ],
+        "Wheels": [
+          "R17 (D=436.6 mm) Black Aero alloy wheels with Low Rolling Resistance (LRR) tyres",
+          "Front & rear skid plate – Black painted",
+          "Lightening arch C-Pillar – Black painted",
+          "Lightening arch C-Pillar – Quad beam LED headlamp",
+          "Lightening arch C-Pillar – Horizon LED positioning lamp & DRLs",
+          "Lightening arch C-Pillar – LED High mounted stop lamp (HMSL)",
+          "Lighting – LED tail lamps",
+          "Lighting – Rear horizon LED lamp",
+          "Lighting – LED turn signal with sequential function",
+          "Lighting – LED turn indicators on outside mirrors",
+          "Active Air Flaps (AAF)",
+          "Integrated Roof Rails – Black Painted",
+          "Pixelated graphic grille",
+          "Pixelated LED reverse lamp",
+          "Pixelated LED reverse lamp – With multi color surround light",
+          "Charging port – With state-of-charge (SOC) indicator",
+          "Outside door handles – Body colour",
+          "Outside door mirrors – Black Painted",
+          "Side sill garnish – Black Painted",
+          "Shark fin antenna",
+          "Rear spoiler – Black Painted",
+          "Rear spoiler – Lightening arch C pillar",
+          "Rear spoiler – Integrated roof rails",
+          "Dual tone pack (Black painted) – Oustide door mirrors",
+          "Dual tone pack (Black painted) – Rear spoiler"
+        ],
+        "Interior": [
+          "Interiors – All Black Interiors with silver inserts",
+          "Floating console – All Black Interior",
+          "Eco friendly seat upholstery – Exclusive Black & Grey Leather* Seat Upholstery",
+          "Eco friendly seat upholstery – Steering wheel",
+          "Leather^ pack – Door armrest",
+          "Height adjustable headrest – Front",
+          "Height adjustable headrest – Rear",
+          "Driver seat adjust – Electric 8 way",
+          "Passenger seat adjust – Electric 8 way",
+          "Powered driver memory seat with welcome retract",
+          "Powered passenger seat walk-in device",
+          "60:40 split rear seat",
+          "2-Step rear reclining seat",
+          "Rear window sunshade",
+          "Amber ambient light – Floating console (White)",
+          "Moon White Ambient light – Crashpad (White)",
+          "Rear seat headrest cushion",
+          "Inside door handles – Dark metallic finish",
+          "Rear parcel tray",
+          "3 Spoke Steering wheel"
+        ],
+        "Comfort & convenience": [
+          "Voice enabled smart panoramic sunroof",
+          "Dual zone automatic temperature control (DATC) with touch function",
+          "Front row ventilated seats",
+          "Electric parking brake with auto hold",
+          "Electric parking brake with auto hold – Front row",
+          "Smartphone wireless charger **** – 2nd row",
+          "Drive Mode Select (Eco, Normal ,Sport)",
+          "Paddle shifters for adjustable regenerative braking",
+          "ADAS linked regenerative braking system",
+          "Cruise control",
+          "Smart key with push button start",
+          "Remote start with smart key",
+          "Remote start with smart key – Electrically adjustable",
+          "Outside mirror – Electric folding",
+          "Outside mirror – Auto folding",
+          "Front armrest with cooled storage",
+          "Open console storage with lamp",
+          "Rear centre armrest with cup holders",
+          "Electric tailgate release",
+          "Rear AC vents",
+          "Rear AC vents – Front",
+          "USB charger (C type) – Rear ( x2 )",
+          "Power outlet",
+          "Rear wiper and washer",
+          "Rear wiper and washer – Tilt function",
+          "Motor driven power steering – Telescopic function",
+          "LED Luggage lamp",
+          "LED Luggage lamp – Front",
+          "Power windows – Rear",
+          "Passenger vanity mirror",
+          "LED map lamps",
+          "LED reading lamp (Rear)",
+          "Sunglass holder",
+          "Glovebox cooling",
+          "Front storage (FRUNK)",
+          "V2L (Vehicle-to-Load) : inside and outside",
+          "Shift By Wire (SBW) - column type",
+          "Virtual engine sound system (VESS)",
+          "Foldable seatback table with IT device holder & retractable cup-holder for 2nd row occupants LH side",
+          "Battery heater",
+          "Rain sensing wipers",
+          "After-blow technology",
+          "Eco-coating"
+        ],
+        "Infotainment & connectivity": [
+          "26.03 cm (10.25\") Multi display digital cluster",
+          "26.03 cm (10.25”) HD audio video navigation system",
+          "29.46 cm (11.6\") Touchscreen Rear Seat Entertainment System (Passenger Side)",
+          "Bose premium sound 8 speaker system with front central speaker & sub-woofer",
+          "Digital Key",
+          "Smartphone connectivity – Wireless Android Auto & Apple Carplay",
+          "Bluetooth connectivity",
+          "Voice recognition****",
+          "Steering wheel with audio & bluetooth controls",
+          "Front & rear speakers",
+          "Front tweeters",
+          "Hyundai Bluelink (connected car technology)",
+          "JioSaavn music streaming",
+          "In-car payment",
+          "Over-the-air (OTA) updates for map and infotainment",
+          "Home to car (H2C) with Alexa#",
+          "Portable charging cable"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "Creta 51.4 kWh Excellence LR [HC]",
+      "trim": "Excellence LR [HC]",
+      "brochure_trim": "Excellence LR",
+      "fuel": "Electric",
+      "transmission": "Automatic (single-speed)",
+      "ex_showroom_surat": {
+        "standard": 2440200
+      },
+      "engine": null,
+      "specifications": {
+        "Dimensions": {
+          "Overall length (mm)": "4 340",
+          "Overall width (mm)": "1 790",
+          "Overall height (mm)": "1 655",
+          "Wheelbase (mm)": "2 610"
+        },
+        "Electric motor": {
+          "Traction motor (type)": "Interior permanent magnet synchronous motor (IPMSM)",
+          "Max power (kW (PS))": "126 (171)"
+        },
+        "High voltage battery": {
+          "Battery type": "Liquid cooled lithium ion battery pack",
+          "Capacity (kWh)": "51.4",
+          "Driving range (km)": "510"
+        },
+        "Charging": {
+          "Charging standard": "CCS2"
+        },
+        "Estimated AC fast charging time": {
+          "(SOC 10% to 100%)^^ from": "7 hrs 15 min"
+        },
+        "Estimated DC fast charging": {
+          "time^^ (SOC 10% to 80%)": "39 min"
+        },
+        "Transmission": {
+          "Type": "Single speed reduction gear"
+        },
+        "Suspension": {
+          "Front": "McPherson strut with coil spring",
+          "Rear": "Coupled torsion beam axle"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Disc"
+        },
+        "Wheel & tyre": {
+          "Tyre & wheel": "215/60 R17 (D=436.6 mm) Aero alloy wheel",
+          "Spare wheel": "215/60 R17 (D=436.6 mm) Steel wheel"
+        },
+        "1 655***": {
+          "1 790": "2 610"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Airbags – Driver & passenger",
+          "Airbags – Side & curtain",
+          "ABS (Anti-lock braking system) with EBD",
+          "Electronic stability control (ESC)",
+          "Vehicle stability management (VSM)",
+          "Hill-start assist control (HAC)",
+          "Hill descent control (HDC)",
+          "Tyre pressure monitoring system (TPMS) highline",
+          "Front & rear disc brakes",
+          "Seat belt pretensioners - driver & passenger",
+          "Driver anchor pretensioner",
+          "Height adjustable front seatbelts",
+          "3 Point seat belts (all seats)",
+          "Seatbelt reminder (all seats)",
+          "Child seat anchor (ISOFIX)",
+          "Emergency stop signal (ESS)",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Inside door handle override (Driver only)",
+          "Driver power window with auto up-down & safety",
+          "Immobilizer",
+          "Burglar alarm",
+          "Central locking",
+          "Inside rear view mirror – Electro chromic mirror (ECM) with telematics switches",
+          "Automatic headlamps",
+          "Headlamp escort function",
+          "Rear defogger with timer",
+          "Puddle lamps with (H logo) projection & welcome function - Driver Side",
+          "Puddle lamps with (H logo) projection & welcome function - Driver Side – Rear parking sensors",
+          "Parking assist – Rear camera with dynamic guidelines",
+          "Parking assist – Front parking sensors",
+          "Driver rear view monitor (DRVM)",
+          "Driver rear view monitor (DRVM) – Forward Collision Warning (FCW)",
+          "Driver rear view monitor (DRVM) – Forward Collision - Avoidance Assist - Car (FCA-Car)",
+          "Driver rear view monitor (DRVM) – Forward Collision - Avoidance Assist - Pedestrian (FCA-Ped)",
+          "Driver rear view monitor (DRVM) – Forward Collision - Avoidance Assist - Cycle (FCA-Cyl)",
+          "Driver rear view monitor (DRVM) – Forward Collision - Avoidance Assist - Junction Turning (FCA-JT)",
+          "Driver rear view monitor (DRVM) – Blind-spot Collision Warning (BCW)",
+          "Driver rear view monitor (DRVM) – Blind-spot Collision - Avoidance Assist (BCA)",
+          "Hyundai Smartsense – Lane Keeping Assist (LKA)",
+          "(Advanced Driver Assistance System) – Lane Departure Warning (LDW)",
+          "(Advanced Driver Assistance System) – Driver Attention Warning (DAW)",
+          "(Advanced Driver Assistance System) – Safe Exit Warning (SEW)",
+          "(Advanced Driver Assistance System) – Smart Cruise Control with Stop & Go (SCC with S&G)",
+          "(Advanced Driver Assistance System) – Lane Following Assist (LFA)",
+          "(Advanced Driver Assistance System) – High Beam Assist (HBA)",
+          "(Advanced Driver Assistance System) – Leading Vehicle Departure Alert (LVDA)",
+          "(Advanced Driver Assistance System) – Rear Cross - Traffic Collision Warning (RCCW)",
+          "(Advanced Driver Assistance System) – Rear Cross - Traffic Collision - Avoidance Assist (RCCA)",
+          "(Advanced Driver Assistance System) – Surround view monitor (SVM)",
+          "(Advanced Driver Assistance System) – Blind - spot view monitor (BVM)"
+        ],
+        "Exterior": [
+          "R17 (D=436.6 mm) Aero alloy wheels with Low Rolling Resistance (LRR) tyres"
+        ],
+        "Wheels": [
+          "Front & rear skid plate – Silver",
+          "Lightening arch C-Pillar – Silver",
+          "Lightening arch C-Pillar – Quad beam LED headlamp",
+          "Lightening arch C-Pillar – Horizon LED positioning lamp & DRLs",
+          "Lightening arch C-Pillar – LED High mounted stop lamp (HMSL)",
+          "Lighting – LED tail lamps",
+          "Lighting – Rear horizon LED lamp",
+          "Lighting – LED turn signal with sequential function",
+          "Lighting – LED turn indicators on outside mirrors",
+          "Active Air Flaps (AAF)",
+          "Active Air Flaps (AAF) – Silver",
+          "Pixelated graphic grille",
+          "Pixelated LED reverse lamp",
+          "Pixelated LED reverse lamp – With multi color surround light",
+          "Charging port – With state-of-charge (SOC) indicator",
+          "Outside door handles – Body colour",
+          "Outside door handles – Body colour",
+          "Outside door mirrors – Silver",
+          "Shark fin antenna",
+          "Red brake calipers – Body Colour",
+          "Rear spoiler – Lightening arch C pillar",
+          "Rear spoiler – Integrated roof rails",
+          "Dual tone pack (Black painted) – Oustide door mirrors",
+          "Dual tone pack (Black painted) – Rear spoiler"
+        ],
+        "Interior": [
+          "Granite gray with dark navy (Dual Tone) interior",
+          "Floating console – Dark Navy Interior",
+          "Floating console – Leather^",
+          "Eco friendly seat upholstery – Steering wheel",
+          "Leather^ pack – Door armrest",
+          "Height adjustable headrest – Front",
+          "Height adjustable headrest – Rear",
+          "Driver seat adjust – Electric 8 way",
+          "Passenger seat adjust – Electric 8 way",
+          "Powered driver memory seat with welcome retract",
+          "Powered passenger seat walk-in device",
+          "60:40 split rear seat",
+          "2-Step rear reclining seat",
+          "Rear window sunshade",
+          "Rear window sunshade – Floating console",
+          "Soothing Ocean blue ambient light – Crashpad",
+          "Rear seat headrest cushion – Metal Finish",
+          "Rear parcel tray",
+          "3 Spoke Steering wheel"
+        ],
+        "Comfort & convenience": [
+          "Voice enabled smart panoramic sunroof",
+          "Dual zone automatic temperature control (DATC) with touch function",
+          "Front row ventilated seats",
+          "Electric parking brake with auto hold",
+          "Electric parking brake with auto hold – Front row",
+          "Drive Mode Select (Eco, Normal ,Sport)",
+          "Paddle shifters for adjustable regenerative braking",
+          "ADAS linked regenerative braking system",
+          "Cruise control",
+          "Smart key with push button start",
+          "Remote start with smart key",
+          "Remote start with smart key – Electrically adjustable",
+          "Outside mirror – Electric folding",
+          "Outside mirror – Auto folding",
+          "Front armrest with cooled storage",
+          "Open console storage with lamp",
+          "Rear centre armrest with cup holders",
+          "Electric tailgate release",
+          "Rear AC vents",
+          "Rear AC vents – Front",
+          "USB charger (C type) – Rear ( x2 )",
+          "Power outlet",
+          "Rear wiper and washer",
+          "Rear wiper and washer – Tilt function",
+          "Motor driven power steering – Telescopic function",
+          "LED Luggage lamp",
+          "LED Luggage lamp – Front",
+          "Power windows – Rear",
+          "Passenger vanity mirror",
+          "LED map lamps",
+          "LED reading lamp (Rear)",
+          "Sunglass holder",
+          "Glovebox cooling",
+          "Front storage (FRUNK)",
+          "V2L (Vehicle-to-Load) : inside and outside",
+          "Shift By Wire (SBW) - column type",
+          "Virtual engine sound system (VESS)",
+          "Foldable seatback table with IT device holder & retractable cup-holder for 2nd row occupants LH side",
+          "Battery heater",
+          "Rain sensing wipers",
+          "After-blow technology",
+          "Eco-coating"
+        ],
+        "Infotainment & connectivity": [
+          "26.03 cm (10.25\") Multi display digital cluster",
+          "26.03 cm (10.25”) HD audio video navigation system",
+          "Bose premium sound 8 speaker system with front central speaker & sub-woofer",
+          "Digital Key",
+          "Smartphone connectivity – Wireless Android Auto & Apple Carplay",
+          "Bluetooth connectivity",
+          "Voice recognition****",
+          "Steering wheel with audio & bluetooth controls",
+          "Front & rear speakers",
+          "Front tweeters",
+          "Hyundai Bluelink (connected car technology)",
+          "JioSaavn music streaming",
+          "In-car payment",
+          "Over-the-air (OTA) updates for map and infotainment",
+          "Home to car (H2C) with Alexa#",
+          "Portable charging cable"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "Creta 51.4 kWh Excellence LR (HC) Knight Edition",
+      "trim": "Excellence LR (HC) Knight Edition",
+      "brochure_trim": "Excellence LR Knight",
+      "fuel": "Electric",
+      "transmission": "Automatic (single-speed)",
+      "ex_showroom_surat": {
+        "standard": 2455100,
+        "dual_tone": 2470100
+      },
+      "engine": null,
+      "specifications": {
+        "Dimensions": {
+          "Overall length (mm)": "4 340",
+          "Overall width (mm)": "1 790",
+          "Overall height (mm)": "1 655",
+          "Wheelbase (mm)": "2 610"
+        },
+        "Electric motor": {
+          "Traction motor (type)": "Interior permanent magnet synchronous motor (IPMSM)",
+          "Max power (kW (PS))": "126 (171)"
+        },
+        "High voltage battery": {
+          "Battery type": "Liquid cooled lithium ion battery pack",
+          "Capacity (kWh)": "51.4",
+          "Driving range (km)": "510"
+        },
+        "Charging": {
+          "Charging standard": "CCS2"
+        },
+        "Estimated AC fast charging time": {
+          "(SOC 10% to 100%)^^ from": "7 hrs 15 min"
+        },
+        "Estimated DC fast charging": {
+          "time^^ (SOC 10% to 80%)": "39 min"
+        },
+        "Transmission": {
+          "Type": "Single speed reduction gear"
+        },
+        "Suspension": {
+          "Front": "McPherson strut with coil spring",
+          "Rear": "Coupled torsion beam axle"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Disc"
+        },
+        "Wheel & tyre": {
+          "Tyre & wheel": "215/60 R17 (D=436.6 mm) Aero alloy wheel",
+          "Spare wheel": "215/60 R17 (D=436.6 mm) Steel wheel"
+        },
+        "1 655***": {
+          "1 790": "2 610"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Airbags – Driver & passenger",
+          "Airbags – Side & curtain",
+          "Dashcam",
+          "ABS (Anti-lock braking system) with EBD",
+          "Electronic stability control (ESC)",
+          "Vehicle stability management (VSM)",
+          "Hill-start assist control (HAC)",
+          "Hill descent control (HDC)",
+          "Tyre pressure monitoring system (TPMS) highline",
+          "Front & rear disc brakes",
+          "Seat belt pretensioners - driver & passenger",
+          "Driver anchor pretensioner",
+          "Height adjustable front seatbelts",
+          "3 Point seat belts (all seats)",
+          "Seatbelt reminder (all seats)",
+          "Child seat anchor (ISOFIX)",
+          "Emergency stop signal (ESS)",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Inside door handle override (Driver only)",
+          "Driver power window with auto up-down & safety",
+          "Immobilizer",
+          "Burglar alarm",
+          "Central locking",
+          "Inside rear view mirror – Electro chromic mirror (ECM) with telematics switches",
+          "Automatic headlamps",
+          "Headlamp escort function",
+          "Rear defogger with timer",
+          "Puddle lamps with (H logo) projection & welcome function - Driver Side",
+          "Puddle lamps with (H logo) projection & welcome function - Driver Side – Rear parking sensors",
+          "Parking assist – Rear camera with dynamic guidelines",
+          "Parking assist – Front parking sensors",
+          "Driver rear view monitor (DRVM)",
+          "Driver rear view monitor (DRVM) – Forward Collision Warning (FCW)",
+          "Driver rear view monitor (DRVM) – Forward Collision - Avoidance Assist - Car (FCA-Car)",
+          "Driver rear view monitor (DRVM) – Forward Collision - Avoidance Assist - Pedestrian (FCA-Ped)",
+          "Driver rear view monitor (DRVM) – Forward Collision - Avoidance Assist - Cycle (FCA-Cyl)",
+          "Driver rear view monitor (DRVM) – Forward Collision - Avoidance Assist - Junction Turning (FCA-JT)",
+          "Driver rear view monitor (DRVM) – Blind-spot Collision Warning (BCW)",
+          "Driver rear view monitor (DRVM) – Blind-spot Collision - Avoidance Assist (BCA)",
+          "Hyundai Smartsense – Lane Keeping Assist (LKA)",
+          "(Advanced Driver Assistance System) – Lane Departure Warning (LDW)",
+          "(Advanced Driver Assistance System) – Driver Attention Warning (DAW)",
+          "(Advanced Driver Assistance System) – Safe Exit Warning (SEW)",
+          "(Advanced Driver Assistance System) – Smart Cruise Control with Stop & Go (SCC with S&G)",
+          "(Advanced Driver Assistance System) – Lane Following Assist (LFA)",
+          "(Advanced Driver Assistance System) – High Beam Assist (HBA)",
+          "(Advanced Driver Assistance System) – Leading Vehicle Departure Alert (LVDA)",
+          "(Advanced Driver Assistance System) – Rear Cross - Traffic Collision Warning (RCCW)",
+          "(Advanced Driver Assistance System) – Rear Cross - Traffic Collision - Avoidance Assist (RCCA)",
+          "(Advanced Driver Assistance System) – Surround view monitor (SVM)",
+          "(Advanced Driver Assistance System) – Blind - spot view monitor (BVM)"
+        ],
+        "Wheels": [
+          "R17 (D=436.6 mm) Black Aero alloy wheels with Low Rolling Resistance (LRR) tyres",
+          "Front & rear skid plate – Black painted",
+          "Lightening arch C-Pillar – Black painted",
+          "Lightening arch C-Pillar – Quad beam LED headlamp",
+          "Lightening arch C-Pillar – Horizon LED positioning lamp & DRLs",
+          "Lightening arch C-Pillar – LED High mounted stop lamp (HMSL)",
+          "Lighting – LED tail lamps",
+          "Lighting – Rear horizon LED lamp",
+          "Lighting – LED turn signal with sequential function",
+          "Lighting – LED turn indicators on outside mirrors",
+          "Active Air Flaps (AAF)",
+          "Integrated Roof Rails – Black Painted",
+          "Pixelated graphic grille",
+          "Pixelated LED reverse lamp",
+          "Pixelated LED reverse lamp – With multi color surround light",
+          "Charging port – With state-of-charge (SOC) indicator",
+          "Outside door handles – Body colour",
+          "Outside door mirrors – Black Painted",
+          "Side sill garnish – Black Painted",
+          "Shark fin antenna",
+          "Exclusive Knight emblem",
+          "Exclusive Knight emblem – Front",
+          "Red brake calipers – Rear",
+          "Rear spoiler – Black Painted",
+          "Rear spoiler – Lightening arch C pillar",
+          "Rear spoiler – Integrated roof rails",
+          "Dual tone pack (Black painted) – Oustide door mirrors",
+          "Dual tone pack (Black painted) – Rear spoiler"
+        ],
+        "Interior": [
+          "Interiors – All Black Interiors with brass coloured inserts",
+          "Floating console – All Black Interior",
+          "Floating console – Leather^",
+          "Eco friendly seat upholstery – Exclusive Black Leather* Seat Upholstery with brass colored highlights",
+          "Eco friendly seat upholstery – Steering wheel",
+          "Leather^ pack – Door armrest",
+          "Height adjustable headrest – Front",
+          "Height adjustable headrest – Rear",
+          "Driver seat adjust – Electric 8 way",
+          "Sporty metal pedal",
+          "Passenger seat adjust – Electric 8 way",
+          "Powered driver memory seat with welcome retract",
+          "Powered passenger seat walk-in device",
+          "60:40 split rear seat",
+          "2-Step rear reclining seat",
+          "Rear window sunshade",
+          "Soothing Ocean blue ambient light – Floating console",
+          "Amber ambient light – Crashpad",
+          "Inside door handles – Dark metallic finish",
+          "Rear parcel tray",
+          "3 Spoke Steering wheel"
+        ],
+        "Comfort & convenience": [
+          "Voice enabled smart panoramic sunroof",
+          "Dual zone automatic temperature control (DATC) with touch function",
+          "Front row ventilated seats",
+          "Electric parking brake with auto hold",
+          "Electric parking brake with auto hold – Front row",
+          "Smartphone wireless charger **** – 2nd row",
+          "Drive Mode Select (Eco, Normal ,Sport)",
+          "Paddle shifters for adjustable regenerative braking",
+          "ADAS linked regenerative braking system",
+          "Cruise control",
+          "Smart key with push button start",
+          "Remote start with smart key",
+          "Remote start with smart key – Electrically adjustable",
+          "Outside mirror – Electric folding",
+          "Outside mirror – Auto folding",
+          "Front armrest with cooled storage",
+          "Open console storage with lamp",
+          "Rear centre armrest with cup holders",
+          "Electric tailgate release",
+          "Rear AC vents",
+          "Rear AC vents – Front",
+          "USB charger (C type) – Rear ( x2 )",
+          "Power outlet",
+          "Rear wiper and washer",
+          "Rear wiper and washer – Tilt function",
+          "Motor driven power steering – Telescopic function",
+          "LED Luggage lamp",
+          "LED Luggage lamp – Front",
+          "Power windows – Rear",
+          "Passenger vanity mirror",
+          "LED map lamps",
+          "LED reading lamp (Rear)",
+          "Sunglass holder",
+          "Glovebox cooling",
+          "Front storage (FRUNK)",
+          "V2L (Vehicle-to-Load) : inside and outside",
+          "Shift By Wire (SBW) - column type",
+          "Virtual engine sound system (VESS)",
+          "Foldable seatback table with IT device holder & retractable cup-holder for 2nd row occupants LH side",
+          "Battery heater",
+          "Rain sensing wipers",
+          "After-blow technology",
+          "Eco-coating"
+        ],
+        "Infotainment & connectivity": [
+          "26.03 cm (10.25\") Multi display digital cluster",
+          "26.03 cm (10.25”) HD audio video navigation system",
+          "Bose premium sound 8 speaker system with front central speaker & sub-woofer",
+          "Digital Key",
+          "Smartphone connectivity – Wireless Android Auto & Apple Carplay",
+          "Bluetooth connectivity",
+          "Voice recognition****",
+          "Steering wheel with audio & bluetooth controls",
+          "Front & rear speakers",
+          "Front tweeters",
+          "Hyundai Bluelink (connected car technology)",
+          "JioSaavn music streaming",
+          "In-car payment",
+          "Over-the-air (OTA) updates for map and infotainment",
+          "Home to car (H2C) with Alexa#",
+          "Portable charging cable"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "Creta 51.4 kWh Excellence LR (HC)",
+      "trim": "Excellence LR (HC)",
+      "brochure_trim": "Excellence LR",
+      "fuel": "Electric",
+      "transmission": "Automatic (single-speed)",
+      "ex_showroom_surat": {
+        "dual_tone": 2455200
+      },
+      "engine": null,
+      "specifications": {
+        "Dimensions": {
+          "Overall length (mm)": "4 340",
+          "Overall width (mm)": "1 790",
+          "Overall height (mm)": "1 655",
+          "Wheelbase (mm)": "2 610"
+        },
+        "Electric motor": {
+          "Traction motor (type)": "Interior permanent magnet synchronous motor (IPMSM)",
+          "Max power (kW (PS))": "126 (171)"
+        },
+        "High voltage battery": {
+          "Battery type": "Liquid cooled lithium ion battery pack",
+          "Capacity (kWh)": "51.4",
+          "Driving range (km)": "510"
+        },
+        "Charging": {
+          "Charging standard": "CCS2"
+        },
+        "Estimated AC fast charging time": {
+          "(SOC 10% to 100%)^^ from": "7 hrs 15 min"
+        },
+        "Estimated DC fast charging": {
+          "time^^ (SOC 10% to 80%)": "39 min"
+        },
+        "Transmission": {
+          "Type": "Single speed reduction gear"
+        },
+        "Suspension": {
+          "Front": "McPherson strut with coil spring",
+          "Rear": "Coupled torsion beam axle"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Disc"
+        },
+        "Wheel & tyre": {
+          "Tyre & wheel": "215/60 R17 (D=436.6 mm) Aero alloy wheel",
+          "Spare wheel": "215/60 R17 (D=436.6 mm) Steel wheel"
+        },
+        "1 655***": {
+          "1 790": "2 610"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Airbags – Driver & passenger",
+          "Airbags – Side & curtain",
+          "ABS (Anti-lock braking system) with EBD",
+          "Electronic stability control (ESC)",
+          "Vehicle stability management (VSM)",
+          "Hill-start assist control (HAC)",
+          "Hill descent control (HDC)",
+          "Tyre pressure monitoring system (TPMS) highline",
+          "Front & rear disc brakes",
+          "Seat belt pretensioners - driver & passenger",
+          "Driver anchor pretensioner",
+          "Height adjustable front seatbelts",
+          "3 Point seat belts (all seats)",
+          "Seatbelt reminder (all seats)",
+          "Child seat anchor (ISOFIX)",
+          "Emergency stop signal (ESS)",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Inside door handle override (Driver only)",
+          "Driver power window with auto up-down & safety",
+          "Immobilizer",
+          "Burglar alarm",
+          "Central locking",
+          "Inside rear view mirror – Electro chromic mirror (ECM) with telematics switches",
+          "Automatic headlamps",
+          "Headlamp escort function",
+          "Rear defogger with timer",
+          "Puddle lamps with (H logo) projection & welcome function - Driver Side",
+          "Puddle lamps with (H logo) projection & welcome function - Driver Side – Rear parking sensors",
+          "Parking assist – Rear camera with dynamic guidelines",
+          "Parking assist – Front parking sensors",
+          "Driver rear view monitor (DRVM)",
+          "Driver rear view monitor (DRVM) – Forward Collision Warning (FCW)",
+          "Driver rear view monitor (DRVM) – Forward Collision - Avoidance Assist - Car (FCA-Car)",
+          "Driver rear view monitor (DRVM) – Forward Collision - Avoidance Assist - Pedestrian (FCA-Ped)",
+          "Driver rear view monitor (DRVM) – Forward Collision - Avoidance Assist - Cycle (FCA-Cyl)",
+          "Driver rear view monitor (DRVM) – Forward Collision - Avoidance Assist - Junction Turning (FCA-JT)",
+          "Driver rear view monitor (DRVM) – Blind-spot Collision Warning (BCW)",
+          "Driver rear view monitor (DRVM) – Blind-spot Collision - Avoidance Assist (BCA)",
+          "Hyundai Smartsense – Lane Keeping Assist (LKA)",
+          "(Advanced Driver Assistance System) – Lane Departure Warning (LDW)",
+          "(Advanced Driver Assistance System) – Driver Attention Warning (DAW)",
+          "(Advanced Driver Assistance System) – Safe Exit Warning (SEW)",
+          "(Advanced Driver Assistance System) – Smart Cruise Control with Stop & Go (SCC with S&G)",
+          "(Advanced Driver Assistance System) – Lane Following Assist (LFA)",
+          "(Advanced Driver Assistance System) – High Beam Assist (HBA)",
+          "(Advanced Driver Assistance System) – Leading Vehicle Departure Alert (LVDA)",
+          "(Advanced Driver Assistance System) – Rear Cross - Traffic Collision Warning (RCCW)",
+          "(Advanced Driver Assistance System) – Rear Cross - Traffic Collision - Avoidance Assist (RCCA)",
+          "(Advanced Driver Assistance System) – Surround view monitor (SVM)",
+          "(Advanced Driver Assistance System) – Blind - spot view monitor (BVM)"
+        ],
+        "Exterior": [
+          "R17 (D=436.6 mm) Aero alloy wheels with Low Rolling Resistance (LRR) tyres"
+        ],
+        "Wheels": [
+          "Front & rear skid plate – Silver",
+          "Lightening arch C-Pillar – Silver",
+          "Lightening arch C-Pillar – Quad beam LED headlamp",
+          "Lightening arch C-Pillar – Horizon LED positioning lamp & DRLs",
+          "Lightening arch C-Pillar – LED High mounted stop lamp (HMSL)",
+          "Lighting – LED tail lamps",
+          "Lighting – Rear horizon LED lamp",
+          "Lighting – LED turn signal with sequential function",
+          "Lighting – LED turn indicators on outside mirrors",
+          "Active Air Flaps (AAF)",
+          "Active Air Flaps (AAF) – Silver",
+          "Pixelated graphic grille",
+          "Pixelated LED reverse lamp",
+          "Pixelated LED reverse lamp – With multi color surround light",
+          "Charging port – With state-of-charge (SOC) indicator",
+          "Outside door handles – Body colour",
+          "Outside door handles – Body colour",
+          "Outside door mirrors – Silver",
+          "Shark fin antenna",
+          "Red brake calipers – Body Colour",
+          "Rear spoiler – Lightening arch C pillar",
+          "Rear spoiler – Integrated roof rails",
+          "Dual tone pack (Black painted) – Oustide door mirrors",
+          "Dual tone pack (Black painted) – Rear spoiler"
+        ],
+        "Interior": [
+          "Granite gray with dark navy (Dual Tone) interior",
+          "Floating console – Dark Navy Interior",
+          "Floating console – Leather^",
+          "Eco friendly seat upholstery – Steering wheel",
+          "Leather^ pack – Door armrest",
+          "Height adjustable headrest – Front",
+          "Height adjustable headrest – Rear",
+          "Driver seat adjust – Electric 8 way",
+          "Passenger seat adjust – Electric 8 way",
+          "Powered driver memory seat with welcome retract",
+          "Powered passenger seat walk-in device",
+          "60:40 split rear seat",
+          "2-Step rear reclining seat",
+          "Rear window sunshade",
+          "Rear window sunshade – Floating console",
+          "Soothing Ocean blue ambient light – Crashpad",
+          "Rear seat headrest cushion – Metal Finish",
+          "Rear parcel tray",
+          "3 Spoke Steering wheel"
+        ],
+        "Comfort & convenience": [
+          "Voice enabled smart panoramic sunroof",
+          "Dual zone automatic temperature control (DATC) with touch function",
+          "Front row ventilated seats",
+          "Electric parking brake with auto hold",
+          "Electric parking brake with auto hold – Front row",
+          "Drive Mode Select (Eco, Normal ,Sport)",
+          "Paddle shifters for adjustable regenerative braking",
+          "ADAS linked regenerative braking system",
+          "Cruise control",
+          "Smart key with push button start",
+          "Remote start with smart key",
+          "Remote start with smart key – Electrically adjustable",
+          "Outside mirror – Electric folding",
+          "Outside mirror – Auto folding",
+          "Front armrest with cooled storage",
+          "Open console storage with lamp",
+          "Rear centre armrest with cup holders",
+          "Electric tailgate release",
+          "Rear AC vents",
+          "Rear AC vents – Front",
+          "USB charger (C type) – Rear ( x2 )",
+          "Power outlet",
+          "Rear wiper and washer",
+          "Rear wiper and washer – Tilt function",
+          "Motor driven power steering – Telescopic function",
+          "LED Luggage lamp",
+          "LED Luggage lamp – Front",
+          "Power windows – Rear",
+          "Passenger vanity mirror",
+          "LED map lamps",
+          "LED reading lamp (Rear)",
+          "Sunglass holder",
+          "Glovebox cooling",
+          "Front storage (FRUNK)",
+          "V2L (Vehicle-to-Load) : inside and outside",
+          "Shift By Wire (SBW) - column type",
+          "Virtual engine sound system (VESS)",
+          "Foldable seatback table with IT device holder & retractable cup-holder for 2nd row occupants LH side",
+          "Battery heater",
+          "Rain sensing wipers",
+          "After-blow technology",
+          "Eco-coating"
+        ],
+        "Infotainment & connectivity": [
+          "26.03 cm (10.25\") Multi display digital cluster",
+          "26.03 cm (10.25”) HD audio video navigation system",
+          "Bose premium sound 8 speaker system with front central speaker & sub-woofer",
+          "Digital Key",
+          "Smartphone connectivity – Wireless Android Auto & Apple Carplay",
+          "Bluetooth connectivity",
+          "Voice recognition****",
+          "Steering wheel with audio & bluetooth controls",
+          "Front & rear speakers",
+          "Front tweeters",
+          "Hyundai Bluelink (connected car technology)",
+          "JioSaavn music streaming",
+          "In-car payment",
+          "Over-the-air (OTA) updates for map and infotainment",
+          "Home to car (H2C) with Alexa#",
+          "Portable charging cable"
+        ]
+      },
+      "airbags": 6
+    },
+    {
+      "name": "Creta 51.4 kWh Excellence LR ( HC) Lounge",
+      "trim": "Excellence LR ( HC) Lounge",
+      "brochure_trim": "Lounge Edition",
+      "fuel": "Electric",
+      "transmission": "Automatic (single-speed)",
+      "ex_showroom_surat": {
+        "standard": 2507100,
+        "dual_tone": 2522100
+      },
+      "engine": null,
+      "specifications": {
+        "Dimensions": {
+          "Overall length (mm)": "4 340",
+          "Overall width (mm)": "1 790",
+          "Overall height (mm)": "1 655",
+          "Wheelbase (mm)": "2 610"
+        },
+        "Electric motor": {
+          "Traction motor (type)": "Interior permanent magnet synchronous motor (IPMSM)",
+          "Max power (kW (PS))": "126 (171)"
+        },
+        "High voltage battery": {
+          "Battery type": "Liquid cooled lithium ion battery pack",
+          "Capacity (kWh)": "51.4",
+          "Driving range (km)": "510"
+        },
+        "Charging": {
+          "Charging standard": "CCS2"
+        },
+        "Estimated AC fast charging time": {
+          "(SOC 10% to 100%)^^ from": "7 hrs 15 min"
+        },
+        "Estimated DC fast charging": {
+          "time^^ (SOC 10% to 80%)": "39 min"
+        },
+        "Transmission": {
+          "Type": "Single speed reduction gear"
+        },
+        "Suspension": {
+          "Front": "McPherson strut with coil spring",
+          "Rear": "Coupled torsion beam axle"
+        },
+        "Brakes": {
+          "Front": "Disc",
+          "Rear": "Disc"
+        },
+        "Wheel & tyre": {
+          "Tyre & wheel": "215/60 R17 (D=436.6 mm) Aero alloy wheel",
+          "Spare wheel": "215/60 R17 (D=436.6 mm) Steel wheel"
+        },
+        "1 655***": {
+          "1 790": "2 610"
+        }
+      },
+      "features": {
+        "Safety": [
+          "Airbags – Driver & passenger",
+          "Airbags – Side & curtain",
+          "Dashcam",
+          "ABS (Anti-lock braking system) with EBD",
+          "Electronic stability control (ESC)",
+          "Vehicle stability management (VSM)",
+          "Hill-start assist control (HAC)",
+          "Hill descent control (HDC)",
+          "Tyre pressure monitoring system (TPMS) highline",
+          "Front & rear disc brakes",
+          "Seat belt pretensioners - driver & passenger",
+          "Driver anchor pretensioner",
+          "Height adjustable front seatbelts",
+          "3 Point seat belts (all seats)",
+          "Seatbelt reminder (all seats)",
+          "Child seat anchor (ISOFIX)",
+          "Emergency stop signal (ESS)",
+          "Impact sensing auto door unlock",
+          "Speed sensing auto door lock",
+          "Inside door handle override (Driver only)",
+          "Driver power window with auto up-down & safety",
+          "Immobilizer",
+          "Burglar alarm",
+          "Central locking",
+          "Inside rear view mirror – Electro chromic mirror (ECM) with telematics switches",
+          "Automatic headlamps",
+          "Headlamp escort function",
+          "Rear defogger with timer",
+          "Puddle lamps with (H logo) projection & welcome function - Driver Side",
+          "Puddle lamps with (H logo) projection & welcome function - Driver Side – Rear parking sensors",
+          "Parking assist – Rear camera with dynamic guidelines",
+          "Parking assist – Front parking sensors",
+          "Driver rear view monitor (DRVM)",
+          "Driver rear view monitor (DRVM) – Forward Collision Warning (FCW)",
+          "Driver rear view monitor (DRVM) – Forward Collision - Avoidance Assist - Car (FCA-Car)",
+          "Driver rear view monitor (DRVM) – Forward Collision - Avoidance Assist - Pedestrian (FCA-Ped)",
+          "Driver rear view monitor (DRVM) – Forward Collision - Avoidance Assist - Cycle (FCA-Cyl)",
+          "Driver rear view monitor (DRVM) – Forward Collision - Avoidance Assist - Junction Turning (FCA-JT)",
+          "Driver rear view monitor (DRVM) – Blind-spot Collision Warning (BCW)",
+          "Driver rear view monitor (DRVM) – Blind-spot Collision - Avoidance Assist (BCA)",
+          "Hyundai Smartsense – Lane Keeping Assist (LKA)",
+          "(Advanced Driver Assistance System) – Lane Departure Warning (LDW)",
+          "(Advanced Driver Assistance System) – Driver Attention Warning (DAW)",
+          "(Advanced Driver Assistance System) – Safe Exit Warning (SEW)",
+          "(Advanced Driver Assistance System) – Smart Cruise Control with Stop & Go (SCC with S&G)",
+          "(Advanced Driver Assistance System) – Lane Following Assist (LFA)",
+          "(Advanced Driver Assistance System) – High Beam Assist (HBA)",
+          "(Advanced Driver Assistance System) – Leading Vehicle Departure Alert (LVDA)",
+          "(Advanced Driver Assistance System) – Rear Cross - Traffic Collision Warning (RCCW)",
+          "(Advanced Driver Assistance System) – Rear Cross - Traffic Collision - Avoidance Assist (RCCA)",
+          "(Advanced Driver Assistance System) – Surround view monitor (SVM)",
+          "(Advanced Driver Assistance System) – Blind - spot view monitor (BVM)"
+        ],
+        "Wheels": [
+          "R17 (D=436.6 mm) Black Aero alloy wheels with Low Rolling Resistance (LRR) tyres",
+          "Front & rear skid plate – Black painted",
+          "Lightening arch C-Pillar – Black painted",
+          "Lightening arch C-Pillar – Quad beam LED headlamp",
+          "Lightening arch C-Pillar – Horizon LED positioning lamp & DRLs",
+          "Lightening arch C-Pillar – LED High mounted stop lamp (HMSL)",
+          "Lighting – LED tail lamps",
+          "Lighting – Rear horizon LED lamp",
+          "Lighting – LED turn signal with sequential function",
+          "Lighting – LED turn indicators on outside mirrors",
+          "Active Air Flaps (AAF)",
+          "Integrated Roof Rails – Black Painted",
+          "Pixelated graphic grille",
+          "Pixelated LED reverse lamp",
+          "Pixelated LED reverse lamp – With multi color surround light",
+          "Charging port – With state-of-charge (SOC) indicator",
+          "Outside door handles – Body colour",
+          "Outside door mirrors – Black Painted",
+          "Side sill garnish – Black Painted",
+          "Shark fin antenna",
+          "Rear spoiler – Black Painted",
+          "Rear spoiler – Lightening arch C pillar",
+          "Rear spoiler – Integrated roof rails",
+          "Dual tone pack (Black painted) – Oustide door mirrors",
+          "Dual tone pack (Black painted) – Rear spoiler"
+        ],
+        "Interior": [
+          "Interiors – All Black Interiors with silver inserts",
+          "Floating console – All Black Interior",
+          "Eco friendly seat upholstery – Exclusive Black & Grey Leather* Seat Upholstery",
+          "Eco friendly seat upholstery – Steering wheel",
+          "Leather^ pack – Door armrest",
+          "Height adjustable headrest – Front",
+          "Height adjustable headrest – Rear",
+          "Driver seat adjust – Electric 8 way",
+          "Passenger seat adjust – Electric 8 way",
+          "Powered driver memory seat with welcome retract",
+          "Powered passenger seat walk-in device",
+          "60:40 split rear seat",
+          "2-Step rear reclining seat",
+          "Rear window sunshade",
+          "Amber ambient light – Floating console (White)",
+          "Moon White Ambient light – Crashpad (White)",
+          "Rear seat headrest cushion",
+          "Inside door handles – Dark metallic finish",
+          "Rear parcel tray",
+          "3 Spoke Steering wheel"
+        ],
+        "Comfort & convenience": [
+          "Voice enabled smart panoramic sunroof",
+          "Dual zone automatic temperature control (DATC) with touch function",
+          "Front row ventilated seats",
+          "Electric parking brake with auto hold",
+          "Electric parking brake with auto hold – Front row",
+          "Smartphone wireless charger **** – 2nd row",
+          "Drive Mode Select (Eco, Normal ,Sport)",
+          "Paddle shifters for adjustable regenerative braking",
+          "ADAS linked regenerative braking system",
+          "Cruise control",
+          "Smart key with push button start",
+          "Remote start with smart key",
+          "Remote start with smart key – Electrically adjustable",
+          "Outside mirror – Electric folding",
+          "Outside mirror – Auto folding",
+          "Front armrest with cooled storage",
+          "Open console storage with lamp",
+          "Rear centre armrest with cup holders",
+          "Electric tailgate release",
+          "Rear AC vents",
+          "Rear AC vents – Front",
+          "USB charger (C type) – Rear ( x2 )",
+          "Power outlet",
+          "Rear wiper and washer",
+          "Rear wiper and washer – Tilt function",
+          "Motor driven power steering – Telescopic function",
+          "LED Luggage lamp",
+          "LED Luggage lamp – Front",
+          "Power windows – Rear",
+          "Passenger vanity mirror",
+          "LED map lamps",
+          "LED reading lamp (Rear)",
+          "Sunglass holder",
+          "Glovebox cooling",
+          "Front storage (FRUNK)",
+          "V2L (Vehicle-to-Load) : inside and outside",
+          "Shift By Wire (SBW) - column type",
+          "Virtual engine sound system (VESS)",
+          "Foldable seatback table with IT device holder & retractable cup-holder for 2nd row occupants LH side",
+          "Battery heater",
+          "Rain sensing wipers",
+          "After-blow technology",
+          "Eco-coating"
+        ],
+        "Infotainment & connectivity": [
+          "26.03 cm (10.25\") Multi display digital cluster",
+          "26.03 cm (10.25”) HD audio video navigation system",
+          "29.46 cm (11.6\") Touchscreen Rear Seat Entertainment System (Passenger Side)",
+          "Bose premium sound 8 speaker system with front central speaker & sub-woofer",
+          "Digital Key",
+          "Smartphone connectivity – Wireless Android Auto & Apple Carplay",
+          "Bluetooth connectivity",
+          "Voice recognition****",
+          "Steering wheel with audio & bluetooth controls",
+          "Front & rear speakers",
+          "Front tweeters",
+          "Hyundai Bluelink (connected car technology)",
+          "JioSaavn music streaming",
+          "In-car payment",
+          "Over-the-air (OTA) updates for map and infotainment",
+          "Home to car (H2C) with Alexa#",
+          "Portable charging cable"
+        ]
+      },
+      "airbags": 6
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}
