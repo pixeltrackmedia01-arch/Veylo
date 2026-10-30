@@ -1,0 +1,99 @@
+{
+  "brand": "Honda",
+  "model": "City",
+  "slug": "city",
+  "official_page": "https://www.hondacarindia.com/honda-city",
+  "brochure_pdf": "https://www.hondacarindia.com/web-data/brochures/The%20New%20City%20Brochure_21.pdf",
+  "price_city": "Surat, Gujarat",
+  "ex_showroom_min": 1199900,
+  "ex_showroom_max": 1735700,
+  "fuel_types": [
+    "Petrol"
+  ],
+  "transmissions": [
+    "CVT",
+    "MT"
+  ],
+  "colours": [],
+  "variants": [
+    {
+      "name": "City SV MT",
+      "trim": "SV",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 1199900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "City V MT",
+      "trim": "V",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 1350700
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "City V CVT",
+      "trim": "V",
+      "fuel": "Petrol",
+      "transmission": "CVT",
+      "ex_showroom_surat": {
+        "standard": 1450700
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "City ZX MT",
+      "trim": "ZX",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 1546700
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "City ZX+ MT",
+      "trim": "ZX+",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 1635700
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "City ZX CVT",
+      "trim": "ZX",
+      "fuel": "Petrol",
+      "transmission": "CVT",
+      "ex_showroom_surat": {
+        "standard": 1646700
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "City ZX+ CVT",
+      "trim": "ZX+",
+      "fuel": "Petrol",
+      "transmission": "CVT",
+      "ex_showroom_surat": {
+        "standard": 1735700
+      },
+      "specifications": {},
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}

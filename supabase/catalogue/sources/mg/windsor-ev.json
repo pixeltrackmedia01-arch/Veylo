@@ -1,0 +1,65 @@
+{
+  "brand": "MG",
+  "model": "Windsor EV",
+  "slug": "windsor-ev",
+  "official_page": "https://www.mgmotor.co.in/",
+  "brochure_pdf": "https://s7ap1.scene7.com/is/content/mgmotor/mgmotor/documents/MG%20Windsor%20EV%20-%20Brochure.pdf",
+  "price_city": "Surat, Gujarat (MG lists one ex-showroom price nationally)",
+  "ex_showroom_min": 1484800,
+  "ex_showroom_max": 1799800,
+  "fuel_types": [
+    "Electric"
+  ],
+  "transmissions": [
+    "Automatic"
+  ],
+  "colours": [],
+  "variants": [
+    {
+      "code": "4102ECU",
+      "name": "Windsor EV Windsor Ev Excite",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 1484800
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "4103ECU",
+      "name": "Windsor EV Windsor Ev Exclusive",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 1614800
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "4105ECU",
+      "name": "Windsor EV Windsor Ev Essence",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 1714800
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "4116ECU",
+      "name": "Windsor EV Windsor Ev Indulge",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 1799800
+      },
+      "specifications": {},
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}

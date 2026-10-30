@@ -1,0 +1,76 @@
+{
+  "brand": "MG",
+  "model": "Comet EV",
+  "slug": "comet-ev",
+  "official_page": "https://www.mgmotor.co.in/",
+  "brochure_pdf": "https://s7ap1.scene7.com/is/content/mgmotor/mgmotor/documents/MG%20Comet%20EV%20-%20Brochure.pdf",
+  "price_city": "Surat, Gujarat (MG lists one ex-showroom price nationally)",
+  "ex_showroom_min": 789800,
+  "ex_showroom_max": 1016800,
+  "fuel_types": [
+    "Electric"
+  ],
+  "transmissions": [
+    "Automatic"
+  ],
+  "colours": [],
+  "variants": [
+    {
+      "code": "3016EBW",
+      "name": "Comet EV Comet Ev Executive",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 789800
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "3017EBW",
+      "name": "Comet EV Comet Ev Excite",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 899800
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "3018EBW",
+      "name": "Comet EV Comet Ev Excite Fc",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 926800
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "3019EBW",
+      "name": "Comet EV Comet Ev Exclusive",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 989800
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "3020EBW",
+      "name": "Comet EV Comet Ev Exclusive Fc",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 1016800
+      },
+      "specifications": {},
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}

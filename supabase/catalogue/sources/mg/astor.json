@@ -1,0 +1,110 @@
+{
+  "brand": "MG",
+  "model": "Astor",
+  "slug": "astor",
+  "official_page": "https://www.mgmotor.co.in/",
+  "brochure_pdf": "https://s7ap1.scene7.com/is/content/mgmotor/brand/mgmotor/homepage/tools/brochures/MG%20Astor%20-%20Brochure.pdf",
+  "price_city": "Surat, Gujarat (MG lists one ex-showroom price nationally)",
+  "ex_showroom_min": 979100,
+  "ex_showroom_max": 1550100,
+  "fuel_types": [
+    "Petrol"
+  ],
+  "transmissions": [
+    "CVT",
+    "Manual"
+  ],
+  "colours": [],
+  "variants": [
+    {
+      "code": "2291GFZ",
+      "name": "Astor Astor Vti-Tech Mt Sprint",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 979100
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "2292GFZ",
+      "name": "Astor Astor Vti-Tech Mt Shine",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 1134100
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "2253GFZ",
+      "name": "Astor Astor Vti-Tech Mt Select",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 1240100
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "2264GFZ",
+      "name": "Astor Astor Vti-Tech Mt Sharppro",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 1337100
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "2256GFA",
+      "name": "Astor Astor Vti-Tech Cvt Select",
+      "fuel": "Petrol",
+      "transmission": "CVT",
+      "ex_showroom_surat": {
+        "standard": 1356100
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "2266GFA",
+      "name": "Astor Astor Vti-Tech Cvt Sharppro",
+      "fuel": "Petrol",
+      "transmission": "CVT",
+      "ex_showroom_surat": {
+        "standard": 1452100
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "2271GFA",
+      "name": "Astor Astor Vti-Tech Cvt Savvypro",
+      "fuel": "Petrol",
+      "transmission": "CVT",
+      "ex_showroom_surat": {
+        "standard": 1530100
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "2267GFA",
+      "name": "Astor Astor Vti-Tech Cvt Savvypro R",
+      "fuel": "Petrol",
+      "transmission": "CVT",
+      "ex_showroom_surat": {
+        "standard": 1550100
+      },
+      "specifications": {},
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}

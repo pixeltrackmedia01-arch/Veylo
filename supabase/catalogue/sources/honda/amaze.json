@@ -1,0 +1,88 @@
+{
+  "brand": "Honda",
+  "model": "Amaze",
+  "slug": "amaze",
+  "official_page": "https://www.hondacarindia.com/honda-amaze",
+  "brochure_pdf": "https://www.hondacarindia.com/web-data/brochures/pdfs/29042026_Amaze_Brochure_1may26.pdf",
+  "price_city": "Surat, Gujarat",
+  "ex_showroom_min": 765400,
+  "ex_showroom_max": 1020500,
+  "fuel_types": [
+    "Petrol"
+  ],
+  "transmissions": [
+    "CVT",
+    "MT"
+  ],
+  "colours": [],
+  "variants": [
+    {
+      "name": "Amaze V MT",
+      "trim": "V",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 765400
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Amaze VX MT",
+      "trim": "VX",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 865400
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Amaze V CVT",
+      "trim": "V",
+      "fuel": "Petrol",
+      "transmission": "CVT",
+      "ex_showroom_surat": {
+        "standard": 870400
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Amaze ZX MT",
+      "trim": "ZX",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 939400
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Amaze VX CVT",
+      "trim": "VX",
+      "fuel": "Petrol",
+      "transmission": "CVT",
+      "ex_showroom_surat": {
+        "standard": 940400
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Amaze ZX CVT",
+      "trim": "ZX",
+      "fuel": "Petrol",
+      "transmission": "CVT",
+      "ex_showroom_surat": {
+        "standard": 1020500
+      },
+      "specifications": {},
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}

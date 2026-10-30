@@ -1,0 +1,87 @@
+{
+  "brand": "MG",
+  "model": "ZS EV",
+  "slug": "zs-ev",
+  "official_page": "https://www.mgmotor.co.in/",
+  "brochure_pdf": "https://s7ap1.scene7.com/is/content/mgmotor/mgmotor/documents/MG%20ZSEV%20-%20Brochure.pdf",
+  "price_city": "Surat, Gujarat (MG lists one ex-showroom price nationally)",
+  "ex_showroom_min": 1799000,
+  "ex_showroom_max": 2074600,
+  "fuel_types": [
+    "Electric"
+  ],
+  "transmissions": [
+    "Automatic"
+  ],
+  "colours": [],
+  "variants": [
+    {
+      "code": "2022EAF",
+      "name": "ZS EV Zs Ev Executive",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 1799000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "2021EAF",
+      "name": "ZS EV Zs Ev Excite Pro",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 1874600
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "2023EAF",
+      "name": "ZS EV Zs Ev Exclusive Plus Ivory",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 1999600
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "2024EAF",
+      "name": "ZS EV Zs Ev Exclusive Plus",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 1999600
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "2025EAF",
+      "name": "ZS EV Zs Ev Essence Ivory",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 2074600
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "2026EAF",
+      "name": "ZS EV Zs Ev Essence",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 2074600
+      },
+      "specifications": {},
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}

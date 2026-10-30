@@ -1,0 +1,116 @@
+[
+  {
+    "model": "Comet EV",
+    "slug": "comet-ev",
+    "channel": "Hatchback (EV)",
+    "variants": 5,
+    "colours": 0,
+    "ex_showroom_min": 789800,
+    "ex_showroom_max": 1016800,
+    "fuel_types": [
+      "Electric"
+    ],
+    "transmissions": [
+      "Automatic"
+    ],
+    "brochure_pdf": "https://s7ap1.scene7.com/is/content/mgmotor/mgmotor/documents/MG%20Comet%20EV%20-%20Brochure.pdf"
+  },
+  {
+    "model": "Astor",
+    "slug": "astor",
+    "channel": "SUV",
+    "variants": 8,
+    "colours": 0,
+    "ex_showroom_min": 979100,
+    "ex_showroom_max": 1550100,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "CVT",
+      "Manual"
+    ],
+    "brochure_pdf": "https://s7ap1.scene7.com/is/content/mgmotor/brand/mgmotor/homepage/tools/brochures/MG%20Astor%20-%20Brochure.pdf"
+  },
+  {
+    "model": "Windsor EV",
+    "slug": "windsor-ev",
+    "channel": "MUV (EV)",
+    "variants": 4,
+    "colours": 0,
+    "ex_showroom_min": 1484800,
+    "ex_showroom_max": 1799800,
+    "fuel_types": [
+      "Electric"
+    ],
+    "transmissions": [
+      "Automatic"
+    ],
+    "brochure_pdf": "https://s7ap1.scene7.com/is/content/mgmotor/mgmotor/documents/MG%20Windsor%20EV%20-%20Brochure.pdf"
+  },
+  {
+    "model": "Hector",
+    "slug": "hector",
+    "channel": "SUV",
+    "variants": 7,
+    "colours": 0,
+    "ex_showroom_min": 1494800,
+    "ex_showroom_max": 2014800,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "CVT",
+      "Manual"
+    ],
+    "brochure_pdf": "https://s7ap1.scene7.com/is/content/mgmotor/mgmotor/documents/Hector%20ADAS%20Brochure.pdf"
+  },
+  {
+    "model": "ZS EV",
+    "slug": "zs-ev",
+    "channel": "SUV (EV)",
+    "variants": 6,
+    "colours": 0,
+    "ex_showroom_min": 1799000,
+    "ex_showroom_max": 2074600,
+    "fuel_types": [
+      "Electric"
+    ],
+    "transmissions": [
+      "Automatic"
+    ],
+    "brochure_pdf": "https://s7ap1.scene7.com/is/content/mgmotor/mgmotor/documents/MG%20ZSEV%20-%20Brochure.pdf"
+  },
+  {
+    "model": "Windsor Pro",
+    "slug": "windsor-pro",
+    "channel": "MUV (EV)",
+    "variants": 2,
+    "colours": 0,
+    "ex_showroom_min": 1804800,
+    "ex_showroom_max": 1914800,
+    "fuel_types": [
+      "Electric"
+    ],
+    "transmissions": [
+      "Automatic"
+    ],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Majestor",
+    "slug": "majestor",
+    "channel": "SUV",
+    "variants": 3,
+    "colours": 0,
+    "ex_showroom_min": 4349000,
+    "ex_showroom_max": 4599000,
+    "fuel_types": [
+      "Diesel"
+    ],
+    "transmissions": [
+      "Automatic"
+    ],
+    "brochure_pdf": "https://s7ap1.scene7.com/is/content/mgmotor/mgmotor/documents/MG%20Majestor%20-%20Brochure.pdf"
+  }
+]

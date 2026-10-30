@@ -1,0 +1,32 @@
+{
+  "brand": "Honda",
+  "model": "ZR-V",
+  "slug": "zr-v",
+  "official_page": "https://www.hondacarindia.com/honda-zrv",
+  "brochure_pdf": "https://www.hondacarindia.com/web-data/brochures/pdfs/ZR-V%20Brochure_25July26.pdf",
+  "price_city": "Surat, Gujarat",
+  "ex_showroom_min": 4999900,
+  "ex_showroom_max": 4999900,
+  "fuel_types": [
+    "Strong Hybrid"
+  ],
+  "transmissions": [
+    "CVT"
+  ],
+  "colours": [],
+  "variants": [
+    {
+      "name": "ZR-V CVT e:HEV",
+      "trim": "ZRV",
+      "fuel": "Strong Hybrid",
+      "transmission": "CVT",
+      "ex_showroom_surat": {
+        "standard": 4999900
+      },
+      "specifications": {},
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}

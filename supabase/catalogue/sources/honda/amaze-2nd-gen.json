@@ -1,0 +1,44 @@
+{
+  "brand": "Honda",
+  "model": "Amaze (2nd Gen)",
+  "slug": "amaze-2nd-gen",
+  "official_page": "https://www.hondacarindia.com/honda-amaze-2g",
+  "brochure_pdf": "https://www.hondacarindia.com/web-data/brochures/pdfs/04022025_Amaze%20Spec_Leaflet%20Rev%20copy.pdf",
+  "price_city": "Surat, Gujarat",
+  "ex_showroom_min": 697700,
+  "ex_showroom_max": 779800,
+  "fuel_types": [
+    "Petrol"
+  ],
+  "transmissions": [
+    "CVT",
+    "MT"
+  ],
+  "colours": [],
+  "variants": [
+    {
+      "name": "Amaze (2nd Gen) S MT",
+      "trim": "S",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 697700
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Amaze (2nd Gen) S CVT",
+      "trim": "S",
+      "fuel": "Petrol",
+      "transmission": "CVT",
+      "ex_showroom_surat": {
+        "standard": 779800
+      },
+      "specifications": {},
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}

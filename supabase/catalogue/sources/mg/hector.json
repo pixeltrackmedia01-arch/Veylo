@@ -1,0 +1,99 @@
+{
+  "brand": "MG",
+  "model": "Hector",
+  "slug": "hector",
+  "official_page": "https://www.mgmotor.co.in/",
+  "brochure_pdf": "https://s7ap1.scene7.com/is/content/mgmotor/mgmotor/documents/Hector%20ADAS%20Brochure.pdf",
+  "price_city": "Surat, Gujarat (MG lists one ex-showroom price nationally)",
+  "ex_showroom_min": 1494800,
+  "ex_showroom_max": 2014800,
+  "fuel_types": [
+    "Petrol"
+  ],
+  "transmissions": [
+    "CVT",
+    "Manual"
+  ],
+  "colours": [],
+  "variants": [
+    {
+      "code": "6012GCD",
+      "name": "Hector Hector Selectpro Mt",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 1494800
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "6023GCD",
+      "name": "Hector Hector Smartpro Mt",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 1594800
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "6025GEE",
+      "name": "Hector Hector Smartpro Cvt",
+      "fuel": "Petrol",
+      "transmission": "CVT",
+      "ex_showroom_surat": {
+        "standard": 1714800
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "6031GCD",
+      "name": "Hector Hector Sharppro Mt",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 1764800
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "6034GEE",
+      "name": "Hector Hector Sharppro Cvt",
+      "fuel": "Petrol",
+      "transmission": "CVT",
+      "ex_showroom_surat": {
+        "standard": 1874800
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "6064GEE",
+      "name": "Hector Hector Savvypro Cvt",
+      "fuel": "Petrol",
+      "transmission": "CVT",
+      "ex_showroom_surat": {
+        "standard": 1964800
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "6066GEE",
+      "name": "Hector Hectorplus7 Savvypro Cvt",
+      "fuel": "Petrol",
+      "transmission": "CVT",
+      "ex_showroom_surat": {
+        "standard": 2014800
+      },
+      "specifications": {},
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}

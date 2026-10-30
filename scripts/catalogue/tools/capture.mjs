@@ -11,7 +11,7 @@ if (!url || !out) {
   process.exit(1);
 }
 mkdirSync(out, { recursive: true });
-const NOISE = /adobedc|demdex|google|facebook|doubleclick|clarity|hotjar|chat|analytics|tiktok|linkedin|placeholder|form-data|dealer|pincode|login/i;
+const NOISE = /\.(css|js|woff2?)(\?|$)|adobedc|demdex|google|facebook|doubleclick|clarity|hotjar|chat|analytics|tiktok|linkedin|placeholder|form-data|dealer|pincode|login/i;
 const browser = await chromium.launch({ executablePath: process.env.CHROMIUM_PATH || "/opt/pw-browsers/chromium" });
 const page = await browser.newPage({
   userAgent: "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/124 Safari/537.36",

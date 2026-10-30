@@ -1,0 +1,143 @@
+{
+  "brand": "Honda",
+  "model": "Elevate",
+  "slug": "elevate",
+  "official_page": "https://www.hondacarindia.com/honda-elevate",
+  "brochure_pdf": "https://www.hondacarindia.com/web-data/brochures/pdfs/All%20New%20Elevate%20Brochure_Latest.pdf",
+  "price_city": "Surat, Gujarat",
+  "ex_showroom_min": 1180000,
+  "ex_showroom_max": 1840000,
+  "fuel_types": [
+    "Petrol"
+  ],
+  "transmissions": [
+    "CVT",
+    "MT"
+  ],
+  "colours": [],
+  "variants": [
+    {
+      "name": "Elevate SV MT",
+      "trim": "SV",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 1180000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Elevate V MT",
+      "trim": "V",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 1229000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Elevate V CVT",
+      "trim": "V",
+      "fuel": "Petrol",
+      "transmission": "CVT",
+      "ex_showroom_surat": {
+        "standard": 1379000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Elevate VX MT",
+      "trim": "VX",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 1393000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Elevate VX CVT",
+      "trim": "VX",
+      "fuel": "Petrol",
+      "transmission": "CVT",
+      "ex_showroom_surat": {
+        "standard": 1539000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Elevate ZX MT",
+      "trim": "ZX",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 1539000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Elevate ZX+ MT",
+      "trim": "ZX+",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 1680000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Elevate ZX CVT",
+      "trim": "ZX",
+      "fuel": "Petrol",
+      "transmission": "CVT",
+      "ex_showroom_surat": {
+        "standard": 1689000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Elevate ZX+ Black MT",
+      "trim": "ZX+ Black",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 1690000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Elevate ZX+ CVT",
+      "trim": "ZX+",
+      "fuel": "Petrol",
+      "transmission": "CVT",
+      "ex_showroom_surat": {
+        "standard": 1830000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Elevate ZX+ Black CVT",
+      "trim": "ZX+ Black",
+      "fuel": "Petrol",
+      "transmission": "CVT",
+      "ex_showroom_surat": {
+        "standard": 1840000
+      },
+      "specifications": {},
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}

@@ -1,0 +1,43 @@
+{
+  "brand": "MG",
+  "model": "Windsor Pro",
+  "slug": "windsor-pro",
+  "official_page": "https://www.mgmotor.co.in/",
+  "brochure_pdf": null,
+  "price_city": "Surat, Gujarat (MG lists one ex-showroom price nationally)",
+  "ex_showroom_min": 1804800,
+  "ex_showroom_max": 1914800,
+  "fuel_types": [
+    "Electric"
+  ],
+  "transmissions": [
+    "Automatic"
+  ],
+  "colours": [],
+  "variants": [
+    {
+      "code": "4104ECU",
+      "name": "Windsor Pro Windsor Ev Exclusive Pro",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 1804800
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "4106ECU",
+      "name": "Windsor Pro Windsor Ev Essence Pro",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 1914800
+      },
+      "specifications": {},
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}

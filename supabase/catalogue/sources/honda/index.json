@@ -1,0 +1,86 @@
+[
+  {
+    "model": "Amaze (2nd Gen)",
+    "slug": "amaze-2nd-gen",
+    "channel": "Sedan",
+    "variants": 2,
+    "colours": 0,
+    "ex_showroom_min": 697700,
+    "ex_showroom_max": 779800,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "CVT",
+      "MT"
+    ],
+    "brochure_pdf": "https://www.hondacarindia.com/web-data/brochures/pdfs/04022025_Amaze%20Spec_Leaflet%20Rev%20copy.pdf"
+  },
+  {
+    "model": "Amaze",
+    "slug": "amaze",
+    "channel": "Sedan",
+    "variants": 6,
+    "colours": 0,
+    "ex_showroom_min": 765400,
+    "ex_showroom_max": 1020500,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "CVT",
+      "MT"
+    ],
+    "brochure_pdf": "https://www.hondacarindia.com/web-data/brochures/pdfs/29042026_Amaze_Brochure_1may26.pdf"
+  },
+  {
+    "model": "Elevate",
+    "slug": "elevate",
+    "channel": "SUV",
+    "variants": 11,
+    "colours": 0,
+    "ex_showroom_min": 1180000,
+    "ex_showroom_max": 1840000,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "CVT",
+      "MT"
+    ],
+    "brochure_pdf": "https://www.hondacarindia.com/web-data/brochures/pdfs/All%20New%20Elevate%20Brochure_Latest.pdf"
+  },
+  {
+    "model": "City",
+    "slug": "city",
+    "channel": "Sedan",
+    "variants": 7,
+    "colours": 0,
+    "ex_showroom_min": 1199900,
+    "ex_showroom_max": 1735700,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "CVT",
+      "MT"
+    ],
+    "brochure_pdf": "https://www.hondacarindia.com/web-data/brochures/The%20New%20City%20Brochure_21.pdf"
+  },
+  {
+    "model": "ZR-V",
+    "slug": "zr-v",
+    "channel": "SUV",
+    "variants": 1,
+    "colours": 0,
+    "ex_showroom_min": 4999900,
+    "ex_showroom_max": 4999900,
+    "fuel_types": [
+      "Strong Hybrid"
+    ],
+    "transmissions": [
+      "CVT"
+    ],
+    "brochure_pdf": "https://www.hondacarindia.com/web-data/brochures/pdfs/ZR-V%20Brochure_25July26.pdf"
+  }
+]
