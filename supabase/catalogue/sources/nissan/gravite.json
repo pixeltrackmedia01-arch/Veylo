@@ -1,0 +1,104 @@
+{
+  "brand": "Nissan",
+  "model": "Gravite",
+  "slug": "gravite",
+  "official_page": "https://www.nissan.in/vehicles/new/nissan-gravite.html",
+  "brochure_pdf": null,
+  "price_city": "Surat, Gujarat (Nissan publishes one national ex-showroom price list)",
+  "ex_showroom_min": 573400,
+  "ex_showroom_max": 908500,
+  "fuel_types": [
+    "Petrol"
+  ],
+  "transmissions": [
+    "AMT",
+    "MT"
+  ],
+  "colours": [],
+  "variants": [
+    {
+      "name": "Gravite Visia MT",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 573400
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Gravite Acenta MT",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 668400
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Gravite N-Connecta MT",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 738400
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Gravite N-Connecta Ez Shift",
+      "fuel": "Petrol",
+      "transmission": "AMT",
+      "ex_showroom_surat": {
+        "standard": 795000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Gravite Tekna MT",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 808000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Gravite Tekna Launch Edition MT",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 852500
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Gravite Tekna Ez Shift",
+      "fuel": "Petrol",
+      "transmission": "AMT",
+      "ex_showroom_surat": {
+        "standard": 864000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Gravite Tekna Launch Edition Ez Shift",
+      "fuel": "Petrol",
+      "transmission": "AMT",
+      "ex_showroom_surat": {
+        "standard": 908500
+      },
+      "specifications": {},
+      "features": {}
+    }
+  ],
+  "notes": [
+    "A factory-approved CNG kit is offered as a priced add-on (see nissan.in/prices-list.html)."
+  ],
+  "fetched_on": "2026-10-30"
+}

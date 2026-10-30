@@ -1,0 +1,245 @@
+{
+  "brand": "Nissan",
+  "model": "Magnite",
+  "slug": "magnite",
+  "official_page": "https://www.nissan.in/vehicles/new/nissan-magnite.html",
+  "brochure_pdf": null,
+  "price_city": "Surat, Gujarat (Nissan publishes one national ex-showroom price list)",
+  "ex_showroom_min": 569400,
+  "ex_showroom_max": 1099000,
+  "fuel_types": [
+    "Petrol"
+  ],
+  "transmissions": [
+    "AMT",
+    "CVT",
+    "MT"
+  ],
+  "colours": [],
+  "variants": [
+    {
+      "name": "Magnite MT Visia",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 569400
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Magnite MT Visia+",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 626000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Magnite EZ-Shift Visia",
+      "fuel": "Petrol",
+      "transmission": "AMT",
+      "ex_showroom_surat": {
+        "standard": 630000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Magnite MT Acenta",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 687000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Magnite EZ-Shift Acenta",
+      "fuel": "Petrol",
+      "transmission": "AMT",
+      "ex_showroom_surat": {
+        "standard": 742000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Magnite MT N-Connecta",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 750000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Magnite MT Kuro Edition",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 785000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Magnite EZ-Shift N-Connecta",
+      "fuel": "Petrol",
+      "transmission": "AMT",
+      "ex_showroom_surat": {
+        "standard": 805000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Magnite EZ-Shift Kuro Edition",
+      "fuel": "Petrol",
+      "transmission": "AMT",
+      "ex_showroom_surat": {
+        "standard": 840000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Magnite MT Tekna",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 843000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Magnite MT Tekna+",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 876000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Magnite Turbo MT N-Connecta",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 881000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Magnite EZ-Shift Tekna",
+      "fuel": "Petrol",
+      "transmission": "AMT",
+      "ex_showroom_surat": {
+        "standard": 898000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Magnite Turbo MT Kuro Edition",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 916000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Magnite Turbo X-Tronic CVT Acenta",
+      "fuel": "Petrol",
+      "transmission": "CVT",
+      "ex_showroom_surat": {
+        "standard": 930000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Magnite EZ-Shift Tekna+",
+      "fuel": "Petrol",
+      "transmission": "AMT",
+      "ex_showroom_surat": {
+        "standard": 931000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Magnite Turbo MT Tekna",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 961000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Magnite Turbo X-Tronic CVT N-Connecta",
+      "fuel": "Petrol",
+      "transmission": "CVT",
+      "ex_showroom_surat": {
+        "standard": 974000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Magnite Turbo MT Tekna+",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 995000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Magnite Turbo CVT Kuro Edition",
+      "fuel": "Petrol",
+      "transmission": "CVT",
+      "ex_showroom_surat": {
+        "standard": 999400
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Magnite Turbo X-Tronic CVT Tekna",
+      "fuel": "Petrol",
+      "transmission": "CVT",
+      "ex_showroom_surat": {
+        "standard": 1069000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Magnite Turbo X-Tronic CVT Tekna+",
+      "fuel": "Petrol",
+      "transmission": "CVT",
+      "ex_showroom_surat": {
+        "standard": 1099000
+      },
+      "specifications": {},
+      "features": {}
+    }
+  ],
+  "notes": [
+    "A factory-approved CNG kit is offered as a priced add-on (see nissan.in/prices-list.html)."
+  ],
+  "fetched_on": "2026-10-30"
+}

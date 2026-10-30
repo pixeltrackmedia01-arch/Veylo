@@ -1,0 +1,54 @@
+[
+  {
+    "model": "Magnite",
+    "slug": "magnite",
+    "channel": "Compact SUV",
+    "variants": 22,
+    "colours": 0,
+    "ex_showroom_min": 569400,
+    "ex_showroom_max": 1099000,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "AMT",
+      "CVT",
+      "MT"
+    ],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Gravite",
+    "slug": "gravite",
+    "channel": "MUV",
+    "variants": 8,
+    "colours": 0,
+    "ex_showroom_min": 573400,
+    "ex_showroom_max": 908500,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "AMT",
+      "MT"
+    ],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Tekton",
+    "slug": "tekton",
+    "channel": "SUV",
+    "variants": 12,
+    "colours": 0,
+    "ex_showroom_min": 1049000,
+    "ex_showroom_max": 1859000,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "DCT",
+      "MT"
+    ],
+    "brochure_pdf": null
+  }
+]

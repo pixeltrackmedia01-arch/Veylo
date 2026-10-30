@@ -1,0 +1,142 @@
+{
+  "brand": "Nissan",
+  "model": "Tekton",
+  "slug": "tekton",
+  "official_page": "https://www.nissan.in/vehicles/new/nissan-tekton.html",
+  "brochure_pdf": null,
+  "price_city": "Surat, Gujarat (Nissan publishes one national ex-showroom price list)",
+  "ex_showroom_min": 1049000,
+  "ex_showroom_max": 1859000,
+  "fuel_types": [
+    "Petrol"
+  ],
+  "transmissions": [
+    "DCT",
+    "MT"
+  ],
+  "colours": [],
+  "variants": [
+    {
+      "name": "Tekton Visia T160 MT",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 1049000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Tekton Visia+ T160 MT",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 1114000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Tekton Acenta T160 MT",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 1179000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Tekton N-Connecta T160 MT",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 1369000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Tekton N-Connecta T280 MT",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 1499000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Tekton Acenta T280 Dct",
+      "fuel": "Petrol",
+      "transmission": "DCT",
+      "ex_showroom_surat": {
+        "standard": 1499000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Tekton Tekna T160 MT",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 1539000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Tekton Tekna T280 MT",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 1639000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Tekton Tekna+ T160 MT",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 1649000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Tekton N-Connecta T280 Dct",
+      "fuel": "Petrol",
+      "transmission": "DCT",
+      "ex_showroom_surat": {
+        "standard": 1649000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Tekton Tekna T280 Dct",
+      "fuel": "Petrol",
+      "transmission": "DCT",
+      "ex_showroom_surat": {
+        "standard": 1779000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Tekton Tekna+ T280 Dct",
+      "fuel": "Petrol",
+      "transmission": "DCT",
+      "ex_showroom_surat": {
+        "standard": 1859000
+      },
+      "specifications": {},
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}
