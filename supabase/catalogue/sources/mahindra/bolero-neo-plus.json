@@ -1,0 +1,89 @@
+{
+  "brand": "Mahindra",
+  "model": "Bolero Neo Plus",
+  "slug": "bolero-neo-plus",
+  "model_code": "NEOP",
+  "official_page": "https://auto.mahindra.com/suv/bolero-neo-plus/NEOP.html",
+  "brochure_pdf": null,
+  "price_city": "Surat, Gujarat (Mahindra lists one ex-showroom price nationally)",
+  "ex_showroom_min": 1146000,
+  "ex_showroom_max": 1356000,
+  "fuel_types": [
+    "Diesel"
+  ],
+  "transmissions": [
+    "Manual"
+  ],
+  "colours": [
+    {
+      "name": "Diamond White",
+      "hex": [
+        "#e3dfd0"
+      ]
+    },
+    {
+      "name": "Napoli Black",
+      "hex": [
+        "#242424"
+      ]
+    },
+    {
+      "name": "Dsat Silver",
+      "hex": [
+        "#4e4e51"
+      ]
+    }
+  ],
+  "brochure_specs": [],
+  "variants": [
+    {
+      "code": "M0731",
+      "name": "Bolero Neo Plus P4 DIESEL",
+      "fuel": "Diesel",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 1146000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "9"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0732",
+      "name": "Bolero Neo Plus P10 DIESEL",
+      "fuel": "Diesel",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 1256000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "9"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0078",
+      "name": "Bolero Neo Plus AMBULANCE",
+      "fuel": "Diesel",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 1356000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "5"
+        }
+      },
+      "features": {}
+    }
+  ],
+  "notes": [
+    "No brochure on the model page."
+  ],
+  "fetched_on": "2026-10-30"
+}

@@ -1,0 +1,80 @@
+{
+  "brand": "Mahindra",
+  "model": "Scorpio Classic",
+  "slug": "scorpio-classic",
+  "model_code": "SCRC",
+  "official_page": "https://auto.mahindra.com/suv/scorpio-classic/SCRC.html",
+  "brochure_pdf": "https://auto.mahindra.com/on/demandware.static/-/Sites-amc-Library/default/dwe52246f8/SCRC/Scorpio-Classic-Brochure_SV.pdf",
+  "price_city": "Surat, Gujarat (Mahindra lists one ex-showroom price nationally)",
+  "ex_showroom_min": 1390900,
+  "ex_showroom_max": 1748400,
+  "fuel_types": [
+    "Diesel"
+  ],
+  "transmissions": [
+    "Manual"
+  ],
+  "colours": [
+    {
+      "name": "Galaxy Grey",
+      "hex": [
+        "#575a63"
+      ]
+    },
+    {
+      "name": "Diamond White",
+      "hex": [
+        "#ffffff"
+      ]
+    },
+    {
+      "name": "Stealth Black",
+      "hex": [
+        "#060505"
+      ]
+    },
+    {
+      "name": "Everest White",
+      "hex": [
+        "#cfcdcd"
+      ]
+    }
+  ],
+  "brochure_specs": [
+    "Overall Length | 4456 mm"
+  ],
+  "variants": [
+    {
+      "code": "M0886",
+      "name": "Scorpio Classic CLASSIC S DIESEL",
+      "fuel": "Diesel",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 1390900
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "9"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0888",
+      "name": "Scorpio Classic CLASSIC S11 DIESEL",
+      "fuel": "Diesel",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 1748400
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "7CC"
+        }
+      },
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}

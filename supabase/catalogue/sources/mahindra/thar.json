@@ -1,0 +1,304 @@
+{
+  "brand": "Mahindra",
+  "model": "Thar",
+  "slug": "thar",
+  "model_code": "THRN",
+  "official_page": "https://auto.mahindra.com/suv/thar/THRN.html",
+  "brochure_pdf": "https://auto.mahindra.com/on/demandware.static/-/Sites-amc-Library/default/dw6aedc9ad/brochure/THE-THAR-OG-Brochure.pdf",
+  "price_city": "Surat, Gujarat (Mahindra lists one ex-showroom price nationally)",
+  "ex_showroom_min": 1032000,
+  "ex_showroom_max": 1899000,
+  "fuel_types": [
+    "Diesel",
+    "Petrol"
+  ],
+  "transmissions": [
+    "Automatic",
+    "Manual"
+  ],
+  "colours": [
+    {
+      "name": "Artemis Silver",
+      "hex": [
+        "#30363f"
+      ]
+    },
+    {
+      "name": "Jeans Blue",
+      "hex": [
+        "#071f35"
+      ]
+    },
+    {
+      "name": "Tango Red",
+      "hex": [
+        "#970211"
+      ]
+    },
+    {
+      "name": "Galaxy Grey",
+      "hex": [
+        "#575a63"
+      ]
+    },
+    {
+      "name": "Battleship Grey",
+      "hex": [
+        "#768390"
+      ]
+    },
+    {
+      "name": "Everest White",
+      "hex": [
+        "#cfcdcd"
+      ]
+    },
+    {
+      "name": "Stealth Black",
+      "hex": [
+        "#060505"
+      ]
+    },
+    {
+      "name": "Deep Forest",
+      "hex": [
+        "#282d22"
+      ]
+    }
+  ],
+  "brochure_specs": [
+    "119 kW of max power, the mStallion 2.0L",
+    "Transmission Type | 6-Speed Manual",
+    "Wheelbase (mm) | 2450",
+    "Ground Clearance (mm) | 232"
+  ],
+  "variants": [
+    {
+      "code": "M1115",
+      "name": "Thar AXT DIESEL 2WD",
+      "fuel": "Diesel",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 1032000
+      },
+      "specifications": {
+        "Variant": {
+          "Drive": "2WD"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M1116",
+      "name": "Thar LXT DIESEL 2WD",
+      "fuel": "Diesel",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 1299000
+      },
+      "specifications": {
+        "Variant": {
+          "Drive": "2WD"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M1016",
+      "name": "Thar ZXT DIESEL 2WD",
+      "fuel": "Diesel",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 1399000
+      },
+      "specifications": {
+        "Variant": {
+          "Drive": "2WD"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M1011",
+      "name": "Thar LXT PETROL 2WD",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 1476500
+      },
+      "specifications": {
+        "Variant": {
+          "Drive": "2WD"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M1013",
+      "name": "Thar LXT PETROL 4WD",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 1559500
+      },
+      "specifications": {
+        "Variant": {
+          "Drive": "4WD"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M1018",
+      "name": "Thar ZXT PETROL 2WD",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 1609000
+      },
+      "specifications": {
+        "Variant": {
+          "Drive": "2WD"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M1117",
+      "name": "Thar LXT DIESEL 4WD",
+      "fuel": "Diesel",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 1642500
+      },
+      "specifications": {
+        "Variant": {
+          "Drive": "4WD"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M1119",
+      "name": "Thar LXT DIESEL 2WD",
+      "fuel": "Diesel",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 1649000
+      },
+      "specifications": {
+        "Variant": {
+          "Drive": "2WD"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M1020",
+      "name": "Thar ZXT PETROL 4WD",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 1660000
+      },
+      "specifications": {
+        "Variant": {
+          "Drive": "4WD"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M1012",
+      "name": "Thar LXT PETROL 4WD",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 1722500
+      },
+      "specifications": {
+        "Variant": {
+          "Drive": "4WD"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M1017",
+      "name": "Thar ZXT DIESEL 4WD",
+      "fuel": "Diesel",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 1749000
+      },
+      "specifications": {
+        "Variant": {
+          "Drive": "4WD"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M1014",
+      "name": "Thar ZXT DIESEL 2WD",
+      "fuel": "Diesel",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 1749000
+      },
+      "specifications": {
+        "Variant": {
+          "Drive": "2WD"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M1019",
+      "name": "Thar ZXT PETROL 4WD",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 1775000
+      },
+      "specifications": {
+        "Variant": {
+          "Drive": "4WD"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M1120",
+      "name": "Thar LXT DIESEL 4WD",
+      "fuel": "Diesel",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 1799500
+      },
+      "specifications": {
+        "Variant": {
+          "Drive": "4WD"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M1015",
+      "name": "Thar ZXT DIESEL 4WD",
+      "fuel": "Diesel",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 1899000
+      },
+      "specifications": {
+        "Variant": {
+          "Drive": "4WD"
+        }
+      },
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}

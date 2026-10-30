@@ -1,0 +1,222 @@
+[
+  {
+    "model": "Bolero",
+    "slug": "bolero",
+    "channel": "SUV",
+    "variants": 4,
+    "colours": 4,
+    "ex_showroom_min": 856999,
+    "ex_showroom_max": 998999,
+    "fuel_types": [
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual"
+    ],
+    "brochure_pdf": "https://auto.mahindra.com/on/demandware.static/-/Sites-amc-Library/default/dwd7498646/Bolero/BoleroBrochure_220926.pdf"
+  },
+  {
+    "model": "Bolero Neo",
+    "slug": "bolero-neo",
+    "channel": "SUV",
+    "variants": 5,
+    "colours": 6,
+    "ex_showroom_min": 906000,
+    "ex_showroom_max": 1085000,
+    "fuel_types": [
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual"
+    ],
+    "brochure_pdf": "https://auto.mahindra.com/on/demandware.static/-/Sites-amc-Library/default/dw702a971a/NEO/BoleroNeo-Brochure-19-Dec.pdf"
+  },
+  {
+    "model": "Bolero Neo Plus",
+    "slug": "bolero-neo-plus",
+    "channel": "SUV",
+    "variants": 3,
+    "colours": 3,
+    "ex_showroom_min": 1146000,
+    "ex_showroom_max": 1356000,
+    "fuel_types": [
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual"
+    ],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Scorpio Classic",
+    "slug": "scorpio-classic",
+    "channel": "SUV",
+    "variants": 2,
+    "colours": 4,
+    "ex_showroom_min": 1390900,
+    "ex_showroom_max": 1748400,
+    "fuel_types": [
+      "Diesel"
+    ],
+    "transmissions": [
+      "Manual"
+    ],
+    "brochure_pdf": "https://auto.mahindra.com/on/demandware.static/-/Sites-amc-Library/default/dwe52246f8/SCRC/Scorpio-Classic-Brochure_SV.pdf"
+  },
+  {
+    "model": "Scorpio-N",
+    "slug": "scorpio-n",
+    "channel": "SUV",
+    "variants": 27,
+    "colours": 5,
+    "ex_showroom_min": 1369000,
+    "ex_showroom_max": 2549000,
+    "fuel_types": [
+      "Diesel",
+      "Petrol"
+    ],
+    "transmissions": [
+      "Automatic",
+      "Manual"
+    ],
+    "brochure_pdf": "https://auto.mahindra.com/on/demandware.static/-/Sites-amc-Library/default/dw6e995936/brochures/SCN/SCN_brochure.pdf"
+  },
+  {
+    "model": "Thar",
+    "slug": "thar",
+    "channel": "SUV",
+    "variants": 15,
+    "colours": 8,
+    "ex_showroom_min": 1032000,
+    "ex_showroom_max": 1899000,
+    "fuel_types": [
+      "Diesel",
+      "Petrol"
+    ],
+    "transmissions": [
+      "Automatic",
+      "Manual"
+    ],
+    "brochure_pdf": "https://auto.mahindra.com/on/demandware.static/-/Sites-amc-Library/default/dw6aedc9ad/brochure/THE-THAR-OG-Brochure.pdf"
+  },
+  {
+    "model": "Thar Roxx",
+    "slug": "thar-roxx",
+    "channel": "SUV",
+    "variants": 28,
+    "colours": 9,
+    "ex_showroom_min": 1252000,
+    "ex_showroom_max": 2352500,
+    "fuel_types": [
+      "Diesel",
+      "Petrol"
+    ],
+    "transmissions": [
+      "Automatic",
+      "Manual"
+    ],
+    "brochure_pdf": "https://auto.mahindra.com/on/demandware.static/-/Sites-amc-Library/default/dw0bb6a77e/thar-roxx/THAR-ROXX-Brochure-3rd.pdf"
+  },
+  {
+    "model": "XUV 3XO",
+    "slug": "xuv-3xo",
+    "channel": "Compact SUV",
+    "variants": 31,
+    "colours": 18,
+    "ex_showroom_min": 779000,
+    "ex_showroom_max": 1503500,
+    "fuel_types": [
+      "CNG",
+      "Diesel",
+      "Petrol"
+    ],
+    "transmissions": [
+      "Automatic",
+      "Autoshift+",
+      "Manual"
+    ],
+    "brochure_pdf": "https://auto.mahindra.com/on/demandware.static/-/Sites-amc-Library/default/dwda9d7e10/X3XO/XUV-3XO-Brochure.pdf"
+  },
+  {
+    "model": "XUV 7XO",
+    "slug": "xuv-7xo",
+    "channel": "SUV",
+    "variants": 22,
+    "colours": 11,
+    "ex_showroom_min": 1399000,
+    "ex_showroom_max": 2579000,
+    "fuel_types": [
+      "Diesel",
+      "Petrol"
+    ],
+    "transmissions": [
+      "Automatic",
+      "Manual"
+    ],
+    "brochure_pdf": "https://auto.mahindra.com/on/demandware.static/-/Sites-amc-Library/default/dw79d0b384/XUV-7XO/brochures/XUV-7XO-Brochure.pdf"
+  },
+  {
+    "model": "XUV400",
+    "slug": "xuv400",
+    "channel": "Electric SUV",
+    "variants": 1,
+    "colours": 4,
+    "ex_showroom_min": 1748999,
+    "ex_showroom_max": 1748999,
+    "fuel_types": [
+      "Electric"
+    ],
+    "transmissions": [
+      "Automatic"
+    ],
+    "brochure_pdf": "https://auto.mahindra.com/on/demandware.static/-/Sites-amc-Library/default/dw4dc915da/mahindraelectricimages/images/xuv400images/XUV400ProRangeBrochure.pdf"
+  },
+  {
+    "model": "BE 6",
+    "slug": "be-6",
+    "channel": "Electric SUV",
+    "variants": 20,
+    "colours": 12,
+    "ex_showroom_min": 1945000,
+    "ex_showroom_max": 2770000,
+    "fuel_types": [
+      "Electric"
+    ],
+    "transmissions": [
+      "Automatic"
+    ],
+    "brochure_pdf": "https://www.mahindraelectricsuv.com/on/demandware.static/-/Library-Sites-eSUVSharedLibrary/default/dw4c638e88/MBE6/BE6_SPORTEQ_BROCHURE.pdf"
+  },
+  {
+    "model": "XEV 9e",
+    "slug": "xev-9e",
+    "channel": "Electric SUV",
+    "variants": 6,
+    "colours": 10,
+    "ex_showroom_min": 2190000,
+    "ex_showroom_max": 3050000,
+    "fuel_types": [
+      "Electric"
+    ],
+    "transmissions": [
+      "Automatic"
+    ],
+    "brochure_pdf": "https://www.mahindraelectricsuv.com/on/demandware.static/-/Library-Sites-eSUVSharedLibrary/default/MXV9/XEV9e_BROCHURE_R1_20260428.pdf"
+  },
+  {
+    "model": "XEV 9S",
+    "slug": "xev-9s",
+    "channel": "Electric SUV",
+    "variants": 12,
+    "colours": 6,
+    "ex_showroom_min": 2065000,
+    "ex_showroom_max": 3070000,
+    "fuel_types": [
+      "Electric"
+    ],
+    "transmissions": [
+      "Automatic"
+    ],
+    "brochure_pdf": "https://www.mahindraelectricsuv.com/on/demandware.static/-/Library-Sites-eSUVSharedLibrary/default/XEV-9s/PDFs/XEV9S_BROCHURE.pdf"
+  }
+]

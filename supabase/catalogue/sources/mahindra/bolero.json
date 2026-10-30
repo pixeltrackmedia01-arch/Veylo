@@ -1,0 +1,111 @@
+{
+  "brand": "Mahindra",
+  "model": "Bolero",
+  "slug": "bolero",
+  "model_code": "BOL",
+  "official_page": "https://auto.mahindra.com/suv/bolero/BOL.html",
+  "brochure_pdf": "https://auto.mahindra.com/on/demandware.static/-/Sites-amc-Library/default/dwd7498646/Bolero/BoleroBrochure_220926.pdf",
+  "price_city": "Surat, Gujarat (Mahindra lists one ex-showroom price nationally)",
+  "ex_showroom_min": 856999,
+  "ex_showroom_max": 998999,
+  "fuel_types": [
+    "Diesel"
+  ],
+  "transmissions": [
+    "Manual"
+  ],
+  "colours": [
+    {
+      "name": "Stealth Black",
+      "hex": [
+        "#060505"
+      ]
+    },
+    {
+      "name": "Diamond White",
+      "hex": [
+        "#e3dfd0"
+      ]
+    },
+    {
+      "name": "Dsat Silver",
+      "hex": [
+        "#4e4e51"
+      ]
+    },
+    {
+      "name": "Rockey Beige",
+      "hex": [
+        "#242612"
+      ]
+    }
+  ],
+  "brochure_specs": [
+    "Engine | Maximum Power | 55.9 kW @ 3600 rpm",
+    "Maximum Torque | 210 Nm @ 1600 - 2200 rpm"
+  ],
+  "variants": [
+    {
+      "code": "M0819",
+      "name": "Bolero B4 DIESEL",
+      "fuel": "Diesel",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 856999
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "7"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0820",
+      "name": "Bolero B6 DIESEL",
+      "fuel": "Diesel",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 937000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "7"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0821",
+      "name": "Bolero B6 OPT DIESEL",
+      "fuel": "Diesel",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 969000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "7"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0822",
+      "name": "Bolero B8 DIESEL",
+      "fuel": "Diesel",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 998999
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "7"
+        }
+      },
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}

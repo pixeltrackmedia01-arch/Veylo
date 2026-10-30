@@ -1,0 +1,192 @@
+{
+  "brand": "Mahindra",
+  "model": "XEV 9e",
+  "slug": "xev-9e",
+  "model_code": "MXV9",
+  "official_page": "https://www.mahindraelectricsuv.com/esuv/xev-9e/MXV9.html",
+  "brochure_pdf": "https://www.mahindraelectricsuv.com/on/demandware.static/-/Library-Sites-eSUVSharedLibrary/default/MXV9/XEV9e_BROCHURE_R1_20260428.pdf",
+  "price_city": "Surat, Gujarat (Mahindra lists one ex-showroom price nationally)",
+  "ex_showroom_min": 2190000,
+  "ex_showroom_max": 3050000,
+  "fuel_types": [
+    "Electric"
+  ],
+  "transmissions": [
+    "Automatic"
+  ],
+  "colours": [
+    {
+      "name": "Tango Red",
+      "hex": [
+        "#970211"
+      ]
+    },
+    {
+      "name": "Deep Forest",
+      "hex": [
+        "#282d22"
+      ]
+    },
+    {
+      "name": "Nebula Blue",
+      "hex": [
+        "#07132a"
+      ]
+    },
+    {
+      "name": "Ruby Velvet",
+      "hex": [
+        "#2d0406"
+      ]
+    },
+    {
+      "name": "Satin Desert-Myst",
+      "hex": [
+        "#C0BEB7"
+      ]
+    },
+    {
+      "name": "Desert Myst",
+      "hex": [
+        "#C0BEB7"
+      ]
+    },
+    {
+      "name": "Everest White",
+      "hex": [
+        "#cfcdcd"
+      ]
+    },
+    {
+      "name": "Stealth Black",
+      "hex": [
+        "#060505"
+      ]
+    },
+    {
+      "name": "Satin Black",
+      "hex": [
+        "#060505"
+      ]
+    },
+    {
+      "name": "Satin White",
+      "hex": [
+        "#cfcdcd"
+      ]
+    }
+  ],
+  "brochure_specs": [
+    "Car seen is the Mahindra XEV 9e in Tango Red | Expansive cabin space: 1617 L | Boot space: 663 L",
+    "Range (MIDC P1 + P2) | 522 km | 522, 656 km | 522 km | 656 km",
+    "Ac charging time | 6 / 8.7 h | 6 / 8.7 h | 6 / 8.7 h | 6 / 8 / 11.7 h",
+    "Wheelbase (mm) | 2,775",
+    "Ground clearance – unladen (mm) | 207 (218 at battery)"
+  ],
+  "variants": [
+    {
+      "code": "M0597",
+      "name": "XEV 9e One - B59 kWh - R19 - No Charger",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 2190000
+      },
+      "specifications": {
+        "Variant": {
+          "Battery": "59 kWh",
+          "Home charger": "No Charger",
+          "Pack": "One"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0599",
+      "name": "XEV 9e Two - B59 kWh - R19 - No Charger",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 2490000
+      },
+      "specifications": {
+        "Variant": {
+          "Battery": "59 kWh",
+          "Home charger": "No Charger",
+          "Pack": "Two"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0814",
+      "name": "XEV 9e Two - B79 kWh - R19 - No Charger",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 2650000
+      },
+      "specifications": {
+        "Variant": {
+          "Battery": "79 kWh",
+          "Home charger": "No Charger",
+          "Pack": "Two"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0748",
+      "name": "XEV 9e Three Select - B59 kWh - R19 - No Charger",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 2790000
+      },
+      "specifications": {
+        "Variant": {
+          "Battery": "59 kWh",
+          "Home charger": "No Charger",
+          "Pack": "Three Select"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0997",
+      "name": "XEV 9e Cineluxe - 79 kWh - No Charger",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 2935000
+      },
+      "specifications": {
+        "Variant": {
+          "Battery": "79 kWh",
+          "Home charger": "No Charger",
+          "Pack": "Cineluxe"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0603",
+      "name": "XEV 9e Three - B79 kWh - R19 - No Charger",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 3050000
+      },
+      "specifications": {
+        "Variant": {
+          "Battery": "79 kWh",
+          "Home charger": "No Charger",
+          "Pack": "Three"
+        }
+      },
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}

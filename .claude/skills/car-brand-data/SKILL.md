@@ -61,6 +61,7 @@ ex_showroom_min, ex_showroom_max, fuel_types, transmissions, brochure_pdf}`.
 - Facts only (prices, specs, features, colours). Don't copy marketing text; brand photos are
   saved as reference links only — never publish them without permission.
 - Keep requests polite: only the pages/feeds the site itself loads, ~1 request/second.
-- Brands already done: maruti, hyundai. Reachability notes: Tata's site has an expired TLS
+- Brands already done: maruti, hyundai, mahindra (Salesforce Commerce sites: variant cards with
+  prices come from `Product-Variation` per fuel × gearbox × seating combo — see mahindra/fetch.py). Reachability notes: Tata's site has an expired TLS
   certificate; Mercedes, Audi, Volvo, Porsche return 403 to scripts; BMW and MINI reset the
   connection — try `capture.mjs` (real browser) before falling back.

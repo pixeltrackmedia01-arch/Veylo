@@ -1,0 +1,424 @@
+{
+  "brand": "Mahindra",
+  "model": "XUV 7XO",
+  "slug": "xuv-7xo",
+  "model_code": "X7XO",
+  "official_page": "https://auto.mahindra.com/suv/xuv-7xo.html",
+  "brochure_pdf": "https://auto.mahindra.com/on/demandware.static/-/Sites-amc-Library/default/dw79d0b384/XUV-7XO/brochures/XUV-7XO-Brochure.pdf",
+  "price_city": "Surat, Gujarat (Mahindra lists one ex-showroom price nationally)",
+  "ex_showroom_min": 1399000,
+  "ex_showroom_max": 2579000,
+  "fuel_types": [
+    "Diesel",
+    "Petrol"
+  ],
+  "transmissions": [
+    "Automatic",
+    "Manual"
+  ],
+  "colours": [
+    {
+      "name": "Galaxy Grey Sthblk",
+      "hex": [
+        "#575a63,#060505"
+      ]
+    },
+    {
+      "name": "Desert Myst Sthblk",
+      "hex": [
+        "#ded6ce,#060505"
+      ]
+    },
+    {
+      "name": "Midnightblack Sthblk",
+      "hex": [
+        "#171f3c,#242424"
+      ]
+    },
+    {
+      "name": "Everest White Sthblk",
+      "hex": [
+        "#bab9b9,#242424"
+      ]
+    },
+    {
+      "name": "Everest White",
+      "hex": [
+        "#bab9b9"
+      ]
+    },
+    {
+      "name": "Nebula Blue",
+      "hex": [
+        "#0A161F"
+      ]
+    },
+    {
+      "name": "Midnight Black",
+      "hex": [
+        "#171f3c"
+      ]
+    },
+    {
+      "name": "Desert Myst",
+      "hex": [
+        "#ded6ce"
+      ]
+    },
+    {
+      "name": "Galaxy Grey",
+      "hex": [
+        "#575a63"
+      ]
+    },
+    {
+      "name": "Ruby Velvet",
+      "hex": [
+        "#2d0406"
+      ]
+    },
+    {
+      "name": "Stealth Black",
+      "hex": [
+        "#060505"
+      ]
+    }
+  ],
+  "brochure_specs": [],
+  "variants": [
+    {
+      "code": "M0936",
+      "name": "XUV 7XO AX PETROL",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 1399000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "7"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0935",
+      "name": "XUV 7XO AX DIESEL",
+      "fuel": "Diesel",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 1536499
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "7"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0940",
+      "name": "XUV 7XO AX3 PETROL",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 1637000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "7"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0938",
+      "name": "XUV 7XO AX3 DIESEL",
+      "fuel": "Diesel",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 1687499
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "7"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0944",
+      "name": "XUV 7XO AX5 PETROL",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 1788000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "7"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0939",
+      "name": "XUV 7XO AX3 PETROL",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 1788000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "7"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0942",
+      "name": "XUV 7XO AX5 DIESEL",
+      "fuel": "Diesel",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 1837999
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "7"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0937",
+      "name": "XUV 7XO AX3 DIESEL",
+      "fuel": "Diesel",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 1837999
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "7"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0948",
+      "name": "XUV 7XO AX7 PETROL",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 1925999
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "7"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0943",
+      "name": "XUV 7XO AX5 PETROL",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 1938499
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "7"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0946",
+      "name": "XUV 7XO AX7 DIESEL",
+      "fuel": "Diesel",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 1980000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "7"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0941",
+      "name": "XUV 7XO AX5 DIESEL",
+      "fuel": "Diesel",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 1988999
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "7"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0947",
+      "name": "XUV 7XO AX7 PETROL",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 2068499
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "7"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0945",
+      "name": "XUV 7XO AX7 DIESEL",
+      "fuel": "Diesel",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 2115500
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "7"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0955",
+      "name": "XUV 7XO AX7T DIESEL",
+      "fuel": "Diesel",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 2179000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "7"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0956",
+      "name": "XUV 7XO AX7T PETROL",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 2275999
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "7"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0953",
+      "name": "XUV 7XO AX7T DIESEL",
+      "fuel": "Diesel",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 2324999
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "7"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0951",
+      "name": "XUV 7XO AX7L DIESEL",
+      "fuel": "Diesel",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 2340499
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "7"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0954",
+      "name": "XUV 7XO AX7T DIESEL AWD",
+      "fuel": "Diesel",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 2399000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "7",
+          "Drive": "AWD"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0952",
+      "name": "XUV 7XO AX7L PETROL",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 2428999
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "7"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0949",
+      "name": "XUV 7XO AX7L DIESEL",
+      "fuel": "Diesel",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 2495999
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "7"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0950",
+      "name": "XUV 7XO AX7L DIESEL AWD",
+      "fuel": "Diesel",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 2579000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "7",
+          "Drive": "AWD"
+        }
+      },
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}

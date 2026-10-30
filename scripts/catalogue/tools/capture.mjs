@@ -20,7 +20,9 @@ const page = await browser.newPage({
 const index = [];
 let n = 0;
 page.on("response", async (r) => {
-  if (!(r.headers()["content-type"] || "").includes("json")) return;
+  // JSON by content type, or any background fetch/XHR (some sites send JSON as text/plain)
+  const isData = (r.headers()["content-type"] || "").includes("json") || ["xhr", "fetch"].includes(r.request().resourceType());
+  if (!isData) return;
   try {
     const body = await r.text();
     const file = `${String(++n).padStart(3, "0")}.json`;

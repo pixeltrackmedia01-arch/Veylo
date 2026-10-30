@@ -1,0 +1,505 @@
+{
+  "brand": "Mahindra",
+  "model": "Thar Roxx",
+  "slug": "thar-roxx",
+  "model_code": "TH5D",
+  "official_page": "https://auto.mahindra.com/suv/thar-roxx/TH5D.html",
+  "brochure_pdf": "https://auto.mahindra.com/on/demandware.static/-/Sites-amc-Library/default/dw0bb6a77e/thar-roxx/THAR-ROXX-Brochure-3rd.pdf",
+  "price_city": "Surat, Gujarat (Mahindra lists one ex-showroom price nationally)",
+  "ex_showroom_min": 1252000,
+  "ex_showroom_max": 2352500,
+  "fuel_types": [
+    "Diesel",
+    "Petrol"
+  ],
+  "transmissions": [
+    "Automatic",
+    "Manual"
+  ],
+  "colours": [
+    {
+      "name": "Stealth Black",
+      "hex": [
+        "#060505"
+      ]
+    },
+    {
+      "name": "Deep Forest",
+      "hex": [
+        "#282d22"
+      ]
+    },
+    {
+      "name": "Burnt Sienna",
+      "hex": [
+        "#45241a"
+      ]
+    },
+    {
+      "name": "Nebula Blue",
+      "hex": [
+        "#07132a"
+      ]
+    },
+    {
+      "name": "Battleship Grey",
+      "hex": [
+        "#768390"
+      ]
+    },
+    {
+      "name": "Tango Red",
+      "hex": [
+        "#c20d0e"
+      ]
+    },
+    {
+      "name": "Stealth Black",
+      "hex": [
+        "#060505"
+      ]
+    },
+    {
+      "name": "Citrine Yellow",
+      "hex": [
+        "#baa21b"
+      ]
+    },
+    {
+      "name": "Everest White",
+      "hex": [
+        "#cfcdcd"
+      ]
+    }
+  ],
+  "brochure_specs": [
+    "measured as per ISOV2165 standards and may vary across different variants. For exact boot space dimensions, please refer to your local dealership. Company reserves the right to modify speciﬁcations without prior notice.",
+    "Max Power | 119kW @ 5000 r/min | 130 kW @ 5000 r/min | 111.9 kW @ 3750 r/min | 111.9 kW @ 3750 r/min | 128.6 kW @ 3500 r/min",
+    "Max Torque | 330 Nm @ 1500-3000 r/min | 380 Nm @ 1750 - 3000 r/min | 330 Nm @ 1500-3000 r/min | 330 Nm @ 1500-3000 r/min | 400 Nm @ 1750-2750 r/min",
+    "Wheelbase | 2850 mm | Rear: Rigid Axle Coil Spring with WATT's Linkage with FDD (Frequency dependent damping), HRS"
+  ],
+  "variants": [
+    {
+      "code": "M0709",
+      "name": "Thar Roxx MX1 P MT 2WD",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 1252000
+      },
+      "specifications": {
+        "Variant": {
+          "Drive": "2WD"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0708",
+      "name": "Thar Roxx MX1 D MT 2WD",
+      "fuel": "Diesel",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 1423000
+      },
+      "specifications": {
+        "Variant": {
+          "Drive": "2WD"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0712",
+      "name": "Thar Roxx MX3 P AT 2WD",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 1539000
+      },
+      "specifications": {
+        "Variant": {
+          "Drive": "2WD"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0711",
+      "name": "Thar Roxx MX3 D MT 2WD",
+      "fuel": "Diesel",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 1639000
+      },
+      "specifications": {
+        "Variant": {
+          "Drive": "2WD"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0717",
+      "name": "Thar Roxx MX5 P MT 2WD",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 1664000
+      },
+      "specifications": {
+        "Variant": {
+          "Drive": "2WD"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0714",
+      "name": "Thar Roxx MX5 D MT 2WD",
+      "fuel": "Diesel",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 1707000
+      },
+      "specifications": {
+        "Variant": {
+          "Drive": "2WD"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0700",
+      "name": "Thar Roxx AX3L D MT 2WD",
+      "fuel": "Diesel",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 1740000
+      },
+      "specifications": {
+        "Variant": {
+          "Drive": "2WD"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0710",
+      "name": "Thar Roxx MX3 D AT 2WD",
+      "fuel": "Diesel",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 1794000
+      },
+      "specifications": {
+        "Variant": {
+          "Drive": "2WD"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0964",
+      "name": "Thar Roxx STAR EDN DIESEL 2WD",
+      "fuel": "Diesel",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 1797000
+      },
+      "specifications": {
+        "Variant": {
+          "Drive": "2WD"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0716",
+      "name": "Thar Roxx MX5 P AT 2WD",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 1815000
+      },
+      "specifications": {
+        "Variant": {
+          "Drive": "2WD"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0713",
+      "name": "Thar Roxx MX5 D AT 2WD",
+      "fuel": "Diesel",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 1865000
+      },
+      "specifications": {
+        "Variant": {
+          "Drive": "2WD"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0963",
+      "name": "Thar Roxx STAR EDN PETROL 2WD",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 1898000
+      },
+      "specifications": {
+        "Variant": {
+          "Drive": "2WD"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0701",
+      "name": "Thar Roxx AX5L D AT 2WD",
+      "fuel": "Diesel",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 1941000
+      },
+      "specifications": {
+        "Variant": {
+          "Drive": "2WD"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0965",
+      "name": "Thar Roxx STAR EDN DIESEL 2WD",
+      "fuel": "Diesel",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 1948000
+      },
+      "specifications": {
+        "Variant": {
+          "Drive": "2WD"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0565",
+      "name": "Thar Roxx MX5 D MT 4WD MOCHA INTRS",
+      "fuel": "Diesel",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 1956000
+      },
+      "specifications": {
+        "Variant": {
+          "Drive": "4WD"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0715",
+      "name": "Thar Roxx MX5 D MT 4WD",
+      "fuel": "Diesel",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 1956000
+      },
+      "specifications": {
+        "Variant": {
+          "Drive": "4WD"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0706",
+      "name": "Thar Roxx AX7L D MT 2WD",
+      "fuel": "Diesel",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 1957000
+      },
+      "specifications": {
+        "Variant": {
+          "Drive": "2WD"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0874",
+      "name": "Thar Roxx AX7L D MT 2WD MOCHA INTRS",
+      "fuel": "Diesel",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 1957000
+      },
+      "specifications": {
+        "Variant": {
+          "Drive": "2WD"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0707",
+      "name": "Thar Roxx AX7L P AT 2WD",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 1999500
+      },
+      "specifications": {
+        "Variant": {
+          "Drive": "2WD"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0873",
+      "name": "Thar Roxx AX7L P AT 2WD MOCHA INTRS",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 1999500
+      },
+      "specifications": {
+        "Variant": {
+          "Drive": "2WD"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0704",
+      "name": "Thar Roxx AX7L D AT 2WD",
+      "fuel": "Diesel",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 2083000
+      },
+      "specifications": {
+        "Variant": {
+          "Drive": "2WD"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0875",
+      "name": "Thar Roxx AX7L D AT 2WD MOCHA INTRS",
+      "fuel": "Diesel",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 2083000
+      },
+      "specifications": {
+        "Variant": {
+          "Drive": "2WD"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0566",
+      "name": "Thar Roxx AX5L D AT 4WD MOCHA INTRS",
+      "fuel": "Diesel",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 2167000
+      },
+      "specifications": {
+        "Variant": {
+          "Drive": "4WD"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0702",
+      "name": "Thar Roxx AX5L D AT 4WD",
+      "fuel": "Diesel",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 2167000
+      },
+      "specifications": {
+        "Variant": {
+          "Drive": "4WD"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0567",
+      "name": "Thar Roxx AX7L D MT 4WD MOCHA INTRS",
+      "fuel": "Diesel",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 2212000
+      },
+      "specifications": {
+        "Variant": {
+          "Drive": "4WD"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0703",
+      "name": "Thar Roxx AX7L D MT 4WD",
+      "fuel": "Diesel",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 2212000
+      },
+      "specifications": {
+        "Variant": {
+          "Drive": "4WD"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0568",
+      "name": "Thar Roxx AX7L D AT 4WD MOCHA INTRS",
+      "fuel": "Diesel",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 2352500
+      },
+      "specifications": {
+        "Variant": {
+          "Drive": "4WD"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0705",
+      "name": "Thar Roxx AX7L D AT 4WD",
+      "fuel": "Diesel",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 2352500
+      },
+      "specifications": {
+        "Variant": {
+          "Drive": "4WD"
+        }
+      },
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}

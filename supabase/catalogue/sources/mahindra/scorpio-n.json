@@ -1,0 +1,485 @@
+{
+  "brand": "Mahindra",
+  "model": "Scorpio-N",
+  "slug": "scorpio-n",
+  "model_code": "SCN",
+  "official_page": "https://auto.mahindra.com/suv/scorpio-n/SCN.html",
+  "brochure_pdf": "https://auto.mahindra.com/on/demandware.static/-/Sites-amc-Library/default/dw6e995936/brochures/SCN/SCN_brochure.pdf",
+  "price_city": "Surat, Gujarat (Mahindra lists one ex-showroom price nationally)",
+  "ex_showroom_min": 1369000,
+  "ex_showroom_max": 2549000,
+  "fuel_types": [
+    "Diesel",
+    "Petrol"
+  ],
+  "transmissions": [
+    "Automatic",
+    "Manual"
+  ],
+  "colours": [
+    {
+      "name": "Oceanic",
+      "hex": [
+        "#062943"
+      ]
+    },
+    {
+      "name": "Deep Forest",
+      "hex": [
+        "#282d22"
+      ]
+    },
+    {
+      "name": "Everest White",
+      "hex": [
+        "#bab9b9"
+      ]
+    },
+    {
+      "name": "Stealth Black",
+      "hex": [
+        "#060505"
+      ]
+    },
+    {
+      "name": "Galaxy Grey",
+      "hex": [
+        "#575a63"
+      ]
+    }
+  ],
+  "brochure_specs": [
+    "786 litres of boot space with the third row folded. The kind of number that",
+    "Transmission Type | 6 MT/6 AT | 6 MT/6 AT | Z8L | 6 seater |  |  |  | "
+  ],
+  "variants": [
+    {
+      "code": "M0757",
+      "name": "Scorpio-N Z2 PETROL (E)",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 1369000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "7"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0756",
+      "name": "Scorpio-N Z2 DIESEL (E)",
+      "fuel": "Diesel",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 1418999
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "7"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0762",
+      "name": "Scorpio-N Z4 PETROL (E)",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 1556692
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "7"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0760",
+      "name": "Scorpio-N Z4 DIESEL (E)",
+      "fuel": "Diesel",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 1611784
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "7"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0761",
+      "name": "Scorpio-N Z4 PETROL AT",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 1715693
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "7"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0975",
+      "name": "Scorpio-N Z6 DIESEL 2WD",
+      "fuel": "Diesel",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 1717214
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "7",
+          "Drive": "2WD"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0758",
+      "name": "Scorpio-N Z4 DIESEL AT",
+      "fuel": "Diesel",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 1768437
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "7"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0987",
+      "name": "Scorpio-N Z8S PETROL 2WD",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 1778833
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "7",
+          "Drive": "2WD"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0759",
+      "name": "Scorpio-N Z4 DIESEL 4WD (E)",
+      "fuel": "Diesel",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 1802499
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "7",
+          "Drive": "4WD"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0974",
+      "name": "Scorpio-N Z6 DIESEL 2WD",
+      "fuel": "Diesel",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 1882348
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "7",
+          "Drive": "2WD"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0985",
+      "name": "Scorpio-N Z8S DIESEL 2WD",
+      "fuel": "Diesel",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 1889161
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "7",
+          "Drive": "2WD"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0986",
+      "name": "Scorpio-N Z8S PETROL 2WD",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 1926433
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "7",
+          "Drive": "2WD"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0977",
+      "name": "Scorpio-N Z8 DIESEL 2WD",
+      "fuel": "Diesel",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 1986062
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "7",
+          "Drive": "2WD"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0984",
+      "name": "Scorpio-N Z8S DIESEL 2WD",
+      "fuel": "Diesel",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 1998996
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "7",
+          "Drive": "2WD"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0993",
+      "name": "Scorpio-N Z8T PETROL 2WD",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 2037848
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "7",
+          "Drive": "2WD"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0990",
+      "name": "Scorpio-N Z8T DIESEL 2WD",
+      "fuel": "Diesel",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 2065000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "7",
+          "Drive": "2WD"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0976",
+      "name": "Scorpio-N Z8 DIESEL 2WD",
+      "fuel": "Diesel",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 2140837
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "7",
+          "Drive": "2WD"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0983",
+      "name": "Scorpio-N Z8L PETROL 2WD",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 2168699
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "6",
+          "Drive": "2WD"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0992",
+      "name": "Scorpio-N Z8T PETROL 2WD",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 2184818
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "7",
+          "Drive": "2WD"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0988",
+      "name": "Scorpio-N Z8T DIESEL 2WD",
+      "fuel": "Diesel",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 2235146
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "7",
+          "Drive": "2WD"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0980",
+      "name": "Scorpio-N Z8L DIESEL 2WD",
+      "fuel": "Diesel",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 2246794
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "6",
+          "Drive": "2WD"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0991",
+      "name": "Scorpio-N Z8T DIESEL 4WD",
+      "fuel": "Diesel",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 2286249
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "7",
+          "Drive": "4WD"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0982",
+      "name": "Scorpio-N Z8L PETROL 2WD",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 2305399
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "6",
+          "Drive": "2WD"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0978",
+      "name": "Scorpio-N Z8L DIESEL 2WD",
+      "fuel": "Diesel",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 2399499
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "6",
+          "Drive": "2WD"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0981",
+      "name": "Scorpio-N Z8L DIESEL 4WD",
+      "fuel": "Diesel",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 2425145
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "7",
+          "Drive": "4WD"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0989",
+      "name": "Scorpio-N Z8T DIESEL 4WD",
+      "fuel": "Diesel",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 2439249
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "7",
+          "Drive": "4WD"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0979",
+      "name": "Scorpio-N Z8L DIESEL 4WD",
+      "fuel": "Diesel",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 2549000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "7",
+          "Drive": "4WD"
+        }
+      },
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}

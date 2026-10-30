@@ -1,0 +1,63 @@
+{
+  "brand": "Mahindra",
+  "model": "XUV400",
+  "slug": "xuv400",
+  "model_code": "X400",
+  "official_page": "https://auto.mahindra.com/suv/xuv400/X400.html",
+  "brochure_pdf": "https://auto.mahindra.com/on/demandware.static/-/Sites-amc-Library/default/dw4dc915da/mahindraelectricimages/images/xuv400images/XUV400ProRangeBrochure.pdf",
+  "price_city": "Surat, Gujarat (Mahindra lists one ex-showroom price nationally)",
+  "ex_showroom_min": 1748999,
+  "ex_showroom_max": 1748999,
+  "fuel_types": [
+    "Electric"
+  ],
+  "transmissions": [
+    "Automatic"
+  ],
+  "colours": [
+    {
+      "name": "Galaxy Grey",
+      "hex": [
+        "#575a63"
+      ]
+    },
+    {
+      "name": "Nebula Blue",
+      "hex": [
+        "#07132a"
+      ]
+    },
+    {
+      "name": "Everest White",
+      "hex": [
+        "#cfcdcd"
+      ]
+    },
+    {
+      "name": "Stealth Black",
+      "hex": [
+        "#060505"
+      ]
+    }
+  ],
+  "brochure_specs": [],
+  "variants": [
+    {
+      "code": "M0497",
+      "name": "XUV400 EL PRO ST 39.4KW 7.2KW",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 1748999
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "5"
+        }
+      },
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}

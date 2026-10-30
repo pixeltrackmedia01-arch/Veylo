@@ -1,0 +1,281 @@
+{
+  "brand": "Mahindra",
+  "model": "XEV 9S",
+  "slug": "xev-9s",
+  "model_code": "XEV9",
+  "official_page": "https://www.mahindraelectricsuv.com/esuv/xev-9s/XEV9.html",
+  "brochure_pdf": "https://www.mahindraelectricsuv.com/on/demandware.static/-/Library-Sites-eSUVSharedLibrary/default/XEV-9s/PDFs/XEV9S_BROCHURE.pdf",
+  "price_city": "Surat, Gujarat (Mahindra lists one ex-showroom price nationally)",
+  "ex_showroom_min": 2065000,
+  "ex_showroom_max": 3070000,
+  "fuel_types": [
+    "Electric"
+  ],
+  "transmissions": [
+    "Automatic"
+  ],
+  "colours": [
+    {
+      "name": "Desert Myst",
+      "hex": [
+        "#C0BEB7"
+      ]
+    },
+    {
+      "name": "Nebula Blue",
+      "hex": [
+        "#07132a"
+      ]
+    },
+    {
+      "name": "Ruby Velvet",
+      "hex": [
+        "#2d0406"
+      ]
+    },
+    {
+      "name": "Everest White",
+      "hex": [
+        "#cfcdcd"
+      ]
+    },
+    {
+      "name": "Midnight Black",
+      "hex": [
+        "#171f3c"
+      ]
+    },
+    {
+      "name": "Stealth Black",
+      "hex": [
+        "#060505"
+      ]
+    }
+  ],
+  "brochure_specs": [
+    "Range (MIDC P1 + P2) | 521 km, 679 km | 600 km, 679 km | 679 km | 679 km",
+    "Wheelbase (mm) | 2762",
+    "Ground Clearance - Unladen (mm) | 205 (222 at battery)",
+    "AC Charging time (0-100% SOC) | (11 .2kW / 7.2 kW Charger) (11 .2kW / 7.2 kW Charger) (11.2 kW / 7.2 kW Charger) (11.2 kW / 7.2 kW Charger)"
+  ],
+  "variants": [
+    {
+      "code": "M0924",
+      "name": "XEV 9S One Above - 59 kWh - No Charger",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 2065000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "7",
+          "Battery": "59 kWh",
+          "Home charger": "No Charger",
+          "Pack": "One Above"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0923",
+      "name": "XEV 9S One Above - 59 kWh - 11.2 kW Charger",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 2140000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "7",
+          "Battery": "59 kWh",
+          "Home charger": "11.2 kW",
+          "Pack": "One Above"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0925",
+      "name": "XEV 9S One Above - 79 kWh - No Charger",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 2265000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "7",
+          "Battery": "79 kWh",
+          "Home charger": "No Charger",
+          "Pack": "One Above"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0926",
+      "name": "XEV 9S One Above - 79 kWh - 11.2 kW Charger",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 2340000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "7",
+          "Battery": "79 kWh",
+          "Home charger": "11.2 kW",
+          "Pack": "One Above"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0958",
+      "name": "XEV 9S Two Above - 70 kWh - No Charger",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 2505000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "7",
+          "Battery": "70 kWh",
+          "Home charger": "No Charger",
+          "Pack": "Two Above"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0957",
+      "name": "XEV 9S Two Above - 70 kWh - 11.2 kW Charger",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 2580000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "7",
+          "Battery": "70 kWh",
+          "Home charger": "11.2 kW",
+          "Pack": "Two Above"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0932",
+      "name": "XEV 9S Two Above - 79 kWh - No Charger",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 2595000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "7",
+          "Battery": "79 kWh",
+          "Home charger": "No Charger",
+          "Pack": "Two Above"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0931",
+      "name": "XEV 9S Two Above - 79 kWh - 11.2 kW Charger",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 2670000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "7",
+          "Battery": "79 kWh",
+          "Home charger": "11.2 kW",
+          "Pack": "Two Above"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0928",
+      "name": "XEV 9S Three - 79 kWh - No Charger",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 2785000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "7",
+          "Battery": "79 kWh",
+          "Home charger": "No Charger",
+          "Pack": "Three"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0927",
+      "name": "XEV 9S Three - 79 kWh - 11.2 kW Charger",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 2860000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "7",
+          "Battery": "79 kWh",
+          "Home charger": "11.2 kW",
+          "Pack": "Three"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0922",
+      "name": "XEV 9S Three Above - 79 kWh - No Charger",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 2995000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "7",
+          "Battery": "79 kWh",
+          "Home charger": "No Charger",
+          "Pack": "Three Above"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0920",
+      "name": "XEV 9S Three Above - 79 kWh - 11.2 kW Charger",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 3070000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "7",
+          "Battery": "79 kWh",
+          "Home charger": "11.2 kW",
+          "Pack": "Three Above"
+        }
+      },
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}

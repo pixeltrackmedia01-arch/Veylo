@@ -1,0 +1,615 @@
+{
+  "brand": "Mahindra",
+  "model": "XUV 3XO",
+  "slug": "xuv-3xo",
+  "model_code": "X3XO",
+  "official_page": "https://auto.mahindra.com/suv/xuv3xo/X3XO.html",
+  "brochure_pdf": "https://auto.mahindra.com/on/demandware.static/-/Sites-amc-Library/default/dwda9d7e10/X3XO/XUV-3XO-Brochure.pdf",
+  "price_city": "Surat, Gujarat (Mahindra lists one ex-showroom price nationally)",
+  "ex_showroom_min": 779000,
+  "ex_showroom_max": 1503500,
+  "fuel_types": [
+    "CNG",
+    "Diesel",
+    "Petrol"
+  ],
+  "transmissions": [
+    "Automatic",
+    "Autoshift+",
+    "Manual"
+  ],
+  "colours": [
+    {
+      "name": "Dune Beige",
+      "hex": [
+        "#907b61"
+      ]
+    },
+    {
+      "name": "Deep Forest",
+      "hex": [
+        "#282d22"
+      ]
+    },
+    {
+      "name": "Citrine Yellow",
+      "hex": [
+        "#baa21b"
+      ]
+    },
+    {
+      "name": "Deep Forest Grey",
+      "hex": [
+        "#282d22,#6e6f6c"
+      ]
+    },
+    {
+      "name": "Dune Beige Black",
+      "hex": [
+        "#907b61,#060505"
+      ]
+    },
+    {
+      "name": "Citrine Yellow Black",
+      "hex": [
+        "#baa21b,#060505"
+      ]
+    },
+    {
+      "name": "Galaxy Grey",
+      "hex": [
+        "#575a63"
+      ]
+    },
+    {
+      "name": "Nebula Blue",
+      "hex": [
+        "#07132a"
+      ]
+    },
+    {
+      "name": "Tango Red",
+      "hex": [
+        "#970211"
+      ]
+    },
+    {
+      "name": "Everest White",
+      "hex": [
+        "#cfcdcd"
+      ]
+    },
+    {
+      "name": "Stealth Black",
+      "hex": [
+        "#060505"
+      ]
+    },
+    {
+      "name": "Galaxy Grey Black",
+      "hex": [
+        "#575a63,#060505"
+      ]
+    },
+    {
+      "name": "Stealth Black Grey",
+      "hex": [
+        "#060505,#6e6f6c"
+      ]
+    },
+    {
+      "name": "Tango Red Black",
+      "hex": [
+        "#970211,#060505"
+      ]
+    },
+    {
+      "name": "Jeans Blue Black",
+      "hex": [
+        "#071f35, #060505"
+      ]
+    },
+    {
+      "name": "Nebula Blue Grey",
+      "hex": [
+        "#07132a,#6e6f6c"
+      ]
+    },
+    {
+      "name": "Everest White Black",
+      "hex": [
+        "#cfcdcd,#060505"
+      ]
+    },
+    {
+      "name": "Jeans Blue",
+      "hex": [
+        "#071f35"
+      ]
+    }
+  ],
+  "brochure_specs": [
+    "With its athletic stance, R17 Diamond | But its presence isn’t just about making | Ground Clearance – 201mm*",
+    "HARMAN KARDON PREMIUM | � Longest-in-segment Wheelbase: 2600 mm",
+    "� Boot Space: 364 L**",
+    "*Boot space as per ISO V21",
+    "Transmission Type | 6 MT",
+    "Wheelbase [mm] | 2600",
+    "Boot Space[L] | 270**",
+    "Boot Space as per ISO V215",
+    "Transmission Type | 6 MT / 6 AutoSHIFT+",
+    "Wheelbase (mm) | 2600",
+    "Fuel Tank (L) | 42",
+    "Boot space (L) | 364**",
+    "**Boot space as per ISO V215"
+  ],
+  "variants": [
+    {
+      "code": "M1034",
+      "name": "XUV 3XO MX1 PETROL",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 779000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "5"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M1048",
+      "name": "XUV 3XO REVX M PETROL",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 859400
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "5"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M1049",
+      "name": "XUV 3XO REVX M (O) PETROL",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 909000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "5"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M1035",
+      "name": "XUV 3XO MX2 DIESEL",
+      "fuel": "Diesel",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 936000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "5"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M1123",
+      "name": "XUV 3XO REVX EDGE PETROL",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 939000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "5"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M1127",
+      "name": "XUV 3XO REVX EDGE (O) PETROL",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 989000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "5"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M1129",
+      "name": "XUV 3XO REVX M (O) PETROL",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 999000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "5"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M1111",
+      "name": "XUV 3XO MX EDGE CNG",
+      "fuel": "CNG",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 999000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "5"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M1024",
+      "name": "XUV 3XO AX5 PETROL",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 999900
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "5"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M1124",
+      "name": "XUV 3XO REVX EDGE PETROL",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 1059000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "5"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M1122",
+      "name": "XUV 3XO REVX EDGE DIESEL",
+      "fuel": "Diesel",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 1059000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "5"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M1113",
+      "name": "XUV 3XO REVX EDGE (O) CNG",
+      "fuel": "CNG",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 1079000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "5"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M1128",
+      "name": "XUV 3XO REVX EDGE (O) PETROL",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 1109000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "5"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M1125",
+      "name": "XUV 3XO REVX EDGE (O) DIESEL",
+      "fuel": "Diesel",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 1109000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "5"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M1108",
+      "name": "XUV 3XO AX5 CNG",
+      "fuel": "CNG",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 1119000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "5"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M1047",
+      "name": "XUV 3XO REVX A PETROL",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 1127500
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "5"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M1022",
+      "name": "XUV 3XO AX5 DIESEL",
+      "fuel": "Diesel",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 1139500
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "5"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M1023",
+      "name": "XUV 3XO AX5 PETROL",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 1188000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "5"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M1126",
+      "name": "XUV 3XO REVX EDGE (O) DIESEL",
+      "fuel": "Diesel",
+      "transmission": "Autoshift+",
+      "ex_showroom_surat": {
+        "standard": 1191000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "5"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M1026",
+      "name": "XUV 3XO AX5 L TGDI PETROL",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 1202500
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "5"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M1030",
+      "name": "XUV 3XO AX7 TGDI PETROL",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 1219500
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "5"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M1021",
+      "name": "XUV 3XO AX5 DIESEL",
+      "fuel": "Diesel",
+      "transmission": "Autoshift+",
+      "ex_showroom_surat": {
+        "standard": 1219500
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "5"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M1112",
+      "name": "XUV 3XO REVX A CNG",
+      "fuel": "CNG",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 1227000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "5"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M1046",
+      "name": "XUV 3XO REVX A PETROL",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 1239500
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "5"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M1028",
+      "name": "XUV 3XO AX7 DIESEL",
+      "fuel": "Diesel",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 1303500
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "5"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M1025",
+      "name": "XUV 3XO AX5 L TGDI PETROL",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 1327500
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "5"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M1033",
+      "name": "XUV 3XO AX7 L TGDI PETROL",
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 1332500
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "5"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M1029",
+      "name": "XUV 3XO AX7 TGDI PETROL",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 1334000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "5"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M1027",
+      "name": "XUV 3XO AX7 DIESEL",
+      "fuel": "Diesel",
+      "transmission": "Autoshift+",
+      "ex_showroom_surat": {
+        "standard": 1379500
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "5"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M1031",
+      "name": "XUV 3XO AX7 L DIESEL",
+      "fuel": "Diesel",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 1407500
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "5"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M1032",
+      "name": "XUV 3XO AX7 L TGDI PETROL",
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 1503500
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "5"
+        }
+      },
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}

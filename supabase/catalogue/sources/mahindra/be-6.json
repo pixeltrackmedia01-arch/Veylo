@@ -1,0 +1,441 @@
+{
+  "brand": "Mahindra",
+  "model": "BE 6",
+  "slug": "be-6",
+  "model_code": "MBE6",
+  "official_page": "https://www.mahindraelectricsuv.com/esuv/be-6/MBE6.html",
+  "brochure_pdf": "https://www.mahindraelectricsuv.com/on/demandware.static/-/Library-Sites-eSUVSharedLibrary/default/dw4c638e88/MBE6/BE6_SPORTEQ_BROCHURE.pdf",
+  "price_city": "Surat, Gujarat (Mahindra lists one ex-showroom price nationally)",
+  "ex_showroom_min": 1945000,
+  "ex_showroom_max": 2770000,
+  "fuel_types": [
+    "Electric"
+  ],
+  "transmissions": [
+    "Automatic"
+  ],
+  "colours": [
+    {
+      "name": "Stealth Black",
+      "hex": [
+        "#060505"
+      ]
+    },
+    {
+      "name": "Desert Myst",
+      "hex": [
+        "#C0BEB7"
+      ]
+    },
+    {
+      "name": "Deep Forest",
+      "hex": [
+        "#282d22"
+      ]
+    },
+    {
+      "name": "Tango Red",
+      "hex": [
+        "#970211"
+      ]
+    },
+    {
+      "name": "Everest White-Satin",
+      "hex": [
+        "#cfcdcd"
+      ]
+    },
+    {
+      "name": "Stealth Black-Satin",
+      "hex": [
+        "#060505"
+      ]
+    },
+    {
+      "name": "Ruby Velvet",
+      "hex": [
+        "#2d0406"
+      ]
+    },
+    {
+      "name": "Everest White",
+      "hex": [
+        "#cfcdcd"
+      ]
+    },
+    {
+      "name": "Rosso Impulso",
+      "hex": [
+        "#970211"
+      ]
+    },
+    {
+      "name": "Firestorm Orange",
+      "hex": [
+        "#F2745E"
+      ]
+    },
+    {
+      "name": "Firestorm Orange-Sat",
+      "hex": [
+        "#F2745E"
+      ]
+    },
+    {
+      "name": "Graphite Storm",
+      "hex": [
+        "#4e535d"
+      ]
+    }
+  ],
+  "brochure_specs": [
+    "Range (MIDC P1 + P2) | 59 kWh: 573 km |b70 kWh: 652 km |b79 kWh: 708 km",
+    "Key Dimensions | L x W x H (mm): 4371 x 1907 x 1627 | Wheelbase (mm): 2775 | Ground clearance - unladen (mm): 207 (222 at battery) | Turning Circle Diameter (m): 10",
+    "AC Charging time (0-100% SOC) | 59 kWh: 6 / 8.7 h (11.2 kW / 7.2 kW Charger) | 70 kWh: 7 / 10.2 h (11.2 kW / 7.2 kW Charger) | 79 kWh: 8 / 11.7 h (11.2 kW / 7.2 kW Charger)",
+    "DC Charging time (20-80% SOC) | 59 kWh: 20 min (with 140 kW / 400A charger input) | 70 kWh: 20 min (with 160 kW / 400A charger input) | 79 kWh: 20 min (with 180 kW / 400A charger input)"
+  ],
+  "variants": [
+    {
+      "code": "M0585",
+      "name": "BE 6 One 59 kWh - R18 - No Charger",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 1945000
+      },
+      "specifications": {
+        "Variant": {
+          "Battery": "59 kWh",
+          "Home charger": "No Charger",
+          "Pack": "One"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0571",
+      "name": "BE 6 One 59 kWh - R18 - 11.2 kW Charger",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 2020000
+      },
+      "specifications": {
+        "Variant": {
+          "Battery": "59 kWh",
+          "Home charger": "11.2 kW",
+          "Pack": "One"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M1068",
+      "name": "BE 6 Two 59 kWh - R19 - No Charger",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 2095000
+      },
+      "specifications": {
+        "Variant": {
+          "Battery": "59 kWh",
+          "Home charger": "No Charger",
+          "Pack": "Two"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M1067",
+      "name": "BE 6 Two 59 kWh - R19 - 11.2 kW Charger",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 2170000
+      },
+      "specifications": {
+        "Variant": {
+          "Battery": "59 kWh",
+          "Home charger": "11.2 kW",
+          "Pack": "Two"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M1070",
+      "name": "BE 6 Three 59 kWh - R19 - No Charger",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 2195000
+      },
+      "specifications": {
+        "Variant": {
+          "Battery": "59 kWh",
+          "Home charger": "No Charger",
+          "Pack": "Three"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M1069",
+      "name": "BE 6 Three 59 kWh - R19 - 11.2 kW Charger",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 2270000
+      },
+      "specifications": {
+        "Variant": {
+          "Battery": "59 kWh",
+          "Home charger": "11.2 kW",
+          "Pack": "Three"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M1072",
+      "name": "BE 6 Three 70 kWh - R19 - No Charger",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 2295000
+      },
+      "specifications": {
+        "Variant": {
+          "Battery": "70 kWh",
+          "Home charger": "No Charger",
+          "Pack": "Three"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M1071",
+      "name": "BE 6 Three 70 kWh - R19 - 11.2 kW Charger",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 2370000
+      },
+      "specifications": {
+        "Variant": {
+          "Battery": "70 kWh",
+          "Home charger": "11.2 kW",
+          "Pack": "Three"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M1076",
+      "name": "BE 6 Three+ 70 kWh - R19 - No Charger",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 2395000
+      },
+      "specifications": {
+        "Variant": {
+          "Battery": "70 kWh",
+          "Home charger": "No Charger",
+          "Pack": "Three+"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M1131",
+      "name": "BE 6 FE 79 kWh - R20 - No Charger",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 2445000
+      },
+      "specifications": {
+        "Variant": {
+          "Battery": "79 kWh",
+          "Home charger": "No Charger",
+          "Pack": "FE"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M1075",
+      "name": "BE 6 Three+ 70 kWh - R19 - 11.2 kW Charger",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 2470000
+      },
+      "specifications": {
+        "Variant": {
+          "Battery": "70 kWh",
+          "Home charger": "11.2 kW",
+          "Pack": "Three+"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M1078",
+      "name": "BE 6 Three+ 79 kWh - R19 - No Charger",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 2495000
+      },
+      "specifications": {
+        "Variant": {
+          "Battery": "79 kWh",
+          "Home charger": "No Charger",
+          "Pack": "Three+"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M1130",
+      "name": "BE 6 FE 79 kWh - R20 - 11.2 kW Charger",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 2520000
+      },
+      "specifications": {
+        "Variant": {
+          "Battery": "79 kWh",
+          "Home charger": "11.2 kW",
+          "Pack": "FE"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M1077",
+      "name": "BE 6 Three+ 79 kWh - R19 - 11.2 kW Charger",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 2570000
+      },
+      "specifications": {
+        "Variant": {
+          "Battery": "79 kWh",
+          "Home charger": "11.2 kW",
+          "Pack": "Three+"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M1080",
+      "name": "BE 6 Four 79 kWh - R19 - No Charger",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 2695000
+      },
+      "specifications": {
+        "Variant": {
+          "Battery": "79 kWh",
+          "Home charger": "No Charger",
+          "Pack": "Four"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M1121",
+      "name": "BE 6 FE Four 79 kWh - R20 - No Charger",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 2695000
+      },
+      "specifications": {
+        "Variant": {
+          "Battery": "79 kWh",
+          "Home charger": "No Charger",
+          "Pack": "FE Four"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M1134",
+      "name": "BE 6 Launch Edition 79 kWh - R19 - No Charger",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 2695000
+      },
+      "specifications": {
+        "Variant": {
+          "Battery": "79 kWh",
+          "Home charger": "No Charger",
+          "Pack": "Launch Edition"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M1079",
+      "name": "BE 6 Four 79 kWh - R19 - 11.2 kW Charger",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 2770000
+      },
+      "specifications": {
+        "Variant": {
+          "Battery": "79 kWh",
+          "Home charger": "11.2 kW",
+          "Pack": "Four"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M1132",
+      "name": "BE 6 FE Four 79 kWh - R20 - 11.2 kW Charger",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 2770000
+      },
+      "specifications": {
+        "Variant": {
+          "Battery": "79 kWh",
+          "Home charger": "11.2 kW",
+          "Pack": "FE Four"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M1133",
+      "name": "BE 6 Launch Edition 79 kWh - R19 - 11.2 kW Charger",
+      "fuel": "Electric",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 2770000
+      },
+      "specifications": {
+        "Variant": {
+          "Battery": "79 kWh",
+          "Home charger": "11.2 kW",
+          "Pack": "Launch Edition"
+        }
+      },
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}

@@ -1,0 +1,138 @@
+{
+  "brand": "Mahindra",
+  "model": "Bolero Neo",
+  "slug": "bolero-neo",
+  "model_code": "NEO",
+  "official_page": "https://auto.mahindra.com/suv/bolero-neo/NEO.html",
+  "brochure_pdf": "https://auto.mahindra.com/on/demandware.static/-/Sites-amc-Library/default/dw702a971a/NEO/BoleroNeo-Brochure-19-Dec.pdf",
+  "price_city": "Surat, Gujarat (Mahindra lists one ex-showroom price nationally)",
+  "ex_showroom_min": 906000,
+  "ex_showroom_max": 1085000,
+  "fuel_types": [
+    "Diesel"
+  ],
+  "transmissions": [
+    "Manual"
+  ],
+  "colours": [
+    {
+      "name": "Jeans Blue Dt",
+      "hex": [
+        "#060505,#071f35"
+      ]
+    },
+    {
+      "name": "Stealth Black",
+      "hex": [
+        "#060505"
+      ]
+    },
+    {
+      "name": "Diamond White",
+      "hex": [
+        "#e3dfd0"
+      ]
+    },
+    {
+      "name": "Jeans Blue",
+      "hex": [
+        "#071f35"
+      ]
+    },
+    {
+      "name": "Everest White Dt",
+      "hex": [
+        "#bab9b9,#242424"
+      ]
+    },
+    {
+      "name": "Everest White",
+      "hex": [
+        "#bab9b9"
+      ]
+    }
+  ],
+  "brochure_specs": [
+    "Engine | Maximum Power | 73.5 kW @ 3750 rpm",
+    "Maximum Torque | 260 Nm @ 1750 - 2250 rpm"
+  ],
+  "variants": [
+    {
+      "code": "M0823",
+      "name": "Bolero Neo N4 DIESEL",
+      "fuel": "Diesel",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 906000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "7"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0825",
+      "name": "Bolero Neo N8 DIESEL",
+      "fuel": "Diesel",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 969000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "7"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0827",
+      "name": "Bolero Neo N10 (R) DIESEL",
+      "fuel": "Diesel",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 999898
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "7"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0868",
+      "name": "Bolero Neo N11 DIESEL",
+      "fuel": "Diesel",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 1039000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "7"
+        }
+      },
+      "features": {}
+    },
+    {
+      "code": "M0826",
+      "name": "Bolero Neo N10 OPT DIESEL",
+      "fuel": "Diesel",
+      "transmission": "Manual",
+      "ex_showroom_surat": {
+        "standard": 1085000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "7"
+        }
+      },
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}
