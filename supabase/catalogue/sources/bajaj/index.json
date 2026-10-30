@@ -1,0 +1,86 @@
+[
+  {
+    "model": "Platina",
+    "slug": "platina",
+    "channel": "Motorcycle",
+    "variants": 2,
+    "colours": 0,
+    "ex_showroom_min": 70641,
+    "ex_showroom_max": 74877,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [],
+    "brochure_pdf": null
+  },
+  {
+    "model": "CT",
+    "slug": "ct",
+    "channel": "Motorcycle",
+    "variants": 1,
+    "colours": 0,
+    "ex_showroom_min": 74960,
+    "ex_showroom_max": 74960,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Pulsar",
+    "slug": "pulsar",
+    "channel": "Motorcycle",
+    "variants": 11,
+    "colours": 0,
+    "ex_showroom_min": 93928,
+    "ex_showroom_max": 191254,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Freedom",
+    "slug": "freedom",
+    "channel": "Motorcycle",
+    "variants": 1,
+    "colours": 0,
+    "ex_showroom_min": 118578,
+    "ex_showroom_max": 118578,
+    "fuel_types": [
+      "CNG"
+    ],
+    "transmissions": [],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Avenger",
+    "slug": "avenger",
+    "channel": "Motorcycle",
+    "variants": 2,
+    "colours": 0,
+    "ex_showroom_min": 133299,
+    "ex_showroom_max": 133299,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Dominar",
+    "slug": "dominar",
+    "channel": "Motorcycle",
+    "variants": 2,
+    "colours": 0,
+    "ex_showroom_min": 186835,
+    "ex_showroom_max": 209485,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [],
+    "brochure_pdf": null
+  }
+]

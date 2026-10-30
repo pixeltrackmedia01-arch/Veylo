@@ -1,0 +1,30 @@
+{
+  "brand": "Bajaj",
+  "model": "CT",
+  "slug": "ct",
+  "official_page": "https://www.bajajauto.com/bikes/ct/ct-110x",
+  "brochure_pdf": null,
+  "price_city": "Gujarat (state ex-showroom price from bajajauto.com)",
+  "ex_showroom_min": 74960,
+  "ex_showroom_max": 74960,
+  "fuel_types": [
+    "Petrol"
+  ],
+  "transmissions": [],
+  "colours": [],
+  "variants": [
+    {
+      "code": "00DY137R",
+      "name": "CT 110X",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 74960
+      },
+      "specifications": {},
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}

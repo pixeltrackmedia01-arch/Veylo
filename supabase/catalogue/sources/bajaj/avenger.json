@@ -1,0 +1,41 @@
+{
+  "brand": "Bajaj",
+  "model": "Avenger",
+  "slug": "avenger",
+  "official_page": "https://www.bajajauto.com/bikes/avenger/avenger-cruise-220",
+  "brochure_pdf": null,
+  "price_city": "Gujarat (state ex-showroom price from bajajauto.com)",
+  "ex_showroom_min": 133299,
+  "ex_showroom_max": 133299,
+  "fuel_types": [
+    "Petrol"
+  ],
+  "transmissions": [],
+  "colours": [],
+  "variants": [
+    {
+      "code": "00PD389K",
+      "name": "AVENGER 220 CRUISE",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 133299
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "00PD402V",
+      "name": "Avenger 220 Street",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 133299
+      },
+      "specifications": {},
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}

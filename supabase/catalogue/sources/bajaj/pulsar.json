@@ -1,0 +1,140 @@
+{
+  "brand": "Bajaj",
+  "model": "Pulsar",
+  "slug": "pulsar",
+  "official_page": "https://www.bajajauto.com/bikes/pulsar/pulsar-n125",
+  "brochure_pdf": null,
+  "price_city": "Gujarat (state ex-showroom price from bajajauto.com)",
+  "ex_showroom_min": 93928,
+  "ex_showroom_max": 191254,
+  "fuel_types": [
+    "Petrol"
+  ],
+  "transmissions": [],
+  "colours": [],
+  "variants": [
+    {
+      "code": "00JZ56DA",
+      "name": "Pulsar N125",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 93928
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "00JR70EF",
+      "name": "Pulsar 125 Single Seat LCD",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 95391
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "00JF5817",
+      "name": "Pulsar NS125 led BT",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 103433
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "00DJ1642",
+      "name": "Pulsar 180",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 121428
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "00JR81BT",
+      "name": "N160 SD USD Single Seat",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 125576
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "00JF558R",
+      "name": "Pulsar NS160 SC",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 127116
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "00JR905N",
+      "name": "Pulsar 150 TD Premium Split Seat TFT",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 128508
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "00JL30BH",
+      "name": "Pulsar NS200 SC",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 140603
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "00JR349V",
+      "name": "Pulsar N250",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 144214
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "00DT229V",
+      "name": "Pulsar RS200",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 180115
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "00JL349V",
+      "name": "Pulsar NS400Z",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 191254
+      },
+      "specifications": {},
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}

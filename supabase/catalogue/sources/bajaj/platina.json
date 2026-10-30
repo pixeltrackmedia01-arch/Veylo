@@ -1,0 +1,41 @@
+{
+  "brand": "Bajaj",
+  "model": "Platina",
+  "slug": "platina",
+  "official_page": "https://www.bajajauto.com/bikes/platina/platina-100",
+  "brochure_pdf": null,
+  "price_city": "Gujarat (state ex-showroom price from bajajauto.com)",
+  "ex_showroom_min": 70641,
+  "ex_showroom_max": 74877,
+  "fuel_types": [
+    "Petrol"
+  ],
+  "transmissions": [],
+  "colours": [],
+  "variants": [
+    {
+      "code": "00JK39DP",
+      "name": "Platina 100 ES BS6",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 70641
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "00JK384C",
+      "name": "Platina 110 Drum",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 74877
+      },
+      "specifications": {},
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}

@@ -1,0 +1,30 @@
+{
+  "brand": "Bajaj",
+  "model": "Freedom",
+  "slug": "freedom",
+  "official_page": "https://www.bajajauto.com/bikes/bajaj-freedom/bajaj-freedom-125-ng04",
+  "brochure_pdf": null,
+  "price_city": "Gujarat (state ex-showroom price from bajajauto.com)",
+  "ex_showroom_min": 118578,
+  "ex_showroom_max": 118578,
+  "fuel_types": [
+    "CNG"
+  ],
+  "transmissions": [],
+  "colours": [],
+  "variants": [
+    {
+      "code": "00JH3632",
+      "name": "Freedom 125 NG04 Disc LED",
+      "fuel": "CNG",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 118578
+      },
+      "specifications": {},
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}

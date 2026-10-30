@@ -1,0 +1,41 @@
+{
+  "brand": "Bajaj",
+  "model": "Dominar",
+  "slug": "dominar",
+  "official_page": "https://www.bajajauto.com/bikes/dominar/dominar-250",
+  "brochure_pdf": null,
+  "price_city": "Gujarat (state ex-showroom price from bajajauto.com)",
+  "ex_showroom_min": 186835,
+  "ex_showroom_max": 209485,
+  "fuel_types": [
+    "Petrol"
+  ],
+  "transmissions": [],
+  "colours": [],
+  "variants": [
+    {
+      "code": "00JF5346",
+      "name": "Dominar 250",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 186835
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "code": "00JF629A",
+      "name": "Dominar 400",
+      "fuel": "Petrol",
+      "transmission": null,
+      "ex_showroom_surat": {
+        "standard": 209485
+      },
+      "specifications": {},
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}
