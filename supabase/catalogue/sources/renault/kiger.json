@@ -1,0 +1,159 @@
+{
+  "brand": "Renault",
+  "model": "Kiger",
+  "slug": "kiger",
+  "official_page": "https://www.renault.co.in/cars/renault-kiger.html",
+  "brochure_pdf": null,
+  "price_city": "Surat, Gujarat (Renault price sheet dated 59-94-0040)",
+  "ex_showroom_min": 581000,
+  "ex_showroom_max": 1040000,
+  "fuel_types": [
+    "Petrol"
+  ],
+  "transmissions": [
+    "AMT",
+    "CVT",
+    "MT"
+  ],
+  "colours": [],
+  "variants": [
+    {
+      "name": "Kiger Authentic MT",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 581000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Kiger Evolution MT",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 659000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Kiger Evolution+ MT",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 703000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Kiger Evolution AMT ENERGY",
+      "fuel": "Petrol",
+      "transmission": "AMT",
+      "ex_showroom_surat": {
+        "standard": 703000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Kiger Evolution+ AMT ENERGY",
+      "fuel": "Petrol",
+      "transmission": "AMT",
+      "ex_showroom_surat": {
+        "standard": 749000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Kiger Techno MT",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 760000,
+        "dual_tone": 760000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Kiger Evolution+ Turbo MT",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 793000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Kiger Techno AMT ENERGY",
+      "fuel": "Petrol",
+      "transmission": "AMT",
+      "ex_showroom_surat": {
+        "standard": 810000,
+        "dual_tone": 810000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Kiger Emotion MT",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 850000,
+        "dual_tone": 850000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Kiger Techno Turbo MT",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 850000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Kiger Emotion Turbo MT",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 940000,
+        "dual_tone": 940000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Kiger Techno CVT Turbo",
+      "fuel": "Petrol",
+      "transmission": "CVT",
+      "ex_showroom_surat": {
+        "standard": 940000,
+        "dual_tone": 940000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Kiger Emotion CVT Turbo",
+      "fuel": "Petrol",
+      "transmission": "CVT",
+      "ex_showroom_surat": {
+        "standard": 1040000,
+        "dual_tone": 1040000
+      },
+      "specifications": {},
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}

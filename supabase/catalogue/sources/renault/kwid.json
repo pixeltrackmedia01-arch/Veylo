@@ -1,0 +1,62 @@
+{
+  "brand": "Renault",
+  "model": "Kwid",
+  "slug": "kwid",
+  "official_page": "https://www.renault.co.in/cars/renault-kwid.html",
+  "brochure_pdf": null,
+  "price_city": "Surat, Gujarat (Renault price sheet dated 59-94-0040)",
+  "ex_showroom_min": 452900,
+  "ex_showroom_max": 560900,
+  "fuel_types": [
+    "Petrol"
+  ],
+  "transmissions": [
+    "AMT",
+    "MT"
+  ],
+  "colours": [],
+  "variants": [
+    {
+      "name": "Kwid Evolution",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 452900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Kwid Evolution AMT",
+      "fuel": "Petrol",
+      "transmission": "AMT",
+      "ex_showroom_surat": {
+        "standard": 489900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Kwid Climber",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 514900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Kwid Climber AMT",
+      "fuel": "Petrol",
+      "transmission": "AMT",
+      "ex_showroom_surat": {
+        "standard": 560900
+      },
+      "specifications": {},
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}

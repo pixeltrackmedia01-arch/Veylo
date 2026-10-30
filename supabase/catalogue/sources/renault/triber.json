@@ -1,0 +1,105 @@
+{
+  "brand": "Renault",
+  "model": "Triber",
+  "slug": "triber",
+  "official_page": "https://www.renault.co.in/cars/renault-triber.html",
+  "brochure_pdf": null,
+  "price_city": "Surat, Gujarat (Renault price sheet dated 59-94-0040)",
+  "ex_showroom_min": 580875,
+  "ex_showroom_max": 920900,
+  "fuel_types": [
+    "Petrol"
+  ],
+  "transmissions": [
+    "AMT",
+    "MT"
+  ],
+  "colours": [],
+  "variants": [
+    {
+      "name": "Triber Authentic",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 580875
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Triber Evolution",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 673605
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Triber Techno",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 744120
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Triber Evolution Turbo",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 784900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Triber Emotion",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 805350,
+        "dual_tone": 826350
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Triber Emotion AMT",
+      "fuel": "Petrol",
+      "transmission": "AMT",
+      "ex_showroom_surat": {
+        "standard": 852950,
+        "dual_tone": 873950
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Triber Techno Turbo",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 853900
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Triber Emotion Turbo",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 899900,
+        "dual_tone": 920900
+      },
+      "specifications": {},
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}

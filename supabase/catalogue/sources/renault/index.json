@@ -1,0 +1,73 @@
+[
+  {
+    "model": "Kwid",
+    "slug": "kwid",
+    "channel": "Hatchback",
+    "variants": 4,
+    "colours": 0,
+    "ex_showroom_min": 452900,
+    "ex_showroom_max": 560900,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "AMT",
+      "MT"
+    ],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Triber",
+    "slug": "triber",
+    "channel": "MUV",
+    "variants": 8,
+    "colours": 0,
+    "ex_showroom_min": 580875,
+    "ex_showroom_max": 920900,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "AMT",
+      "MT"
+    ],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Kiger",
+    "slug": "kiger",
+    "channel": "Compact SUV",
+    "variants": 13,
+    "colours": 0,
+    "ex_showroom_min": 581000,
+    "ex_showroom_max": 1040000,
+    "fuel_types": [
+      "Petrol"
+    ],
+    "transmissions": [
+      "AMT",
+      "CVT",
+      "MT"
+    ],
+    "brochure_pdf": null
+  },
+  {
+    "model": "Duster",
+    "slug": "duster",
+    "channel": "SUV",
+    "variants": 14,
+    "colours": 0,
+    "ex_showroom_min": 1049000,
+    "ex_showroom_max": 1969000,
+    "fuel_types": [
+      "Petrol",
+      "Strong Hybrid"
+    ],
+    "transmissions": [
+      "Automatic",
+      "DCT",
+      "MT"
+    ],
+    "brochure_pdf": null
+  }
+]

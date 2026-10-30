@@ -1,0 +1,172 @@
+{
+  "brand": "Renault",
+  "model": "Duster",
+  "slug": "duster",
+  "official_page": "https://www.renault.co.in/cars/renault-duster.html",
+  "brochure_pdf": null,
+  "price_city": "Surat, Gujarat (Renault price sheet dated 59-94-0040)",
+  "ex_showroom_min": 1049000,
+  "ex_showroom_max": 1969000,
+  "fuel_types": [
+    "Petrol",
+    "Strong Hybrid"
+  ],
+  "transmissions": [
+    "Automatic",
+    "DCT",
+    "MT"
+  ],
+  "colours": [],
+  "variants": [
+    {
+      "name": "Duster Authentic TCe 100",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 1049000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Duster Evolution TCe 100",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 1169000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Duster Adventure TCe 100",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 1299000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Duster Evolution TCe 160 MT",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 1299000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Duster Adventure TCe 160 MT",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 1399000,
+        "dual_tone": 1419000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Duster Evolution TCe 160 DCT",
+      "fuel": "Petrol",
+      "transmission": "DCT",
+      "ex_showroom_surat": {
+        "standard": 1449000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Duster Techno+ TCe 160 MT",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 1529000,
+        "dual_tone": 1549000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Duster Adventure TCe 160 DCT",
+      "fuel": "Petrol",
+      "transmission": "DCT",
+      "ex_showroom_surat": {
+        "standard": 1539000,
+        "dual_tone": 1559000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Duster Techno+ TCe 160 DCT",
+      "fuel": "Petrol",
+      "transmission": "DCT",
+      "ex_showroom_surat": {
+        "standard": 1669000,
+        "dual_tone": 1689000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Duster Iconic TCe 160 MT",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 1699000,
+        "dual_tone": 1719000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Duster Evolution E-Tech",
+      "fuel": "Strong Hybrid",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 1699000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Duster Iconic TCe 160 DCT",
+      "fuel": "Petrol",
+      "transmission": "DCT",
+      "ex_showroom_surat": {
+        "standard": 1849000,
+        "dual_tone": 1869000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Duster Techno E-Tech",
+      "fuel": "Strong Hybrid",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 1899000,
+        "dual_tone": 1919000
+      },
+      "specifications": {},
+      "features": {}
+    },
+    {
+      "name": "Duster Emotion E-Tech",
+      "fuel": "Strong Hybrid",
+      "transmission": "Automatic",
+      "ex_showroom_surat": {
+        "standard": 1949000,
+        "dual_tone": 1969000
+      },
+      "specifications": {},
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-10-30"
+}
