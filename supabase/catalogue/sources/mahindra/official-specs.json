@@ -1,0 +1,91 @@
+{
+ "note": "Specifications from Mahindra's official brochures (technical specifications).",
+ "models": {
+  "bolero-neo": {
+   "all": {
+    "Engine": "1493 cc",
+    "Wheelbase": "2680 mm",
+    "Seating": "7 seats (5+2)"
+   }
+  },
+  "bolero": {
+   "all": {
+    "Wheelbase": "2680 mm",
+    "Seating": "7 seats (5+2)"
+   }
+  },
+  "scorpio-classic": {
+   "all": {
+    "Engine": "2184 cc",
+    "Fuel tank": "60 litres",
+    "Wheelbase": "2680 mm",
+    "Width": "1820 mm",
+    "Length": "4456 mm"
+   }
+  },
+  "thar": {
+   "all": {
+    "Wheelbase": "2450 mm",
+    "Ground clearance": "232 mm",
+    "Seating": "4 seats"
+   },
+   "rules": [
+    {
+     "fuel": "Diesel",
+     "name": "2WD",
+     "specs": {
+      "Engine": "1497 cc",
+      "Fuel tank": "55 litres"
+     }
+    },
+    {
+     "fuel": "Diesel",
+     "name": "4WD",
+     "specs": {
+      "Engine": "2184 cc",
+      "Fuel tank": "55 litres"
+     }
+    },
+    {
+     "fuel": "Petrol",
+     "specs": {
+      "Engine": "1997 cc",
+      "Fuel tank": "50 litres"
+     }
+    }
+   ]
+  },
+  "thar-roxx": {
+   "all": {
+    "Wheelbase": "2850 mm",
+    "Seating": "5 seats"
+   }
+  },
+  "xev-9e": {
+   "all": {
+    "Wheelbase": "2775 mm",
+    "Ground clearance": "207 mm",
+    "Boot space": "663 litres"
+   }
+  },
+  "xev-9s": {
+   "all": {
+    "Wheelbase": "2762 mm",
+    "Ground clearance": "205 mm"
+   }
+  },
+  "be-6": {
+   "all": {
+    "Wheelbase": "2775 mm",
+    "Ground clearance": "207 mm"
+   }
+  },
+  "xuv-3xo": {
+   "all": {
+    "Wheelbase": "2600 mm",
+    "Fuel tank": "42 litres",
+    "Boot space": "364 litres"
+   }
+  }
+ }
+}

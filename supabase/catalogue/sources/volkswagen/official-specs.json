@@ -1,0 +1,99 @@
+{
+ "note": "Specifications from Volkswagen India's official brochures (technical data).",
+ "models": {
+  "golf-gti": {
+   "all": {
+    "Engine": "1984 cc",
+    "Kerb weight": "1454 kg",
+    "Wheelbase": "2627 mm",
+    "Ground clearance": "136 mm",
+    "Boot space": "380 litres (1237 litres expanded)"
+   }
+  },
+  "taigun": {
+   "all": {
+    "Wheelbase": "2651 mm",
+    "Boot space": "385 litres (1405 litres expanded)",
+    "Fuel tank": "50 litres"
+   },
+   "rules": [
+    {
+     "name": "1\\.0",
+     "specs": {
+      "Engine": "999 cc"
+     }
+    },
+    {
+     "name": "1\\.5",
+     "specs": {
+      "Engine": "1498 cc"
+     }
+    },
+    {
+     "trans": "MT",
+     "specs": {
+      "Mileage": "19.98 km/l"
+     }
+    },
+    {
+     "trans": "AT",
+     "specs": {
+      "Mileage": "19.54 km/l"
+     }
+    },
+    {
+     "trans": "DSG",
+     "specs": {
+      "Mileage": "18.85 km/l"
+     }
+    }
+   ]
+  },
+  "tayron": {
+   "all": {
+    "Engine": "1984 cc",
+    "Wheelbase": "2789 mm"
+   }
+  },
+  "virtus": {
+   "all": {
+    "Wheelbase": "2651 mm",
+    "Ground clearance": "179 mm",
+    "Boot space": "521 litres",
+    "Fuel tank": "45 litres"
+   },
+   "rules": [
+    {
+     "name": "1\\.0",
+     "specs": {
+      "Engine": "999 cc"
+     }
+    },
+    {
+     "name": "1\\.5",
+     "specs": {
+      "Engine": "1498 cc"
+     }
+    },
+    {
+     "trans": "MT",
+     "specs": {
+      "Mileage": "20.19 km/l"
+     }
+    },
+    {
+     "trans": "AT",
+     "specs": {
+      "Mileage": "18.70 km/l"
+     }
+    },
+    {
+     "trans": "DSG",
+     "specs": {
+      "Mileage": "19.62 km/l"
+     }
+    }
+   ]
+  }
+ }
+}

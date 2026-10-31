@@ -1,0 +1,132 @@
+{
+ "note": "Specifications from Honda Cars India's official brochures (spec table).",
+ "models": {
+  "amaze-2nd-gen": {
+   "all": {
+    "Engine": "1199 cc",
+    "Fuel tank": "35 litres",
+    "Seating": "5 seats",
+    "Length": "3995 mm",
+    "Width": "1695 mm",
+    "Height": "1501 mm",
+    "Wheelbase": "2470 mm",
+    "Kerb weight": "920 - 945 kg"
+   },
+   "rules": [
+    {
+     "trans": "MT",
+     "specs": {
+      "Mileage": "18.60 km/l"
+     }
+    },
+    {
+     "trans": "CVT",
+     "specs": {
+      "Mileage": "18.30 km/l"
+     }
+    }
+   ]
+  },
+  "amaze": {
+   "all": {
+    "Engine": "1199 cc",
+    "Fuel tank": "35 litres",
+    "Seating": "5 seats",
+    "Boot space": "416 litres",
+    "Length": "3995 mm",
+    "Width": "1733 mm",
+    "Height": "1500 mm",
+    "Wheelbase": "2470 mm",
+    "Kerb weight": "952 - 986 kg"
+   },
+   "rules": [
+    {
+     "trans": "MT",
+     "specs": {
+      "Mileage": "18.65 km/l"
+     }
+    },
+    {
+     "trans": "CVT",
+     "specs": {
+      "Mileage": "19.46 km/l"
+     }
+    }
+   ]
+  },
+  "city": {
+   "all": {
+    "Engine": "1498 cc",
+    "Max power": "89 kW (121 PS) @ 6600 rpm",
+    "Max torque": "145 Nm @ 4300 rpm",
+    "Fuel tank": "40 litres",
+    "Seating": "5 seats",
+    "Boot space": "506 litres",
+    "Length": "4594 mm",
+    "Width": "1748 mm",
+    "Height": "1489 mm",
+    "Wheelbase": "2600 mm"
+   },
+   "rules": [
+    {
+     "trans": "MT",
+     "specs": {
+      "Mileage": "17.77 km/l",
+      "Kerb weight": "1123 - 1142 kg"
+     }
+    },
+    {
+     "trans": "CVT",
+     "specs": {
+      "Mileage": "17.97 km/l",
+      "Kerb weight": "1144 - 1168 kg"
+     }
+    }
+   ]
+  },
+  "elevate": {
+   "all": {
+    "Engine": "1498 cc",
+    "Max power": "89 kW (121 PS) @ 6600 rpm",
+    "Max torque": "145 Nm @ 4300 rpm",
+    "Fuel tank": "40 litres",
+    "Seating": "5 seats",
+    "Boot space": "458 litres",
+    "Length": "4312 mm",
+    "Width": "1790 mm",
+    "Height": "1650 mm",
+    "Wheelbase": "2650 mm",
+    "Kerb weight": "1226 - 1291 kg"
+   },
+   "rules": [
+    {
+     "trans": "MT",
+     "specs": {
+      "Mileage": "15.31 km/l"
+     }
+    },
+    {
+     "trans": "CVT",
+     "specs": {
+      "Mileage": "16.61 km/l"
+     }
+    }
+   ]
+  },
+  "zr-v": {
+   "all": {
+    "Engine": "1993 cc",
+    "Max power": "135 kW (184 PS) system output",
+    "Max torque": "315 Nm (motor)",
+    "Mileage": "22.80 km/l",
+    "Fuel tank": "57 litres",
+    "Seating": "5 seats",
+    "Length": "4567 mm",
+    "Width": "1840 mm",
+    "Height": "1621 mm",
+    "Wheelbase": "2655 mm",
+    "Kerb weight": "1569 kg"
+   }
+  }
+ }
+}

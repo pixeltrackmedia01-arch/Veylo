@@ -154,10 +154,52 @@ def canon_specs(specs, v, ev):
     for key, unit in UNITS.items():
         if out.get(key) and re.fullmatch(r"[\d.,\s]+(-[\d.,\s]+)?", str(out[key])):
             out[key] = f"{str(out[key]).strip()} {unit}"
+    # "1 497", "1 497 cm3", "1,497cc" -> "1497 cc" so engine_cc() can read it
+    if out.get("Engine") and (em := re.fullmatch(r"([\d][\d ,]*)\s*(cm3|cm³|cc)?", str(out["Engine"]).strip(), re.I)):
+        out["Engine"] = f"{em.group(1).replace(' ', '').replace(',', '')} cc"
     if out.get("Seating") and re.fullmatch(r"\d+", str(out["Seating"])):
         out["Seating"] = f"{out['Seating']} seats"
     if v.get("airbags"):
         out["Airbags"] = str(v["airbags"])
+    return out
+
+
+_OVERLAYS = {}
+
+
+def official_overlay(folder, model_slug, v):
+    """Specs from <brand>/official-specs.json (brochure spec tables) for one variant.
+
+    The file holds brand-wide engine rules and per-model rules; a rule matches
+    on the variant name (regex), source fuel and source transmission. Later
+    rules win. Used only to fill fields the variant's own data lacks.
+    """
+    if folder not in _OVERLAYS:
+        path = os.path.join(SRC, folder, "official-specs.json")
+        _OVERLAYS[folder] = json.load(open(path)) if os.path.exists(path) else {}
+    data = _OVERLAYS[folder]
+    if not data:
+        return {}
+    model = (data.get("models") or {}).get(model_slug, {})
+    out = dict(model.get("all") or {})
+
+    def matches(rule):
+        if rule.get("name") and not re.search(rule["name"], v["name"], re.I):
+            return False
+        if rule.get("fuel") and rule["fuel"].lower() != str(v.get("fuel", "")).lower():
+            return False
+        if rule.get("trans") and not re.search(rf"^(?:{rule['trans']})$", str(v.get("transmission", "")), re.I):
+            return False
+        return True
+
+    for rule in (data.get("engines") or []) + (model.get("rules") or []):
+        if matches(rule):
+            out.update(rule["specs"])
+    if model.get("seats_from_name"):
+        m = re.search(r"(?:\b|[\[(])([4-9])\s*(?:s|str|seater)\b", v["name"], re.I) or re.search(
+            r"(?:^|\s|\()([4-9])\)?\s*$", v["name"])
+        if m:
+            out["Seating"] = f"{m.group(1)} seats"
     return out
 
 
@@ -268,6 +310,9 @@ def vehicles_for(folder):
                 price = p.get("standard") or p.get("non_metallic") or p.get("metallic") or min(p.values())
                 fuel = fuel_of(v["fuel"], cat)
                 specs = canon_specs(v.get("specifications"), v, fuel == "electric")
+                specs = {**official_overlay(folder, m["slug"], v), **specs}
+                if fuel == "electric":
+                    specs.pop("Mileage", None)
                 trans = trans_of(v.get("transmission") or specs.get("Transmission"), body, fuel)
                 name = short_name(v["name"], model, brand_name)
                 base = slugify(name)

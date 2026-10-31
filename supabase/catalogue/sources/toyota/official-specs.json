@@ -1,0 +1,87 @@
+{
+ "note": "Specifications from Toyota Kirloskar Motor's official brochures (specifications table).",
+ "models": {
+  "fortuner": {
+   "rules": [
+    {
+     "fuel": "Diesel",
+     "specs": {
+      "Engine": "2755 cc"
+     }
+    }
+   ]
+  },
+  "fortuner-legender": {
+   "all": {
+    "Engine": "2755 cc",
+    "Seating": "7 seats",
+    "Wheelbase": "2745 mm"
+   }
+  },
+  "urban-cruiser-taisor": {
+   "all": {
+    "Seating": "5 seats",
+    "Boot space": "308 litres",
+    "Wheelbase": "2520 mm",
+    "Fuel tank": "37 litres"
+   },
+   "rules": [
+    {
+     "name": "^(?!.*Turbo)",
+     "specs": {
+      "Engine": "1197 cc"
+     }
+    },
+    {
+     "name": "Turbo",
+     "specs": {
+      "Engine": "998 cc"
+     }
+    },
+    {
+     "fuel": "Petrol",
+     "name": "^(?!.*Turbo)",
+     "trans": "Manual",
+     "specs": {
+      "Mileage": "21.71 km/l"
+     }
+    },
+    {
+     "fuel": "Petrol",
+     "name": "^(?!.*Turbo)",
+     "trans": "Automatic",
+     "specs": {
+      "Mileage": "22.79 km/l"
+     }
+    },
+    {
+     "name": "Turbo",
+     "trans": "Manual",
+     "specs": {
+      "Mileage": "21.18 km/l"
+     }
+    },
+    {
+     "name": "Turbo",
+     "trans": "Automatic",
+     "specs": {
+      "Mileage": "19.86 km/l"
+     }
+    },
+    {
+     "name": "CNG",
+     "specs": {
+      "Mileage": "28.51 km/kg",
+      "Fuel tank": "55 litres CNG (water equivalent) + 37 litres petrol"
+     }
+    }
+   ]
+  },
+  "innova-crysta": {
+   "seats_from_name": true
+  },
+  "innova-hycross": {
+   "seats_from_name": true
+  }
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "note": "Specifications from JSW MG Motor India's official brochures (specifications).",
+ "models": {
+  "astor": {
+   "all": {
+    "Engine": "1498 cc",
+    "Fuel tank": "48 litres",
+    "Wheelbase": "2585 mm"
+   }
+  },
+  "comet-ev": {
+   "all": {
+    "Max power": "42 PS",
+    "Max torque": "110 Nm",
+    "Length": "2974 mm",
+    "Wheelbase": "2010 mm"
+   }
+  },
+  "majestor": {
+   "seats_from_name": true,
+   "all": {
+    "Engine": "2.0 l twin-turbo diesel",
+    "Fuel tank": "75 litres",
+    "Wheelbase": "2950 mm"
+   }
+  },
+  "windsor-ev": {
+   "all": {
+    "Max power": "136 PS (100 kW)",
+    "Max torque": "200 Nm",
+    "Battery": "38 kWh",
+    "Ground clearance": "186 mm",
+    "Wheelbase": "2700 mm",
+    "Boot space": "604 litres"
+   },
+   "rules": [
+    {
+     "name": "Essence",
+     "specs": {
+      "Boot space": "579 litres"
+     }
+    }
+   ]
+  },
+  "windsor-pro": {
+   "all": {
+    "Max power": "136 PS (100 kW)",
+    "Max torque": "200 Nm",
+    "Battery": "52.9 kWh",
+    "Ground clearance": "186 mm",
+    "Wheelbase": "2700 mm",
+    "Boot space": "579 litres"
+   }
+  },
+  "zs-ev": {
+   "all": {
+    "Max power": "176.75 PS",
+    "Max torque": "280 Nm",
+    "Battery": "50.3 kWh",
+    "Length": "4323 mm",
+    "Wheelbase": "2585 mm"
+   }
+  }
+ }
+}

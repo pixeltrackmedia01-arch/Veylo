@@ -1,0 +1,8 @@
+{
+ "note": "Seating from Hyundai India variant names.",
+ "models": {
+  "alcazar": {
+   "seats_from_name": true
+  }
+ }
+}

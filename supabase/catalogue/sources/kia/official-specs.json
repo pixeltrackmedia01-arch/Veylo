@@ -1,0 +1,131 @@
+{
+ "note": "Engine and model specifications from Kia India's official brochures (spec table). Applied to variants by engine code in the variant name.",
+ "engines": [
+  {
+   "name": "G1\\.5(?!\\s*T)(?!T)",
+   "fuel": "Petrol",
+   "specs": {
+    "Engine": "1497 cc",
+    "Max power": "84.4 kW (115 PS) @ 6300 rpm",
+    "Max torque": "144 Nm @ 4500 rpm"
+   }
+  },
+  {
+   "name": "G1\\.5\\s*T-?GDi",
+   "specs": {
+    "Engine": "1482 cc",
+    "Max power": "117.5 kW (160 PS) @ 5500 rpm",
+    "Max torque": "253 Nm @ 1500-3500 rpm"
+   }
+  },
+  {
+   "name": "D1\\.5|CRDi",
+   "specs": {
+    "Engine": "1493 cc",
+    "Max power": "85 kW (116 PS) @ 4000 rpm",
+    "Max torque": "250 Nm @ 1500-2750 rpm"
+   }
+  },
+  {
+   "name": "G1\\.0\\s*T-?GDi",
+   "specs": {
+    "Engine": "998 cc",
+    "Max power": "88.3 kW (120 PS) @ 6000 rpm",
+    "Max torque": "172 Nm @ 1500-4000 rpm"
+   }
+  },
+  {
+   "name": "\\bCng\\b",
+   "specs": {
+    "Fuel tank": "45 litres petrol + 60 litres CNG (water equivalent)"
+   }
+  }
+ ],
+ "models": {
+  "seltos": {
+   "all": {
+    "Seating": "5 seats",
+    "Boot space": "447 litres",
+    "Fuel tank": "47 litres"
+   },
+   "rules": [
+    {
+     "name": "T-?GDi",
+     "specs": {
+      "Fuel tank": "50 litres"
+     }
+    }
+   ]
+  },
+  "syros": {
+   "all": {
+    "Seating": "5 seats",
+    "Boot space": "465 litres",
+    "Fuel tank": "45 litres"
+   }
+  },
+  "carens": {
+   "all": {
+    "Seating": "7 seats",
+    "Fuel tank": "45 litres"
+   }
+  },
+  "carens-clavis": {
+   "seats_from_name": true
+  },
+  "carnival": {
+   "all": {
+    "Engine": "2.2 l diesel",
+    "Max power": "142 kW (193 PS)",
+    "Seating": "7 seats",
+    "Fuel tank": "72 litres",
+    "Length": "5155 mm",
+    "Width": "1995 mm",
+    "Height": "1775 mm",
+    "Wheelbase": "3090 mm"
+   }
+  },
+  "sorento": {
+   "seats_from_name": true
+  },
+  "ev6": {
+   "all": {
+    "Max power": "325 PS",
+    "Seating": "5 seats",
+    "Wheelbase": "2900 mm"
+   }
+  },
+  "syros-ev": {
+   "all": {
+    "Max torque": "255 Nm",
+    "Max power": "99 kW (135 PS)",
+    "Range": "443 km (MIDC)",
+    "Seating": "5 seats"
+   },
+   "rules": [
+    {
+     "name": "Extended Range",
+     "specs": {
+      "Max power": "126 kW (171 PS)",
+      "Range": "526 km (MIDC)"
+     }
+    }
+   ]
+  },
+  "carens-clavis-ev": {
+   "seats_from_name": true,
+   "all": {
+    "Max torque": "255 Nm",
+    "Max power": "99 kW (135 PS)"
+   },
+   "rules": [
+    {
+     "name": "Extended Range",
+     "specs": {
+      "Max power": "126 kW (171 PS)"
+     }
+    }
+   ]
+  }
+ }
+}

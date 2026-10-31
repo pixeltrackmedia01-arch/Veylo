@@ -1,0 +1,132 @@
+{
+ "note": "Specifications from Citroën India's official brochures (technical specifications). PureTech 82 is the naturally aspirated engine, PureTech 110 the turbo.",
+ "models": {
+  "aircrossx": {
+   "all": {
+    "Engine": "1199 cc",
+    "Fuel tank": "45 litres",
+    "Length": "4323 mm",
+    "Width": "1796 mm",
+    "Wheelbase": "2671 mm",
+    "Seating": "5 seats"
+   },
+   "rules": [
+    {
+     "name": "^(?!.*Turbo)",
+     "specs": {
+      "Mileage": "17.5 km/l"
+     }
+    },
+    {
+     "name": "Turbo",
+     "trans": "MT",
+     "specs": {
+      "Mileage": "18.5 km/l"
+     }
+    },
+    {
+     "name": "Turbo",
+     "trans": "Automatic",
+     "specs": {
+      "Mileage": "17.6 km/l"
+     }
+    },
+    {
+     "name": "7s",
+     "specs": {
+      "Seating": "7 seats"
+     }
+    }
+   ]
+  },
+  "basaltx": {
+   "all": {
+    "Engine": "1199 cc",
+    "Fuel tank": "45 litres",
+    "Length": "4352 mm",
+    "Width": "1765 mm",
+    "Height": "1593 mm",
+    "Wheelbase": "2651 mm"
+   },
+   "rules": [
+    {
+     "name": "^(?!.*Turbo)",
+     "specs": {
+      "Mileage": "18.0 km/l",
+      "Kerb weight": "1065 - 1108 kg"
+     }
+    },
+    {
+     "name": "Turbo",
+     "trans": "MT",
+     "specs": {
+      "Mileage": "19.5 km/l",
+      "Kerb weight": "1175 - 1202 kg"
+     }
+    },
+    {
+     "name": "Turbo",
+     "trans": "Automatic",
+     "specs": {
+      "Mileage": "18.7 km/l",
+      "Kerb weight": "1233 - 1240 kg"
+     }
+    }
+   ]
+  },
+  "c3x": {
+   "all": {
+    "Fuel tank": "45 litres",
+    "Length": "3981 mm",
+    "Width": "1733 mm",
+    "Wheelbase": "2540 mm",
+    "Boot space": "315 litres"
+   },
+   "rules": [
+    {
+     "name": "^(?!.*Turbo)",
+     "specs": {
+      "Engine": "1198 cc",
+      "Mileage": "19.3 km/l"
+     }
+    },
+    {
+     "name": "Turbo",
+     "specs": {
+      "Engine": "1199 cc",
+      "Mileage": "19.3 km/l"
+     }
+    },
+    {
+     "name": "Turbo",
+     "trans": "Automatic",
+     "specs": {
+      "Mileage": "18.3 km/l"
+     }
+    }
+   ]
+  },
+  "c5-aircross": {
+   "all": {
+    "Engine": "1997 cc",
+    "Max power": "177 PS",
+    "Mileage": "17.5 km/l",
+    "Fuel tank": "52.5 litres",
+    "Length": "4500 mm",
+    "Height": "1710 mm",
+    "Wheelbase": "2730 mm",
+    "Kerb weight": "1685 kg"
+   }
+  },
+  "e-c3x": {
+   "all": {
+    "Battery": "29.2 kWh",
+    "Range": "330 km (certified)",
+    "Length": "3981 mm",
+    "Width": "1733 mm",
+    "Wheelbase": "2540 mm",
+    "Boot space": "315 litres"
+   }
+  }
+ }
+}
