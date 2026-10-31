@@ -3,6 +3,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound, permanentRedirect } from "next/navigation";
 import { VehicleCard } from "@/components/catalogue/vehicle-card";
+import { VehicleOverview } from "@/components/cars/vehicle-overview";
 import { BatchStatusBadge, DemoBadge } from "@/components/shared/status-badge";
 import { VehicleImage } from "@/components/shared/vehicle-image";
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion";
@@ -17,6 +18,7 @@ import { formatDate, formatINR, timeRemaining } from "@/lib/format";
 import { toNumber } from "@/lib/types";
 import { breadcrumbJsonLd, modelDescription, modelTitle } from "@/lib/seo";
 import { titleCase } from "@/lib/utils";
+import { buildVehicleOverview } from "@/lib/vehicle-overview";
 
 type Props = { params: Promise<{ slug: string }> };
 
@@ -49,8 +51,36 @@ export default async function VehiclePage({ params }: Props) {
   // Cars have a dedicated product page.
   if (vehicle.category === "car") permanentRedirect(`/cars/${vehicle.slug}`);
   const [catalogue, faqs] = await Promise.all([getCatalogue(), getFaqs()]);
-  const related = catalogue.filter((v) => v.category === vehicle.category && v.id !== vehicle.id).slice(0, 3);
+  // Closest in price among the same body type (scooter vs motorcycle), any brand.
+  const related = catalogue
+    .filter((v) => v.category === vehicle.category && v.id !== vehicle.id && v.body_type === vehicle.body_type)
+    .sort((a, b) => Math.abs((a.lowestExShowroom ?? 0) - (vehicle.lowestExShowroom ?? 0)) - Math.abs((b.lowestExShowroom ?? 0) - (vehicle.lowestExShowroom ?? 0)))
+    .slice(0, 3);
   const name = `${vehicle.manufacturer.name} ${vehicle.model_name}`;
+  const priceOf = (variantId: string) => {
+    const p = vehicle.prices.find((x) => x.variant_id === variantId);
+    return p ? toNumber(p.ex_showroom) : null;
+  };
+  const overview = buildVehicleOverview({
+    brand: vehicle.manufacturer.name,
+    brandHref: `/vehicles?category=two_wheeler&manufacturer=${vehicle.manufacturer.slug}`,
+    model: vehicle.model_name,
+    slug: vehicle.slug,
+    category: vehicle.category,
+    body: vehicle.body_type,
+    variants: vehicle.variants.map((x) => ({
+      name: x.name,
+      fuel: x.fuel_type,
+      transmission: x.transmission,
+      engineCc: x.engine_cc,
+      price: priceOf(x.id),
+      specs: x.specifications ?? {},
+      features: x.features ?? {},
+    })),
+    colours: (vehicle.colours ?? []).map((c) => c.name),
+    warranty: vehicle.warranty,
+    rivals: related.map((r) => ({ name: `${r.manufacturer.name} ${r.model_name}`, slug: r.slug, href: `/vehicles/${r.slug}` })),
+  });
 
   const livePrices = vehicle.prices
     .filter((p) => vehicle.variants.some((x) => x.id === p.variant_id))
@@ -267,6 +297,18 @@ export default async function VehiclePage({ params }: Props) {
           you purchase directly from the dealership.
         </Alert>
       </section>
+
+      <div className="container-page py-6">
+        <VehicleOverview title={`About the ${name}`} sections={overview} />
+        <p className="mt-4 flex flex-wrap gap-x-4 gap-y-1 text-sm">
+          <Link href={`/vehicles?category=two_wheeler&manufacturer=${vehicle.manufacturer.slug}`} className="font-semibold text-primary hover:underline">
+            All {vehicle.manufacturer.name} two-wheelers →
+          </Link>
+          <Link href="/vehicles?category=two_wheeler" className="font-semibold text-primary hover:underline">
+            All bikes &amp; scooters →
+          </Link>
+        </p>
+      </div>
 
       {faqs.length ? (
         <section className="container-page py-6" aria-labelledby="vehicle-faq">

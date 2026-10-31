@@ -7,6 +7,7 @@ import { CarDetailBody, type DetailVariant, LeadCard, MobileActionBar, SectionCa
 import { CarGallery, ColourPicker, type GallerySlide } from "@/components/cars/car-gallery";
 import { CompareToggle } from "@/components/cars/compare-toggle";
 import { CompareTray } from "@/components/cars/compare-tray";
+import { VehicleOverview } from "@/components/cars/vehicle-overview";
 import { SaveCarButton } from "@/components/cars/save-car-button";
 import { FaqList } from "@/components/faq/faq-list";
 import { JsonLd } from "@/components/faq/json-ld";
@@ -26,6 +27,7 @@ import { formatDate, formatPriceLakh, timeRemaining } from "@/lib/format";
 import { breadcrumbJsonLd, brandDescription, brandTitle, modelDescription, modelTitle, SEO_YEAR } from "@/lib/seo";
 import { FUEL_LABELS } from "@/lib/domain/car-labels";
 import { toNumber } from "@/lib/types";
+import { buildVehicleOverview } from "@/lib/vehicle-overview";
 
 type Params = { params: Promise<{ slug: string }> };
 
@@ -68,6 +70,7 @@ const SECTIONS = [
   { id: "specs", label: "Specifications" },
   { id: "features", label: "Features" },
   { id: "emi", label: "EMI" },
+  { id: "overview", label: "Overview" },
   { id: "warranty", label: "Warranty" },
   { id: "questions", label: "Questions" },
 ];
@@ -126,6 +129,33 @@ export default async function CarPage({ params }: Params) {
     .sort((a, b) => Math.abs((a.fromPrice ?? 0) - (car.fromPrice ?? 0)) - Math.abs((b.fromPrice ?? 0) - (car.fromPrice ?? 0)))
     .slice(0, 3);
   const brand = brandForManufacturer(car.manufacturer.slug);
+  const rivals = allCars
+    .filter((c) => c.id !== car.id && c.manufacturer.id !== car.manufacturer.id && bodyGroup(c.body_type) === bodyGroup(car.body_type))
+    .sort((a, b) => Math.abs((a.fromPrice ?? 0) - (car.fromPrice ?? 0)) - Math.abs((b.fromPrice ?? 0) - (car.fromPrice ?? 0)))
+    .slice(0, 4);
+  const overview = buildVehicleOverview({
+    brand: car.manufacturer.name,
+    brandHref: `/cars/${car.manufacturer.slug}`,
+    model: car.model_name,
+    slug: car.slug,
+    category: car.category,
+    body: car.body_type,
+    bodyHref: bodyGroup(car.body_type) ? `/cars?body=${bodyGroup(car.body_type)}` : null,
+    variants: car.variantsWithPrice.map((v) => ({
+      name: v.name,
+      fuel: v.fuel_type,
+      transmission: v.transmission,
+      engineCc: v.engine_cc,
+      price: v.exShowroom,
+      specs: v.specifications ?? {},
+      features: v.features ?? {},
+    })),
+    colours: (car.colours ?? []).map((c) => c.name),
+    warranty: car.warranty,
+    rivals: rivals.map((c) => ({ name: `${c.manufacturer.name} ${c.model_name}`, slug: c.slug, href: `/cars/${c.slug}` })),
+    compareHref: (rival) => `/compare?cars=${car.slug},${rival}`,
+  });
+  const brandModels = allCars.filter((c) => c.manufacturer.id === car.manufacturer.id && c.id !== car.id);
 
   const productLd = {
     "@context": "https://schema.org",
@@ -212,6 +242,8 @@ export default async function CarPage({ params }: Params) {
             city={city}
           />
 
+          <VehicleOverview title={`About the ${name}`} sections={overview} />
+
           <SectionCard id="warranty" title={`${car.model_name} Warranty`}>
             <div className="flex items-start gap-4">
               <span className="flex size-12 shrink-0 items-center justify-center rounded-xl bg-accent text-primary">
@@ -242,6 +274,26 @@ export default async function CarPage({ params }: Params) {
                 ))}
               </div>
             </section>
+          ) : null}
+
+          {brandModels.length ? (
+            <nav aria-labelledby="brand-models-heading" className="rounded-2xl border bg-white p-5 shadow-[var(--shadow-card)] sm:p-6">
+              <h2 id="brand-models-heading" className="text-lg font-bold sm:text-xl">
+                Other {car.manufacturer.name} cars
+              </h2>
+              <ul className="mt-3 flex flex-wrap gap-2">
+                {brandModels.map((c) => (
+                  <li key={c.id}>
+                    <Link href={`/cars/${c.slug}`} className="inline-flex rounded-full border px-3 py-1.5 text-sm text-ink/80 hover:border-primary/50 hover:text-primary">
+                      {c.model_name} <span className="ml-1.5 text-muted-foreground">{formatPriceLakh(c.fromPrice)}</span>
+                    </Link>
+                  </li>
+                ))}
+              </ul>
+              <Link href={`/cars/${car.manufacturer.slug}`} className="mt-3 inline-flex text-sm font-semibold text-primary hover:underline">
+                See all {car.manufacturer.name} cars and prices →
+              </Link>
+            </nav>
           ) : null}
         </div>
 

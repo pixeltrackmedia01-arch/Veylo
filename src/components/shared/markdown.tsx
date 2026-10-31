@@ -3,7 +3,7 @@ import type { ReactNode } from "react";
 
 /**
  * Minimal, safe Markdown renderer for admin-edited content (headings,
- * paragraphs, lists, bold, italics and links). It builds React elements, so no
+ * paragraphs, lists, simple tables, bold, italics and links). It builds React elements, so no
  * raw HTML from the database is ever injected into the page.
  */
 export function Markdown({ source }: { source: string }) {
@@ -23,6 +23,23 @@ function renderBlock(block: string, key: number): ReactNode {
   const lines = block.split("\n");
   if (lines.every((l) => /^[-*] /.test(l))) {
     return <ul key={key}>{lines.map((l, j) => <li key={j}>{inline(l.slice(2))}</li>)}</ul>;
+  }
+  if (lines.length > 2 && lines.every((l) => l.trim().startsWith("|")) && /^\|[\s:|-]+\|$/.test(lines[1].trim())) {
+    const cells = (l: string) => l.trim().replace(/^\||\|$/g, "").split("|").map((c) => c.trim());
+    return (
+      <div key={key} className="my-4 overflow-x-auto">
+        <table className="w-full border-collapse text-sm">
+          <thead>
+            <tr>{cells(lines[0]).map((c, j) => <th key={j} className="border-b px-3 py-2 text-left font-semibold">{inline(c)}</th>)}</tr>
+          </thead>
+          <tbody>
+            {lines.slice(2).map((l, r) => (
+              <tr key={r}>{cells(l).map((c, j) => <td key={j} className="border-b px-3 py-2 align-top">{inline(c)}</td>)}</tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    );
   }
   if (lines.every((l) => /^\d+\. /.test(l))) {
     return <ol key={key}>{lines.map((l, j) => <li key={j}>{inline(l.replace(/^\d+\. /, ""))}</li>)}</ol>;

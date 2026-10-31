@@ -15,21 +15,21 @@ export interface DefaultContent {
 }
 
 const name = siteConfig.name;
-const city = siteConfig.launchCity.name;
 
 export const DEFAULT_PAGES: Record<string, DefaultContent> = {
   about: {
     slug: "about",
     title: `About ${name}`,
-    summary: `${name} helps people in ${city} who want the same vehicle come together, so authorised dealerships can respond with clearer, itemised quotations.`,
+    summary: `${name} helps car, bike and scooter buyers across India compare prices and specifications, and team up with others who want the same vehicle so authorised dealerships respond with clearer, itemised quotations.`,
     requiresLegalReview: false,
     body: `## Why we exist
 
-Buying a car or two-wheeler usually means visiting dealerships one at a time, collecting quotations in different formats and trying to work out what is actually included. ${name} brings together buyers who want the **same model and variant** in the same city, so dealerships can respond to a group of verified, local buyers with an itemised quotation.
+Buying a car or two-wheeler in India usually means visiting dealerships one at a time, collecting quotations in different formats and trying to work out what is actually included. ${name} brings together buyers who want the **same model and variant** in the same city, so dealerships can respond to a group of verified, local buyers with an itemised quotation.
 
 ## What we do
 
-- Organise free buyer groups for specific vehicle variants in ${city}.
+- Publish ex-showroom prices, variants and specifications for new cars, bikes and scooters sold in India.
+- Organise free buyer groups for specific vehicle variants, city by city.
 - Verify participants so group sizes reflect real, local buyers.
 - Request itemised quotations from authorised dealerships once a group closes.
 - Review every quotation before publishing it to participants.
@@ -60,103 +60,190 @@ Prices, specifications and comparisons on ${name} cover new cars, bikes and scoo
   privacy: {
     slug: "privacy",
     title: "Privacy Policy",
-    summary: "How we collect, use and protect your personal data.",
-    requiresLegalReview: true,
-    body: `*This policy is a working draft and must be reviewed by a qualified legal professional, including for compliance with the Digital Personal Data Protection Act, 2023 and applicable rules, before launch.*
+    summary: "What personal data we collect, why we collect it, who can see it and the choices you have.",
+    requiresLegalReview: false,
+    body: `This Privacy Policy explains how ${name} ("${name}", "we", "us") collects, uses, shares and protects personal data when you use this website and its services (the "Service"). It is written to meet the Digital Personal Data Protection Act, 2023 ("DPDP Act") and the Information Technology Act, 2000 and the rules made under them.
 
-## Who we are
+## 1. Data we collect
 
-${siteConfig.legalEntity} ("${name}", "we") operates this website.
+**Data you give us**
 
-## What we collect
+- **Account details:** name, email address, mobile number, city, preferred vehicle category and expected purchase timeline.
+- **Enquiries:** details you submit in a price, test-drive, call-back, loan or insurance request, or through the contact form (name, phone, email, city, the vehicle you are interested in and your message).
+- **Group activity:** the buying groups you join, eligibility and verification status, buying-intent responses, enquiries you send to dealerships, bookings and purchase confirmations.
 
-- **Account details:** full name, email address, mobile number, city, preferred vehicle category and expected purchase timeline.
-- **Group activity:** groups you join, verification status, buying-intent responses, enquiries, bookings and purchase confirmations.
-- **Technical data:** session cookies required to keep you signed in, and basic security logs (such as IP address) used to prevent abuse.
+**Data collected automatically**
 
-We collect only what we need to run buyer groups. We do not collect payment card details.
+- **Essential cookies** that keep you signed in and protect forms from abuse. We do not use advertising or cross-site tracking cookies.
+- **Security and server logs** such as IP address, browser type and request time, used to keep the Service secure and to stop spam and fraud.
 
-## How we use it
+We do **not** collect payment card details, Aadhaar numbers or other government identifiers.
 
-- To create and secure your account and verify your eligibility.
-- To count verified participants and run group closures.
-- To send service notifications you can manage in your dashboard.
-- To share your contact details with a dealership **only when you choose to send that dealership an enquiry**.
-- To verify completed sales with the dealership involved.
+## 2. Why we use your data
 
-## Who can see your data
+| Purpose | Legal basis |
+|---|---|
+| Creating and securing your account | Your consent and the legitimate use of providing the service you asked for |
+| Answering an enquiry or arranging a call-back | Your consent when you submit the form |
+| Running buying groups (counting verified members, closing groups, requesting quotations) | Your consent when you join a group |
+| Sharing your details with a dealership you choose to contact | Your explicit consent each time you send an enquiry |
+| Service notifications (group updates, quotation published) | Your consent; you can turn optional notifications off |
+| Preventing fraud, spam and misuse | Legitimate use for security, and compliance with law |
+| Meeting legal obligations | Compliance with applicable law |
 
-- Other participants never see your name, phone number or email address.
-- Dealerships see only the details you share in an enquiry you send them.
-- Authorised ${name} staff can access data needed to operate the service; sensitive actions are audit-logged.
+We never sell your personal data, and we do not use it for third-party advertising.
 
-## Storage and security
+## 3. Who can see your data
 
-Data is stored with our infrastructure provider (Supabase) with row-level access controls. Uploaded documents are stored privately and shared through short-lived links.
+- **Other members** of a group never see your name, phone number or email address.
+- **Dealerships** see only the details included in an enquiry **you** choose to send them, and use them to contact you about that purchase.
+- **Our team** sees the data needed to run the Service; sensitive actions are logged.
+- **Service providers** that host or operate the Service for us (database and authentication hosting, email and SMS delivery, website hosting) process data only on our instructions.
+- **Authorities**, where disclosure is required by law or to protect rights, safety or the Service.
 
-## Your choices and rights
+## 4. How long we keep it
 
-You can update your profile and notification preferences in your dashboard, leave open groups, and ask us to access, correct or delete your data by contacting us.
+- Account data: while your account is active, and deleted or anonymised within 90 days of a verified deletion request, unless we must keep it longer by law.
+- Enquiries and contact messages: up to 24 months, then deleted.
+- Records of verified sales and commissions: as long as tax and accounting law requires.
+- Security logs: up to 12 months.
 
-## Contact
+## 5. How we protect it
 
-Questions about privacy: ${siteConfig.contact.email}.`,
+Data is stored with access controls that let each person see only their own records, encrypted in transit (HTTPS) and at rest by our hosting providers. Uploaded documents are private and shared only through short-lived links. No system is perfectly secure; if a personal data breach affects you, we will notify you and the Data Protection Board of India as the DPDP Act requires.
+
+## 6. Your rights
+
+Under the DPDP Act you can:
+
+- **Access** a summary of the personal data we hold about you and how it is processed;
+- **Correct, complete or update** inaccurate data (most profile fields can be edited in your dashboard);
+- **Erase** your data, subject to legal retention obligations;
+- **Withdraw consent** at any time; this does not affect processing done before withdrawal;
+- **Nominate** another person to exercise your rights in case of death or incapacity;
+- **Raise a grievance** with us, and if unresolved, with the Data Protection Board of India.
+
+Email us at ${siteConfig.contact.email} from the address linked to your account. We respond within 30 days.
+
+## 7. Children
+
+The Service is meant for adults. We do not knowingly collect data from anyone under 18. If you believe a child has given us personal data, contact us and we will delete it.
+
+## 8. Links to other websites
+
+Manufacturer, dealership and lender websites linked from the Service have their own privacy policies; we are not responsible for their practices.
+
+## 9. Grievance officer
+
+Questions, requests or complaints about personal data: **Grievance Officer, ${name}** — ${siteConfig.contact.email}, ${siteConfig.contact.address}. We acknowledge grievances within 48 hours and aim to resolve them within 30 days.
+
+## 10. Changes to this policy
+
+We may update this policy as the Service or the law changes. The "last updated" date shows the latest version; material changes will be announced on the website before they take effect.`,
   },
   terms: {
     slug: "terms",
-    title: "Terms of Use",
-    summary: "The rules for using the platform.",
-    requiresLegalReview: true,
-    body: `*These terms are a working draft and must be reviewed by a qualified legal professional before launch.*
+    title: "Terms & Conditions",
+    summary: "The terms that apply when you browse the website, create an account, send an enquiry or join a buying group.",
+    requiresLegalReview: false,
+    body: `These Terms & Conditions ("Terms") govern your use of the ${name} website and services (the "Service"). By using the Service you agree to these Terms and to our [Privacy Policy](/privacy). If you do not agree, please do not use the Service.
 
-## The service
+## 1. What ${name} is — and is not
 
-${name} organises free buyer groups and coordinates quotations from authorised dealerships. ${name} is not a seller, dealer, lender or insurer of vehicles.
+${name} publishes new car, bike and scooter prices, variants and specifications, and organises free buyer groups so authorised dealerships can quote for several buyers who want the same vehicle. ${name} **is not** a vehicle manufacturer, dealer, seller, lender, insurer or broker. Every purchase is made directly between you and a dealership.
 
-## No fees for customers
+## 2. Eligibility and accounts
 
-Creating an account and joining a group is free. ${name} does not charge customers a registration or joining fee.
+- You must be at least 18 years old and able to enter a binding contract under Indian law.
+- Give accurate, current information and keep it up to date. One account per person.
+- Keep your password confidential; you are responsible for activity under your account. Tell us immediately at ${siteConfig.contact.email} if you suspect misuse.
 
-## No guarantee
+## 3. Prices, specifications and content
 
-Joining a group, or a group reaching its target, does not guarantee a quotation, a discount, availability or a purchase. Dealerships decide whether and what to quote.
+Prices on the Service are **indicative ex-showroom prices** taken from manufacturers' official sources on the date shown. On-road estimates are approximate and use sample tax rates. Specifications, features, colours and images are provided for information and may change without notice. Always confirm the final price, specifications and availability with the dealership before paying. See our [Disclaimer](/disclaimer).
 
-## Your purchase
+## 4. Buying groups
 
-Any purchase is a contract between you and the dealership. The final on-road price, offers, stock, financing, insurance, registration and delivery are confirmed by the dealership. Review all documents carefully before paying a dealership.
+- Joining a group is free and does not oblige you to buy.
+- A group reaching its target does **not** guarantee a quotation, a discount, stock or a purchase. Dealerships decide whether and what to quote.
+- Published quotations come from dealerships and are reviewed by us for completeness and consistency; they remain subject to the dealership's confirmation and validity date.
+- We may verify members (for example by mobile number) and remove duplicate, inactive or ineligible memberships so group sizes reflect real buyers.
 
-## Your account
+## 5. Enquiries and dealerships
 
-Provide accurate information, keep your password secure, and use one account per person. We may suspend accounts that provide false information, create duplicate memberships or misuse the platform.
+When you send an enquiry or request a call-back, you agree that we may share the details in that request with the relevant dealership or partner so they can contact you about it. Dealerships are independent businesses responsible for their own offers, quotations, vehicles, documentation and conduct.
 
-## Quotations
+## 6. Fees and commission
 
-Published quotations are provided by dealerships and reviewed by us for completeness and consistency. They remain subject to the dealership's confirmation and the validity date shown.
+The Service is free for buyers. Dealerships may pay ${name} a commission after a verified completed sale under a written agreement. This never adds to the price a dealership quotes you.
 
-## Commission
+## 7. Acceptable use
 
-Dealerships may pay ${name} a commission after a verified completed sale. This does not change the price the dealership quotes you.
+You agree not to:
 
-## Liability
+- submit false, misleading or someone else's information, or create fake or multiple accounts;
+- scrape, copy or republish content or data from the Service in bulk, or interfere with its security or operation;
+- use the Service to send spam, harass anyone or break any law;
+- reverse-engineer, overload or attempt unauthorised access to the Service.
 
-To the extent permitted by law, ${name} is not liable for the acts or omissions of dealerships, or for losses arising from your purchase decisions.
+We may suspend or close accounts that break these Terms.
 
-## Changes
+## 8. Intellectual property
 
-We may update these terms. Material changes will be announced on the website.`,
+The ${name} name, logo, design, text, compilation of data and software belong to ${name} or its licensors. Manufacturer names, logos and vehicle images belong to their respective owners and are used for identification and information only. You may view and share pages for personal, non-commercial use.
+
+## 9. Limitation of liability
+
+The Service is provided "as is". To the fullest extent permitted by law, ${name} is not liable for: the acts, omissions, offers or vehicles of dealerships, lenders or insurers; any difference between information on the Service and the final price or specification; or indirect or consequential losses arising from your use of the Service or your purchase decisions. Nothing in these Terms limits liability that cannot be limited under Indian law.
+
+## 10. Indemnity
+
+You agree to indemnify ${name} against claims arising from your breach of these Terms or misuse of the Service.
+
+## 11. Changes and termination
+
+We may change the Service or these Terms. Material changes will be announced on the website, and continued use after they take effect means you accept them. You may close your account at any time.
+
+## 12. Governing law and disputes
+
+These Terms are governed by the laws of India. Disputes are subject to the exclusive jurisdiction of the courts at Surat, Gujarat. Before going to court, please contact us at ${siteConfig.contact.email} so we can try to resolve the issue.`,
   },
   disclaimer: {
     slug: "disclaimer",
     title: "Disclaimer",
-    summary: "Important limitations on prices, quotations and savings.",
-    requiresLegalReview: true,
-    body: `*This disclaimer is a working draft and must be reviewed by a qualified legal professional before launch.*
+    summary: "Important limitations on prices, specifications, images, EMI estimates, quotations and savings shown on the website.",
+    requiresLegalReview: false,
+    body: `The information on ${name} is published in good faith to help you research and compare new vehicles. Please read the points below before relying on it.
 
-- **Prices are indicative.** Reference prices are shown with their source and verification date and may be outdated. They are not offers.
-- **Quotations come from dealerships.** ${name} reviews them before publication, but the dealership confirms the final on-road price, offers, stock, financing, insurance, registration and delivery.
-- **No guaranteed savings.** We show a saving only when a verified reference price for the same variant and city and a valid published quotation can be compared like-for-like.
-- **No purchase obligation.** Joining a group never commits you to buy.
-- **Demo data.** During development and testing, some vehicles, prices, dealers and quotations are clearly labelled as demo data. They are illustrative and not real.
-- **Images.** Where an approved photograph is not available, illustrated placeholders are used and labelled.`,
+## Prices
+
+- **Ex-showroom prices are indicative.** They are collected from manufacturers' official websites and price lists, shown with the date we last checked them, and can change at any time. They are not offers to sell.
+- **On-road prices are estimates.** They add sample road tax, registration, insurance and handling charges. Actual road tax and registration charges differ by state, city, vehicle type and owner, and insurance premiums depend on the insurer and add-ons chosen.
+- The dealership confirms the final on-road price, offers, discounts and availability.
+
+## Specifications, features and colours
+
+Specifications, mileage or range figures, features and colours come from manufacturers' published information. Claimed mileage and range are test-cycle figures; real-world results vary with driving conditions, load and maintenance. Manufacturers may revise specifications without notice — confirm the details of the exact variant with the dealership before booking.
+
+## Images
+
+Vehicle images are for illustration. They may show optional accessories, different variants or colours, or markets other than India. Where no approved photograph is available, a labelled illustration is shown instead.
+
+## EMI and loan estimates
+
+EMI figures use the default down payment, interest rate and tenure stated beside them. They are not loan offers. Your lender decides eligibility, rate, fees and tenure.
+
+## Quotations and savings
+
+- Quotations are provided by independent dealerships. ${name} reviews them before publishing but does not guarantee them.
+- Joining a group does not guarantee a discount, a quotation or a purchase. Any saving shown is an estimate and depends on the vehicle, the dealership and how many buyers join.
+
+## Third-party websites and trademarks
+
+Links to manufacturer, dealership, lender or other websites are provided for convenience; we are not responsible for their content. Brand names, logos and trademarks belong to their respective owners and are used only to identify their products. ${name} is not affiliated with or endorsed by any manufacturer unless stated.
+
+## Report an error
+
+Spotted an incorrect price or specification? Email ${siteConfig.contact.email} and we will check and correct it.`,
   },
 };
