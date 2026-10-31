@@ -101,7 +101,7 @@ export function LeadDialog({ target, onOpenChange }: { target: LeadTarget | null
                   {(p) => <Input {...p} name="phone" type="tel" inputMode="tel" autoComplete="tel" required placeholder="98XXXXXXXX" />}
                 </FormField>
                 <FormField id="lead-city" label="City" error={errors.city?.[0]}>
-                  {(p) => <Input {...p} name="city" defaultValue={siteConfig.launchCity.name} autoComplete="address-level2" />}
+                  {(p) => <Input {...p} name="city" placeholder="Your city" autoComplete="address-level2" />}
                 </FormField>
                 <FormField id="lead-message" label="Anything we should know? (optional)" error={errors.message?.[0]}>
                   {(p) => <Textarea {...p} name="message" rows={2} maxLength={1000} />}

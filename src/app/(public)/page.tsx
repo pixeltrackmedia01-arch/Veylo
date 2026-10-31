@@ -19,7 +19,6 @@ import { GroupVsSolo } from "@/components/home/group-vs-solo";
 import { HeroCarousel, type HeroSlide } from "@/components/home/hero-carousel";
 import { SetupNotice } from "@/components/shared/setup-notice";
 import { Button } from "@/components/ui/button";
-import { siteConfig } from "@/config/site";
 import { getFaqs, getPlatformStats, getPublicSetting, listPublicBatches } from "@/lib/data/catalogue";
 import { getCars, getSavedVehicleIds } from "@/lib/data/cars";
 import { getViewer } from "@/lib/auth/session";
@@ -28,7 +27,7 @@ import { formatNumber } from "@/lib/format";
 import { faqJsonLd, toFaqItems } from "@/lib/faq";
 
 const HERO_DEFAULT: { eyebrow: string; headline: string; highlight?: string; subheadline: string } = {
-  eyebrow: `Now live in ${siteConfig.launchCity.name}`,
+  eyebrow: "New car & bike prices across India",
   headline: "Better car deals happen in numbers",
   highlight: "in numbers",
   subheadline:
@@ -113,7 +112,7 @@ export default async function HomePage() {
       eyebrow: "New cars",
       title: "Know the real price before the showroom",
       highlight: "real price",
-      text: `${cars.length || "30"}+ popular cars with variant-wise prices, specs, mileage and on-road estimates for ${siteConfig.launchCity.name}.`,
+      text: `${cars.length || "30"}+ popular cars with variant-wise prices, specs, mileage and on-road estimates.`,
       cta: { label: "Browse new cars", href: "/cars" },
       secondary: { label: "Compare cars", href: "/compare" },
       car: { body: "hatchback", colour: "#e0661f" },
@@ -227,7 +226,7 @@ export default async function HomePage() {
                 <h2 id="popular-heading" className="mt-2 text-3xl font-extrabold sm:text-4xl">
                   Popular new cars
                 </h2>
-                <p className="mt-2 text-muted-foreground">Indicative {siteConfig.launchCity.name} prices, specs and EMI estimates.</p>
+                <p className="mt-2 text-muted-foreground">Latest ex-showroom prices, specs and EMI estimates.</p>
               </div>
               <Button asChild variant="outline">
                 <Link href="/cars">
@@ -251,7 +250,7 @@ export default async function HomePage() {
             <div>
               <p className="text-sm font-bold tracking-widest text-primary uppercase">Live groups</p>
               <h2 id="featured-heading" className="mt-2 text-3xl font-extrabold sm:text-4xl">
-                Groups open now in {siteConfig.launchCity.name}
+                Group deals open now
               </h2>
               <p className="mt-2 text-muted-foreground">Participant counts include verified participants only.</p>
             </div>

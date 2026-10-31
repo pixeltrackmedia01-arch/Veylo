@@ -15,6 +15,7 @@ import { isSupabaseConfigured } from "@/lib/env";
 import { LINE_ITEM_LABELS } from "@/lib/domain/pricing";
 import { formatDate, formatINR, timeRemaining } from "@/lib/format";
 import { toNumber } from "@/lib/types";
+import { breadcrumbJsonLd, modelDescription, modelTitle } from "@/lib/seo";
 import { titleCase } from "@/lib/utils";
 
 type Props = { params: Promise<{ slug: string }> };
@@ -24,9 +25,11 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params;
   const v = await getVehicleBySlug(slug);
   if (!v) return { title: "Vehicle not found" };
-  const title = `${v.manufacturer.name} ${v.model_name} group buying in Surat`;
-  const description = `Join a free buyer group for the ${v.manufacturer.name} ${v.model_name} in Surat. Itemised dealer quotations are reviewed before they are shown.`;
-  return { title, description, alternates: { canonical: `/vehicles/${v.slug}` }, openGraph: { title, description } };
+  const name = `${v.manufacturer.name} ${v.model_name}`;
+  const live = v.prices.filter((p) => v.variants.some((x) => x.id === p.variant_id && x.status === "published")).map((p) => toNumber(p.ex_showroom));
+  const title = modelTitle(name);
+  const description = modelDescription({ name, from: live.length ? Math.min(...live) : null, to: live.length ? Math.max(...live) : null, variants: v.variants.length });
+  return { title, description, alternates: { canonical: `/vehicles/${v.slug}` }, openGraph: { title, description, url: `/vehicles/${v.slug}` } };
 }
 
 const PRICE_ROWS = [
@@ -49,6 +52,10 @@ export default async function VehiclePage({ params }: Props) {
   const related = catalogue.filter((v) => v.category === vehicle.category && v.id !== vehicle.id).slice(0, 3);
   const name = `${vehicle.manufacturer.name} ${vehicle.model_name}`;
 
+  const livePrices = vehicle.prices
+    .filter((p) => vehicle.variants.some((x) => x.id === p.variant_id))
+    .map((p) => toNumber(p.ex_showroom))
+    .filter((n) => n > 0);
   const jsonLd = vehicle.is_demo
     ? null
     : {
@@ -56,23 +63,33 @@ export default async function VehiclePage({ params }: Props) {
         "@type": "Product",
         name,
         brand: { "@type": "Brand", name: vehicle.manufacturer.name },
-        category: "Two-wheeler",
+        category: vehicle.body_type === "scooter" ? "Scooter" : "Motorcycle",
         model: vehicle.model_name,
+        description: vehicle.summary ?? vehicle.description ?? undefined,
+        ...(livePrices.length
+          ? { offers: { "@type": "AggregateOffer", priceCurrency: "INR", lowPrice: Math.min(...livePrices), highPrice: Math.max(...livePrices), offerCount: livePrices.length } }
+          : {}),
       };
+  const crumbs = breadcrumbJsonLd([
+    { name: "Home", path: "/" },
+    { name: "Bikes & Scooters", path: "/vehicles?category=two_wheeler" },
+    { name: name, path: `/vehicles/${vehicle.slug}` },
+  ]);
 
   return (
     <div className="pb-16">
       {jsonLd ? (
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd).replace(/</g, "\\u003c") }} />
       ) : null}
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(crumbs).replace(/</g, "\\u003c") }} />
 
       <section className="border-b bg-gradient-to-b from-accent/50 to-white">
         <div className="container-page grid gap-10 py-10 lg:grid-cols-2 lg:py-14">
           <div className="space-y-5">
             <nav aria-label="Breadcrumb" className="text-sm text-muted-foreground">
-              <Link href="/vehicles" className="hover:text-ink">Vehicles</Link> /{" "}
+              <Link href="/" className="hover:text-ink">Home</Link> /{" "}
               <Link href={`/vehicles?category=${vehicle.category}`} className="hover:text-ink">
-                Two-wheelers
+                Bikes &amp; Scooters
               </Link>
             </nav>
             <div className="flex flex-wrap gap-2">
@@ -81,7 +98,7 @@ export default async function VehiclePage({ params }: Props) {
             </div>
             <div>
               <p className="text-lg text-muted-foreground">{vehicle.manufacturer.name}</p>
-              <h1 className="text-4xl font-extrabold sm:text-5xl">{vehicle.model_name}</h1>
+              <h1 className="text-4xl font-extrabold sm:text-5xl">{name}</h1>
             </div>
             {vehicle.description ? <p className="max-w-xl text-lg leading-8 text-foreground/75">{vehicle.description}</p> : null}
             {vehicle.highlights.length ? (
@@ -128,7 +145,7 @@ export default async function VehiclePage({ params }: Props) {
 
       <section id="groups" className="container-page scroll-mt-20 py-12" aria-labelledby="variants-heading">
         <h2 id="variants-heading" className="text-2xl font-bold sm:text-3xl">
-          Variants, reference prices and groups
+          {vehicle.model_name} variants, price &amp; specifications
         </h2>
         <p className="mt-2 max-w-3xl text-muted-foreground">
           Each group is tied to one exact variant. Reference prices are indicative and shown with their source and verification
@@ -178,7 +195,7 @@ export default async function VehiclePage({ params }: Props) {
                   </div>
 
                   <div>
-                    <h4 className="text-sm font-semibold text-muted-foreground">Indicative price in Surat</h4>
+                    <h4 className="text-sm font-semibold text-muted-foreground">Ex-showroom &amp; on-road price (indicative)</h4>
                     {price ? (
                       <>
                         <dl className="mt-3 space-y-2 text-sm">

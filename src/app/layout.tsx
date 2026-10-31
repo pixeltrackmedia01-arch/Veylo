@@ -15,9 +15,15 @@ export const dynamic = "force-dynamic";
 
 export const metadata: Metadata = {
   metadataBase: new URL(getSiteUrl()),
-  title: { default: `${siteConfig.name} — ${siteConfig.tagline} in Surat`, template: `%s | ${siteConfig.name}` },
+  title: {
+    default: `${siteConfig.name}: New Car & Bike Prices in India, Specs, Mileage & Group Deals`,
+    template: `%s | ${siteConfig.name}`,
+  },
   description: siteConfig.description,
   applicationName: siteConfig.name,
+  keywords: ["new cars", "car price in India", "on-road price", "bike price", "scooter price", "car specifications",
+    "car mileage", "compare cars", "EMI calculator", "car group buying", "best car deals"],
+  robots: { index: true, follow: true, googleBot: { index: true, follow: true, "max-image-preview": "large", "max-snippet": -1 } },
   openGraph: {
     type: "website",
     siteName: siteConfig.name,

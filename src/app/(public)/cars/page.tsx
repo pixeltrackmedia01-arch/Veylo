@@ -1,4 +1,4 @@
-import { MapPin, Search, SearchX } from "lucide-react";
+import { Search, SearchX } from "lucide-react";
 import type { Metadata } from "next";
 import Link from "next/link";
 import { CarCard } from "@/components/cars/car-card";
@@ -12,11 +12,13 @@ import { getViewer } from "@/lib/auth/session";
 import { getSavedVehicleIds, searchCars } from "@/lib/data/cars";
 import { activeFilterCount, carsHref, type CarFilters, parseFilters, toggleValue } from "@/lib/domain/car-filters";
 import { isSupabaseConfigured } from "@/lib/env";
+import { SEO_YEAR } from "@/lib/seo";
 import { cn } from "@/lib/utils";
 
 export const metadata: Metadata = {
-  title: "New Cars — prices, specifications and group deals",
-  description: `Browse new cars with indicative ${siteConfig.launchCity.name} prices, specifications, mileage and EMI estimates, and join a group deal.`,
+  title: `New Cars in India ${SEO_YEAR} — Prices, Mileage, Specs & Images`,
+  description:
+    "Find new cars in India with the latest ex-showroom prices, variants, mileage, specifications and EMI. Filter by brand, budget, body type, fuel and transmission, compare cars and join a group deal.",
   alternates: { canonical: "/cars" },
 };
 
@@ -69,9 +71,9 @@ export default async function CarsPage({ searchParams }: { searchParams: Promise
             <nav aria-label="Breadcrumb" className="text-xs text-muted-foreground">
               <Link href="/" className="hover:text-primary">Home</Link> / <span className="text-ink">New Cars</span>
             </nav>
-            <h1 className="mt-1.5 text-2xl font-extrabold sm:text-3xl">New Cars in {siteConfig.launchCity.name}</h1>
+            <h1 className="mt-1.5 text-2xl font-extrabold sm:text-3xl">New Cars in India</h1>
             <p className="mt-1 text-sm text-muted-foreground">
-              Showing {items.length} of {all.length} new cars · indicative {siteConfig.launchCity.name} prices
+              Showing {items.length} of {all.length} new cars · latest ex-showroom prices, mileage & specs
             </p>
           </div>
           <form action="/cars" className="flex flex-col gap-2 sm:flex-row" role="search">
@@ -87,17 +89,6 @@ export default async function CarsPage({ searchParams }: { searchParams: Promise
                 placeholder="Search brand or model..."
                 className="h-11 w-full rounded-xl border border-input bg-white pr-3 pl-9 text-sm hover:border-primary/40 focus:border-primary focus:outline-none sm:w-64"
               />
-            </label>
-            <label className="relative">
-              <span className="sr-only">City</span>
-              <MapPin className="pointer-events-none absolute top-1/2 left-3 size-4 -translate-y-1/2 text-muted-foreground" aria-hidden="true" />
-              <select
-                disabled
-                className="h-11 w-full appearance-none rounded-xl border border-input bg-muted/40 pr-3 pl-9 text-sm text-ink sm:w-44"
-                title={`Prices are currently shown for ${siteConfig.launchCity.name}`}
-              >
-                <option>{siteConfig.launchCity.name}</option>
-              </select>
             </label>
           </form>
         </section>
@@ -157,7 +148,7 @@ export default async function CarsPage({ searchParams }: { searchParams: Promise
               </div>
             )}
             <p className="mt-6 text-xs leading-5 text-muted-foreground">
-              Prices are indicative ex-showroom figures for {siteConfig.launchCity.name}; EMI estimates assume {siteConfig.emi.downPaymentPct}% down
+              Prices are indicative ex-showroom figures taken from manufacturers&apos; official price lists; EMI estimates assume {siteConfig.emi.downPaymentPct}% down
               payment, {siteConfig.emi.annualRatePct}% interest and {siteConfig.emi.tenureMonths / 12} years on the on-road price. Confirm the final
               price, offers and loan terms with the dealership and your lender.
             </p>

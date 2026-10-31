@@ -176,7 +176,7 @@ export function CarDetailBody({ car, variants, city }: { car: DetailCar; variant
 
       <SectionCard id="price" title={`${car.model} Price List`}>
         <p className="-mt-2 mb-3 text-sm text-muted-foreground">
-          {variants.length} variants · indicative ex-showroom prices in {city}. Select a variant to see its specifications, features, on-road
+          {variants.length} variants · indicative ex-showroom prices. Select a variant to see its specifications, features, on-road
           price and EMI.
         </p>
         <div className="overflow-x-auto rounded-xl border">
@@ -235,7 +235,7 @@ export function CarDetailBody({ car, variants, city }: { car: DetailCar; variant
           </span>
           <div>
             <p className="font-bold text-ink">
-              Best price for {car.model} {v.name} in {city} this month
+              Best price for {car.model} {v.name} this month
             </p>
             <p className="text-sm text-muted-foreground">Join a group or ask us to get dealer quotes for this variant.</p>
           </div>
@@ -272,7 +272,7 @@ export function CarDetailBody({ car, variants, city }: { car: DetailCar; variant
         </SectionCard>
       ) : null}
 
-      <SectionCard id="on-road" title={`On-road price in ${city}`}>
+      <SectionCard id="on-road" title={`${car.model} On-Road Price`}>
         {v.exShowroom ? (
           <div className="grid gap-5 md:grid-cols-[1.4fr_1fr]">
             <dl className="divide-y rounded-xl border text-sm">
@@ -288,7 +288,7 @@ export function CarDetailBody({ car, variants, city }: { car: DetailCar; variant
                 </div>
               ))}
               <div className="flex justify-between bg-accent/60 px-4 py-3">
-                <dt className="font-bold text-ink">On-road price (estimate)</dt>
+                <dt className="font-bold text-ink">On-road price (estimate{city ? `, ${city}` : ""})</dt>
                 <dd className="text-lg font-extrabold text-primary">{formatINR(v.onRoad)}</dd>
               </div>
             </dl>

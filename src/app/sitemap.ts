@@ -10,6 +10,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     "",
     "/cars",
     "/vehicles",
+    "/vehicles?category=two_wheeler",
     "/groups",
     "/compare",
     "/emi-calculator",
@@ -28,7 +29,11 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     // Cars have their own product pages; /vehicles/[slug] only serves two-wheelers.
     for (const v of vehicles) {
       const path = v.category === "car" ? `/cars/${v.slug}` : `/vehicles/${v.slug}`;
-      entries.push({ url: `${base}${path}`, lastModified: v.updated_at, changeFrequency: "daily", priority: 0.8 });
+      entries.push({ url: `${base}${path}`, lastModified: v.updated_at, changeFrequency: "weekly", priority: v.category === "car" ? 0.9 : 0.8 });
+    }
+    // Brand landing pages (/cars/maruti-suzuki …)
+    for (const brand of new Set(vehicles.filter((v) => v.category === "car").map((v) => v.manufacturer.slug))) {
+      entries.push({ url: `${base}/cars/${brand}`, changeFrequency: "weekly", priority: 0.85 });
     }
     for (const b of batches) entries.push({ url: `${base}/groups/${b.slug}`, changeFrequency: "daily", priority: 0.7 });
   } catch {

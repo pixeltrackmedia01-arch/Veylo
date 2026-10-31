@@ -11,7 +11,7 @@ export const metadata: Metadata = {
 };
 
 const STEPS = [
-  { icon: Search, title: "Browse available vehicles", body: "Explore cars and two-wheelers with buyer groups in Surat. Reference prices show their source and the date they were checked." },
+  { icon: Search, title: "Browse available vehicles", body: "Explore cars and two-wheelers with buyer groups near you. Reference prices show their source and the date they were checked." },
   { icon: CarFront, title: "Select a specific model and variant", body: "Every group is for one exact variant, so dealer quotations can be compared like-for-like." },
   { icon: KeyRound, title: "Create an account or sign in", body: "We ask only for what we need: your name, email, mobile number, city, preferred vehicle category and expected purchase timeline." },
   { icon: MailCheck, title: "Verify your details", body: "Confirm your email address. Where mobile verification is enabled, you'll also confirm your number with a one-time code. Only verified participants count toward a group." },

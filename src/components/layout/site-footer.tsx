@@ -39,7 +39,7 @@ export function SiteFooter() {
         <div className="space-y-4">
           <Logo />
           <p className="max-w-sm text-sm leading-6 text-muted-foreground">
-            Free group buying for cars and two-wheelers in {siteConfig.launchCity.name}. You buy directly from an authorised
+            New car, bike and scooter prices, specs and free group deals across India. You buy directly from an authorised
             dealership; we never charge a joining fee.
           </p>
         </div>

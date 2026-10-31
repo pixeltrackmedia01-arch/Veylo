@@ -8,7 +8,7 @@ import { isSupabaseConfigured } from "@/lib/env";
 
 export const metadata: Metadata = {
   title: "Active buyer groups",
-  description: "All active vehicle buyer groups in Surat, with verified participant counts and closing dates.",
+  description: "Active car and bike buyer groups with verified participant counts and closing dates. Join free and get itemised dealer quotations.",
   alternates: { canonical: "/groups" },
 };
 

@@ -4,7 +4,6 @@ import Link from "next/link";
 import { CarVisual } from "@/components/cars/car-visual";
 import { CompareRemove, ComparePicker, CompareSync } from "@/components/cars/compare-controls";
 import { SetupNotice } from "@/components/shared/setup-notice";
-import { siteConfig } from "@/config/site";
 import { type CarSummary, getCars } from "@/lib/data/cars";
 import { parseList } from "@/lib/domain/car-filters";
 import { bodyLabel, fuelLabel, transmissionLabel } from "@/lib/domain/car-labels";
@@ -86,7 +85,7 @@ export default async function ComparePage({ searchParams }: { searchParams: Prom
           </span>
           <div>
             <h1 className="text-2xl font-extrabold sm:text-3xl">Compare Cars</h1>
-            <p className="text-sm text-muted-foreground">Up to three cars side by side · indicative {siteConfig.launchCity.name} prices</p>
+            <p className="text-sm text-muted-foreground">Up to three cars side by side · indicative ex-showroom prices</p>
           </div>
         </div>
 

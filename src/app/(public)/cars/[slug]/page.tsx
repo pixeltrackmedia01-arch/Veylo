@@ -18,23 +18,45 @@ import { siteConfig } from "@/config/site";
 import { getViewer } from "@/lib/auth/session";
 import { carFaqItems } from "@/lib/car-faqs";
 import { getVehicleFaqs, listPublicBatches } from "@/lib/data/catalogue";
-import { getCarBySlug, getCars, getSavedVehicleIds } from "@/lib/data/cars";
+import { type CarSummary, getCarBySlug, getCars, getSavedVehicleIds } from "@/lib/data/cars";
 import { spotsLeft } from "@/lib/domain/batch-lifecycle";
 import { bodyGroup } from "@/lib/domain/car-labels";
 import { faqJsonLd, toFaqItems } from "@/lib/faq";
 import { formatDate, formatPriceLakh, timeRemaining } from "@/lib/format";
+import { breadcrumbJsonLd, brandDescription, brandTitle, modelDescription, modelTitle, SEO_YEAR } from "@/lib/seo";
+import { FUEL_LABELS } from "@/lib/domain/car-labels";
 import { toNumber } from "@/lib/types";
 
 type Params = { params: Promise<{ slug: string }> };
 
+const fuelsOf = (car: CarSummary) => [...new Set(car.variants.map((v) => FUEL_LABELS[v.fuel_type ?? ""] ?? null).filter(Boolean))] as string[];
+
+/** Cars of one brand when the slug is a manufacturer (e.g. /cars/maruti-suzuki). */
+async function brandCars(slug: string) {
+  const cars = (await getCars()).filter((c) => c.manufacturer.slug === slug);
+  return cars.length ? cars.sort((a, b) => (a.fromPrice ?? Infinity) - (b.fromPrice ?? Infinity)) : null;
+}
+
 export async function generateMetadata({ params }: Params): Promise<Metadata> {
-  const car = await getCarBySlug((await params).slug);
-  if (!car) return { title: "Car not found" };
+  const { slug } = await params;
+  const car = await getCarBySlug(slug);
+  if (!car) {
+    const cars = await brandCars(slug);
+    if (!cars) return { title: "Car not found" };
+    const brand = cars[0].manufacturer.name;
+    const prices = cars.map((c) => c.fromPrice).filter((p): p is number => p !== null);
+    const title = brandTitle(brand, "Cars");
+    const description = brandDescription(brand, "Cars", cars.length, Math.min(...prices), Math.max(...cars.map((c) => c.toPrice ?? 0)));
+    return { title, description, alternates: { canonical: `/cars/${slug}` }, openGraph: { title, description, url: `/cars/${slug}` } };
+  }
   const name = `${car.manufacturer.name} ${car.model_name}`;
+  const title = modelTitle(name);
+  const description = modelDescription({ name, from: car.fromPrice, to: car.toPrice, variants: car.variants.length, fuels: fuelsOf(car) });
   return {
-    title: `${name} price in ${siteConfig.launchCity.name}, specs, mileage & EMI`,
-    description: `${name}${car.fromPrice ? ` from ${formatPriceLakh(car.fromPrice)}` : ""}: variant prices, on-road estimate, specifications, features, colours, EMI and group deals in ${siteConfig.launchCity.name}.`,
+    title,
+    description,
     alternates: { canonical: `/cars/${car.slug}` },
+    openGraph: { type: "website", title, description, url: `/cars/${car.slug}` },
   };
 }
 
@@ -53,9 +75,14 @@ const SECTIONS = [
 export default async function CarPage({ params }: Params) {
   const { slug } = await params;
   const car = await getCarBySlug(slug);
-  if (!car) notFound();
+  if (!car) {
+    const cars = await brandCars(slug);
+    if (!cars) notFound();
+    return <BrandCarsPage cars={cars} slug={slug} />;
+  }
   const viewer = await getViewer();
-  const city = siteConfig.launchCity.name;
+  // On-road estimates use Gujarat road-tax rates; labelled as such rather than as a city.
+  const city = "Gujarat road-tax rates";
   const name = `${car.manufacturer.name} ${car.model_name}`;
 
   const [batches, adminFaqs, allCars, saved] = await Promise.all([
@@ -93,7 +120,7 @@ export default async function CarPage({ params }: Params) {
     : (car.colours ?? []).map((colour) => ({ kind: "art" as const, colour }));
   if (!slides.length) slides.push({ kind: "art", colour: { name: "Red", hex: "#c8102e" } });
 
-  const faqItems = [...toFaqItems(adminFaqs), ...carFaqItems(car, groups.length, city)];
+  const faqItems = [...toFaqItems(adminFaqs), ...carFaqItems(car, groups.length)];
   const similar = allCars
     .filter((c) => c.id !== car.id && bodyGroup(c.body_type) === bodyGroup(car.body_type))
     .sort((a, b) => Math.abs((a.fromPrice ?? 0) - (car.fromPrice ?? 0)) - Math.abs((b.fromPrice ?? 0) - (car.fromPrice ?? 0)))
@@ -107,6 +134,8 @@ export default async function CarPage({ params }: Params) {
     brand: { "@type": "Brand", name: car.manufacturer.name },
     description: car.summary ?? car.description ?? undefined,
     vehicleConfiguration: car.body_type ?? undefined,
+    url: `${siteConfig.url}/cars/${car.slug}`,
+    ...(photos.length ? { image: vehicleImageUrl(photos[0]) ?? undefined } : {}),
     offers:
       car.fromPrice && car.toPrice
         ? { "@type": "AggregateOffer", priceCurrency: "INR", lowPrice: car.fromPrice, highPrice: car.toPrice, offerCount: variants.length }
@@ -116,6 +145,14 @@ export default async function CarPage({ params }: Params) {
   return (
     <div className="bg-surface pb-28 lg:pb-16">
       <JsonLd data={productLd} />
+      <JsonLd
+        data={breadcrumbJsonLd([
+          { name: "Home", path: "/" },
+          { name: "New Cars", path: "/cars" },
+          { name: `${car.manufacturer.name} Cars`, path: `/cars/${car.manufacturer.slug}` },
+          { name: car.model_name, path: `/cars/${car.slug}` },
+        ])}
+      />
       <JsonLd data={faqJsonLd(faqItems)} />
       <div className="container-page pt-5">
         <nav aria-label="Breadcrumb" className="flex flex-wrap items-center gap-1 text-xs text-muted-foreground">
@@ -123,7 +160,7 @@ export default async function CarPage({ params }: Params) {
           <ChevronRight className="size-3" aria-hidden="true" />
           <Link href="/cars" className="hover:text-primary">New Cars</Link>
           <ChevronRight className="size-3" aria-hidden="true" />
-          <Link href={`/cars?brand=${car.manufacturer.slug}`} className="hover:text-primary">{car.manufacturer.name}</Link>
+          <Link href={`/cars/${car.manufacturer.slug}`} className="hover:text-primary">{car.manufacturer.name} Cars</Link>
           <ChevronRight className="size-3" aria-hidden="true" />
           <span className="text-ink">{car.model_name}</span>
         </nav>
@@ -142,7 +179,7 @@ export default async function CarPage({ params }: Params) {
                   {formatPriceLakh(car.fromPrice)}
                   {car.toPrice && car.toPrice !== car.fromPrice ? ` – ${formatPriceLakh(car.toPrice)}` : ""}
                 </span>
-                <span className="ml-2 text-xs font-medium text-muted-foreground">*Ex-showroom, {city} (indicative)</span>
+                <span className="ml-2 text-xs font-medium text-muted-foreground">*Ex-showroom price (indicative)</span>
               </p>
             </div>
           </div>
@@ -197,7 +234,7 @@ export default async function CarPage({ params }: Params) {
           {similar.length ? (
             <section aria-labelledby="similar-heading">
               <h2 id="similar-heading" className="mb-4 text-lg font-bold sm:text-xl">
-                Similar cars
+                Cars similar to the {car.model_name}
               </h2>
               <div className="grid gap-5 sm:grid-cols-2 xl:grid-cols-3">
                 {similar.map((c) => (
@@ -242,7 +279,7 @@ export default async function CarPage({ params }: Params) {
             <div className="rounded-2xl border bg-white p-5 shadow-[var(--shadow-card)]">
               <p className="font-bold text-ink">No group open for the {car.model_name} yet</p>
               <p className="mt-1 text-sm text-muted-foreground">
-                Ask for the best price below and we&apos;ll tell you when a group opens in {city}.
+                Ask for the best price below and we&apos;ll tell you when a group opens for this car.
               </p>
               <Link href="/groups" className="mt-3 inline-flex text-sm font-semibold text-primary hover:underline">
                 See all open groups →
@@ -255,6 +292,125 @@ export default async function CarPage({ params }: Params) {
 
       <MobileActionBar carId={car.id} model={name} groupHref={group ? `/groups/${group.slug}` : null} fromPrice={car.fromPrice} />
       <CompareTray names={Object.fromEntries(allCars.map((c) => [c.slug, `${c.manufacturer.name} ${c.model_name}`]))} />
+    </div>
+  );
+}
+
+function BrandCarsPage({ cars, slug }: { cars: CarSummary[]; slug: string }) {
+  const brand = cars[0].manufacturer.name;
+  const mark = brandForManufacturer(slug);
+  const bodies = [...new Set(cars.map((c) => c.body_type).filter(Boolean))];
+  const cheapest = cars[0];
+  const priciest = [...cars].sort((a, b) => (b.toPrice ?? 0) - (a.toPrice ?? 0))[0];
+  const faqs = [
+    {
+      anchor: "price-range",
+      question: `What is the price range of ${brand} cars in India?`,
+      answer: `${brand} cars start at ${formatPriceLakh(cheapest.fromPrice)} for the ${cheapest.model_name} and go up to ${formatPriceLakh(priciest.toPrice)} for the ${priciest.model_name} (ex-showroom, indicative).`,
+    },
+    {
+      anchor: "models",
+      question: `How many ${brand} car models are on sale in India?`,
+      answer: `There are ${cars.length} ${brand} models listed: ${cars.map((c) => c.model_name).join(", ")}.`,
+    },
+    {
+      anchor: "cheapest",
+      question: `Which is the cheapest ${brand} car?`,
+      answer: `The ${brand} ${cheapest.model_name} is the most affordable, priced from ${formatPriceLakh(cheapest.fromPrice)} (ex-showroom).`,
+    },
+  ];
+  return (
+    <div className="bg-surface pb-20">
+      <JsonLd
+        data={breadcrumbJsonLd([
+          { name: "Home", path: "/" },
+          { name: "New Cars", path: "/cars" },
+          { name: `${brand} Cars`, path: `/cars/${slug}` },
+        ])}
+      />
+      <JsonLd
+        data={{
+          "@context": "https://schema.org",
+          "@type": "ItemList",
+          name: `${brand} cars`,
+          itemListElement: cars.map((c, i) => ({ "@type": "ListItem", position: i + 1, url: `${siteConfig.url}/cars/${c.slug}`, name: `${brand} ${c.model_name}` })),
+        }}
+      />
+      <JsonLd data={faqJsonLd(faqs)} />
+      <div className="container-page space-y-6 pt-6">
+        <section className="rounded-2xl border bg-white p-5 shadow-[var(--shadow-card)] sm:p-6">
+          <nav aria-label="Breadcrumb" className="flex flex-wrap items-center gap-1 text-xs text-muted-foreground">
+            <Link href="/" className="hover:text-primary">Home</Link>
+            <ChevronRight className="size-3" aria-hidden="true" />
+            <Link href="/cars" className="hover:text-primary">New Cars</Link>
+            <ChevronRight className="size-3" aria-hidden="true" />
+            <span className="text-ink">{brand} Cars</span>
+          </nav>
+          <div className="mt-3 flex items-center gap-4">
+            {mark ? (
+              <span className="flex size-14 shrink-0 items-center justify-center rounded-2xl border bg-white shadow-sm">
+                <BrandMark brand={mark} className="h-8 w-10" />
+              </span>
+            ) : null}
+            <div>
+              <h1 className="text-2xl font-extrabold sm:text-3xl">{brand} Cars</h1>
+              <p className="mt-1 text-sm text-muted-foreground">
+                {cars.length} models · {formatPriceLakh(cheapest.fromPrice)} – {formatPriceLakh(priciest.toPrice)} ex-showroom
+              </p>
+            </div>
+          </div>
+          <p className="mt-4 max-w-3xl text-sm leading-relaxed text-foreground/80">
+            {brand} sells {cars.length} car models in India across {bodies.length} body styles, from the {cheapest.model_name} at{" "}
+            {formatPriceLakh(cheapest.fromPrice)} to the {priciest.model_name} at up to {formatPriceLakh(priciest.toPrice)} (ex-showroom). Compare every
+            {` ${brand}`} model&apos;s variants, mileage, specifications and EMI below, and join a group deal to get a better price when buyers book together.
+          </p>
+        </section>
+
+        <section aria-labelledby="brand-models">
+          <h2 id="brand-models" className="mb-4 text-xl font-bold">{brand} Car Models</h2>
+          <div className="grid gap-5 sm:grid-cols-2 xl:grid-cols-3">
+            {cars.map((c) => (
+              <CarCard key={c.id} car={c} saved={false} signedIn={false} />
+            ))}
+          </div>
+        </section>
+
+        <section aria-labelledby="brand-prices" className="rounded-2xl border bg-white p-5 shadow-[var(--shadow-card)] sm:p-6">
+          <h2 id="brand-prices" className="text-xl font-bold">{brand} Cars Price List {SEO_YEAR}</h2>
+          <div className="mt-4 overflow-x-auto">
+            <table className="w-full text-sm">
+              <thead>
+                <tr className="border-b text-left text-xs uppercase text-muted-foreground">
+                  <th className="py-2 pr-4">Model</th>
+                  <th className="py-2 pr-4">Ex-showroom price</th>
+                  <th className="py-2 pr-4">Fuel</th>
+                  <th className="py-2">Variants</th>
+                </tr>
+              </thead>
+              <tbody>
+                {cars.map((c) => (
+                  <tr key={c.id} className="border-b last:border-0">
+                    <td className="py-2.5 pr-4 font-medium">
+                      <Link href={`/cars/${c.slug}`} className="text-primary hover:underline">{brand} {c.model_name}</Link>
+                    </td>
+                    <td className="py-2.5 pr-4">
+                      {formatPriceLakh(c.fromPrice)}
+                      {c.toPrice && c.toPrice !== c.fromPrice ? ` – ${formatPriceLakh(c.toPrice)}` : ""}
+                    </td>
+                    <td className="py-2.5 pr-4">{fuelsOf(c).join(", ")}</td>
+                    <td className="py-2.5">{c.variants.length}</td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+        </section>
+
+        <section aria-labelledby="brand-faqs" className="rounded-2xl border bg-white p-5 shadow-[var(--shadow-card)] sm:p-6">
+          <h2 id="brand-faqs" className="text-xl font-bold">{brand} Cars FAQs</h2>
+          <FaqList items={faqs} className="mt-2" />
+        </section>
+      </div>
     </div>
   );
 }

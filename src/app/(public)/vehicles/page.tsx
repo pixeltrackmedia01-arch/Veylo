@@ -14,8 +14,8 @@ import { titleCase } from "@/lib/utils";
 import { PriceBandClient } from "./price-band";
 
 export const metadata: Metadata = {
-  title: "Vehicle group deals",
-  description: "Browse cars and two-wheelers with open buyer groups in Surat. Joining a group is free.",
+  title: "Bikes, Scooters & Cars in India — Prices, Mileage & Specs",
+  description: "Explore new bikes, scooters and cars in India with ex-showroom prices, variants, mileage and specifications from official sources, and join a free group deal for a better price.",
   alternates: { canonical: "/vehicles" },
 };
 
@@ -77,12 +77,12 @@ export default async function VehiclesPage({ searchParams }: { searchParams: Pro
   };
 
   const heading =
-    filters.category === "car" ? "Cars" : filters.category === "two_wheeler" ? "Two-wheelers" : "All vehicles";
+    filters.category === "car" ? "Cars" : filters.category === "two_wheeler" ? "New Bikes & Scooters in India" : "New Vehicles in India";
 
   return (
     <div className="container-page py-10 sm:py-14">
       <div className="flex flex-col gap-2">
-        <p className="text-sm font-semibold text-primary">Group deals in Surat</p>
+        <p className="text-sm font-semibold text-primary">Prices, specs &amp; group deals</p>
         <h1 className="text-3xl font-bold sm:text-4xl">{heading}</h1>
         <p className="max-w-2xl text-muted-foreground">
           Every group is for one exact variant. Prices shown are indicative references with their source on the vehicle page —

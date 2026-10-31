@@ -7,9 +7,9 @@
 export const siteConfig = {
   name: "GroupDrive",
   shortName: "GroupDrive",
-  tagline: "Group buying for cars and two-wheelers",
+  tagline: "New car & bike prices, specs and group deals",
   description:
-    "Join a free buyer group for the exact vehicle model and variant you want in Surat. When the group closes, we request itemised quotations from authorised dealerships and review them before you see them.",
+    "Compare new car, bike and scooter prices, variants, mileage and specifications in India, then join a free buyer group to get a better deal from authorised dealers. Itemised dealer quotations are reviewed before you see them.",
   url: process.env.NEXT_PUBLIC_SITE_URL ?? "http://localhost:3000",
   launchCity: { name: "Surat", slug: "surat", state: "Gujarat" },
   contact: {

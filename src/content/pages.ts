@@ -48,7 +48,7 @@ Dealerships may pay ${name} a commission after a **verified completed sale**, un
 
 ## Where we operate
 
-We are starting in ${city}, ${siteConfig.launchCity.state}. The platform is built to add more cities over time.`,
+Prices, specifications and comparisons on ${name} cover new cars, bikes and scooters sold across India. Group deals open city by city as enough buyers join for the same model.`,
   },
   "how-it-works": {
     slug: "how-it-works",

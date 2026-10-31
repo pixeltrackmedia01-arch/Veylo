@@ -73,6 +73,7 @@ export function HeroCarousel({ slides }: { slides: HeroSlide[] }) {
       <div className="relative min-h-[560px] sm:min-h-[600px] lg:min-h-[640px]">
         {slides.map((s, i) => {
           const active = i === index;
+          const Heading = i === 0 ? "h1" : "h2";
           return (
             <div
               key={s.title}
@@ -113,9 +114,10 @@ export function HeroCarousel({ slides }: { slides: HeroSlide[] }) {
                   <span className="inline-flex items-center gap-2 rounded-full border border-white/20 bg-white/10 px-3.5 py-1.5 text-sm font-semibold backdrop-blur">
                     <span className="size-2 rounded-full bg-primary" aria-hidden="true" /> {s.eyebrow}
                   </span>
-                  <h2 className="mt-5 text-4xl leading-[1.05] font-extrabold text-white sm:text-5xl lg:text-6xl">
+                  {/* The first slide carries the page's single H1. */}
+                  <Heading className="mt-5 text-4xl leading-[1.05] font-extrabold text-white sm:text-5xl lg:text-6xl">
                     <Title title={s.title} highlight={s.highlight} />
-                  </h2>
+                  </Heading>
                   <p className="mt-5 max-w-lg text-lg leading-8 text-white/80">{s.text}</p>
                   <div className="mt-8 flex flex-wrap gap-3">
                     <Link

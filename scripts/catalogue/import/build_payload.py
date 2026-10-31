@@ -3,7 +3,7 @@
 # database (one JSON file per chunk, each under MAX_KB, default 90). Each payload holds brands and
 # vehicles in the site's own format: flat specification keys the pages and FAQ generator read
 # ("Mileage", "Range", "Max power", "Seating", …), feature lists de-duplicated per model, a written
-# summary and highlights built from the data, and the Surat price inputs.
+# summary and highlights built from the data, and the price inputs (stored against the Surat price city).
 import glob, json, os, re, sys
 
 ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "..", "..")
@@ -190,7 +190,7 @@ def gearbox_family(ts):
     return " and ".join(fam)
 
 
-def summary_for(brand_name, model, body, variants, basis, cat):
+def summary_for(brand_name, model, body, variants, cat):
     fuels = sorted({v["fuel"] for v in variants})
     fuel_txt = ", ".join({"petrol": "petrol", "diesel": "diesel", "cng": "CNG", "petrol_cng": "petrol + CNG", "electric": "electric",
                           "hybrid": "hybrid"}[f] for f in fuels)
@@ -204,7 +204,8 @@ def summary_for(brand_name, model, body, variants, basis, cat):
     article = "an" if kind[:1].lower() in "aeiou" or kind.startswith(("MPV", "MUV", "SUV")) else "a"
     parts = [f"The {brand_name} {model} is {article} {kind} offered in {len(variants)} variant{'s' if len(variants) != 1 else ''}"
              + (f" with {fuel_txt} power" if fuel_txt else "") + (f" and {gb} gearbox options" if gb and cat == "car" else "") + "."]
-    parts.append(f"Ex-showroom prices {'range from ' + lakh(prices[0]) + ' to ' + lakh(prices[-1]) if prices[0] != prices[-1] else 'are ' + lakh(prices[0])} ({basis}).")
+    parts.append(f"Ex-showroom prices range from {lakh(prices[0])} to {lakh(prices[-1])}." if prices[0] != prices[-1]
+                 else f"The ex-showroom price is {lakh(prices[0])}.")
     sp = [v["specs"] for v in variants]
     engines = sorted({v.get("Engine") for v in sp if v.get("Engine")})
     powers = [v.get("Max power") for v in sp if v.get("Max power")]
@@ -220,7 +221,7 @@ def summary_for(brand_name, model, body, variants, basis, cat):
     if airbags:
         parts.append(f"Safety includes {airbags[0]} airbags as standard" + (f" (up to {airbags[-1]})" if airbags[-1] > airbags[0] else "") + ".")
     if cat == "car":
-        parts.append("Join a group on GroupDrive to get a better on-road price when buyers in Surat book together.")
+        parts.append("Join a buying group on GroupDrive in your city to get a better on-road price when buyers book together.")
     return " ".join(parts)
 
 
@@ -287,12 +288,11 @@ def vehicles_for(folder):
                                  "road_tax": road.get("rto", road.get("road_tax")), "insurance": road.get("insurance"),
                                  "other": road.get("handling")})
             colours = [{"name": c["name"], "hex": swatch(c)} for c in d.get("colours") or []]
-            basis = d.get("price_city", "Surat, Gujarat")
             vslug = slugify(f"{slug_b}-{model}") if not slugify(model).startswith(slug_b) else slugify(model)
             yield {"brand": slug_b, "model": model, "slug": vslug, "category": cat, "body": body,
-                   "summary": summary_for(brand_name, model, body, variants, basis, cat),
+                   "summary": summary_for(brand_name, model, body, variants, cat),
                    "highlights": highlights_for(variants, colours), "colours": colours,
-                   "source": f"Official ex-showroom price: {d.get('official_page', '')} — {basis}",
+                   "source": f"Official ex-showroom price: {d.get('official_page', '')}",
                    "featuresets": [json.loads(f) for f in featuresets], "variants": variants, "ev": ev_model}
 
 

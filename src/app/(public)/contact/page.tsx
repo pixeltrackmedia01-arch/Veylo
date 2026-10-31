@@ -6,7 +6,7 @@ import { ContactForm } from "./contact-form";
 
 export const metadata: Metadata = {
   title: "Contact us",
-  description: "Get in touch with the GroupDrive team in Surat.",
+  description: "Get in touch with the GroupDrive team about car and bike prices, group deals or dealer partnerships.",
   alternates: { canonical: "/contact" },
 };
 
