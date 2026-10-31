@@ -23,6 +23,11 @@ const nextConfig = {
   cacheComponents: false,
   poweredByHeader: false,
   images: {
+    // Serve images as stored instead of resizing them on request: the shared
+    // Node.js host runs out of worker processes (503) when a gallery page asks
+    // the optimizer for dozens of sizes at once. Vehicle photos are uploaded as
+    // pre-sized WebP and served from the Supabase Storage CDN.
+    unoptimized: true,
     remotePatterns: supabaseHost
       ? [{ protocol: "https", hostname: supabaseHost, pathname: "/storage/v1/object/public/**" }]
       : [],
