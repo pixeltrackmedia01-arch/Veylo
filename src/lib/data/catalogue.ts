@@ -55,7 +55,7 @@ export interface CatalogueFilters {
 export const PAGE_SIZE = 12;
 
 // Public data is cached for this long, then refreshed in the background.
-const PUBLIC_TTL_MS = 60_000;
+const PUBLIC_TTL_MS = 5 * 60_000;
 
 const VEHICLE_SELECT = "*, manufacturer:manufacturers(*), variants:vehicle_variants(*), images:vehicle_images(*)";
 
