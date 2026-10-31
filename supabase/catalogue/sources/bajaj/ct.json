@@ -15,6 +15,7 @@
   "variants": [
     {
       "code": "00DY137R",
+      "model_name": "CT 110X",
       "name": "CT 110X",
       "fuel": "Petrol",
       "transmission": null,
@@ -26,5 +27,5 @@
     }
   ],
   "notes": [],
-  "fetched_on": "2026-10-30"
+  "fetched_on": "2026-10-31"
 }

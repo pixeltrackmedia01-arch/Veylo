@@ -15,6 +15,7 @@
   "variants": [
     {
       "code": "00JK39DP",
+      "model_name": "Platina 100",
       "name": "Platina 100 ES BS6",
       "fuel": "Petrol",
       "transmission": null,
@@ -26,6 +27,7 @@
     },
     {
       "code": "00JK384C",
+      "model_name": "Platina 110 Drum",
       "name": "Platina 110 Drum",
       "fuel": "Petrol",
       "transmission": null,
@@ -37,5 +39,5 @@
     }
   ],
   "notes": [],
-  "fetched_on": "2026-10-30"
+  "fetched_on": "2026-10-31"
 }

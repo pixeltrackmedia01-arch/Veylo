@@ -140,7 +140,7 @@
     "brochure_pdf": null
   },
   {
-    "model": "Glamour X Price, Mileage, Features & Specifications",
+    "model": "Glamour X ABS",
     "slug": "glamour-x-abs",
     "channel": "Motorcycle",
     "variants": 2,
@@ -154,7 +154,7 @@
     "brochure_pdf": null
   },
   {
-    "model": "Glamour X Price, Mileage, Features & Specifications",
+    "model": "Glamour X",
     "slug": "glamour-x",
     "channel": "Motorcycle",
     "variants": 2,
@@ -210,7 +210,7 @@
     "brochure_pdf": null
   },
   {
-    "model": "Xtreme 160r 4V",
+    "model": "Xtreme 160R 4V",
     "slug": "xtreme-160r-4v",
     "channel": "Motorcycle",
     "variants": 2,
@@ -252,7 +252,7 @@
     "brochure_pdf": null
   },
   {
-    "model": "Xtreme 200s 4V",
+    "model": "Xtreme 200S 4V",
     "slug": "xtreme-200s-4v",
     "channel": "Motorcycle",
     "variants": 2,
@@ -266,7 +266,7 @@
     "brochure_pdf": null
   },
   {
-    "model": "Karizma XMR: Live the Legend",
+    "model": "Karizma XMR",
     "slug": "karizma-xmr",
     "channel": "Motorcycle",
     "variants": 1,
@@ -280,7 +280,7 @@
     "brochure_pdf": null
   },
   {
-    "model": "Mavrick 440: Me X Machine",
+    "model": "Mavrick 440",
     "slug": "mavrick-440",
     "channel": "Motorcycle",
     "variants": 1,
@@ -294,7 +294,7 @@
     "brochure_pdf": null
   },
   {
-    "model": "Harley Davidson X440: Price, Mileage, Specification, Colours, Images",
+    "model": "Harley-Davidson X440",
     "slug": "harley-x440",
     "channel": "Motorcycle",
     "variants": 2,
@@ -308,7 +308,7 @@
     "brochure_pdf": null
   },
   {
-    "model": "Harley Davidson X440: Price, Mileage, Specification, Colours, Images",
+    "model": "Harley-Davidson X440 T",
     "slug": "x440-t",
     "channel": "Motorcycle",
     "variants": 2,
@@ -364,7 +364,7 @@
     "brochure_pdf": null
   },
   {
-    "model": "XOOM",
+    "model": "Xoom 110",
     "slug": "xoom",
     "channel": "Scooter",
     "variants": 2,

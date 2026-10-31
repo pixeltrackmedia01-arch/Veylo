@@ -15,11 +15,18 @@ def label(key):
     return {"TransmissionChassis": "Transmission", "WheelsTyres": "Wheels & Tyres"}.get(group, group), name
 
 
+SLUG_NAMES = {"glamour-x-abs": "Glamour X ABS", "glamour-x": "Glamour X", "harley-x440": "Harley-Davidson X440",
+              "x440-t": "Harley-Davidson X440 T", "karizma-xmr": "Karizma XMR", "mavrick-440": "Mavrick 440", "xoom": "Xoom 110",
+              "xtreme-160r-4v": "Xtreme 160R 4V", "xtreme-200s-4v": "Xtreme 200S 4V"}
 index, seen = [], set()
 for category, items in feed.items():
     for item in items:
         d = item["data"]
-        name = re.sub(r"\s*\|.*", "", d.get("productName") or item["title"]).replace("Hero ", "").strip()
+        name = re.sub(r"\s*[|:].*", "", d.get("productName") or item["title"]).replace("Hero ", "").strip()
+        name = re.sub(r"\s+Price\b.*", "", name).strip()
+        # A few product titles are SEO page titles shared by two models; name those from the URL slug.
+        if item["title"] in SLUG_NAMES:
+            name = SLUG_NAMES[item["title"]]
         slug = item["title"]
         if slug in seen or not d.get("productLowPrice"):
             continue

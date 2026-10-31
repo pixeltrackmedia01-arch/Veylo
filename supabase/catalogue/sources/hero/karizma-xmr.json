@@ -1,6 +1,6 @@
 {
   "brand": "Hero",
-  "model": "Karizma XMR: Live the Legend",
+  "model": "Karizma XMR",
   "slug": "karizma-xmr",
   "official_page": "https://www.heromotocorp.com/en-in/motorcycles/karizma-xmr.html",
   "brochure_pdf": null,
@@ -14,7 +14,7 @@
   "colours": [],
   "variants": [
     {
-      "name": "Karizma XMR: Live the Legend (starting price)",
+      "name": "Karizma XMR (starting price)",
       "fuel": "Petrol",
       "transmission": null,
       "specifications": {
@@ -79,5 +79,5 @@
   "notes": [
     "Hero lists a price range per model, not per variant: entries are the starting and top prices."
   ],
-  "fetched_on": "2026-10-30"
+  "fetched_on": "2026-10-31"
 }

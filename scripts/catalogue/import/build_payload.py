@@ -256,7 +256,7 @@ def vehicles_for(folder):
     for m in index:
         d = json.load(open(os.path.join(SRC, folder, m["slug"] + ".json")))
         # Bajaj source groups models into families; on the site each model is its own vehicle.
-        groups = [(v["name"].replace("Bajaj ", ""), [v]) for v in d["variants"]] if folder == "bajaj" else [(d["model"], d["variants"])]
+        groups = [(v.get("model_name") or v["name"].replace("Bajaj ", ""), [v]) for v in d["variants"]] if folder == "bajaj" else [(d["model"], d["variants"])]
         for model, vs in groups:
             model = re.sub(rf"^{re.escape(brand_name.split()[0])}\s+", "", model).strip()
             body = body_of(m.get("channel"), cat, m["slug"] if folder == "maruti" else None)
@@ -268,7 +268,7 @@ def vehicles_for(folder):
                 fuel = fuel_of(v["fuel"], cat)
                 specs = canon_specs(v.get("specifications"), v, fuel == "electric")
                 trans = trans_of(v.get("transmission") or specs.get("Transmission"), body, fuel)
-                name = short_name(v["name"], model, brand_name) if folder != "bajaj" else v["name"]
+                name = short_name(v["name"], model, brand_name)
                 base = slugify(name)
                 vs_slug, k = base, 2
                 while vs_slug in used:

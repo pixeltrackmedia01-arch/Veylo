@@ -1,6 +1,6 @@
 {
   "brand": "Hero",
-  "model": "Xtreme 160r 4V",
+  "model": "Xtreme 160R 4V",
   "slug": "xtreme-160r-4v",
   "official_page": "https://www.heromotocorp.com/en-in/motorcycles/xtreme-160r-4v.html",
   "brochure_pdf": null,
@@ -14,7 +14,7 @@
   "colours": [],
   "variants": [
     {
-      "name": "Xtreme 160r 4V (starting price)",
+      "name": "Xtreme 160R 4V (starting price)",
       "fuel": "Petrol",
       "transmission": null,
       "specifications": {
@@ -89,7 +89,7 @@
       }
     },
     {
-      "name": "Xtreme 160r 4V (top variant price)",
+      "name": "Xtreme 160R 4V (top variant price)",
       "fuel": "Petrol",
       "transmission": null,
       "specifications": {
@@ -167,5 +167,5 @@
   "notes": [
     "Hero lists a price range per model, not per variant: entries are the starting and top prices."
   ],
-  "fetched_on": "2026-10-30"
+  "fetched_on": "2026-10-31"
 }

@@ -1,6 +1,6 @@
 {
   "brand": "Hero",
-  "model": "XOOM",
+  "model": "Xoom 110",
   "slug": "xoom",
   "official_page": "https://www.heromotocorp.com/en-in/scooters/xoom.html",
   "brochure_pdf": null,
@@ -14,7 +14,7 @@
   "colours": [],
   "variants": [
     {
-      "name": "XOOM (starting price)",
+      "name": "Xoom 110 (starting price)",
       "fuel": "Petrol",
       "transmission": null,
       "specifications": {
@@ -75,7 +75,7 @@
       }
     },
     {
-      "name": "XOOM (top variant price)",
+      "name": "Xoom 110 (top variant price)",
       "fuel": "Petrol",
       "transmission": null,
       "specifications": {
@@ -139,5 +139,5 @@
   "notes": [
     "Hero lists a price range per model, not per variant: entries are the starting and top prices."
   ],
-  "fetched_on": "2026-10-30"
+  "fetched_on": "2026-10-31"
 }

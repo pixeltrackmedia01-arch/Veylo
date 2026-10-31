@@ -15,6 +15,7 @@
   "variants": [
     {
       "code": "00JZ56DA",
+      "model_name": "Pulsar N125",
       "name": "Pulsar N125",
       "fuel": "Petrol",
       "transmission": null,
@@ -26,6 +27,7 @@
     },
     {
       "code": "00JR70EF",
+      "model_name": "Pulsar 125 ",
       "name": "Pulsar 125 Single Seat LCD",
       "fuel": "Petrol",
       "transmission": null,
@@ -37,6 +39,7 @@
     },
     {
       "code": "00JF5817",
+      "model_name": "Pulsar NS125",
       "name": "Pulsar NS125 led BT",
       "fuel": "Petrol",
       "transmission": null,
@@ -48,6 +51,7 @@
     },
     {
       "code": "00DJ1642",
+      "model_name": "Pulsar 180",
       "name": "Pulsar 180",
       "fuel": "Petrol",
       "transmission": null,
@@ -59,6 +63,7 @@
     },
     {
       "code": "00JR81BT",
+      "model_name": "Pulsar N160",
       "name": "N160 SD USD Single Seat",
       "fuel": "Petrol",
       "transmission": null,
@@ -70,6 +75,7 @@
     },
     {
       "code": "00JF558R",
+      "model_name": "Pulsar NS160",
       "name": "Pulsar NS160 SC",
       "fuel": "Petrol",
       "transmission": null,
@@ -81,6 +87,7 @@
     },
     {
       "code": "00JR905N",
+      "model_name": "Pulsar 150",
       "name": "Pulsar 150 TD Premium Split Seat TFT",
       "fuel": "Petrol",
       "transmission": null,
@@ -92,6 +99,7 @@
     },
     {
       "code": "00JL30BH",
+      "model_name": "Pulsar NS200",
       "name": "Pulsar NS200 SC",
       "fuel": "Petrol",
       "transmission": null,
@@ -103,6 +111,7 @@
     },
     {
       "code": "00JR349V",
+      "model_name": "Pulsar N250",
       "name": "Pulsar N250",
       "fuel": "Petrol",
       "transmission": null,
@@ -114,6 +123,7 @@
     },
     {
       "code": "00DT229V",
+      "model_name": "Pulsar RS200",
       "name": "Pulsar RS200",
       "fuel": "Petrol",
       "transmission": null,
@@ -125,6 +135,7 @@
     },
     {
       "code": "00JL349V",
+      "model_name": "Pulsar NS400z",
       "name": "Pulsar NS400Z",
       "fuel": "Petrol",
       "transmission": null,
@@ -136,5 +147,5 @@
     }
   ],
   "notes": [],
-  "fetched_on": "2026-10-30"
+  "fetched_on": "2026-10-31"
 }

@@ -15,6 +15,7 @@
   "variants": [
     {
       "code": "00JF5346",
+      "model_name": "Dominar 250",
       "name": "Dominar 250",
       "fuel": "Petrol",
       "transmission": null,
@@ -26,6 +27,7 @@
     },
     {
       "code": "00JF629A",
+      "model_name": "Dominar 400",
       "name": "Dominar 400",
       "fuel": "Petrol",
       "transmission": null,
@@ -37,5 +39,5 @@
     }
   ],
   "notes": [],
-  "fetched_on": "2026-10-30"
+  "fetched_on": "2026-10-31"
 }

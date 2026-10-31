@@ -1,6 +1,6 @@
 {
   "brand": "Hero",
-  "model": "Glamour X Price, Mileage, Features & Specifications",
+  "model": "Glamour X",
   "slug": "glamour-x",
   "official_page": "https://www.heromotocorp.com/en-in/motorcycles/glamour-x.html",
   "brochure_pdf": null,
@@ -14,7 +14,7 @@
   "colours": [],
   "variants": [
     {
-      "name": "Glamour X Price, Mileage, Features & Specifications (starting price)",
+      "name": "Glamour X (starting price)",
       "fuel": "Petrol",
       "transmission": null,
       "specifications": {
@@ -73,7 +73,7 @@
       }
     },
     {
-      "name": "Glamour X Price, Mileage, Features & Specifications (top variant price)",
+      "name": "Glamour X (top variant price)",
       "fuel": "Petrol",
       "transmission": null,
       "specifications": {
@@ -135,5 +135,5 @@
   "notes": [
     "Hero lists a price range per model, not per variant: entries are the starting and top prices."
   ],
-  "fetched_on": "2026-10-30"
+  "fetched_on": "2026-10-31"
 }

@@ -1,6 +1,6 @@
 # Hero catalogue (official data)
 
-Collected on 2026-10-30. Prices are **ex-showroom** in ₹ lakh — Hero's website default ex-showroom price (state not stated).
+Collected on 2026-10-31. Prices are **ex-showroom** in ₹ lakh — Hero's website default ex-showroom price (state not stated).
 
 Source: heromotocorp.com specification feed — every scooter and motorcycle on the site with
 full specifications (engine, power, torque, dimensions, brakes, tyres, fuel tank) and its
@@ -24,23 +24,23 @@ prices; entries are the starting and top prices. Surat on-road prices need RTO a
 | 8 | Splendor+ Xtec 2.0 | Motorcycle | 1 | 0 | Petrol |  | 0.80 – 0.80 |
 | 9 | Glamour | Motorcycle | 2 | 0 | Petrol |  | 0.81 – 0.85 |
 | 10 | Super Splendor Xtec | Motorcycle | 2 | 0 | Petrol |  | 0.82 – 0.86 |
-| 11 | Glamour X Price, Mileage, Features & Specifications | Motorcycle | 2 | 0 | Petrol |  | 0.83 – 0.92 |
-| 12 | Glamour X Price, Mileage, Features & Specifications | Motorcycle | 2 | 0 | Petrol |  | 0.83 – 0.92 |
+| 11 | Glamour X ABS | Motorcycle | 2 | 0 | Petrol |  | 0.83 – 0.92 |
+| 12 | Glamour X | Motorcycle | 2 | 0 | Petrol |  | 0.83 – 0.92 |
 | 13 | Glamour Xtec | Motorcycle | 2 | 0 | Petrol |  | 0.85 – 1.00 |
 | 14 | Xtreme 125R | Motorcycle | 2 | 0 | Petrol |  | 0.93 – 1.04 |
 | 15 | Xtreme 160R | Motorcycle | 1 | 0 | Petrol |  | 1.05 – 1.05 |
-| 16 | Xtreme 160r 4V | Motorcycle | 2 | 0 | Petrol |  | 1.30 – 1.34 |
+| 16 | Xtreme 160R 4V | Motorcycle | 2 | 0 | Petrol |  | 1.30 – 1.34 |
 | 17 | Xpulse 200T 4V | Motorcycle | 2 | 0 | Petrol |  | 1.30 – 1.45 |
 | 18 | Xpulse 200 4V | Motorcycle | 2 | 0 | Petrol |  | 1.40 – 1.55 |
-| 19 | Xtreme 200s 4V | Motorcycle | 2 | 0 | Petrol |  | 1.41 – 1.47 |
-| 20 | Karizma XMR: Live the Legend | Motorcycle | 1 | 0 | Petrol |  | 1.80 – 1.80 |
-| 21 | Mavrick 440: Me X Machine | Motorcycle | 1 | 0 | Petrol |  | 1.99 – 1.99 |
-| 22 | Harley Davidson X440: Price, Mileage, Specification, Colours, Images | Motorcycle | 2 | 0 | Petrol |  | 2.40 – 2.79 |
-| 23 | Harley Davidson X440: Price, Mileage, Specification, Colours, Images | Motorcycle | 2 | 0 | Petrol |  | 2.40 – 2.79 |
+| 19 | Xtreme 200S 4V | Motorcycle | 2 | 0 | Petrol |  | 1.41 – 1.47 |
+| 20 | Karizma XMR | Motorcycle | 1 | 0 | Petrol |  | 1.80 – 1.80 |
+| 21 | Mavrick 440 | Motorcycle | 1 | 0 | Petrol |  | 1.99 – 1.99 |
+| 22 | Harley-Davidson X440 | Motorcycle | 2 | 0 | Petrol |  | 2.40 – 2.79 |
+| 23 | Harley-Davidson X440 T | Motorcycle | 2 | 0 | Petrol |  | 2.40 – 2.79 |
 | 24 | Pleasure Plus Xtec | Scooter | 2 | 0 | Petrol |  | 0.70 – 0.76 |
 | 25 | Destini Prime | Scooter | 1 | 0 | Petrol |  | 0.70 – 0.70 |
 | 26 | Destini 110 | Scooter | 2 | 0 | Petrol |  | 0.72 – 0.79 |
-| 27 | XOOM | Scooter | 2 | 0 | Petrol |  | 0.72 – 0.77 |
+| 27 | Xoom 110 | Scooter | 2 | 0 | Petrol |  | 0.72 – 0.77 |
 | 28 | New Destini 125 | Scooter | 2 | 0 | Petrol |  | 0.76 – 0.85 |
 | 29 | Destini 125 Xtec | Scooter | 2 | 0 | Petrol |  | 0.79 – 0.93 |
 | 30 | Xoom 125 | Scooter | 2 | 0 | Petrol |  | 0.80 – 0.86 |
@@ -174,27 +174,27 @@ Colours:
 
 > Note: Hero lists a price range per model, not per variant: entries are the starting and top prices.
 
-## Glamour X Price, Mileage, Features & Specifications
+## Glamour X ABS
 
 [Official page](https://www.heromotocorp.com/en-in/motorcycles/glamour-x-abs.html) · [Brochure (PDF)](None) · data: `glamour-x-abs.json`
 
 | Variant | Fuel | Gearbox | Engine | Power | Mileage / EV range | Airbags | Price (₹ lakh) | Dual-tone (₹ lakh) |
 |---|---|---|---|---|---|---|---|---|
-| Glamour X Price, Mileage, Features & Specifications (starting price) | Petrol | Manual | 124.7 cc | 8.5kW @8250 rpm | 65 km/l | — | 0.83 | — |
-| Glamour X Price, Mileage, Features & Specifications (top variant price) | Petrol | Manual | 124.7 cc | 8.5kW @8250 rpm | 65 km/l | — | 0.92 | — |
+| Glamour X ABS (starting price) | Petrol | Manual | 124.7 cc | 8.5kW @8250 rpm | 65 km/l | — | 0.83 | — |
+| Glamour X ABS (top variant price) | Petrol | Manual | 124.7 cc | 8.5kW @8250 rpm | 65 km/l | — | 0.92 | — |
 
 Colours: 
 
 > Note: Hero lists a price range per model, not per variant: entries are the starting and top prices.
 
-## Glamour X Price, Mileage, Features & Specifications
+## Glamour X
 
 [Official page](https://www.heromotocorp.com/en-in/motorcycles/glamour-x.html) · [Brochure (PDF)](None) · data: `glamour-x.json`
 
 | Variant | Fuel | Gearbox | Engine | Power | Mileage / EV range | Airbags | Price (₹ lakh) | Dual-tone (₹ lakh) |
 |---|---|---|---|---|---|---|---|---|
-| Glamour X Price, Mileage, Features & Specifications (starting price) | Petrol | Manual | 124.7 cc | 8.5kW @8250 rpm | 65 km/l | — | 0.83 | — |
-| Glamour X Price, Mileage, Features & Specifications (top variant price) | Petrol | Manual | 124.7 cc | 8.5kW @8250 rpm | 65 km/l | — | 0.92 | — |
+| Glamour X (starting price) | Petrol | Manual | 124.7 cc | 8.5kW @8250 rpm | 65 km/l | — | 0.83 | — |
+| Glamour X (top variant price) | Petrol | Manual | 124.7 cc | 8.5kW @8250 rpm | 65 km/l | — | 0.92 | — |
 
 Colours: 
 
@@ -238,14 +238,14 @@ Colours:
 
 > Note: Hero lists a price range per model, not per variant: entries are the starting and top prices.
 
-## Xtreme 160r 4V
+## Xtreme 160R 4V
 
 [Official page](https://www.heromotocorp.com/en-in/motorcycles/xtreme-160r-4v.html) · [Brochure (PDF)](None) · data: `xtreme-160r-4v.json`
 
 | Variant | Fuel | Gearbox | Engine | Power | Mileage / EV range | Airbags | Price (₹ lakh) | Dual-tone (₹ lakh) |
 |---|---|---|---|---|---|---|---|---|
-| Xtreme 160r 4V (starting price) | Petrol | 5 Speed Constant Mesh | 163.2 | <div>16.9 Ps/12.4kW @ 8500rpm</div> | — | — | 1.30 | — |
-| Xtreme 160r 4V (top variant price) | Petrol | 5 Speed Constant Mesh | 163.2 | <div>16.9 Ps/12.4kW @ 8500rpm</div> | — | — | 1.34 | — |
+| Xtreme 160R 4V (starting price) | Petrol | 5 Speed Constant Mesh | 163.2 | <div>16.9 Ps/12.4kW @ 8500rpm</div> | — | — | 1.30 | — |
+| Xtreme 160R 4V (top variant price) | Petrol | 5 Speed Constant Mesh | 163.2 | <div>16.9 Ps/12.4kW @ 8500rpm</div> | — | — | 1.34 | — |
 
 Colours: 
 
@@ -277,64 +277,64 @@ Colours:
 
 > Note: Hero lists a price range per model, not per variant: entries are the starting and top prices.
 
-## Xtreme 200s 4V
+## Xtreme 200S 4V
 
 [Official page](https://www.heromotocorp.com/en-in/motorcycles/xtreme-200s-4v.html) · [Brochure (PDF)](None) · data: `xtreme-200s-4v.json`
 
 | Variant | Fuel | Gearbox | Engine | Power | Mileage / EV range | Airbags | Price (₹ lakh) | Dual-tone (₹ lakh) |
 |---|---|---|---|---|---|---|---|---|
-| Xtreme 200s 4V (starting price) | Petrol | 5-speed constant mesh | 199.6cc | 19.1 PS @ 8500 RPM | — | — | 1.41 | — |
-| Xtreme 200s 4V (top variant price) | Petrol | 5-speed constant mesh | 199.6cc | 19.1 PS @ 8500 RPM | — | — | 1.47 | — |
+| Xtreme 200S 4V (starting price) | Petrol | 5-speed constant mesh | 199.6cc | 19.1 PS @ 8500 RPM | — | — | 1.41 | — |
+| Xtreme 200S 4V (top variant price) | Petrol | 5-speed constant mesh | 199.6cc | 19.1 PS @ 8500 RPM | — | — | 1.47 | — |
 
 Colours: 
 
 > Note: Hero lists a price range per model, not per variant: entries are the starting and top prices.
 
-## Karizma XMR: Live the Legend
+## Karizma XMR
 
 [Official page](https://www.heromotocorp.com/en-in/motorcycles/karizma-xmr.html) · [Brochure (PDF)](None) · data: `karizma-xmr.json`
 
 | Variant | Fuel | Gearbox | Engine | Power | Mileage / EV range | Airbags | Price (₹ lakh) | Dual-tone (₹ lakh) |
 |---|---|---|---|---|---|---|---|---|
-| Karizma XMR: Live the Legend (starting price) | Petrol | 6-speed, Constant Mesh | 210 cc | 25.5 Ps @9250 rpm | — | — | 1.80 | — |
+| Karizma XMR (starting price) | Petrol | 6-speed, Constant Mesh | 210 cc | 25.5 Ps @9250 rpm | — | — | 1.80 | — |
 
 Colours: 
 
 > Note: Hero lists a price range per model, not per variant: entries are the starting and top prices.
 
-## Mavrick 440: Me X Machine
+## Mavrick 440
 
 [Official page](https://www.heromotocorp.com/en-in/motorcycles/mavrick-440.html) · [Brochure (PDF)](None) · data: `mavrick-440.json`
 
 | Variant | Fuel | Gearbox | Engine | Power | Mileage / EV range | Airbags | Price (₹ lakh) | Dual-tone (₹ lakh) |
 |---|---|---|---|---|---|---|---|---|
-| Mavrick 440: Me X Machine (starting price) | Petrol | Manual 6 speed | 440 cc | 27 bhp @6000 rpm | — | — | 1.99 | — |
+| Mavrick 440 (starting price) | Petrol | Manual 6 speed | 440 cc | 27 bhp @6000 rpm | — | — | 1.99 | — |
 
 Colours: 
 
 > Note: Hero lists a price range per model, not per variant: entries are the starting and top prices.
 
-## Harley Davidson X440: Price, Mileage, Specification, Colours, Images
+## Harley-Davidson X440
 
 [Official page](https://www.heromotocorp.com/en-in/motorcycles/harley-x440.html) · [Brochure (PDF)](None) · data: `harley-x440.json`
 
 | Variant | Fuel | Gearbox | Engine | Power | Mileage / EV range | Airbags | Price (₹ lakh) | Dual-tone (₹ lakh) |
 |---|---|---|---|---|---|---|---|---|
-| Harley Davidson X440: Price, Mileage, Specification, Colours, Images (starting price) | Petrol | 6 Speed Manual&nbsp; | 440 cc | 27 bhp @ 6,000 rpm | — | — | 2.40 | — |
-| Harley Davidson X440: Price, Mileage, Specification, Colours, Images (top variant price) | Petrol | 6 Speed Manual&nbsp; | 440 cc | 27 bhp @ 6,000 rpm | — | — | 2.79 | — |
+| Harley-Davidson X440 (starting price) | Petrol | 6 Speed Manual&nbsp; | 440 cc | 27 bhp @ 6,000 rpm | — | — | 2.40 | — |
+| Harley-Davidson X440 (top variant price) | Petrol | 6 Speed Manual&nbsp; | 440 cc | 27 bhp @ 6,000 rpm | — | — | 2.79 | — |
 
 Colours: 
 
 > Note: Hero lists a price range per model, not per variant: entries are the starting and top prices.
 
-## Harley Davidson X440: Price, Mileage, Specification, Colours, Images
+## Harley-Davidson X440 T
 
 [Official page](https://www.heromotocorp.com/en-in/motorcycles/x440-t.html) · [Brochure (PDF)](None) · data: `x440-t.json`
 
 | Variant | Fuel | Gearbox | Engine | Power | Mileage / EV range | Airbags | Price (₹ lakh) | Dual-tone (₹ lakh) |
 |---|---|---|---|---|---|---|---|---|
-| Harley Davidson X440: Price, Mileage, Specification, Colours, Images (starting price) | Petrol | 6 Speed Manual | 440 cc | 27 bhp @ 6,000 rpm | — | — | 2.40 | — |
-| Harley Davidson X440: Price, Mileage, Specification, Colours, Images (top variant price) | Petrol | 6 Speed Manual | 440 cc | 27 bhp @ 6,000 rpm | — | — | 2.79 | — |
+| Harley-Davidson X440 T (starting price) | Petrol | 6 Speed Manual | 440 cc | 27 bhp @ 6,000 rpm | — | — | 2.40 | — |
+| Harley-Davidson X440 T (top variant price) | Petrol | 6 Speed Manual | 440 cc | 27 bhp @ 6,000 rpm | — | — | 2.79 | — |
 
 Colours: 
 
@@ -378,14 +378,14 @@ Colours:
 
 > Note: Hero lists a price range per model, not per variant: entries are the starting and top prices.
 
-## XOOM
+## Xoom 110
 
 [Official page](https://www.heromotocorp.com/en-in/scooters/xoom.html) · [Brochure (PDF)](None) · data: `xoom.json`
 
 | Variant | Fuel | Gearbox | Engine | Power | Mileage / EV range | Airbags | Price (₹ lakh) | Dual-tone (₹ lakh) |
 |---|---|---|---|---|---|---|---|---|
-| XOOM (starting price) | Petrol | Air cooled, 4-stroke, SI engine | 110.9 cc | 6.0kW (8.05 BHP) @ 7250 Revolutions per Minute(RPM) | — | — | 0.72 | — |
-| XOOM (top variant price) | Petrol | Air cooled, 4-stroke, SI engine | 110.9 cc | 6.0kW (8.05 BHP) @ 7250 Revolutions per Minute(RPM) | — | — | 0.77 | — |
+| Xoom 110 (starting price) | Petrol | Air cooled, 4-stroke, SI engine | 110.9 cc | 6.0kW (8.05 BHP) @ 7250 Revolutions per Minute(RPM) | — | — | 0.72 | — |
+| Xoom 110 (top variant price) | Petrol | Air cooled, 4-stroke, SI engine | 110.9 cc | 6.0kW (8.05 BHP) @ 7250 Revolutions per Minute(RPM) | — | — | 0.77 | — |
 
 Colours: 
 

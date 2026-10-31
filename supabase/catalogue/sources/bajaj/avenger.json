@@ -15,6 +15,7 @@
   "variants": [
     {
       "code": "00PD389K",
+      "model_name": "Avenger 220 Cruise",
       "name": "AVENGER 220 CRUISE",
       "fuel": "Petrol",
       "transmission": null,
@@ -26,6 +27,7 @@
     },
     {
       "code": "00PD402V",
+      "model_name": "Avenger 220 Street",
       "name": "Avenger 220 Street",
       "fuel": "Petrol",
       "transmission": null,
@@ -37,5 +39,5 @@
     }
   ],
   "notes": [],
-  "fetched_on": "2026-10-30"
+  "fetched_on": "2026-10-31"
 }

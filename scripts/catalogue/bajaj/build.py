@@ -14,7 +14,7 @@ for family, ms in groups.items():
     name = family.replace("bajaj-", "").replace("-", " ").title().replace("Ns", "NS").replace("Rs", "RS").replace("Ct", "CT")
     slug = re.sub(r"[^a-z0-9]+", "-", name.lower()).strip("-")
     ev = "chetak" in family.lower()
-    variants = [{"code": m["ModelCode"], "name": (m.get("variant_name") or m["ModelName"]).replace("Bajaj ", ""), "fuel": "Electric" if ev else ("CNG" if "freedom" in family.lower() else "Petrol"),
+    variants = [{"code": m["ModelCode"], "model_name": m["ModelName"].replace("Bajaj ", ""), "name": (m.get("variant_name") or m["ModelName"]).replace("Bajaj ", ""), "fuel": "Electric" if ev else ("CNG" if "freedom" in family.lower() else "Petrol"),
                  "transmission": None, "ex_showroom_surat": {"standard": m["price"]}, "specifications": {}, "features": {}}
                 for m in sorted(ms, key=lambda m: m["price"])]
     prices = [v["ex_showroom_surat"]["standard"] for v in variants]

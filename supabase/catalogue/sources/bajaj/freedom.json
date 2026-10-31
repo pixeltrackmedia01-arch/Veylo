@@ -15,6 +15,7 @@
   "variants": [
     {
       "code": "00JH3632",
+      "model_name": "Freedom 125 NG04",
       "name": "Freedom 125 NG04 Disc LED",
       "fuel": "CNG",
       "transmission": null,
@@ -26,5 +27,5 @@
     }
   ],
   "notes": [],
-  "fetched_on": "2026-10-30"
+  "fetched_on": "2026-10-31"
 }

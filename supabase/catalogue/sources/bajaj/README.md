@@ -1,6 +1,6 @@
 # Bajaj catalogue (official data)
 
-Collected on 2026-10-30. Prices are **ex-showroom** in ₹ lakh — Gujarat (state ex-showroom price from bajajauto.com).
+Collected on 2026-10-31. Prices are **ex-showroom** in ₹ lakh — Gujarat (state ex-showroom price from bajajauto.com).
 
 Source: bajajauto.com — its list of active models and the price widget's **Gujarat**
 ex-showroom price for each (stateCode GJ). Grouped by family (Pulsar, Dominar, Avenger,
