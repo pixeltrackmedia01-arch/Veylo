@@ -18,7 +18,10 @@ export function slugify(input: string) {
 /** Only allow same-site relative redirects (prevents open redirects after login). */
 export function safeRedirectPath(value: unknown, fallback = "/dashboard") {
   if (typeof value !== "string") return fallback;
-  if (!value.startsWith("/") || value.startsWith("//") || value.startsWith("/\\")) return fallback;
+  // Browsers drop tabs/newlines and treat "\\" as "/", so "/\t/evil.com" or
+  // "/\\evil.com" would become a protocol-relative (off-site) URL.
+  if (/[\u0000-\u001f\u007f\\]/.test(value)) return fallback;
+  if (!value.startsWith("/") || value.startsWith("//")) return fallback;
   return value;
 }
 

@@ -4,7 +4,9 @@ import { cache } from "react";
 import { siteConfig } from "@/config/site";
 import { ACTIVE_PUBLIC_STATUSES, progressPercent } from "@/lib/domain/batch-lifecycle";
 import { isSupabaseConfigured } from "@/lib/env";
+import { cachedPublic } from "@/lib/data/public-cache";
 import { createClient } from "@/lib/supabase/server";
+import { createPublicClient } from "@/lib/supabase/public";
 import type {
   Batch,
   City,
@@ -52,20 +54,25 @@ export interface CatalogueFilters {
 
 export const PAGE_SIZE = 12;
 
+// Public data is cached for this long, then refreshed in the background.
+const PUBLIC_TTL_MS = 60_000;
+
 const VEHICLE_SELECT = "*, manufacturer:manufacturers(*), variants:vehicle_variants(*), images:vehicle_images(*)";
 
 export const getLaunchCity = cache(async (): Promise<City | null> => {
   if (!isSupabaseConfigured()) return null;
-  const supabase = await createClient();
-  const { data } = await supabase.from("cities").select("*").eq("slug", siteConfig.launchCity.slug).maybeSingle();
-  return (data as City | null) ?? null;
+  return cachedPublic("launch-city", PUBLIC_TTL_MS, async () => {
+    const { data } = await createPublicClient().from("cities").select("*").eq("slug", siteConfig.launchCity.slug).maybeSingle();
+    return (data as City | null) ?? null;
+  });
 });
 
 export const getActiveCities = cache(async (): Promise<City[]> => {
   if (!isSupabaseConfigured()) return [];
-  const supabase = await createClient();
-  const { data } = await supabase.from("cities").select("*").eq("is_active", true).order("name");
-  return (data ?? []) as City[];
+  return cachedPublic("active-cities", PUBLIC_TTL_MS, async () => {
+    const { data } = await createPublicClient().from("cities").select("*").eq("is_active", true).order("name");
+    return (data ?? []) as City[];
+  });
 });
 
 function sortVariants(v: VehicleWithRelations) {
@@ -77,7 +84,11 @@ function sortVariants(v: VehicleWithRelations) {
 /** Published vehicles enriched with current prices and active batch stats. */
 export const getCatalogue = cache(async (): Promise<CatalogueVehicle[]> => {
   if (!isSupabaseConfigured()) return [];
-  const supabase = await createClient();
+  return cachedPublic("catalogue", PUBLIC_TTL_MS, loadCatalogue);
+});
+
+async function loadCatalogue(): Promise<CatalogueVehicle[]> {
+  const supabase = createPublicClient();
   const city = await getLaunchCity();
 
   const [vehiclesRes, batchesRes, pricesRes] = await Promise.all([
@@ -116,7 +127,7 @@ export const getCatalogue = cache(async (): Promise<CatalogueVehicle[]> => {
       isDemoPricing: vPrices.some((p) => p.is_demo),
     };
   });
-});
+}
 
 export async function searchCatalogue(filters: CatalogueFilters) {
   const all = await getCatalogue();
@@ -217,34 +228,39 @@ export async function getCurrentPrice(variantId: string, cityId: string): Promis
 
 export const getFaqs = cache(async (category?: string): Promise<Faq[]> => {
   if (!isSupabaseConfigured()) return [];
-  const supabase = await createClient();
-  let query = supabase.from("faqs").select("*").eq("is_published", true).is("vehicle_id", null).order("sort_order");
-  if (category) query = query.eq("category", category);
-  const { data } = await query;
-  return (data ?? []) as Faq[];
+  return cachedPublic(`faqs:${category ?? ""}`, PUBLIC_TTL_MS, async () => {
+    let query = createPublicClient().from("faqs").select("*").eq("is_published", true).is("vehicle_id", null).order("sort_order");
+    if (category) query = query.eq("category", category);
+    const { data } = await query;
+    return (data ?? []) as Faq[];
+  });
 });
 
 /** Admin-written questions attached to one vehicle. */
 export const getVehicleFaqs = cache(async (vehicleId: string): Promise<Faq[]> => {
   if (!isSupabaseConfigured()) return [];
-  const supabase = await createClient();
-  const { data } = await supabase.from("faqs").select("*").eq("is_published", true).eq("vehicle_id", vehicleId).order("sort_order");
-  return (data ?? []) as Faq[];
+  return cachedPublic(`vehicle-faqs:${vehicleId}`, PUBLIC_TTL_MS, async () => {
+    const { data } = await createPublicClient().from("faqs").select("*").eq("is_published", true).eq("vehicle_id", vehicleId).order("sort_order");
+    return (data ?? []) as Faq[];
+  });
 });
 
 export const getPublicSetting = cache(async <T,>(key: string, fallback: T): Promise<T> => {
   if (!isSupabaseConfigured()) return fallback;
-  const supabase = await createClient();
-  const { data } = await supabase.from("app_settings").select("value").eq("key", key).eq("is_public", true).maybeSingle();
-  if (!data || data.value === null || data.value === undefined) return fallback;
-  return mergeSetting(fallback, data.value) as T;
+  const value = await cachedPublic(`setting:${key}`, PUBLIC_TTL_MS, async () => {
+    const { data } = await createPublicClient().from("app_settings").select("value").eq("key", key).eq("is_public", true).maybeSingle();
+    return (data?.value ?? null) as unknown;
+  });
+  if (value === null || value === undefined) return fallback;
+  return mergeSetting(fallback, value) as T;
 });
 
 export const getContentPage = cache(async (slug: string) => {
   if (!isSupabaseConfigured()) return null;
-  const supabase = await createClient();
-  const { data } = await supabase.from("content_pages").select("*").eq("slug", slug).eq("is_published", true).maybeSingle();
-  return data as import("@/lib/types").ContentPage | null;
+  return cachedPublic(`page:${slug}`, PUBLIC_TTL_MS, async () => {
+    const { data } = await createPublicClient().from("content_pages").select("*").eq("slug", slug).eq("is_published", true).maybeSingle();
+    return data as import("@/lib/types").ContentPage | null;
+  });
 });
 
 export async function getPlatformStats() {

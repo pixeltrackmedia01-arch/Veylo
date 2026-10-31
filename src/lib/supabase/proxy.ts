@@ -14,6 +14,13 @@ export async function updateSession(request: NextRequest) {
   const { url, anonKey } = getPublicSupabaseEnv();
   if (!url || !anonKey) return response;
 
+  // Anonymous visitors on public pages have no session to refresh: skip the
+  // Supabase client entirely so most traffic pays nothing here.
+  const path = request.nextUrl.pathname;
+  const isProtected = PROTECTED_PREFIXES.some((p) => path === p || path.startsWith(`${p}/`));
+  const hasSessionCookie = request.cookies.getAll().some((c) => c.name.startsWith("sb-"));
+  if (!hasSessionCookie && !isProtected) return response;
+
   const supabase = createServerClient(url, anonKey, {
     cookies: {
       getAll() {
@@ -31,8 +38,7 @@ export async function updateSession(request: NextRequest) {
   const { data } = await supabase.auth.getClaims();
   const signedIn = Boolean(data?.claims?.sub);
 
-  const path = request.nextUrl.pathname;
-  if (!signedIn && PROTECTED_PREFIXES.some((p) => path === p || path.startsWith(`${p}/`))) {
+  if (!signedIn && isProtected) {
     const redirectUrl = request.nextUrl.clone();
     redirectUrl.pathname = "/login";
     redirectUrl.search = `?next=${encodeURIComponent(path + request.nextUrl.search)}`;

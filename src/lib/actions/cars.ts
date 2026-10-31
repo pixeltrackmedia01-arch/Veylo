@@ -1,8 +1,9 @@
 "use server";
 
-import { revalidatePath } from "next/cache";
+import { revalidatePath } from "@/lib/revalidate";
 import { getViewer } from "@/lib/auth/session";
 import { fail, ok, type ActionResult } from "@/lib/errors";
+import { clientIp, rateLimit } from "@/lib/rate-limit";
 import { createClient } from "@/lib/supabase/server";
 import { fieldErrors, leadSchema, type LeadInput } from "@/lib/validation/schemas";
 
@@ -37,6 +38,7 @@ export async function submitLeadAction(input: LeadInput): Promise<ActionResult> 
   const parsed = leadSchema.safeParse(input);
   if (!parsed.success) return { ok: false, error: "Please fix the highlighted fields.", fieldErrors: fieldErrors(parsed.error) };
   if (parsed.data.website) return ok("Thanks — we'll call you shortly.");
+  if (!(await rateLimit("lead", await clientIp(), 10, 3600))) return fail("rate_limited");
 
   const supabase = await createClient();
   // submit_lead() validates, normalises the number and rate-limits per phone number.

@@ -1,6 +1,6 @@
 "use server";
 
-import { revalidatePath } from "next/cache";
+import { revalidatePath } from "@/lib/revalidate";
 import type { ActionInput } from "@/components/shared/action-button";
 import { fail, ok, type ActionResult } from "@/lib/errors";
 import { flushNotificationsSoon } from "@/lib/notifications";

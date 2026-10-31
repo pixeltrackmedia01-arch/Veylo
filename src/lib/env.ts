@@ -16,3 +16,8 @@ export function isSupabaseConfigured() {
 export function getSiteUrl() {
   return (process.env.NEXT_PUBLIC_SITE_URL ?? "http://localhost:3000").replace(/\/$/, "");
 }
+
+/** Staging/preview copies (SITE_NOINDEX=true, or a Vercel preview) are hidden from search engines. */
+export function isNoIndexSite() {
+  return process.env.SITE_NOINDEX === "true" || (process.env.VERCEL_ENV ?? "production") !== "production";
+}

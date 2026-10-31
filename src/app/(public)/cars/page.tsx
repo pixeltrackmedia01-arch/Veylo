@@ -37,6 +37,14 @@ const QUICK_CHIPS: { label: string; key: "body" | "budget" | "trans" | "fuel"; v
   { label: "Hybrid", key: "fuel", value: "hybrid" },
 ];
 
+// Rendering every model at once made /cars a ~1.8 MB page; car portals paginate.
+const PER_PAGE = 24;
+
+const pageHref = (filters: CarFilters, page: number) => {
+  const base = carsHref(filters);
+  return page <= 1 ? base : `${base}${base.includes("?") ? "&" : "?"}page=${page}`;
+};
+
 const chipClass = (active: boolean) =>
   cn(
     "inline-flex h-9 shrink-0 items-center gap-2 rounded-full border px-3.5 text-sm font-medium transition-all",
@@ -53,9 +61,13 @@ export default async function CarsPage({ searchParams }: { searchParams: Promise
       </div>
     );
   }
-  const filters: CarFilters = parseFilters(await searchParams);
+  const sp = await searchParams;
+  const filters: CarFilters = parseFilters(sp);
   const viewer = await getViewer();
   const [{ all, items }, saved] = await Promise.all([searchCars(filters), getSavedVehicleIds(viewer?.id)]);
+  const pageCount = Math.max(1, Math.ceil(items.length / PER_PAGE));
+  const page = Math.min(pageCount, Math.max(1, Number.parseInt(String(Array.isArray(sp.page) ? sp.page[0] : (sp.page ?? "1")), 10) || 1));
+  const pageItems = items.slice((page - 1) * PER_PAGE, page * PER_PAGE);
 
   const brandOptions = [...new Map(all.map((c) => [c.manufacturer.slug, c.manufacturer.name])).entries()]
     .sort((a, b) => a[1].localeCompare(b[1]))
@@ -133,7 +145,7 @@ export default async function CarsPage({ searchParams }: { searchParams: Promise
             </div>
             {items.length ? (
               <div className="grid gap-5 sm:grid-cols-2 xl:grid-cols-3">
-                {items.map((car) => (
+                {pageItems.map((car) => (
                   <CarCard key={car.id} car={car} saved={saved.has(car.id)} signedIn={Boolean(viewer)} />
                 ))}
               </div>
@@ -147,6 +159,25 @@ export default async function CarsPage({ searchParams }: { searchParams: Promise
                 </Link>
               </div>
             )}
+            {pageCount > 1 ? (
+              <nav aria-label="Pagination" className="mt-6 flex flex-wrap items-center justify-center gap-2">
+                {page > 1 ? (
+                  <Link href={pageHref(filters, page - 1)} rel="prev" className={chipClass(false)}>
+                    Previous
+                  </Link>
+                ) : null}
+                {Array.from({ length: pageCount }, (_, i) => i + 1).map((n) => (
+                  <Link key={n} href={pageHref(filters, n)} aria-current={n === page ? "page" : undefined} className={chipClass(n === page)}>
+                    {n}
+                  </Link>
+                ))}
+                {page < pageCount ? (
+                  <Link href={pageHref(filters, page + 1)} rel="next" className={chipClass(false)}>
+                    Next
+                  </Link>
+                ) : null}
+              </nav>
+            ) : null}
             <p className="mt-6 text-xs leading-5 text-muted-foreground">
               Prices are indicative ex-showroom figures taken from manufacturers&apos; official price lists; EMI estimates assume {siteConfig.emi.downPaymentPct}% down
               payment, {siteConfig.emi.annualRatePct}% interest and {siteConfig.emi.tenureMonths / 12} years on the on-road price. Confirm the final

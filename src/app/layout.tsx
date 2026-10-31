@@ -3,7 +3,7 @@ import { Inter, Plus_Jakarta_Sans } from "next/font/google";
 import type { CSSProperties } from "react";
 import { Toaster } from "@/components/shared/toaster";
 import { siteConfig } from "@/config/site";
-import { getSiteUrl } from "@/lib/env";
+import { getSiteUrl, isNoIndexSite } from "@/lib/env";
 import "./globals.css";
 
 const body = Inter({ variable: "--font-body", subsets: ["latin"], display: "swap" });
@@ -23,7 +23,9 @@ export const metadata: Metadata = {
   applicationName: siteConfig.name,
   keywords: ["new cars", "car price in India", "on-road price", "bike price", "scooter price", "car specifications",
     "car mileage", "compare cars", "EMI calculator", "car group buying", "best car deals"],
-  robots: { index: true, follow: true, googleBot: { index: true, follow: true, "max-image-preview": "large", "max-snippet": -1 } },
+  robots: isNoIndexSite()
+    ? { index: false, follow: false }
+    : { index: true, follow: true, googleBot: { index: true, follow: true, "max-image-preview": "large", "max-snippet": -1 } },
   openGraph: {
     type: "website",
     siteName: siteConfig.name,
