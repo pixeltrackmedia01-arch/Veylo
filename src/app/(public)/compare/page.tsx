@@ -1,16 +1,9 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { CarVisual } from "@/components/cars/car-visual";
-import {
-  CompareAdd,
-  CompareDiffToggle,
-  type ComparePick,
-  CompareRemove,
-  CompareSync,
-  CompareVariant,
-  compareHref,
-} from "@/components/cars/compare-controls";
+import { CompareAdd, CompareDiffToggle, CompareRemove, CompareSync, CompareVariant } from "@/components/cars/compare-controls";
 import { SetupNotice } from "@/components/shared/setup-notice";
+import { type ComparePick, compareHref } from "@/lib/compare-href";
 import { type CarSummary, getCars, type VariantWithPrice } from "@/lib/data/cars";
 import { parseList } from "@/lib/domain/car-filters";
 import { bodyLabel, fuelLabel, transmissionLabel } from "@/lib/domain/car-labels";
@@ -156,7 +149,7 @@ export default async function ComparePage({ searchParams }: { searchParams: Prom
           <p className="flex items-center gap-2 text-xs font-bold tracking-[0.2em] text-primary uppercase">
             <span className="h-px w-8 bg-primary" aria-hidden="true" /> Compare
           </p>
-          <h1 className="mt-3 text-3xl font-extrabold sm:text-4xl">Compare Cars</h1>
+          <h1 className="mt-3 text-3xl font-extrabold text-white sm:text-4xl">Compare Cars</h1>
           <p className="mt-2 max-w-2xl text-white/75">
             Put up to {MAX} cars side by side: price, engine, mileage, space and more, variant by variant.
           </p>
@@ -214,7 +207,7 @@ export default async function ComparePage({ searchParams }: { searchParams: Prom
                       const differs = new Set(values).size > 1;
                       const best = cols.length > 1 ? bestIndex(row, cols, values) : -1;
                       return (
-                        <tr key={row.label} className={cn("border-t", !differs && "group-data-[only-diff]/diff:hidden")}>
+                        <tr key={row.label} className={cn("border-t even:bg-surface/70", !differs && "group-data-[only-diff]/diff:hidden")}>
                           <th
                             scope="row"
                             className={cn(
