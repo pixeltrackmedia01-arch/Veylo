@@ -2,10 +2,10 @@
 
 import { useSyncExternalStore } from "react";
 
-/** Cars picked for comparison, kept in this browser only (max 3). */
+/** Cars picked for comparison, kept in this browser only (max 4). */
 const KEY = "gd-compare";
 const EVENT = "gd-compare-change";
-export const MAX_COMPARE = 3;
+export const MAX_COMPARE = 4;
 
 function read(): string[] {
   try {
