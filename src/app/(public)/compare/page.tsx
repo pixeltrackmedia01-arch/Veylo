@@ -1,7 +1,9 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { CarVisual } from "@/components/cars/car-visual";
-import { CompareAdd, CompareDiffToggle, CompareRemove, CompareSync, CompareVariant } from "@/components/cars/compare-controls";
+import { ArrowRight, Fuel, Gauge, IndianRupee, Ruler, ShieldCheck, Sofa } from "lucide-react";
+import { CompareSync } from "@/components/cars/compare-controls";
+import { CompareWorkspace, type WorkspaceSection, type WorkspaceVerdict } from "@/components/cars/compare-workspace";
 import { SetupNotice } from "@/components/shared/setup-notice";
 import { type ComparePick, compareHref } from "@/lib/compare-href";
 import { type CarSummary, getCars, type VariantWithPrice } from "@/lib/data/cars";
@@ -10,7 +12,6 @@ import { bodyLabel, fuelLabel, transmissionLabel } from "@/lib/domain/car-labels
 import { defaultEmiFor } from "@/lib/emi";
 import { isSupabaseConfigured } from "@/lib/env";
 import { formatINR, formatPriceLakh } from "@/lib/format";
-import { cn } from "@/lib/utils";
 
 export const metadata: Metadata = {
   title: "Compare Cars — Price, Mileage, Specs & Features Side by Side",
@@ -107,6 +108,35 @@ const POPULAR: [string, string][] = [
   ["jeep-compass", "hyundai-creta"],
 ];
 
+const SECTIONS: { id: string; title: string; icon: React.ReactNode; rows: string[] }[] = [
+  { id: "price", title: "Price & running cost", icon: <IndianRupee className="size-4" aria-hidden="true" />, rows: ["Ex-showroom price", "On-road price (est.)", "EMI (est.)", "Group deal"] },
+  { id: "engine", title: "Engine & performance", icon: <Gauge className="size-4" aria-hidden="true" />, rows: ["Fuel type", "Transmission", "Engine", "Max power", "Max torque"] },
+  { id: "mileage", title: "Mileage & range", icon: <Fuel className="size-4" aria-hidden="true" />, rows: ["Mileage", "Range", "Fuel tank"] },
+  { id: "space", title: "Space & comfort", icon: <Sofa className="size-4" aria-hidden="true" />, rows: ["Body type", "Seating capacity", "Boot space", "Ground clearance"] },
+  { id: "size", title: "Size", icon: <Ruler className="size-4" aria-hidden="true" />, rows: ["Length", "Width", "Height", "Wheelbase"] },
+  { id: "safety", title: "Safety & warranty", icon: <ShieldCheck className="size-4" aria-hidden="true" />, rows: ["Airbags", "Warranty"] },
+];
+const BADGES: Record<string, string> = {
+  "Ex-showroom price": "Lowest price",
+  "Max power": "Most powerful",
+  "Max torque": "Most torque",
+  Mileage: "Best mileage",
+  "Boot space": "Most boot space",
+  "Seating capacity": "Most seats",
+  Airbags: "Most airbags",
+};
+
+/** Bar lengths (0–1) so the winner fills the bar; null when the row has no comparable numbers. */
+function meterFor(row: Row, cols: Col[], values: string[], best: number) {
+  if (best < 0 || !row.num) return null;
+  const nums = cols.map((c, i) => (values[i] === dash ? null : row.num!(c)));
+  const ok = nums.filter((n): n is number => n !== null && n > 0);
+  if (ok.length < 2) return null;
+  const max = Math.max(...ok);
+  const min = Math.min(...ok);
+  return nums.map((n) => (n === null || n <= 0 ? 0 : row.best === "low" ? min / n : n / max));
+}
+
 export default async function ComparePage({ searchParams }: { searchParams: Promise<{ cars?: string; v?: string }> }) {
   if (!isSupabaseConfigured()) {
     return (
@@ -125,7 +155,7 @@ export default async function ComparePage({ searchParams }: { searchParams: Prom
   const cols: Col[] = [];
   slugs.forEach((slug, i) => {
     const car = bySlug.get(slug);
-    if (!car) return;
+    if (!car || picks.some((p) => p.slug === slug)) return;
     const variant = car.variantsWithPrice.find((v) => v.slug === wanted[i]) ?? car.baseVariant ?? car.variantsWithPrice[0];
     if (!variant) return;
     picks.push({ slug, variant: wanted[i] || undefined });
@@ -134,115 +164,88 @@ export default async function ComparePage({ searchParams }: { searchParams: Prom
 
   const options = [...all]
     .sort((a, b) => `${a.manufacturer.name} ${a.model_name}`.localeCompare(`${b.manufacturer.name} ${b.model_name}`))
-    .map((c) => ({ value: c.slug, label: `${c.manufacturer.name} ${c.model_name}` }));
-  const canAdd = cols.length < MAX;
-  const rows = ROWS.map((row) => ({ row, values: cols.map((c) => row.value(c)) })).filter((r) => r.values.some((v) => v !== dash));
+    .map((c) => ({ value: c.slug, label: `${c.manufacturer.name} ${c.model_name}`, brand: c.manufacturer.name }));
+
+  const n = cols.length;
+  const verdicts: WorkspaceVerdict[] = cols.map(() => ({ wins: 0, badges: [] }));
+  const byLabel = new Map(ROWS.map((r) => [r.label, r]));
+  const sections: WorkspaceSection[] = SECTIONS.map((sec) => ({
+    id: sec.id,
+    title: sec.title,
+    icon: sec.icon,
+    rows: sec.rows
+      .map((label) => byLabel.get(label)!)
+      .map((row) => {
+        const values = cols.map((c) => row.value(c));
+        const best = n > 1 ? bestIndex(row, cols, values) : -1;
+        if (best >= 0) {
+          verdicts[best].wins += 1;
+          if (BADGES[row.label]) verdicts[best].badges.push(BADGES[row.label]);
+        }
+        return { label: row.label, values, best, differs: n > 1 && new Set(values).size > 1, meter: meterFor(row, cols, values, best) };
+      })
+      .filter((r) => r.values.some((v) => v !== dash)),
+  })).filter((s) => s.rows.length);
+
+  const cars = cols.map((c) => ({
+    slug: c.car.slug,
+    brand: c.car.manufacturer.name,
+    model: c.car.model_name,
+    priceRange:
+      c.car.fromPrice && c.car.toPrice && c.car.toPrice !== c.car.fromPrice
+        ? `${formatPriceLakh(c.car.fromPrice)} – ${formatPriceLakh(c.car.toPrice)}`
+        : formatPriceLakh(c.car.fromPrice),
+    variantPrice: formatPriceLakh(c.variant.exShowroom),
+    href: `/cars/${c.car.slug}`,
+    variant: c.variant.slug,
+    variants: c.car.variantsWithPrice.map((v) => ({ value: v.slug, label: v.name })),
+    visual: <CarVisual car={c.car} className="aspect-[16/10]" />,
+  }));
+
   const popular = POPULAR.filter(([a, b]) => bySlug.has(a) && bySlug.has(b)).slice(0, 8);
 
   return (
     <div className="bg-surface pb-16">
       <CompareSync slugs={picks.map((p) => p.slug)} />
 
-      <section className="relative overflow-hidden bg-ink text-white">
-        <div className="pointer-events-none absolute inset-0 bg-[radial-gradient(ellipse_at_top_left,rgba(225,29,46,0.45),transparent_55%),radial-gradient(ellipse_at_bottom_right,rgba(37,99,235,0.25),transparent_50%)]" aria-hidden="true" />
-        <div className="container-page relative py-10 sm:py-14">
-          <p className="flex items-center gap-2 text-xs font-bold tracking-[0.2em] text-primary uppercase">
-            <span className="h-px w-8 bg-primary" aria-hidden="true" /> Compare
+      <section className="border-b bg-white">
+        <div className="container-page py-8 sm:py-10">
+          <nav aria-label="Breadcrumb" className="text-xs text-muted-foreground">
+            <Link href="/" className="hover:text-primary">Home</Link> <span aria-hidden="true">/</span> <span className="text-ink">Compare cars</span>
+          </nav>
+          <h1 className="mt-3 text-3xl font-extrabold tracking-tight text-ink sm:text-4xl">
+            Compare cars, <span className="text-primary">side by side</span>
+          </h1>
+          <p className="mt-2 max-w-2xl text-muted-foreground">
+            Pick up to {MAX} cars and any variant. We line up price, EMI, engine, mileage, space and safety, and highlight which car wins each spec.
           </p>
-          <h1 className="mt-3 text-3xl font-extrabold text-white sm:text-4xl">Compare Cars</h1>
-          <p className="mt-2 max-w-2xl text-white/75">
-            Put up to {MAX} cars side by side: price, engine, mileage, space and more, variant by variant.
-          </p>
+          <ol className="mt-5 flex flex-wrap gap-x-6 gap-y-2 text-sm text-ink">
+            {["Search a car", "Choose the variant", "See who wins each spec"].map((t, i) => (
+              <li key={t} className="flex items-center gap-2">
+                <span className={`flex size-6 items-center justify-center rounded-full text-xs font-bold ${i < Math.min(n, 2) + (n >= 2 ? 1 : 0) ? "bg-primary text-white" : "bg-surface text-muted-foreground"}`}>
+                  {i + 1}
+                </span>
+                {t}
+              </li>
+            ))}
+          </ol>
         </div>
       </section>
 
       <div className="container-page mt-6">
-        <CompareDiffToggle>
-          <div className="mt-4 overflow-x-auto rounded-2xl border bg-white shadow-[var(--shadow-card)]">
-            <table className="w-full min-w-[760px] table-fixed border-collapse text-sm">
-              <colgroup>
-                <col className="w-44" />
-                {cols.map((c) => (
-                  <col key={c.car.slug} />
-                ))}
-                {canAdd ? <col /> : null}
-              </colgroup>
-              <thead>
-                <tr>
-                  <th className="p-4 text-left align-bottom">
-                    <p className="font-bold text-ink">Car models</p>
-                    <p className="text-xs font-normal text-muted-foreground">
-                      {cols.length} of {MAX} selected
-                    </p>
-                  </th>
-                  {cols.map((c, i) => (
-                    <th key={c.car.slug} className="border-l p-4 align-top font-normal">
-                      <div className="relative">
-                        <CompareRemove picks={picks} index={i} />
-                        <Link href={`/cars/${c.car.slug}`} className="group block">
-                          <CarVisual car={c.car} className="aspect-[16/10] rounded-xl" />
-                          <p className="mt-3 text-left text-xs font-semibold tracking-wider text-muted-foreground uppercase">{c.car.manufacturer.name}</p>
-                          <p className="text-left font-bold text-ink group-hover:text-primary">{c.car.model_name}</p>
-                        </Link>
-                        <div className="mt-2">
-                          <CompareVariant
-                            picks={picks}
-                            index={i}
-                            options={c.car.variantsWithPrice.map((v) => ({ value: v.slug, label: v.name }))}
-                          />
-                        </div>
-                      </div>
-                    </th>
-                  ))}
-                  {canAdd ? (
-                    <th className="border-l p-4 align-top font-normal">
-                      <CompareAdd picks={picks} options={options} />
-                    </th>
-                  ) : null}
-                </tr>
-              </thead>
-              <tbody>
-                {cols.length
-                  ? rows.map(({ row, values }) => {
-                      const differs = new Set(values).size > 1;
-                      const best = cols.length > 1 ? bestIndex(row, cols, values) : -1;
-                      return (
-                        <tr key={row.label} className={cn("border-t even:bg-surface/70", !differs && "group-data-[only-diff]/diff:hidden")}>
-                          <th
-                            scope="row"
-                            className={cn(
-                              "border-l-[3px] px-4 py-3 text-left font-medium text-ink",
-                              differs && cols.length > 1 ? "border-l-primary" : "border-l-transparent",
-                            )}
-                          >
-                            {row.label}
-                          </th>
-                          {values.map((v, i) => (
-                            <td key={cols[i].car.slug} className={cn("border-l px-4 py-3 text-ink", i === best && "font-bold text-emerald-600")}>
-                              {v}
-                            </td>
-                          ))}
-                          {canAdd ? <td className="border-l" /> : null}
-                        </tr>
-                      );
-                    })
-                  : null}
-              </tbody>
-            </table>
-          </div>
-        </CompareDiffToggle>
+        <CompareWorkspace picks={picks} cars={cars} options={options} sections={sections} verdicts={verdicts} />
 
-        {cols.length ? (
-          <p className="mt-4 text-center text-xs text-muted-foreground">
-            Rows marked with a red line differ between these cars. Values in <span className="font-semibold text-emerald-600">green</span> are the best in that
-            row. Prices are indicative ex-showroom figures; EMI assumes the site&apos;s default down payment, rate and tenure.
+        {n ? (
+          <p className="mt-4 text-xs text-muted-foreground">
+            Prices are indicative ex-showroom figures; on-road and EMI are estimates (EMI uses the site&apos;s default down payment, rate and tenure).
+            Mileage figures are ARAI/claimed. Confirm the final price with the dealership.
           </p>
         ) : null}
 
         {popular.length ? (
           <section aria-labelledby="popular-compare" className="mt-10">
-            <h2 id="popular-compare" className="text-lg font-bold sm:text-xl">
-              Popular car comparisons
+            <h2 id="popular-compare" className="text-lg font-bold text-ink sm:text-xl">
+              {n ? "More comparisons buyers make" : "Start with a popular comparison"}
             </h2>
             <ul className="mt-4 grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
               {popular.map(([a, b]) => {
@@ -252,14 +255,26 @@ export default async function ComparePage({ searchParams }: { searchParams: Prom
                   <li key={`${a}-${b}`}>
                     <Link
                       href={compareHref([{ slug: a }, { slug: b }])}
-                      className="block rounded-xl border bg-white p-4 shadow-[var(--shadow-card)] transition-colors hover:border-primary/50"
+                      className="group block overflow-hidden rounded-2xl border bg-white shadow-[var(--shadow-card)] transition hover:-translate-y-0.5 hover:border-primary/40"
                     >
-                      <p className="text-sm font-semibold text-ink">
-                        {ca.manufacturer.name} {ca.model_name} <span className="text-muted-foreground">vs</span> {cb.manufacturer.name} {cb.model_name}
-                      </p>
-                      <p className="mt-1 text-xs text-muted-foreground">
-                        {formatPriceLakh(ca.fromPrice)} vs {formatPriceLakh(cb.fromPrice)}
-                      </p>
+                      <div className="relative grid grid-cols-2 gap-1 bg-surface p-2">
+                        <CarVisual car={ca} className="aspect-[16/10] rounded-lg" />
+                        <CarVisual car={cb} className="aspect-[16/10] rounded-lg" />
+                        <span className="absolute top-1/2 left-1/2 flex size-8 -translate-x-1/2 -translate-y-1/2 items-center justify-center rounded-full bg-ink text-[11px] font-bold text-white ring-4 ring-white">
+                          VS
+                        </span>
+                      </div>
+                      <div className="p-3">
+                        <p className="text-sm font-semibold text-ink">
+                          {ca.model_name} <span className="font-normal text-muted-foreground">vs</span> {cb.model_name}
+                        </p>
+                        <p className="mt-0.5 flex items-center justify-between text-xs text-muted-foreground">
+                          <span>
+                            {formatPriceLakh(ca.fromPrice)} · {formatPriceLakh(cb.fromPrice)}
+                          </span>
+                          <ArrowRight className="size-3.5 transition-transform group-hover:translate-x-0.5 group-hover:text-primary" aria-hidden="true" />
+                        </p>
+                      </div>
                     </Link>
                   </li>
                 );
