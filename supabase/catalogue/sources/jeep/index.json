@@ -1,0 +1,34 @@
+[
+  {
+    "model": "Meridian",
+    "slug": "meridian",
+    "channel": "SUV",
+    "variants": 14,
+    "ex_showroom_min": 2333000,
+    "ex_showroom_max": 3826000
+  },
+  {
+    "model": "Compass",
+    "slug": "compass",
+    "channel": "SUV",
+    "variants": 14,
+    "ex_showroom_min": 1829000,
+    "ex_showroom_max": 3095000
+  },
+  {
+    "model": "Grand Cherokee",
+    "slug": "grand-cherokee",
+    "channel": "SUV",
+    "variants": 1,
+    "ex_showroom_min": 6300000,
+    "ex_showroom_max": 6300000
+  },
+  {
+    "model": "Wrangler",
+    "slug": "wrangler",
+    "channel": "SUV",
+    "variants": 2,
+    "ex_showroom_min": 6620000,
+    "ex_showroom_max": 7080000
+  }
+]

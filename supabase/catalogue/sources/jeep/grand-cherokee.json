@@ -1,0 +1,50 @@
+{
+  "brand": "Jeep",
+  "model": "Grand Cherokee",
+  "slug": "grand-cherokee",
+  "channel": "SUV",
+  "official_page": "https://www.jeep-india.com/new-grand-cherokee.html",
+  "brochure_pdf": null,
+  "price_city": "National ex-showroom price (Jeep India configurator)",
+  "ex_showroom_min": 6300000,
+  "ex_showroom_max": 6300000,
+  "fuel_types": [
+    "Petrol"
+  ],
+  "transmissions": [
+    "AT"
+  ],
+  "colours": [
+    {
+      "name": "Bright White"
+    },
+    {
+      "name": "Diamond Black Crystal"
+    },
+    {
+      "name": "Rocky Mountain"
+    },
+    {
+      "name": "Velvet Red"
+    }
+  ],
+  "variants": [
+    {
+      "name": "Limited (O)",
+      "fuel": "Petrol",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "standard": 6300000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "5",
+          "Drive": "4x4"
+        }
+      },
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-11-02"
+}

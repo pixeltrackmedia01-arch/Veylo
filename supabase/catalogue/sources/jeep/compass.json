@@ -1,0 +1,314 @@
+{
+  "brand": "Jeep",
+  "model": "Compass",
+  "slug": "compass",
+  "channel": "SUV",
+  "official_page": "https://www.jeep-india.com/new-compass.html",
+  "brochure_pdf": null,
+  "price_city": "National ex-showroom price (Jeep India configurator)",
+  "ex_showroom_min": 1829000,
+  "ex_showroom_max": 3095000,
+  "fuel_types": [
+    "Diesel"
+  ],
+  "transmissions": [
+    "AT",
+    "MT"
+  ],
+  "colours": [
+    {
+      "name": "Exotica Red"
+    },
+    {
+      "name": "Galaxy Blue"
+    },
+    {
+      "name": "Techno Metallic Green"
+    },
+    {
+      "name": "Magnesio Grey"
+    },
+    {
+      "name": "Brilliant Black"
+    },
+    {
+      "name": "Pearl White"
+    },
+    {
+      "name": "Silvery Moon"
+    },
+    {
+      "name": "Exotica Red + Black Roof"
+    },
+    {
+      "name": "Techno metallic green  + black roof"
+    },
+    {
+      "name": "Magnesio Grey + Black Roof"
+    },
+    {
+      "name": "Pearl White + Black Roof"
+    },
+    {
+      "name": "Galaxy Blue + Black Roof"
+    },
+    {
+      "name": "Techno Metallic Green + Black Roof"
+    },
+    {
+      "name": "Silvery Moon + Black Roof"
+    },
+    {
+      "name": "Exotica Red + Grey Roof"
+    },
+    {
+      "name": "Galaxy Blue + Grey Roof"
+    },
+    {
+      "name": "Techno Metallic Green + Grey Roof"
+    },
+    {
+      "name": "Brilliant Black + Grey Roof"
+    },
+    {
+      "name": "Pearl White + Grey Roof"
+    },
+    {
+      "name": "Exotic red + black roof"
+    },
+    {
+      "name": "Brilliant black + black roof"
+    },
+    {
+      "name": "Grigio magne1U2o + black roof"
+    }
+  ],
+  "variants": [
+    {
+      "name": "Sport 2.0D MT",
+      "fuel": "Diesel",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 1829000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "5",
+          "Drive": "4x2",
+          "Engine type": "2.0 l turbo diesel"
+        }
+      },
+      "features": {}
+    },
+    {
+      "name": "Sport 2.0D AT",
+      "fuel": "Diesel",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "standard": 2199000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "5",
+          "Drive": "4x2",
+          "Engine type": "2.0 l turbo diesel"
+        }
+      },
+      "features": {}
+    },
+    {
+      "name": "Longitude (O) 2.0D AT FWD",
+      "fuel": "Diesel",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "standard": 2570000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "5",
+          "Drive": "4x2",
+          "Engine type": "2.0 l turbo diesel"
+        }
+      },
+      "features": {}
+    },
+    {
+      "name": "Trail 2.0D AT FWD",
+      "fuel": "Diesel",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "standard": 2577000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "5",
+          "Drive": "4x2",
+          "Engine type": "2.0 l turbo diesel"
+        }
+      },
+      "features": {}
+    },
+    {
+      "name": "Trail 2.0D MT",
+      "fuel": "Diesel",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 2391000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "5",
+          "Drive": "4x2",
+          "Engine type": "2.0 l turbo diesel"
+        }
+      },
+      "features": {}
+    },
+    {
+      "name": "Limited (O) 2.0D AT FWD",
+      "fuel": "Diesel",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "standard": 2690000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "5",
+          "Drive": "4x2",
+          "Engine type": "2.0 l turbo diesel"
+        }
+      },
+      "features": {}
+    },
+    {
+      "name": "Limited (O) 2.0D MT",
+      "fuel": "Diesel",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 2483000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "5",
+          "Drive": "4x2",
+          "Engine type": "2.0 l turbo diesel"
+        }
+      },
+      "features": {}
+    },
+    {
+      "name": "Longitude (O) 2.0D MT",
+      "fuel": "Diesel",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 2363000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "5",
+          "Drive": "4x2",
+          "Engine type": "2.0 l turbo diesel"
+        }
+      },
+      "features": {}
+    },
+    {
+      "name": "Model S (O2) 2.0D MT",
+      "fuel": "Diesel",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 2670000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "5",
+          "Drive": "4x2",
+          "Engine type": "2.0 l turbo diesel"
+        }
+      },
+      "features": {}
+    },
+    {
+      "name": "Model S (O2) 4x4 2.0D AT",
+      "fuel": "Diesel",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "standard": 3070000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "5",
+          "Drive": "4x4",
+          "Engine type": "2.0 l turbo diesel"
+        }
+      },
+      "features": {}
+    },
+    {
+      "name": "Model S (O2) 2.0D AT FWD",
+      "fuel": "Diesel",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "standard": 2876000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "5",
+          "Drive": "4x2",
+          "Engine type": "2.0 l turbo diesel"
+        }
+      },
+      "features": {}
+    },
+    {
+      "name": "Track 2.0D MT",
+      "fuel": "Diesel",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 2695000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "5",
+          "Drive": "4x2",
+          "Engine type": "2.0 l turbo diesel"
+        }
+      },
+      "features": {}
+    },
+    {
+      "name": "Track 2.0D AT FWD",
+      "fuel": "Diesel",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "standard": 2901000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "5",
+          "Drive": "4x2",
+          "Engine type": "2.0 l turbo diesel"
+        }
+      },
+      "features": {}
+    },
+    {
+      "name": "Track 4x4 2.0D AT",
+      "fuel": "Diesel",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "standard": 3095000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "5",
+          "Drive": "4x4",
+          "Engine type": "2.0 l turbo diesel"
+        }
+      },
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-11-02"
+}

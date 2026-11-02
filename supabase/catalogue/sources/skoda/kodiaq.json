@@ -1,0 +1,84 @@
+{
+  "brand": "Skoda",
+  "model": "Kodiaq",
+  "slug": "kodiaq",
+  "channel": "SUV",
+  "official_page": "https://www.skoda-auto.co.in/models/kodiaq/kodiaq",
+  "brochure_pdf": null,
+  "price_city": "National ex-showroom price (Skoda publishes one all-India price list)",
+  "variants": [
+    {
+      "name": "Kodiaq Lounge 2.0 TSI AT",
+      "fuel": "Petrol",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "standard": 3699000
+      },
+      "specifications": {
+        "Engine": {
+          "Displacement": "1984 cc",
+          "Max power": "150 kW (204 PS)",
+          "Max torque": "320 Nm"
+        }
+      },
+      "features": {}
+    },
+    {
+      "name": "Kodiaq Sportline 2.0 TSI AT",
+      "fuel": "Petrol",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "standard": 4499000
+      },
+      "specifications": {
+        "Engine": {
+          "Displacement": "1984 cc",
+          "Max power": "150 kW (204 PS)",
+          "Max torque": "320 Nm"
+        }
+      },
+      "features": {}
+    },
+    {
+      "name": "Kodiaq Selection L&K 2.0 TSI AT",
+      "fuel": "Petrol",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "standard": 4699000
+      },
+      "specifications": {
+        "Engine": {
+          "Displacement": "1984 cc",
+          "Max power": "150 kW (204 PS)",
+          "Max torque": "320 Nm"
+        }
+      },
+      "features": {}
+    },
+    {
+      "name": "RS 2.0 TSI AT",
+      "fuel": "Petrol",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "standard": 6699000
+      },
+      "specifications": {
+        "Engine": {
+          "Displacement": "1984 cc"
+        }
+      },
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-11-02",
+  "ex_showroom_min": 3699000,
+  "ex_showroom_max": 6699000,
+  "fuel_types": [
+    "Petrol"
+  ],
+  "transmissions": [
+    "AT"
+  ],
+  "colours": []
+}

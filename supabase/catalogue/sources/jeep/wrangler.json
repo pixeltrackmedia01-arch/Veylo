@@ -1,0 +1,68 @@
+{
+  "brand": "Jeep",
+  "model": "Wrangler",
+  "slug": "wrangler",
+  "channel": "SUV",
+  "official_page": "https://www.jeep-india.com/wrangler-jl.html",
+  "brochure_pdf": null,
+  "price_city": "National ex-showroom price (Jeep India configurator)",
+  "ex_showroom_min": 6620000,
+  "ex_showroom_max": 7080000,
+  "fuel_types": [
+    "Petrol"
+  ],
+  "transmissions": [
+    "AT"
+  ],
+  "colours": [
+    {
+      "name": "Bright White"
+    },
+    {
+      "name": "Firecracker Red"
+    },
+    {
+      "name": "Black"
+    },
+    {
+      "name": "Anvil Clear Coat"
+    },
+    {
+      "name": "41"
+    }
+  ],
+  "variants": [
+    {
+      "name": "Unlimited(2.0L)",
+      "fuel": "Petrol",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "standard": 6620000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "5",
+          "Drive": "4x4"
+        }
+      },
+      "features": {}
+    },
+    {
+      "name": "Rubicon(2.0L)",
+      "fuel": "Petrol",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "standard": 7080000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "5",
+          "Drive": "4x4"
+        }
+      },
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-11-02"
+}

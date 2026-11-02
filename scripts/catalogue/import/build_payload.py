@@ -24,6 +24,8 @@ BRANDS = {
     "renault": ("renault", "Renault", "car", "https://www.renault.co.in"),
     "nissan": ("nissan", "Nissan", "car", "https://www.nissan.in"),
     "volkswagen": ("volkswagen", "Volkswagen", "car", "https://www.volkswagen.co.in"),
+    "skoda": ("skoda", "Skoda", "car", "https://www.skoda-auto.co.in"),
+    "jeep": ("jeep", "Jeep", "car", "https://www.jeep-india.com"),
     "citroen": ("citroen", "Citroën", "car", "https://www.citroen.in"),
     "byd": ("byd", "BYD", "car", "https://www.bydautoindia.com"),
     "hero": ("hero", "Hero MotoCorp", "two_wheeler", "https://www.heromotocorp.com"),
@@ -359,7 +361,9 @@ def pack(vs):
 
 
 brands = [{"slug": s, "name": n, "category": c, "website": w} for s, n, c, w in BRANDS.values()]
-allv = [v for folder in BRANDS for v in vehicles_for(folder)]
+# Optional 3rd argument: comma-separated source folders to import (default: all brands).
+ONLY = set(sys.argv[3].split(",")) if len(sys.argv) > 3 else set(BRANDS)
+allv = [v for folder in BRANDS if folder in ONLY for v in vehicles_for(folder)]
 size_of = lambda vs: len(json.dumps(pack(vs), ensure_ascii=False, separators=(",", ":")))
 chunks, cur = [], []
 for v in allv:

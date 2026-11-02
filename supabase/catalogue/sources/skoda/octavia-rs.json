@@ -1,0 +1,38 @@
+{
+  "brand": "Skoda",
+  "model": "Octavia RS",
+  "slug": "octavia-rs",
+  "channel": "Sedan",
+  "official_page": "https://www.skoda-auto.co.in/models/octavia-rs/octavia-rs",
+  "brochure_pdf": null,
+  "price_city": "National ex-showroom price (Skoda publishes one all-India price list)",
+  "variants": [
+    {
+      "name": "RS 2.0 TSI AT",
+      "fuel": "Petrol",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "standard": 5669000
+      },
+      "specifications": {
+        "Engine": {
+          "Displacement": "1984 cc",
+          "Max power": "195 kW (265 PS)",
+          "Max torque": "320 Nm"
+        }
+      },
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-11-02",
+  "ex_showroom_min": 5669000,
+  "ex_showroom_max": 5669000,
+  "fuel_types": [
+    "Petrol"
+  ],
+  "transmissions": [
+    "AT"
+  ],
+  "colours": []
+}

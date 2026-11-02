@@ -1,0 +1,42 @@
+[
+  {
+    "model": "Kylaq",
+    "slug": "kylaq",
+    "channel": "SUV",
+    "variants": 13,
+    "ex_showroom_min": 759000,
+    "ex_showroom_max": 1309000
+  },
+  {
+    "model": "Kushaq",
+    "slug": "kushaq",
+    "channel": "SUV",
+    "variants": 12,
+    "ex_showroom_min": 1069000,
+    "ex_showroom_max": 1919000
+  },
+  {
+    "model": "Slavia",
+    "slug": "slavia",
+    "channel": "Sedan",
+    "variants": 12,
+    "ex_showroom_min": 999900,
+    "ex_showroom_max": 1884000
+  },
+  {
+    "model": "Kodiaq",
+    "slug": "kodiaq",
+    "channel": "SUV",
+    "variants": 4,
+    "ex_showroom_min": 3699000,
+    "ex_showroom_max": 6699000
+  },
+  {
+    "model": "Octavia RS",
+    "slug": "octavia-rs",
+    "channel": "Sedan",
+    "variants": 1,
+    "ex_showroom_min": 5669000,
+    "ex_showroom_max": 5669000
+  }
+]

@@ -1,0 +1,244 @@
+{
+  "brand": "Skoda",
+  "model": "Kylaq",
+  "slug": "kylaq",
+  "channel": "SUV",
+  "official_page": "https://www.skoda-auto.co.in/models/kylaq/kylaq",
+  "brochure_pdf": null,
+  "price_city": "National ex-showroom price (Skoda publishes one all-India price list)",
+  "variants": [
+    {
+      "name": "Classic 1.0 TSI MT",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 759000
+      },
+      "specifications": {
+        "Engine": {
+          "Displacement": "999 cc",
+          "Max power": "85 kW (115 PS)",
+          "Max torque": "178 Nm",
+          "Boot space": "446 litres"
+        }
+      },
+      "features": {}
+    },
+    {
+      "name": "Classic+ 1.0 TSI MT",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 829000
+      },
+      "specifications": {
+        "Engine": {
+          "Displacement": "999 cc",
+          "Max power": "85 kW (115 PS)",
+          "Max torque": "178 Nm",
+          "Boot space": "446 litres"
+        }
+      },
+      "features": {}
+    },
+    {
+      "name": "Signature 1.0 TSI MT",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 949000
+      },
+      "specifications": {
+        "Engine": {
+          "Displacement": "999 cc",
+          "Max power": "85 kW (115 PS)",
+          "Max torque": "178 Nm",
+          "Boot space": "446 litres"
+        }
+      },
+      "features": {}
+    },
+    {
+      "name": "Signature+ 1.0 TSI MT",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 1079000
+      },
+      "specifications": {
+        "Engine": {
+          "Displacement": "999 cc",
+          "Max power": "85 kW (115 PS)",
+          "Max torque": "178 Nm",
+          "Boot space": "446 litres"
+        }
+      },
+      "features": {}
+    },
+    {
+      "name": "Sportline 1.0 TSI MT",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 1135000
+      },
+      "specifications": {
+        "Engine": {
+          "Displacement": "999 cc",
+          "Max power": "85 kW (115 PS)",
+          "Max torque": "178 Nm",
+          "Boot space": "446 litres"
+        }
+      },
+      "features": {}
+    },
+    {
+      "name": "Prestige 1.0 TSI MT",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 1185000
+      },
+      "specifications": {
+        "Engine": {
+          "Displacement": "999 cc",
+          "Max power": "85 kW (115 PS)",
+          "Max torque": "178 Nm",
+          "Boot space": "446 litres"
+        }
+      },
+      "features": {}
+    },
+    {
+      "name": "Prestige+ 1.0 TSI MT",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 1209000
+      },
+      "specifications": {
+        "Engine": {
+          "Displacement": "999 cc",
+          "Max power": "85 kW (115 PS)",
+          "Max torque": "178 Nm",
+          "Boot space": "446 litres"
+        }
+      },
+      "features": {}
+    },
+    {
+      "name": "Classic+ 1.0 TSI AT",
+      "fuel": "Petrol",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "standard": 929000
+      },
+      "specifications": {
+        "Engine": {
+          "Displacement": "999 cc",
+          "Max power": "85 kW (115 PS)",
+          "Max torque": "178 Nm",
+          "Boot space": "446 litres"
+        }
+      },
+      "features": {}
+    },
+    {
+      "name": "Signature 1.0 TSI AT",
+      "fuel": "Petrol",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "standard": 1049000
+      },
+      "specifications": {
+        "Engine": {
+          "Displacement": "999 cc",
+          "Max power": "85 kW (115 PS)",
+          "Max torque": "178 Nm",
+          "Boot space": "446 litres"
+        }
+      },
+      "features": {}
+    },
+    {
+      "name": "Signature+ 1.0 TSI AT",
+      "fuel": "Petrol",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "standard": 1179000
+      },
+      "specifications": {
+        "Engine": {
+          "Displacement": "999 cc",
+          "Max power": "85 kW (115 PS)",
+          "Max torque": "178 Nm",
+          "Boot space": "446 litres"
+        }
+      },
+      "features": {}
+    },
+    {
+      "name": "Sportline 1.0 TSI AT",
+      "fuel": "Petrol",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "standard": 1235000
+      },
+      "specifications": {
+        "Engine": {
+          "Displacement": "999 cc",
+          "Max power": "85 kW (115 PS)",
+          "Max torque": "178 Nm",
+          "Boot space": "446 litres"
+        }
+      },
+      "features": {}
+    },
+    {
+      "name": "Prestige 1.0 TSI AT",
+      "fuel": "Petrol",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "standard": 1285000
+      },
+      "specifications": {
+        "Engine": {
+          "Displacement": "999 cc",
+          "Max power": "85 kW (115 PS)",
+          "Max torque": "178 Nm",
+          "Boot space": "446 litres"
+        }
+      },
+      "features": {}
+    },
+    {
+      "name": "Prestige+ 1.0 TSI AT",
+      "fuel": "Petrol",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "standard": 1309000
+      },
+      "specifications": {
+        "Engine": {
+          "Displacement": "999 cc",
+          "Max power": "85 kW (115 PS)",
+          "Max torque": "178 Nm",
+          "Boot space": "446 litres"
+        }
+      },
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-11-02",
+  "ex_showroom_min": 759000,
+  "ex_showroom_max": 1309000,
+  "fuel_types": [
+    "Petrol"
+  ],
+  "transmissions": [
+    "AT",
+    "MT"
+  ],
+  "colours": []
+}

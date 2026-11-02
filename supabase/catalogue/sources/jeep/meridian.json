@@ -1,0 +1,278 @@
+{
+  "brand": "Jeep",
+  "model": "Meridian",
+  "slug": "meridian",
+  "channel": "SUV",
+  "official_page": "https://www.jeep-india.com/new-jeep-meridian.html",
+  "brochure_pdf": null,
+  "price_city": "National ex-showroom price (Jeep India configurator)",
+  "ex_showroom_min": 2333000,
+  "ex_showroom_max": 3826000,
+  "fuel_types": [
+    "Diesel"
+  ],
+  "transmissions": [
+    "AT",
+    "MT"
+  ],
+  "colours": [
+    {
+      "name": "Pearl White + Black Roof"
+    },
+    {
+      "name": "Velvet Red"
+    },
+    {
+      "name": "Brilliant Black"
+    },
+    {
+      "name": "Pearl White"
+    },
+    {
+      "name": "Techno Metallic Green"
+    },
+    {
+      "name": "Velvet Red + Black Roof"
+    },
+    {
+      "name": "Magnesio Grey"
+    },
+    {
+      "name": "Techno Metallic Green + Black Roof"
+    },
+    {
+      "name": "Magnesio Grey + Black Roof"
+    },
+    {
+      "name": "Brilliant Black "
+    }
+  ],
+  "variants": [
+    {
+      "name": "Longitude Plus 2.0D 9AT FWD",
+      "fuel": "Diesel",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "standard": 2939000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "7",
+          "Drive": "4x2",
+          "Engine type": "2.0 l Multijet II diesel"
+        }
+      },
+      "features": {}
+    },
+    {
+      "name": "Longitude Plus 2.0D 6MT FWD",
+      "fuel": "Diesel",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 2630000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "7",
+          "Drive": "4x2",
+          "Engine type": "2.0 l Multijet II diesel"
+        }
+      },
+      "features": {}
+    },
+    {
+      "name": "Longitude 2.0D 9AT FWD",
+      "fuel": "Diesel",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "standard": 2753000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "5",
+          "Drive": "4x2",
+          "Engine type": "2.0 l Multijet II diesel"
+        }
+      },
+      "features": {}
+    },
+    {
+      "name": "Longitude 2.0D 6MT FWD",
+      "fuel": "Diesel",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 2333000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "5",
+          "Drive": "4x2",
+          "Engine type": "2.0 l Multijet II diesel"
+        }
+      },
+      "features": {}
+    },
+    {
+      "name": "Trail 9AT FWD",
+      "fuel": "Diesel",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "standard": 3448000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "7",
+          "Drive": "4x2",
+          "Engine type": "2.0 l Multijet II diesel"
+        }
+      },
+      "features": {}
+    },
+    {
+      "name": "Trail 6MT",
+      "fuel": "Diesel",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 3074000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "7",
+          "Drive": "4x2",
+          "Engine type": "2.0 l Multijet II diesel"
+        }
+      },
+      "features": {}
+    },
+    {
+      "name": "Limited (O) 6MT 2.0D",
+      "fuel": "Diesel",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 3045000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "7",
+          "Drive": "4x2",
+          "Engine type": "2.0 l Multijet II diesel"
+        }
+      },
+      "features": {}
+    },
+    {
+      "name": "Limited (O) 9AT FWD 2.0D",
+      "fuel": "Diesel",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "standard": 3419000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "7",
+          "Drive": "4x2",
+          "Engine type": "2.0 l Multijet II diesel"
+        }
+      },
+      "features": {}
+    },
+    {
+      "name": "Limited (O) 9AT 4x4 2.0D",
+      "fuel": "Diesel",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "standard": 3605000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "7",
+          "Drive": "4x4",
+          "Engine type": "2.0 l Multijet II diesel"
+        }
+      },
+      "features": {}
+    },
+    {
+      "name": "Trail 9AT 4X4",
+      "fuel": "Diesel",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "standard": 3507000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "7",
+          "Drive": "4x4",
+          "Engine type": "2.0 l Multijet II diesel"
+        }
+      },
+      "features": {}
+    },
+    {
+      "name": "Overland 9AT FWD 2.0D",
+      "fuel": "Diesel",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "standard": 3605000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "7",
+          "Drive": "4x2",
+          "Engine type": "2.0 l Multijet II diesel"
+        }
+      },
+      "features": {}
+    },
+    {
+      "name": "Overland 9AT 4x4 2.0D",
+      "fuel": "Diesel",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "standard": 3762000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "7",
+          "Drive": "4x4",
+          "Engine type": "2.0 l Multijet II diesel"
+        }
+      },
+      "features": {}
+    },
+    {
+      "name": "Track 9AT FWD 2.0D",
+      "fuel": "Diesel",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "standard": 3639000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "7",
+          "Drive": "4x2",
+          "Engine type": "2.0 l Multijet II diesel"
+        }
+      },
+      "features": {}
+    },
+    {
+      "name": "Track 9AT 4x4 2.0D",
+      "fuel": "Diesel",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "standard": 3826000
+      },
+      "specifications": {
+        "Variant": {
+          "Seating": "7",
+          "Drive": "4x4",
+          "Engine type": "2.0 l Multijet II diesel"
+        }
+      },
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-11-02"
+}

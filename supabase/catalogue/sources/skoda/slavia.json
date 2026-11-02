@@ -1,0 +1,214 @@
+{
+  "brand": "Skoda",
+  "model": "Slavia",
+  "slug": "slavia",
+  "channel": "Sedan",
+  "official_page": "https://www.skoda-auto.co.in/models/slavia/slavia",
+  "brochure_pdf": null,
+  "price_city": "National ex-showroom price (Skoda publishes one all-India price list)",
+  "variants": [
+    {
+      "name": "Classic 1.0 TSI MT",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 999900
+      },
+      "specifications": {
+        "Engine": {
+          "Displacement": "999 cc",
+          "Max power": "85 kW (115 PS)",
+          "Max torque": "178 Nm"
+        }
+      },
+      "features": {}
+    },
+    {
+      "name": "Classic+ 1.0 TSI MT",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 1099000
+      },
+      "specifications": {
+        "Engine": {
+          "Displacement": "999 cc",
+          "Max power": "85 kW (115 PS)",
+          "Max torque": "178 Nm"
+        }
+      },
+      "features": {}
+    },
+    {
+      "name": "Signature 1.0 TSI MT",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 1394000
+      },
+      "specifications": {
+        "Engine": {
+          "Displacement": "999 cc",
+          "Max power": "85 kW (115 PS)",
+          "Max torque": "178 Nm"
+        }
+      },
+      "features": {}
+    },
+    {
+      "name": "Sportline 1.0 TSI MT",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 1434000
+      },
+      "specifications": {
+        "Engine": {
+          "Displacement": "999 cc",
+          "Max power": "85 kW (115 PS)",
+          "Max torque": "178 Nm"
+        }
+      },
+      "features": {}
+    },
+    {
+      "name": "Prestige 1.0 TSI MT",
+      "fuel": "Petrol",
+      "transmission": "MT",
+      "ex_showroom_surat": {
+        "standard": 1589000
+      },
+      "specifications": {
+        "Engine": {
+          "Displacement": "999 cc",
+          "Max power": "85 kW (115 PS)",
+          "Max torque": "178 Nm"
+        }
+      },
+      "features": {}
+    },
+    {
+      "name": "Classic+ 1.0 TSI AT",
+      "fuel": "Petrol",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "standard": 1249000
+      },
+      "specifications": {
+        "Engine": {
+          "Displacement": "999 cc",
+          "Max power": "85 kW (115 PS)",
+          "Max torque": "178 Nm"
+        }
+      },
+      "features": {}
+    },
+    {
+      "name": "Signature 1.0 TSI AT",
+      "fuel": "Petrol",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "standard": 1494000
+      },
+      "specifications": {
+        "Engine": {
+          "Displacement": "999 cc",
+          "Max power": "85 kW (115 PS)",
+          "Max torque": "178 Nm"
+        }
+      },
+      "features": {}
+    },
+    {
+      "name": "Sportline 1.0 TSI AT",
+      "fuel": "Petrol",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "standard": 1534000
+      },
+      "specifications": {
+        "Engine": {
+          "Displacement": "999 cc",
+          "Max power": "85 kW (115 PS)",
+          "Max torque": "178 Nm"
+        }
+      },
+      "features": {}
+    },
+    {
+      "name": "Prestige 1.0 TSI AT",
+      "fuel": "Petrol",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "standard": 1689000
+      },
+      "specifications": {
+        "Engine": {
+          "Displacement": "999 cc",
+          "Max power": "85 kW (115 PS)",
+          "Max torque": "178 Nm"
+        }
+      },
+      "features": {}
+    },
+    {
+      "name": "Monte Carlo 1.0 TSI AT",
+      "fuel": "Petrol",
+      "transmission": "AT",
+      "ex_showroom_surat": {
+        "standard": 1729000
+      },
+      "specifications": {
+        "Engine": {
+          "Displacement": "999 cc",
+          "Max power": "85 kW (115 PS)",
+          "Max torque": "178 Nm"
+        }
+      },
+      "features": {}
+    },
+    {
+      "name": "Prestige 1.5 TSI DSG",
+      "fuel": "Petrol",
+      "transmission": "DSG",
+      "ex_showroom_surat": {
+        "standard": 1859000
+      },
+      "specifications": {
+        "Engine": {
+          "Displacement": "1498 cc",
+          "Max power": "110 kW (150 PS)"
+        }
+      },
+      "features": {}
+    },
+    {
+      "name": "Monte Carlo 1.5 TSI DSG",
+      "fuel": "Petrol",
+      "transmission": "DSG",
+      "ex_showroom_surat": {
+        "standard": 1884000
+      },
+      "specifications": {
+        "Engine": {
+          "Displacement": "1498 cc",
+          "Max power": "110 kW (150 PS)"
+        }
+      },
+      "features": {}
+    }
+  ],
+  "notes": [],
+  "fetched_on": "2026-11-02",
+  "ex_showroom_min": 999900,
+  "ex_showroom_max": 1884000,
+  "fuel_types": [
+    "Petrol"
+  ],
+  "transmissions": [
+    "AT",
+    "DSG",
+    "MT"
+  ],
+  "colours": []
+}
