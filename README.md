@@ -321,7 +321,6 @@ Covered events: joining, closing soon, target reached, closure/expiry, cancellat
 
 - **Legal review required:** Terms, Privacy Policy and Disclaimer are working drafts and are flagged on-page as requiring professional review (including DPDP Act 2023 compliance) before launch.
 - **Replace demo content:** do not run `seed.sql` in production; add real, verified vehicles, specs, prices (with sources) and verified dealers through the admin area.
-- **Images:** upload only images you have rights to (e.g. manufacturer press kits) and record attribution; otherwise labelled illustrations are shown.
 - **Email & SMS:** configure SMTP in Supabase Auth, an email provider for notifications, and optionally an SMS provider for mobile OTP.
 - **Scheduler:** configure at least one of the scheduling options above.
 - Update `siteConfig.contact` / the contact setting and `legalEntity` with real details.
