@@ -26,6 +26,7 @@ import { faqJsonLd, toFaqItems } from "@/lib/faq";
 import { formatDate, formatPriceLakh, timeRemaining } from "@/lib/format";
 import { breadcrumbJsonLd, brandDescription, brandTitle, modelDescription, modelTitle, SEO_YEAR } from "@/lib/seo";
 import { FUEL_LABELS } from "@/lib/domain/car-labels";
+import { demoColourPhotos } from "@/lib/demo-photos";
 import { toNumber } from "@/lib/types";
 import { buildVehicleOverview } from "@/lib/vehicle-overview";
 
@@ -122,6 +123,12 @@ export default async function CarPage({ params }: Params) {
     ? photos.map((p) => ({ kind: "photo" as const, url: vehicleImageUrl(p) ?? "", alt: p.alt_text })).filter((s) => s.url)
     : (car.colours ?? []).map((colour) => ({ kind: "art" as const, colour }));
   if (!slides.length) slides.push({ kind: "art", colour: { name: "Red", hex: "#c8102e" } });
+
+  // With local demo photos, show only the colours that have a real photo;
+  // otherwise (no photos for this car) keep every colour with the illustration.
+  const colourPhotos = demoColourPhotos(car.slug, (car.colours ?? []).map((c) => c.name));
+  const withPhoto = (car.colours ?? []).filter((c) => colourPhotos[c.name]);
+  const pickerColours = withPhoto.length ? withPhoto : (car.colours ?? []);
 
   const faqItems = [...toFaqItems(adminFaqs), ...carFaqItems(car, groups.length)];
   const similar = allCars
@@ -230,9 +237,9 @@ export default async function CarPage({ params }: Params) {
             <CarGallery slides={slides} body={car.body_type} name={name} />
           </section>
 
-          {car.colours?.length ? (
-            <SectionCard id="colours" title={`${car.model_name} Colours`} action={<span className="text-sm text-muted-foreground">{car.colours.length} colours</span>}>
-              <ColourPicker colours={car.colours} body={car.body_type} name={name} />
+          {pickerColours.length ? (
+            <SectionCard id="colours" title={`${car.model_name} Colours`} action={<span className="text-sm text-muted-foreground">{pickerColours.length} colours</span>}>
+              <ColourPicker colours={pickerColours} body={car.body_type} name={name} photos={colourPhotos} />
             </SectionCard>
           ) : null}
 

@@ -1,5 +1,6 @@
 import "server-only";
 
+import { applyDemoPhotos } from "@/lib/demo-photos";
 import { createClient } from "@/lib/supabase/server";
 import type {
   Batch,
@@ -41,7 +42,9 @@ export async function getMyMemberships(userId: string) {
     .eq("user_id", userId)
     .order("joined_at", { ascending: false });
   if (error) throw error;
-  return (data ?? []) as unknown as MembershipWithBatch[];
+  const rows = (data ?? []) as unknown as MembershipWithBatch[];
+  rows.forEach((m) => applyDemoPhotos(m.batch?.variant?.vehicle));
+  return rows;
 }
 
 export async function getMyDashboardSummary(userId: string) {

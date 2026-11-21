@@ -132,14 +132,32 @@ export function CarGallery({ slides, body, name }: { slides: GallerySlide[]; bod
 }
 
 /** Large car image in the selected paint, with round swatches. */
-export function ColourPicker({ colours, body, name }: { colours: VehicleColour[]; body: string | null; name: string }) {
+export function ColourPicker({
+  colours,
+  body,
+  name,
+  photos = {},
+}: {
+  colours: VehicleColour[];
+  body: string | null;
+  name: string;
+  /** Optional real photo per colour name; colours without one show the illustration. */
+  photos?: Record<string, string>;
+}) {
   const [i, setI] = useState(0);
   if (!colours.length) return null;
   const c = colours[i];
+  const photo = photos[c.name];
   return (
     <div>
       <div className="relative overflow-hidden rounded-2xl bg-gradient-to-b from-slate-100 to-white px-6 pt-8 pb-4">
-        <CarArt body={body} color={c.hex} title={`${name} in ${c.name} (illustration)`} className="mx-auto max-w-xl transition-all duration-500" />
+        {photo ? (
+          <div className="relative mx-auto aspect-[16/9] w-full max-w-xl">
+            <Image key={photo} src={photo} alt={`${name} in ${c.name}`} fill sizes="(min-width: 1024px) 576px, 100vw" className="object-contain" />
+          </div>
+        ) : (
+          <CarArt body={body} color={c.hex} title={`${name} in ${c.name} (illustration)`} className="mx-auto max-w-xl transition-all duration-500" />
+        )}
         <div className="mt-2 flex items-center justify-between">
           <div className="flex items-center gap-3 rounded-xl bg-white/90 px-3 py-2 shadow-sm">
             <span className="size-6 rounded-full border shadow-inner" style={{ background: c.hex }} />

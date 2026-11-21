@@ -5,6 +5,7 @@ import { siteConfig } from "@/config/site";
 import { ACTIVE_PUBLIC_STATUSES, progressPercent } from "@/lib/domain/batch-lifecycle";
 import { isSupabaseConfigured } from "@/lib/env";
 import { cachedPublic } from "@/lib/data/public-cache";
+import { applyDemoPhotos } from "@/lib/demo-photos";
 import { createClient } from "@/lib/supabase/server";
 import { createPublicClient } from "@/lib/supabase/public";
 import type {
@@ -78,6 +79,7 @@ export const getActiveCities = cache(async (): Promise<City[]> => {
 function sortVariants(v: VehicleWithRelations) {
   v.variants = (v.variants ?? []).filter((x) => x.status === "published").sort((a, b) => a.sort_order - b.sort_order);
   v.images = (v.images ?? []).sort((a, b) => a.sort_order - b.sort_order);
+  applyDemoPhotos(v);
   return v;
 }
 
@@ -202,6 +204,7 @@ export async function listPublicBatches(opts: { status?: "open" | "active"; limi
   if (error) throw error;
   let rows = ((data ?? []) as BatchWithVehicle[]).filter((b) => b.variant?.vehicle?.status === "published");
   if (opts.category) rows = rows.filter((b) => b.variant.vehicle.category === opts.category);
+  rows.forEach((b) => applyDemoPhotos(b.variant.vehicle));
   return opts.limit ? rows.slice(0, opts.limit) : rows;
 }
 
@@ -211,6 +214,7 @@ export const getBatchBySlug = cache(async (slug: string): Promise<BatchWithVehic
   const { data } = await supabase.from("batches").select(BATCH_SELECT).eq("slug", slug).maybeSingle();
   const batch = data as BatchWithVehicle | null;
   if (!batch || batch.variant?.vehicle?.status !== "published") return null;
+  applyDemoPhotos(batch.variant.vehicle);
   return batch;
 });
 
