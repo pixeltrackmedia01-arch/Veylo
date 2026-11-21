@@ -17,7 +17,8 @@ export async function GET(_req: Request, { params }: { params: Promise<{ slug: s
   const photo = getDemoManifest()?.[slug]?.photos[Number(n)];
   if (!photo) return new Response("Not found", { status: 404 });
   try {
-    const body = await readFile(photo.path);
+    // Repo-relative paths (demo-photos/...) resolve against the project root.
+    const body = await readFile(path.isAbsolute(photo.path) ? photo.path : path.join(process.cwd(), photo.path));
     return new Response(body, {
       headers: {
         "Content-Type": TYPES[path.extname(photo.path).toLowerCase()] ?? "application/octet-stream",

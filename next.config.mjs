@@ -58,6 +58,8 @@ const nextConfig = {
       ? [{ protocol: "https", hostname: supabaseHost, pathname: "/storage/v1/object/public/**" }]
       : [],
   },
+  // Local demo photos (development only) must never be bundled into a deployment.
+  // outputFileTracingExcludes: { "*": ["demo-photos/**", ".demo-photos.json"] },
   experimental: {
     serverActions: {
       // Quotation documents and sale evidence are uploaded through Server Actions.
