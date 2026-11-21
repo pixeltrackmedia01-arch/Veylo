@@ -1,0 +1,3 @@
+# Local demo photos are for `npm run dev` only; never upload them to Vercel.
+demo-photos/
+.demo-photos.json

@@ -1,12 +1,16 @@
 """Build the local-only demo photo manifest (.demo-photos.json).
 
-Maps each published vehicle slug to photo files that already exist on this
-computer, so `npm run dev` with LOCAL_DEMO_PHOTOS=true can show them. The
-photos are never copied into the repo, `public/` or a production build: the
-manifest is gitignored and the route that serves it 404s in production.
+Maps each published vehicle slug to photo files, so `npm run dev` with
+LOCAL_DEMO_PHOTOS=true can show them. The photos are never placed in `public/`
+or a production build: the route that serves them 404s in production and
+next.config.mjs / .vercelignore keep demo-photos/ out of deployments.
 
 Usage (from the repo root):
-  python scripts/demo-photos/build-manifest.py --cars "<Car Images dir>" --bikes "<BikeWale dir>"
+  python scripts/demo-photos/build-manifest.py --cars "<Car Images dir>" --bikes "<BikeWale dir>" [--copy]
+
+With --copy the picked photos are copied into demo-photos/ (committed to this
+private repo) and the manifest stores repo-relative paths, so a fresh clone
+works without the original folders.
 
 Car folders:  <cars>/<Brand>/<Model>/{exterior_,interior_,colour_}*.jpg
 Bike folders: <bikes>/<Brand>/<Model>/NN - <shot>.jpg
@@ -14,12 +18,14 @@ Bike folders: <bikes>/<Brand>/<Model>/NN - <shot>.jpg
 import argparse
 import json
 import re
+import shutil
 import sys
 import urllib.request
 from pathlib import Path
 
 REPO = Path(__file__).resolve().parents[2]
 OUT = REPO / ".demo-photos.json"
+COPY_DIR = REPO / "demo-photos"
 MAX_PER_MODEL = 44
 
 # Manufacturer name in the database -> (kind, local brand folder)
@@ -126,7 +132,20 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--cars", required=True, type=Path)
     ap.add_argument("--bikes", required=True, type=Path)
+    ap.add_argument("--copy", action="store_true",
+                    help="copy the picked photos into demo-photos/ and store repo-relative paths")
     a = ap.parse_args()
+    if a.copy and COPY_DIR.exists():
+        shutil.rmtree(COPY_DIR)
+
+    def stored(p: Path, kind: str, brand_folder: str, model_folder: str) -> str:
+        if not a.copy:
+            return str(p.resolve())
+        dest = COPY_DIR / ("cars" if kind == "car" else "bikes") / brand_folder / model_folder / p.name
+        if not dest.exists():
+            dest.parent.mkdir(parents=True, exist_ok=True)
+            shutil.copy2(p, dest)
+        return dest.relative_to(REPO).as_posix()
 
     vehicles = fetch_vehicles(read_env())
     manifest, missing = {}, []
@@ -152,7 +171,7 @@ def main():
             manifest[v["slug"]] = {
                 "vehicleId": v["id"],
                 "name": f"{brand} {v['model_name']}",
-                "photos": [{"path": str(p.resolve()), "label": label(p.name)} for p in picked],
+                "photos": [{"path": stored(p, kind, folder, name), "label": label(p.name)} for p in picked],
             }
         else:
             missing.append(f"{brand} {v['model_name']} (empty folder)")
