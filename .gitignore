@@ -47,3 +47,6 @@ next-env.d.ts
 /test-results/
 /playwright-report/
 __pycache__/
+
+# local-only demo photo manifest (paths to photos on this computer)
+/.demo-photos.json
