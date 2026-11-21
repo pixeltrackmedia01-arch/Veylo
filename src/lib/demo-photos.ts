@@ -21,7 +21,7 @@ interface DemoManifest {
 let cached: { mtimeMs: number; data: DemoManifest | null } | undefined;
 
 export function demoPhotosEnabled() {
-  return process.env.NODE_ENV !== "production" && process.env.LOCAL_DEMO_PHOTOS === "true";
+ return true
 }
 
 export function getDemoManifest(): DemoManifest | null {
