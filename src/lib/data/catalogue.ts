@@ -5,7 +5,7 @@ import { siteConfig } from "@/config/site";
 import { ACTIVE_PUBLIC_STATUSES, progressPercent } from "@/lib/domain/batch-lifecycle";
 import { isSupabaseConfigured } from "@/lib/env";
 import { cachedPublic } from "@/lib/data/public-cache";
-import { applyDemoPhotos } from "@/lib/demo-photos";
+import { applyDemoPhotos, demoPhotosEnabled, withDemoPhotos } from "@/lib/demo-photos";
 import { createClient } from "@/lib/supabase/server";
 import { createPublicClient } from "@/lib/supabase/public";
 import type {
@@ -79,14 +79,16 @@ export const getActiveCities = cache(async (): Promise<City[]> => {
 function sortVariants(v: VehicleWithRelations) {
   v.variants = (v.variants ?? []).filter((x) => x.status === "published").sort((a, b) => a.sort_order - b.sort_order);
   v.images = (v.images ?? []).sort((a, b) => a.sort_order - b.sort_order);
-  applyDemoPhotos(v);
   return v;
 }
 
 /** Published vehicles enriched with current prices and active batch stats. */
 export const getCatalogue = cache(async (): Promise<CatalogueVehicle[]> => {
   if (!isSupabaseConfigured()) return [];
-  return cachedPublic("catalogue", PUBLIC_TTL_MS, loadCatalogue);
+  const all = await cachedPublic("catalogue", PUBLIC_TTL_MS, loadCatalogue);
+  // Applied after the cache so the shared cache keeps database images and a
+  // rebuilt demo manifest shows up immediately (development only).
+  return demoPhotosEnabled() ? all.map((v) => ({ ...v, images: withDemoPhotos(v.slug, v.images) })) : all;
 });
 
 async function loadCatalogue(): Promise<CatalogueVehicle[]> {

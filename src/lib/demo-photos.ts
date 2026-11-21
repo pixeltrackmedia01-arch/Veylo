@@ -1,6 +1,6 @@
 import "server-only";
 
-import { readFileSync } from "node:fs";
+import { readFileSync, statSync } from "node:fs";
 import path from "node:path";
 import type { VehicleImage } from "@/lib/types";
 
@@ -16,7 +16,9 @@ interface DemoManifest {
   [slug: string]: { vehicleId: string; name: string; photos: { path: string; label: string }[] };
 }
 
-let cached: DemoManifest | null | undefined;
+// Re-read whenever the file changes (or appears/disappears), so rebuilding the
+// manifest takes effect without restarting the dev server.
+let cached: { mtimeMs: number; data: DemoManifest | null } | undefined;
 
 export function demoPhotosEnabled() {
   return process.env.NODE_ENV !== "production" && process.env.LOCAL_DEMO_PHOTOS === "true";
@@ -24,13 +26,24 @@ export function demoPhotosEnabled() {
 
 export function getDemoManifest(): DemoManifest | null {
   if (!demoPhotosEnabled()) return null;
-  if (cached !== undefined) return cached;
+  const file = path.join(process.cwd(), ".demo-photos.json");
+  let mtimeMs = -1;
   try {
-    cached = JSON.parse(readFileSync(path.join(process.cwd(), ".demo-photos.json"), "utf8")) as DemoManifest;
+    mtimeMs = statSync(file).mtimeMs;
   } catch {
-    cached = null;
+    // missing file: no demo photos
   }
-  return cached;
+  if (cached?.mtimeMs === mtimeMs) return cached.data;
+  let data: DemoManifest | null = null;
+  if (mtimeMs >= 0) {
+    try {
+      data = JSON.parse(readFileSync(file, "utf8")) as DemoManifest;
+    } catch {
+      data = null;
+    }
+  }
+  cached = { mtimeMs, data };
+  return data;
 }
 
 /** The vehicle's local demo photos when enabled and available; otherwise its own images. */
