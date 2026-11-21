@@ -5,23 +5,56 @@ import path from "node:path";
 import type { VehicleImage } from "@/lib/types";
 
 /**
- * Local demo photos: development-only.
+ * Demo photos (reference photos for the school-project demo).
  *
- * `scripts/demo-photos/build-manifest.py` writes a gitignored `.demo-photos.json`
- * that points at photo files on this computer. With LOCAL_DEMO_PHOTOS=true and
- * `next dev`, vehicles in that manifest show those photos instead of their
- * database images. In production this is always off and nothing is read.
+ * `.demo-photos.json` (built by scripts/demo-photos/build-manifest.py) maps each
+ * vehicle slug to photos in demo-photos/. They are served by
+ * /api/demo-photos/[slug]/[n] in one of two modes:
+ *
+ * - "local":   `next dev` with LOCAL_DEMO_PHOTOS=true reads the files from disk.
+ * - "storage": DEMO_PHOTOS_STORAGE=true (set only on a password-protected
+ *              deployment) redirects to a short-lived signed URL in the PRIVATE
+ *              Supabase bucket "demo-photos" (uploaded by upload-to-supabase.mjs).
+ *
+ * With neither flag set (the default, including every public deployment) the
+ * feature is off and vehicles show their database images.
  */
 interface DemoManifest {
   [slug: string]: { vehicleId: string; name: string; photos: { path: string; label: string }[] };
 }
 
+export const DEMO_PHOTOS_BUCKET = "demo-photos";
+
 // Re-read whenever the file changes (or appears/disappears), so rebuilding the
 // manifest takes effect without restarting the dev server.
 let cached: { mtimeMs: number; data: DemoManifest | null } | undefined;
 
+export function demoPhotosMode(): "off" | "local" | "storage" {
+  if (process.env.DEMO_PHOTOS_STORAGE === "true") return "storage";
+  if (process.env.NODE_ENV !== "production" && process.env.LOCAL_DEMO_PHOTOS === "true") return "local";
+  return "off";
+}
+
 export function demoPhotosEnabled() {
-  return process.env.NODE_ENV !== "production" && process.env.LOCAL_DEMO_PHOTOS === "true";
+  return demoPhotosMode() !== "off";
+}
+
+/**
+ * Object key in the private bucket for a manifest path, e.g.
+ * "demo-photos/cars/Toyota/Glanza/colour_CAFÉ-WHITE.jpg" -> "cars/toyota/glanza/colour-cafe-white.webp".
+ * Must stay identical to storageKey() in scripts/demo-photos/upload-to-supabase.mjs.
+ */
+export function demoPhotoStorageKey(manifestPath: string) {
+  const slug = (s: string) =>
+    s
+      .normalize("NFKD")
+      .replace(/[̀-ͯ]/g, "")
+      .toLowerCase()
+      .replace(/[^a-z0-9]+/g, "-")
+      .replace(/^-+|-+$/g, "");
+  const parts = manifestPath.replace(/\\/g, "/").replace(/^demo-photos\//, "").split("/");
+  const file = parts.pop() ?? "";
+  return [...parts.map(slug), `${slug(file.replace(/\.[^.]+$/, ""))}.webp`].join("/");
 }
 
 export function getDemoManifest(): DemoManifest | null {

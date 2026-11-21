@@ -1,3 +1,4 @@
-# Local demo photos are for `npm run dev` only; never upload them to Vercel.
-<!-- demo-photos/
-.demo-photos.json -->
+# The 700 MB of demo photos are served from the private Supabase bucket on
+# deployments, so the originals never need to be uploaded to Vercel.
+# (.demo-photos.json, the small photo list, IS deployed.)
+demo-photos/

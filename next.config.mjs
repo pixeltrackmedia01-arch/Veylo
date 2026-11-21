@@ -59,7 +59,10 @@ const nextConfig = {
       : [],
   },
   // Local demo photos (development only) must never be bundled into a deployment.
-  // outputFileTracingExcludes: { "*": ["demo-photos/**", ".demo-photos.json"] },
+  // Demo photos: deployments read them from the private Supabase bucket, so the
+  // originals are never bundled; the photo list (.demo-photos.json) is.
+  outputFileTracingExcludes: { "/**": ["demo-photos/**"] },
+  outputFileTracingIncludes: { "/**": [".demo-photos.json"] },
   experimental: {
     serverActions: {
       // Quotation documents and sale evidence are uploaded through Server Actions.
