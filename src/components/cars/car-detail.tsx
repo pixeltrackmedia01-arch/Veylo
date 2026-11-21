@@ -143,14 +143,22 @@ export function CarDetailBody({ car, variants, city }: { car: DetailCar; variant
     { icon: Users, label: "Seating", value: String(v.specs["Seating"] ?? "—") },
   ];
 
-  const specRows: [string, string][] = [
+  const baseRows: [string, string][] = [
     ["Ex-showroom price", v.exShowroom ? formatINR(v.exShowroom) : "—"],
     ["Fuel", fuelLabel(v.fuel)],
     ["Transmission", transmissionLabel(v.transmission)],
     ["Body type", bodyLabel(car.body)],
     ...(v.engineCc ? ([["Engine", `${v.engineCc} cc`]] as [string, string][]) : []),
-    ...Object.entries(v.specs).map(([k, val]) => [k, String(val)] as [string, string]),
   ];
+  // Variant specs can repeat a base row (e.g. "Engine", "Transmission"); keep the first.
+  const seenRows = new Set(baseRows.map(([k]) => k.toLowerCase()));
+  const extraRows = Object.entries(v.specs).filter(([k]) => {
+    const key = k.toLowerCase();
+    if (seenRows.has(key)) return false;
+    seenRows.add(key);
+    return true;
+  });
+  const specRows: [string, string][] = [...baseRows, ...extraRows.map(([k, val]) => [k, String(val)] as [string, string])];
 
   return (
     <>
